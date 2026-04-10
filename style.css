@@ -400,6 +400,104 @@ body {
   margin-top: 40px;
 }
  
+/* ── Intern Badge ───────────────────────────────────────────── */
+.card__intern-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  background: #d1fae5;
+  color: #065f46;
+  border: 1px solid #6ee7b7;
+  border-radius: 20px;
+  padding: 4px 10px;
+  font-size: .72rem;
+  font-weight: 700;
+  letter-spacing: .01em;
+  width: fit-content;
+  animation: intern-pulse 2.5s ease-in-out infinite;
+}
+ 
+@keyframes intern-pulse {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(16,185,129,.35); }
+  50%       { box-shadow: 0 0 0 5px rgba(16,185,129,0); }
+}
+ 
+/* Card highlight when intern posting found */
+.card--has-intern {
+  background: #f0fdf4;
+  border-color: #86efac;
+}
+.card--has-intern:hover {
+  box-shadow: 0 6px 20px rgba(16,185,129,.18);
+}
+ 
+/* ── Career Button ───────────────────────────────────────────── */
+.btn-career {
+  flex: 1;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  background: #065f46;
+  color: #fff;
+  border: none;
+  border-radius: 20px;
+  padding: 8px 12px;
+  font-size: .82rem;
+  font-weight: 600;
+  cursor: pointer;
+  text-decoration: none;
+  transition: background .15s;
+  white-space: nowrap;
+}
+.btn-career:hover { background: #047857; }
+ 
+/* Fallback variant (LinkedIn intern search) */
+.btn-career--fallback {
+  background: #1d4ed8;
+}
+.btn-career--fallback:hover { background: #1e40af; }
+ 
+/* ── Hero last-checked ───────────────────────────────────────── */
+.hero__last-checked {
+  font-size: .82rem;
+  margin-top: 8px;
+  opacity: .78;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+.hero__last-checked::before {
+  content: "🔄";
+  font-size: .8rem;
+}
+ 
+/* ── Sidebar intern stat ─────────────────────────────────────── */
+.sidebar__intern-stat {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  background: #d1fae5;
+  border: 1px solid #6ee7b7;
+  border-radius: 8px;
+  padding: 9px 11px;
+  font-size: .82rem;
+  font-weight: 600;
+  color: #065f46;
+  margin-bottom: 18px;
+}
+.sidebar__intern-stat svg { flex-shrink: 0; }
+ 
+/* ── Intern-only toggle ──────────────────────────────────────── */
+.filter-check--intern {
+  background: #f0fdf4;
+  border: 1px solid #86efac;
+  border-radius: 7px;
+  padding: 7px 9px;
+  margin-bottom: 0;
+}
+.filter-check--intern .intern-icon { color: #065f46; }
+ 
 /* ── Responsive ─────────────────────────────────────────────── */
 @media (max-width: 860px) {
   .layout {

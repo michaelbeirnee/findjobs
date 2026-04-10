@@ -42,7 +42,8 @@
   <div class="hero">
     <div class="hero__inner">
       <h1 class="hero__title">Investment Banking Job Board</h1>
-      <p class="hero__sub">Browse <strong id="totalCount">—</strong> verified boutique IB firms sourced from the IBR database. Click any firm to search for open roles on LinkedIn.</p>
+      <p class="hero__sub">Browse <strong id="totalCount">—</strong> verified boutique IB firms sourced from the IBR database. Each card links directly to the firm's career page.</p>
+      <p id="lastChecked" class="hero__last-checked" hidden></p>
     </div>
   </div>
  
@@ -72,10 +73,23 @@
         </label>
       </div>
  
+      <!-- Intern posting filter -->
+      <div class="sidebar__section">
+        <h3 class="sidebar__label">Intern Postings</h3>
+        <label class="filter-check filter-check--intern">
+          <input type="checkbox" id="internOnlyToggle" />
+          <svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true" class="intern-icon">
+            <path d="M12 3L1 9l11 6 9-4.91V17h2V9L12 3zM5 13.18v4L12 21l7-3.82v-4L12 17l-7-3.82z"/>
+          </svg>
+          <span id="internToggleLabel">Intern postings only</span>
+        </label>
+      </div>
+ 
       <div class="sidebar__section">
         <h3 class="sidebar__label">Sort by</h3>
         <select id="sortSelect" class="sidebar__select">
           <option value="presence">Presence (High → Low)</option>
+          <option value="intern">Intern postings first</option>
           <option value="alpha">Alphabetical (A → Z)</option>
         </select>
       </div>
@@ -85,6 +99,13 @@
         <div class="stat"><span id="statH">—</span><small>High</small></div>
         <div class="stat"><span id="statM">—</span><small>Moderate</small></div>
         <div class="stat"><span id="statL">—</span><small>Low</small></div>
+      </div>
+ 
+      <div class="sidebar__intern-stat" id="internStatBox">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+          <path d="M12 3L1 9l11 6 9-4.91V17h2V9L12 3zM5 13.18v4L12 21l7-3.82v-4L12 17l-7-3.82z"/>
+        </svg>
+        <span id="internCount">—</span> firms hiring interns today
       </div>
  
       <p class="sidebar__credit">Source: <em>Investment Banking Recruiting Boutiques (IBR)</em><br>Compiled by Knoton Fung, UCLA</p>
@@ -106,7 +127,7 @@
  
   <!-- FOOTER -->
   <footer class="footer">
-    <p>FindJobs &mdash; Verified IB Recruiting &bull; Data from IBR (Investment Banking Recruiting Boutiques)</p>
+    <p>FindJobs &mdash; Verified IB Recruiting &bull; Data from IBR (Investment Banking Recruiting Boutiques) &bull; Intern postings refreshed daily</p>
   </footer>
  
   <script src="script.js"></script>
