@@ -26,6 +26,33 @@ const PRESENCE_INTERN_LABEL = {
   "Moderate":  "≥ 2 interns",
   "Low":       "≤ 1 intern",
 };
+
+const BULGE_BRACKET_BANKS = new Set([
+  "Goldman Sachs",
+  "J.P. Morgan",
+  "Morgan Stanley",
+  "Bank of America",
+  "Citigroup",
+  "Barclays",
+  "UBS",
+  "Deutsche Bank",
+  "Wells Fargo Securities",
+]);
+
+const MIDDLE_MARKET_BANKS = new Set([
+  "Jefferies",
+  "RBC Capital Markets",
+  "BMO Capital Markets",
+  "Stifel",
+  "Piper Sandler",
+  "William Blair",
+  "Raymond James",
+  "Lincoln International",
+  "Harris Williams",
+  "Houlihan Lokey",
+  "KeyBanc Capital Markets",
+  "Citizens JMP",
+]);
  
 // ── Utility: get initials ────────────────────────────────────
 function initials(name) {
@@ -178,9 +205,61 @@ function renderGrid(firms) {
     return;
   }
   empty.hidden = true;
-  const frag = document.createDocumentFragment();
-  firms.forEach(f => frag.appendChild(renderCard(f)));
-  grid.appendChild(frag);
+  const sectionBuckets = {
+    boutiques: [],
+    bulgeBracket: [],
+    middleMarket: [],
+  };
+
+  firms.forEach(firm => {
+    if (BULGE_BRACKET_BANKS.has(firm.name)) {
+      sectionBuckets.bulgeBracket.push(firm);
+      return;
+    }
+    if (MIDDLE_MARKET_BANKS.has(firm.name)) {
+      sectionBuckets.middleMarket.push(firm);
+      return;
+    }
+    sectionBuckets.boutiques.push(firm);
+  });
+
+  const sections = [
+    { key: "boutiques", label: "Boutiques" },
+    { key: "bulgeBracket", label: "Bulge Bracket Banks" },
+    { key: "middleMarket", label: "Middle Market Banks" },
+  ];
+
+  const pageFrag = document.createDocumentFragment();
+
+  sections.forEach(section => {
+    const sectionFirms = sectionBuckets[section.key];
+
+    const wrapper = document.createElement("section");
+    wrapper.className = "bank-section";
+
+    const heading = document.createElement("h3");
+    heading.className = "bank-section__title";
+    heading.textContent = `${section.label} (${sectionFirms.length})`;
+    wrapper.appendChild(heading);
+
+    if (sectionFirms.length === 0) {
+      const emptyText = document.createElement("p");
+      emptyText.className = "bank-section__empty";
+      emptyText.textContent = "No matching postings in this section.";
+      wrapper.appendChild(emptyText);
+    } else {
+      const sectionGrid = document.createElement("div");
+      sectionGrid.className = "cards cards--section";
+      const sectionFrag = document.createDocumentFragment();
+      sectionFirms.forEach(firm => sectionFrag.appendChild(renderCard(firm)));
+      sectionGrid.appendChild(sectionFrag);
+      wrapper.appendChild(sectionGrid);
+    }
+
+    pageFrag.appendChild(wrapper);
+  });
+
+  grid.appendChild(pageFrag);
 }
  
 function updateResultsBar(count) {

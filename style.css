@@ -247,6 +247,27 @@ body {
   grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
   gap: 16px;
 }
+
+.cards--section {
+  margin-top: 12px;
+}
+
+.bank-section {
+  margin-bottom: 24px;
+}
+
+.bank-section__title {
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--text);
+  margin-bottom: 2px;
+}
+
+.bank-section__empty {
+  font-size: .85rem;
+  color: var(--text-muted);
+  padding: 8px 0 0;
+}
  
 /* ── Card ───────────────────────────────────────────────────── */
 .card {
