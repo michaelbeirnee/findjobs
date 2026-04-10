@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>FindJobs — Verified IB Recruiting</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+ 
+  <!-- NAV -->
+  <header class="nav">
+    <div class="nav__inner">
+      <a class="nav__logo" href="#">
+        <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+          <rect x="2" y="7" width="20" height="14" rx="2"/>
+          <path d="M16 7V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v2"/>
+          <line x1="12" y1="12" x2="12" y2="17"/>
+          <line x1="9" y1="14.5" x2="15" y2="14.5"/>
+        </svg>
+        <span>FindJobs</span>
+      </a>
+ 
+      <div class="nav__search">
+        <svg class="nav__search-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>
+        </svg>
+        <input id="searchInput" type="text" placeholder="Search firms…" autocomplete="off" />
+        <button id="clearSearch" class="nav__search-clear" aria-label="Clear search" hidden>✕</button>
+      </div>
+ 
+      <div class="nav__badge">
+        <span class="verified-badge">
+          <svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg>
+          IBR Verified
+        </span>
+      </div>
+    </div>
+  </header>
+ 
+  <!-- HERO STRIP -->
+  <div class="hero">
+    <div class="hero__inner">
+      <h1 class="hero__title">Investment Banking Job Board</h1>
+      <p class="hero__sub">Browse <strong id="totalCount">—</strong> verified boutique IB firms sourced from the IBR database. Click any firm to search for open roles on LinkedIn.</p>
+    </div>
+  </div>
+ 
+  <!-- MAIN -->
+  <main class="layout">
+ 
+    <!-- SIDEBAR -->
+    <aside class="sidebar">
+ 
+      <div class="sidebar__section">
+        <h3 class="sidebar__label">Student Presence</h3>
+        <label class="filter-check">
+          <input type="checkbox" name="presence" value="Very High" checked />
+          <span class="dot dot--veryhigh"></span> Very High <em>(Many interns)</em>
+        </label>
+        <label class="filter-check">
+          <input type="checkbox" name="presence" value="High" checked />
+          <span class="dot dot--high"></span> High <em>(≥ 4 interns)</em>
+        </label>
+        <label class="filter-check">
+          <input type="checkbox" name="presence" value="Moderate" checked />
+          <span class="dot dot--moderate"></span> Moderate <em>(≥ 2 interns)</em>
+        </label>
+        <label class="filter-check">
+          <input type="checkbox" name="presence" value="Low" checked />
+          <span class="dot dot--low"></span> Low <em>(≤ 1 intern)</em>
+        </label>
+      </div>
+ 
+      <div class="sidebar__section">
+        <h3 class="sidebar__label">Sort by</h3>
+        <select id="sortSelect" class="sidebar__select">
+          <option value="presence">Presence (High → Low)</option>
+          <option value="alpha">Alphabetical (A → Z)</option>
+        </select>
+      </div>
+ 
+      <div class="sidebar__stats" id="statsBox">
+        <div class="stat"><span id="statVH">—</span><small>Very High</small></div>
+        <div class="stat"><span id="statH">—</span><small>High</small></div>
+        <div class="stat"><span id="statM">—</span><small>Moderate</small></div>
+        <div class="stat"><span id="statL">—</span><small>Low</small></div>
+      </div>
+ 
+      <p class="sidebar__credit">Source: <em>Investment Banking Recruiting Boutiques (IBR)</em><br>Compiled by Knoton Fung, UCLA</p>
+    </aside>
+ 
+    <!-- CARDS GRID -->
+    <section class="cards-section">
+      <div class="results-bar">
+        <span id="resultsCount"></span>
+      </div>
+      <div class="cards" id="cardsGrid"></div>
+      <div class="empty-state" id="emptyState" hidden>
+        <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="#ccc" stroke-width="1.5"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+        <p>No firms match your filters.</p>
+      </div>
+    </section>
+ 
+  </main>
+ 
+  <!-- FOOTER -->
+  <footer class="footer">
+    <p>FindJobs &mdash; Verified IB Recruiting &bull; Data from IBR (Investment Banking Recruiting Boutiques)</p>
+  </footer>
+ 
+  <script src="script.js"></script>
+</body>
+</html>
