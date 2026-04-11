@@ -53,6 +53,43 @@ const MIDDLE_MARKET_BANKS = new Set([
   "KeyBanc Capital Markets",
   "Citizens JMP",
 ]);
+
+const BULGE_BRACKET_ALIASES = [
+  "goldman sachs",
+  "jp morgan",
+  "j p morgan",
+  "jpmorgan",
+  "morgan stanley",
+  "bank of america",
+  "bofa",
+  "citigroup",
+  "citi",
+  "barclays",
+  "ubs",
+  "deutsche bank",
+  "wells fargo securities",
+  "wells fargo",
+];
+
+const MIDDLE_MARKET_ALIASES = [
+  "jefferies",
+  "rbc capital markets",
+  "rbc",
+  "bmo capital markets",
+  "bmo",
+  "stifel",
+  "piper sandler",
+  "william blair",
+  "raymond james",
+  "lincoln international",
+  "harris williams",
+  "houlihan lokey",
+  "keybanc capital markets",
+  "keybanc",
+  "citizens jmp",
+  "citizens",
+  "alantra",
+];
  
 // ── Utility: get initials ────────────────────────────────────
 function initials(name) {
@@ -77,6 +114,42 @@ function linkedInInternUrl(firmName) {
 function glassdoorUrl(firmName) {
   const encoded = encodeURIComponent(firmName);
   return `https://www.glassdoor.com/Search/results.htm?keyword=${encoded}`;
+}
+
+function normalizeFirmName(name) {
+  return String(name || "")
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, " ")
+    .trim();
+}
+
+function getFirmSectionKey(firm) {
+  const explicitCategory = String(firm.category || firm.segment || firm.type || "")
+    .toLowerCase()
+    .trim();
+
+  if (explicitCategory.includes("bulge")) return "bulgeBracket";
+  if (
+    explicitCategory.includes("middle market") ||
+    explicitCategory === "mm" ||
+    explicitCategory === "middle"
+  ) {
+    return "middleMarket";
+  }
+  if (explicitCategory.includes("boutique")) return "boutiques";
+
+  if (BULGE_BRACKET_BANKS.has(firm.name)) return "bulgeBracket";
+  if (MIDDLE_MARKET_BANKS.has(firm.name)) return "middleMarket";
+
+  const normalizedName = normalizeFirmName(firm.name);
+  if (BULGE_BRACKET_ALIASES.some(alias => normalizedName.includes(alias))) {
+    return "bulgeBracket";
+  }
+  if (MIDDLE_MARKET_ALIASES.some(alias => normalizedName.includes(alias))) {
+    return "middleMarket";
+  }
+
+  return "boutiques";
 }
  
 // ── Render a single card ─────────────────────────────────────
@@ -212,22 +285,18 @@ function renderGrid(firms) {
   };
 
   firms.forEach(firm => {
-    if (BULGE_BRACKET_BANKS.has(firm.name)) {
-      sectionBuckets.bulgeBracket.push(firm);
-      return;
-    }
-    if (MIDDLE_MARKET_BANKS.has(firm.name)) {
-      sectionBuckets.middleMarket.push(firm);
-      return;
-    }
-    sectionBuckets.boutiques.push(firm);
+    sectionBuckets[getFirmSectionKey(firm)].push(firm);
   });
 
   const sections = [
     { key: "boutiques", label: "Boutiques" },
     { key: "bulgeBracket", label: "Bulge Bracket Banks" },
     { key: "middleMarket", label: "Middle Market Banks" },
-  ];
+  ].filter(section => sectionBuckets[section.key].length > 0);
+
+  if (sections.length === 1 && sections[0].key === "boutiques") {
+    sections[0].label = "IBR Boutique Firms";
+  }
 
   const pageFrag = document.createDocumentFragment();
 
@@ -242,19 +311,12 @@ function renderGrid(firms) {
     heading.textContent = `${section.label} (${sectionFirms.length})`;
     wrapper.appendChild(heading);
 
-    if (sectionFirms.length === 0) {
-      const emptyText = document.createElement("p");
-      emptyText.className = "bank-section__empty";
-      emptyText.textContent = "No matching postings in this section.";
-      wrapper.appendChild(emptyText);
-    } else {
-      const sectionGrid = document.createElement("div");
-      sectionGrid.className = "cards cards--section";
-      const sectionFrag = document.createDocumentFragment();
-      sectionFirms.forEach(firm => sectionFrag.appendChild(renderCard(firm)));
-      sectionGrid.appendChild(sectionFrag);
-      wrapper.appendChild(sectionGrid);
-    }
+    const sectionGrid = document.createElement("div");
+    sectionGrid.className = "cards cards--section";
+    const sectionFrag = document.createDocumentFragment();
+    sectionFirms.forEach(firm => sectionFrag.appendChild(renderCard(firm)));
+    sectionGrid.appendChild(sectionFrag);
+    wrapper.appendChild(sectionGrid);
 
     pageFrag.appendChild(wrapper);
   });
