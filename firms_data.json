@@ -175,5 +175,28 @@
   { "name": "WaveEdge Capital",                   "presence": "Low",       "website": "https://www.waveedgecapital.com",                "careerUrl": null },
   { "name": "Stump & Company",                    "presence": "Low",       "website": "https://www.stumpco.com",                        "careerUrl": null },
   { "name": "Vista Point Advisors",               "presence": "Low",       "website": "https://www.vistapointadvisors.com",             "careerUrl": "https://www.vistapointadvisors.com/careers" },
-  { "name": "Merritt Healthcare Advisors",        "presence": "Low",       "website": "https://www.merritthealthcareadvisors.com",      "careerUrl": null }
+  { "name": "Merritt Healthcare Advisors",        "presence": "Low",       "website": "https://www.merritthealthcareadvisors.com",      "careerUrl": null },
+ 
+  { "name": "Goldman Sachs",                     "presence": "Very High", "website": "https://www.goldmansachs.com",                  "careerUrl": "https://www.goldmansachs.com/careers" },
+  { "name": "J.P. Morgan",                       "presence": "Very High", "website": "https://www.jpmorgan.com",                      "careerUrl": "https://careers.jpmorgan.com" },
+  { "name": "Morgan Stanley",                    "presence": "Very High", "website": "https://www.morganstanley.com",                 "careerUrl": "https://www.morganstanley.com/careers" },
+  { "name": "Bank of America",                   "presence": "Very High", "website": "https://www.bankofamerica.com",                 "careerUrl": "https://careers.bankofamerica.com" },
+  { "name": "Citigroup",                         "presence": "Very High", "website": "https://www.citigroup.com",                     "careerUrl": "https://jobs.citi.com" },
+  { "name": "Barclays",                          "presence": "Very High", "website": "https://www.barclays.com",                      "careerUrl": "https://search.jobs.barclays" },
+  { "name": "UBS",                               "presence": "Very High", "website": "https://www.ubs.com",                           "careerUrl": "https://www.ubs.com/global/en/careers.html" },
+  { "name": "Deutsche Bank",                     "presence": "Very High", "website": "https://www.db.com",                            "careerUrl": "https://careers.db.com" },
+  { "name": "Wells Fargo Securities",            "presence": "Very High", "website": "https://www.wellsfargo.com",                    "careerUrl": "https://www.wellsfargojobs.com" },
+ 
+  { "name": "Jefferies",                         "presence": "Very High", "website": "https://www.jefferies.com",                     "careerUrl": "https://www.jefferies.com/careers" },
+  { "name": "RBC Capital Markets",               "presence": "High",      "website": "https://www.rbccm.com",                         "careerUrl": "https://www.rbc.com/careers.html" },
+  { "name": "BMO Capital Markets",               "presence": "High",      "website": "https://capitalmarkets.bmo.com",                "careerUrl": "https://jobs.bmo.com" },
+  { "name": "Stifel",                            "presence": "High",      "website": "https://www.stifel.com",                        "careerUrl": "https://www.stifel.com/careers" },
+  { "name": "Piper Sandler",                     "presence": "High",      "website": "https://www.pipersandler.com",                  "careerUrl": "https://www.pipersandler.com/careers" },
+  { "name": "William Blair",                     "presence": "High",      "website": "https://www.williamblair.com",                  "careerUrl": "https://www.williamblair.com/careers" },
+  { "name": "Raymond James",                     "presence": "High",      "website": "https://www.raymondjames.com",                  "careerUrl": "https://www.raymondjames.com/careers" },
+  { "name": "Lincoln International",             "presence": "High",      "website": "https://www.lincolninternational.com",          "careerUrl": "https://www.lincolninternational.com/careers" },
+  { "name": "Harris Williams",                   "presence": "High",      "website": "https://www.harriswilliams.com",                "careerUrl": "https://www.harriswilliams.com/careers" },
+  { "name": "Houlihan Lokey",                    "presence": "Very High", "website": "https://www.hl.com",                            "careerUrl": "https://www.hl.com/careers" },
+  { "name": "KeyBanc Capital Markets",           "presence": "High",      "website": "https://www.key.com/businesses-institutions/capital-markets", "careerUrl": "https://keybank.wd5.myworkdayjobs.com" },
+  { "name": "Citizens JMP",                      "presence": "High",      "website": "https://www.citizensjmp.com",                   "careerUrl": "https://jobs.citizensbank.com" }
 ]
