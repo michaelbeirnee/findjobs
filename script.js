@@ -26,7 +26,7 @@ const PRESENCE_INTERN_LABEL = {
   "Moderate":  "≥ 2 interns",
   "Low":       "≤ 1 intern",
 };
-
+ 
 const BULGE_BRACKET_BANKS = new Set([
   "Goldman Sachs",
   "J.P. Morgan",
@@ -38,7 +38,7 @@ const BULGE_BRACKET_BANKS = new Set([
   "Deutsche Bank",
   "Wells Fargo Securities",
 ]);
-
+ 
 const MIDDLE_MARKET_BANKS = new Set([
   "Jefferies",
   "RBC Capital Markets",
@@ -53,7 +53,7 @@ const MIDDLE_MARKET_BANKS = new Set([
   "KeyBanc Capital Markets",
   "Citizens JMP",
 ]);
-
+ 
 const BULGE_BRACKET_ALIASES = [
   "goldman sachs",
   "jp morgan",
@@ -70,7 +70,7 @@ const BULGE_BRACKET_ALIASES = [
   "wells fargo securities",
   "wells fargo",
 ];
-
+ 
 const MIDDLE_MARKET_ALIASES = [
   "jefferies",
   "rbc capital markets",
@@ -115,19 +115,19 @@ function glassdoorUrl(firmName) {
   const encoded = encodeURIComponent(firmName);
   return `https://www.glassdoor.com/Search/results.htm?keyword=${encoded}`;
 }
-
+ 
 function normalizeFirmName(name) {
   return String(name || "")
     .toLowerCase()
     .replace(/[^a-z0-9]+/g, " ")
     .trim();
 }
-
+ 
 function getFirmSectionKey(firm) {
   const explicitCategory = String(firm.category || firm.segment || firm.type || "")
     .toLowerCase()
     .trim();
-
+ 
   if (explicitCategory.includes("bulge")) return "bulgeBracket";
   if (
     explicitCategory.includes("middle market") ||
@@ -137,10 +137,10 @@ function getFirmSectionKey(firm) {
     return "middleMarket";
   }
   if (explicitCategory.includes("boutique")) return "boutiques";
-
+ 
   if (BULGE_BRACKET_BANKS.has(firm.name)) return "bulgeBracket";
   if (MIDDLE_MARKET_BANKS.has(firm.name)) return "middleMarket";
-
+ 
   const normalizedName = normalizeFirmName(firm.name);
   if (BULGE_BRACKET_ALIASES.some(alias => normalizedName.includes(alias))) {
     return "bulgeBracket";
@@ -148,7 +148,7 @@ function getFirmSectionKey(firm) {
   if (MIDDLE_MARKET_ALIASES.some(alias => normalizedName.includes(alias))) {
     return "middleMarket";
   }
-
+ 
   return "boutiques";
 }
  
@@ -196,6 +196,20 @@ function renderCard(firm) {
          Intern Search
        </a>`;
  
+  // Job count from intern status
+  const internJobs  = internData.jobs || [];
+  const jobCountHtml = hasIntern && internJobs.length > 0
+    ? `<div class="card__job-count">
+         <svg width="12" height="12" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+           <path d="M12 3L1 9l11 6 9-4.91V17h2V9L12 3zM5 13.18v4L12 21l7-3.82v-4L12 17l-7-3.82z"/>
+         </svg>
+         ${internJobs.length} open position${internJobs.length !== 1 ? "s" : ""}
+       </div>`
+    : "";
+ 
+  // Company detail page URL
+  const companyPageUrl = `company.html?firm=${encodeURIComponent(firm.name)}`;
+ 
   card.innerHTML = `
     ${internBadgeHtml}
     <div class="card__header">
@@ -211,7 +225,17 @@ function renderCard(firm) {
       <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
       ${PRESENCE_INTERN_LABEL[firm.presence]}
     </div>
+    ${jobCountHtml}
     <div class="card__actions">
+      <a class="card__view-jobs"
+         href="${companyPageUrl}"
+         title="View intern job listings for ${firm.name}">
+        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <rect x="2" y="7" width="20" height="14" rx="2"/>
+          <path d="M16 7V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v2"/>
+        </svg>
+        View Jobs
+      </a>
       ${careerBtnHtml}
       <a class="btn-primary"
          href="${linkedInJobsUrl(firm.name)}"
@@ -283,44 +307,44 @@ function renderGrid(firms) {
     bulgeBracket: [],
     middleMarket: [],
   };
-
+ 
   firms.forEach(firm => {
     sectionBuckets[getFirmSectionKey(firm)].push(firm);
   });
-
+ 
   const sections = [
     { key: "boutiques", label: "Boutiques" },
     { key: "bulgeBracket", label: "Bulge Bracket Banks" },
     { key: "middleMarket", label: "Middle Market Banks" },
   ].filter(section => sectionBuckets[section.key].length > 0);
-
+ 
   if (sections.length === 1 && sections[0].key === "boutiques") {
     sections[0].label = "IBR Boutique Firms";
   }
-
+ 
   const pageFrag = document.createDocumentFragment();
-
+ 
   sections.forEach(section => {
     const sectionFirms = sectionBuckets[section.key];
-
+ 
     const wrapper = document.createElement("section");
     wrapper.className = "bank-section";
-
+ 
     const heading = document.createElement("h3");
     heading.className = "bank-section__title";
     heading.textContent = `${section.label} (${sectionFirms.length})`;
     wrapper.appendChild(heading);
-
+ 
     const sectionGrid = document.createElement("div");
     sectionGrid.className = "cards cards--section";
     const sectionFrag = document.createDocumentFragment();
     sectionFirms.forEach(firm => sectionFrag.appendChild(renderCard(firm)));
     sectionGrid.appendChild(sectionFrag);
     wrapper.appendChild(sectionGrid);
-
+ 
     pageFrag.appendChild(wrapper);
   });
-
+ 
   grid.appendChild(pageFrag);
 }
  
