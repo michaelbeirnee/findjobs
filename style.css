@@ -792,6 +792,132 @@ body {
     font-size: 1rem;
   }
 }
+/* ── Recent Postings Page ──────────────────────────────────── */
+.recent-layout {
+  max-width: 1280px;
+  margin: 28px auto;
+  padding: 0 20px;
+  display: grid;
+  grid-template-columns: 240px 1fr;
+  gap: 24px;
+  align-items: start;
+}
+ 
+.recent-timeline {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+}
+ 
+.recent-date-section {
+  scroll-margin-top: calc(var(--nav-h) + 20px);
+}
+ 
+.recent-date-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 16px;
+  padding-bottom: 10px;
+  border-bottom: 2px solid var(--blue);
+  flex-wrap: wrap;
+}
+ 
+.recent-date-marker {
+  width: 32px;
+  height: 32px;
+  border-radius: 8px;
+  background: var(--blue);
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+ 
+.recent-date-title {
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: var(--text);
+}
+ 
+.recent-date-relative {
+  font-size: .82rem;
+  font-weight: 600;
+  color: #fff;
+  background: var(--blue);
+  border-radius: 20px;
+  padding: 3px 10px;
+}
+ 
+.recent-date-count {
+  font-size: .82rem;
+  color: var(--text-muted);
+  margin-left: auto;
+}
+ 
+/* Sidebar date navigation */
+.recent-date-nav {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+ 
+.recent-date-nav__link {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  font-size: .85rem;
+  color: var(--blue);
+  text-decoration: none;
+  padding: 6px 10px;
+  border-radius: 6px;
+  transition: background .15s;
+}
+.recent-date-nav__link:hover { background: #dbeafe; }
+ 
+.recent-date-nav__count {
+  background: #dbeafe;
+  color: var(--blue);
+  font-size: .72rem;
+  font-weight: 700;
+  padding: 2px 7px;
+  border-radius: 10px;
+}
+ 
+/* Firm link inside job card on recent page */
+.recent-firm-link {
+  color: var(--blue);
+  text-decoration: none;
+  font-weight: 600;
+}
+.recent-firm-link:hover {
+  text-decoration: underline;
+}
+ 
+/* Nav link for recent postings page */
+.nav__link {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: .85rem;
+  font-weight: 600;
+  color: var(--blue);
+  text-decoration: none;
+  white-space: nowrap;
+  padding: 6px 12px;
+  border-radius: 20px;
+  transition: background .15s;
+}
+.nav__link:hover { background: #dbeafe; }
+ 
+/* ── Responsive ─────────────────────────────────────────────── */
+@media (max-width: 860px) {
+  .recent-layout {
+    grid-template-columns: 1fr;
+  }
+}
 @media (max-width: 560px) {
   .nav__badge { display: none; }
   .cards { grid-template-columns: 1fr; }
@@ -801,4 +927,10 @@ body {
     width: 100%;
     justify-content: center;
   }
+  .recent-date-header {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 6px;
+  }
+  .recent-date-count { margin-left: 0; }
 }

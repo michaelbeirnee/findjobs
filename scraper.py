@@ -127,7 +127,7 @@ def get(url: str) -> requests.Response | None:
     except Exception:
         return None
  
-
+ 
 def get_rendered_html(url: str) -> str | None:
     """
     Render a page with Playwright and return HTML.
@@ -136,7 +136,7 @@ def get_rendered_html(url: str) -> str | None:
     """
     if sync_playwright is None:
         return None
-
+ 
     try:
         with sync_playwright() as p:
             browser = p.chromium.launch(headless=True)
@@ -336,30 +336,30 @@ def find_job_listings(html: str, career_url: str) -> list[dict]:
  
     return jobs
  
-
+ 
 def collect_candidate_job_pages(html: str, base_url: str) -> list[str]:
     """Collect candidate job-board pages linked from a career page."""
     soup = BeautifulSoup(html, "html.parser")
     candidates = [base_url]
     seen = {base_url}
-
+ 
     base_host = (urlparse(base_url).netloc or "").lower()
-
+ 
     for anchor in soup.find_all("a", href=True):
         href = (anchor.get("href") or "").strip()
         if not href or href.startswith("#") or href.startswith("javascript:"):
             continue
-
+ 
         url = urljoin(base_url, href)
         parsed = urlparse(url)
         if parsed.scheme not in ("http", "https"):
             continue
-
+ 
         netloc = (parsed.netloc or "").lower()
         path_and_query = f"{parsed.path} {parsed.query}".lower()
         link_text = anchor.get_text(" ", strip=True).lower()
         signal_text = f"{link_text} {path_and_query}"
-
+ 
         looks_like_job_page = (
             any(h in netloc for h in JOB_BOARD_HOST_HINTS)
             or any(h in signal_text for h in JOB_LINK_HINTS)
@@ -369,27 +369,27 @@ def collect_candidate_job_pages(html: str, base_url: str) -> list[str]:
             or netloc.endswith(f".{base_host}")
             or base_host.endswith(f".{netloc}")
         )
-
+ 
         if not looks_like_job_page and not same_family_domain:
             continue
-
+ 
         normalized = f"{parsed.scheme}://{parsed.netloc}{parsed.path}"
         if normalized in seen:
             continue
         seen.add(normalized)
         candidates.append(url)
-
+ 
         if len(candidates) >= MAX_JOB_PAGES_PER_FIRM:
             break
-
+ 
     return candidates
-
-
+ 
+ 
 def merge_jobs(job_lists: list[list[dict]]) -> list[dict]:
     """Merge multiple extracted job lists while de-duplicating entries."""
     merged: list[dict] = []
     seen = set()
-
+ 
     for jobs in job_lists:
         for job in jobs:
             title = (job.get("title") or "").strip().lower()
@@ -399,7 +399,7 @@ def merge_jobs(job_lists: list[list[dict]]) -> list[dict]:
                 continue
             seen.add(key)
             merged.append(job)
-
+ 
     return merged
  
 def discover_career_url(website: str) -> str | None:
@@ -475,15 +475,15 @@ def check_firm(firm: dict) -> dict:
         extracted_lists.append(find_job_listings(page_response.text, page_url))
         if idx > 0:
             time.sleep(0.2)
-
+ 
     jobs = merge_jobs(extracted_lists)
-
+ 
     # Workday pages are often JS-rendered; fallback to Playwright rendering if needed.
     if is_workday and not jobs:
         rendered_html = get_rendered_html(resolved_career_url)
         if rendered_html:
             jobs = merge_jobs([jobs, find_job_listings(rendered_html, resolved_career_url)])
-
+ 
     has_intern = len(jobs) > 0
     return {
         "hasInternPosting": has_intern,
@@ -492,6 +492,47 @@ def check_firm(firm: dict) -> dict:
         "lastChecked": datetime.now(timezone.utc).isoformat(),
         "jobs": jobs,
     }
+ 
+ 
+# ── firstSeen tracking ────────────────────────────────────────────────────────
+ 
+def _build_job_key(job: dict) -> str:
+    """Create a stable key for a job from its title and apply URL."""
+    title = (job.get("title") or "").strip().lower()
+    url = (job.get("applyUrl") or "").strip().lower()
+    return f"{title}||{url}"
+ 
+ 
+def _load_previous_status() -> dict:
+    """Load the existing intern_status.json to preserve firstSeen dates."""
+    try:
+        with open("intern_status.json", encoding="utf-8") as f:
+            return json.load(f)
+    except (FileNotFoundError, json.JSONDecodeError):
+        return {}
+ 
+ 
+def _build_first_seen_index(previous: dict) -> dict[str, str]:
+    """
+    Build a lookup of job_key -> firstSeen date from previous scraper output.
+    Returns a dict mapping job keys to ISO date strings (YYYY-MM-DD).
+    """
+    index: dict[str, str] = {}
+    firms = previous.get("firms", {})
+    for firm_data in firms.values():
+        for job in firm_data.get("jobs", []):
+            key = _build_job_key(job)
+            first_seen = job.get("firstSeen")
+            if first_seen and key not in index:
+                index[key] = first_seen
+    return index
+ 
+ 
+def _stamp_first_seen(jobs: list[dict], first_seen_index: dict[str, str], today: str) -> None:
+    """Add firstSeen to each job, preserving the original date if already known."""
+    for job in jobs:
+        key = _build_job_key(job)
+        job["firstSeen"] = first_seen_index.get(key, today)
  
  
 # ── Main ──────────────────────────────────────────────────────────────────────
@@ -505,6 +546,11 @@ def main():
         print("ERROR: firms_data.json not found.", file=sys.stderr)
         sys.exit(1)
  
+    # Load previous results to preserve firstSeen dates across runs
+    previous = _load_previous_status()
+    first_seen_index = _build_first_seen_index(previous)
+    today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+ 
     total   = len(firms)
     results = {}
     found   = 0
@@ -516,6 +562,10 @@ def main():
         print(f"[{i}/{total}] {name}", flush=True)
  
         result = check_firm(firm)
+ 
+        # Stamp firstSeen on every job (preserves date for returning jobs)
+        _stamp_first_seen(result.get("jobs", []), first_seen_index, today)
+ 
         results[name] = result
  
         if result["hasInternPosting"]:

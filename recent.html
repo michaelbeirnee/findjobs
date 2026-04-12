@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Recent Postings — FindJobs</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+ 
+  <!-- NAV -->
+  <header class="nav">
+    <div class="nav__inner">
+      <a class="nav__logo" href="index.html">
+        <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+          <rect x="2" y="7" width="20" height="14" rx="2"/>
+          <path d="M16 7V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v2"/>
+          <line x1="12" y1="12" x2="12" y2="17"/>
+          <line x1="9" y1="14.5" x2="15" y2="14.5"/>
+        </svg>
+        <span>FindJobs</span>
+      </a>
+ 
+      <a class="nav__back" href="index.html">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+          <line x1="19" y1="12" x2="5" y2="12"/><polyline points="12 19 5 12 12 5"/>
+        </svg>
+        Back to all firms
+      </a>
+ 
+      <div class="nav__badge">
+        <span class="verified-badge">
+          <svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg>
+          IBR Verified
+        </span>
+      </div>
+    </div>
+  </header>
+ 
+  <!-- HERO -->
+  <div class="hero">
+    <div class="hero__inner">
+      <h1 class="hero__title">Recent Job Postings</h1>
+      <p class="hero__sub">New intern and job postings discovered by our daily scan, organized by the date they were first found. <strong id="totalJobs">—</strong> postings across <strong id="totalFirms">—</strong> firms.</p>
+      <p id="lastChecked" class="hero__last-checked" hidden></p>
+    </div>
+  </div>
+ 
+  <!-- MAIN -->
+  <main class="recent-layout">
+ 
+    <!-- SIDEBAR -->
+    <aside class="sidebar">
+      <div class="sidebar__section">
+        <h3 class="sidebar__label">Navigation</h3>
+        <a class="company-sidebar__link" href="index.html">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+            <rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/>
+            <rect x="3" y="14" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/>
+          </svg>
+          All Firms
+        </a>
+      </div>
+ 
+      <div class="sidebar__section">
+        <h3 class="sidebar__label">Jump to Date</h3>
+        <div id="dateNav" class="recent-date-nav"></div>
+      </div>
+ 
+      <div class="sidebar__section">
+        <h3 class="sidebar__label">Summary</h3>
+        <div class="sidebar__stats">
+          <div class="stat">
+            <span id="statTotal">—</span>
+            <small>Total Jobs</small>
+          </div>
+          <div class="stat">
+            <span id="statFirms">—</span>
+            <small>Firms</small>
+          </div>
+        </div>
+      </div>
+ 
+      <div class="sidebar__intern-stat" id="internStatBox">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+          <path d="M12 3L1 9l11 6 9-4.91V17h2V9L12 3zM5 13.18v4L12 21l7-3.82v-4L12 17l-7-3.82z"/>
+        </svg>
+        <span id="statToday">—</span> new today
+      </div>
+ 
+      <p class="sidebar__credit">Source: <em>Investment Banking Recruiting Boutiques (IBR)</em><br>Compiled by Knoton Fung, UCLA</p>
+    </aside>
+ 
+    <!-- TIMELINE -->
+    <section class="recent-content">
+      <div class="results-bar">
+        <span id="resultsCount"></span>
+      </div>
+      <div id="timeline" class="recent-timeline"></div>
+      <div class="empty-state" id="emptyState" hidden>
+        <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="#ccc" stroke-width="1.5">
+          <rect x="2" y="7" width="20" height="14" rx="2"/>
+          <path d="M16 7V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v2"/>
+        </svg>
+        <p>No job postings found yet.</p>
+        <p class="empty-state__sub">Postings are refreshed daily — check back tomorrow.</p>
+      </div>
+    </section>
+ 
+  </main>
+ 
+  <!-- FOOTER -->
+  <footer class="footer">
+    <p>FindJobs &mdash; Verified IB Recruiting &bull; Data from IBR &bull; Intern postings refreshed daily</p>
+  </footer>
+ 
+  <script src="recent.js"></script>
+</body>
+</html>
