@@ -35,6 +35,27 @@ HEADERS = {
 TIMEOUT = 15          # seconds per request
 DELAY   = 1.5         # seconds between requests (be polite)
 INTERN_KEYWORDS = ["intern", "internship", "summer analyst", "co-op", "coop"]
+JOB_BOARD_HOST_HINTS = [
+    "greenhouse",
+    "workday",
+    "lever",
+    "ashby",
+    "smartrecruiters",
+    "icims",
+    "myworkdayjobs",
+    "jobvite",
+]
+JOB_LINK_HINTS = [
+    "career",
+    "job",
+    "opening",
+    "opportunit",
+    "join-us",
+    "join us",
+    "position",
+    "apply",
+]
+MAX_JOB_PAGES_PER_FIRM = 4
  
 # Common career page path suffixes to try when only website root is known
 CAREER_PATHS = [
@@ -278,32 +299,73 @@ def find_job_listings(html: str, career_url: str) -> list[dict]:
             "applyUrl": apply_url,
         })
  
-    # If we found intern keywords but no structured listings, create a generic one
-    if not jobs and text_mentions_intern(html):
-        page_text = visible_text(BeautifulSoup(html, "html.parser"))
-        grad_dates = extract_graduation_dates(page_text)
- 
-        # Try to find the most relevant snippet around intern keywords
-        snippet = ""
-        lower_text = page_text.lower()
-        for kw in INTERN_KEYWORDS:
-            idx = lower_text.find(kw)
-            if idx != -1:
-                start = max(0, idx - 100)
-                end = min(len(page_text), idx + 300)
-                snippet = page_text[start:end].strip()
-                snippet = re.sub(r"\s+", " ", snippet)
-                break
- 
-        jobs.append({
-            "title": "Intern / Summer Analyst Position",
-            "description": snippet[:500] if snippet else "Intern position available. Visit the career page for details.",
-            "graduationDate": grad_dates[0] if grad_dates else None,
-            "applyUrl": career_url,
-        })
- 
     return jobs
  
+
+def collect_candidate_job_pages(html: str, base_url: str) -> list[str]:
+    """Collect candidate job-board pages linked from a career page."""
+    soup = BeautifulSoup(html, "html.parser")
+    candidates = [base_url]
+    seen = {base_url}
+
+    base_host = (urlparse(base_url).netloc or "").lower()
+
+    for anchor in soup.find_all("a", href=True):
+        href = (anchor.get("href") or "").strip()
+        if not href or href.startswith("#") or href.startswith("javascript:"):
+            continue
+
+        url = urljoin(base_url, href)
+        parsed = urlparse(url)
+        if parsed.scheme not in ("http", "https"):
+            continue
+
+        netloc = (parsed.netloc or "").lower()
+        path_and_query = f"{parsed.path} {parsed.query}".lower()
+        link_text = anchor.get_text(" ", strip=True).lower()
+        signal_text = f"{link_text} {path_and_query}"
+
+        looks_like_job_page = (
+            any(h in netloc for h in JOB_BOARD_HOST_HINTS)
+            or any(h in signal_text for h in JOB_LINK_HINTS)
+        )
+        same_family_domain = base_host and (
+            netloc == base_host
+            or netloc.endswith(f".{base_host}")
+            or base_host.endswith(f".{netloc}")
+        )
+
+        if not looks_like_job_page and not same_family_domain:
+            continue
+
+        normalized = f"{parsed.scheme}://{parsed.netloc}{parsed.path}"
+        if normalized in seen:
+            continue
+        seen.add(normalized)
+        candidates.append(url)
+
+        if len(candidates) >= MAX_JOB_PAGES_PER_FIRM:
+            break
+
+    return candidates
+
+
+def merge_jobs(job_lists: list[list[dict]]) -> list[dict]:
+    """Merge multiple extracted job lists while de-duplicating entries."""
+    merged: list[dict] = []
+    seen = set()
+
+    for jobs in job_lists:
+        for job in jobs:
+            title = (job.get("title") or "").strip().lower()
+            apply_url = (job.get("applyUrl") or "").strip().lower()
+            key = (title, apply_url)
+            if not title or key in seen:
+                continue
+            seen.add(key)
+            merged.append(job)
+
+    return merged
  
 def discover_career_url(website: str) -> str | None:
     """
@@ -365,9 +427,19 @@ def check_firm(firm: dict) -> dict:
             "jobs": [],
         }
  
-    has_intern = text_mentions_intern(r.text)
-    jobs = find_job_listings(r.text, resolved_career_url) if has_intern else []
- 
+    pages_to_scan = collect_candidate_job_pages(r.text, resolved_career_url)
+    extracted_lists = []
+
+    for idx, page_url in enumerate(pages_to_scan):
+        page_response = r if idx == 0 else get(page_url)
+        if page_response is None or page_response.status_code != 200:
+            continue
+        extracted_lists.append(find_job_listings(page_response.text, page_url))
+        if idx > 0:
+            time.sleep(0.2)
+
+    jobs = merge_jobs(extracted_lists)
+    has_intern = len(jobs) > 0
     return {
         "hasInternPosting": has_intern,
         "careerUrl": resolved_career_url,
