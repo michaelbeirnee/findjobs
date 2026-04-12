@@ -43,11 +43,76 @@ INTERN_KEYWORDS = [
     "intern",
     "internship",
     "summer analyst",
+    "summer associate",
     "co-op",
     "coop",
-    "analyst",
-    "summer",
-    "program",
+    "externship",
+]
+ 
+# Broader keywords that alone are NOT enough to qualify a listing — they only
+# count when paired with a primary keyword above (used for description context).
+WEAK_KEYWORDS = [
+    "analyst program",
+    "associate program",
+    "summer program",
+    "analyst position",
+    "early careers",
+    "campus recruiting",
+]
+ 
+# ── False-positive filters ───────────────────────────────────────────────────
+# Titles matching any of these patterns are almost certainly NOT job listings.
+# Compiled once at import time for speed.
+NON_JOB_TITLE_PATTERNS = [
+    # Person bios: "John Smith Analyst", "Jane Doe Managing Director"
+    re.compile(
+        r"^[A-Z][a-z]+\s+[A-Z][a-z]+(?:\s+[A-Z][a-z]+)?\s+"
+        r"(?:Analyst|Associate|Director|Partner|Principal|Founder|VP|Officer|"
+        r"Managing|Senior|Junior|Chairman|President)",
+    ),
+    # Transaction / deal tombstones: "Advises X on ...", "Closes X Transaction"
+    re.compile(r"(?:advises?|closes?|announces?)\s+.+\s+(?:on|transaction|sale|acquisition)", re.IGNORECASE),
+    # News datelines: "January 15, 2025 ...", "March 16, 2026 ..."
+    re.compile(
+        r"^(?:January|February|March|April|May|June|July|August|September|"
+        r"October|November|December)\s+\d{1,2},?\s+\d{4}",
+        re.IGNORECASE,
+    ),
+    # Dated entries like "April 24, 2024 Spring Internship..." (blog, not a job)
+    re.compile(
+        r"^(?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\w*\s+\d{1,2}"
+        r".*(?:20\d{2})\s",
+        re.IGNORECASE,
+    ),
+    # Conference / event listings: "May 18 - May 20, 2026 | Las Vegas"
+    re.compile(r"\d{4}\s*\|\s*[A-Z]", re.IGNORECASE),
+    # Navigation / boilerplate / section headers
+    re.compile(
+        r"^(?:Careers|Contact|Get in touch|Overview|Home|Menu|"
+        r"Our Team|Our People|Team|About Us|About|What We Do|"
+        r"Recent Posts|Transactions|Insights|Open Positions|"
+        r"Join Us|Connect with us)\b",
+        re.IGNORECASE,
+    ),
+    # Company names used as titles (ALL CAPS, e.g., "SUPERMEDIA INC.", "LOGICA")
+    re.compile(r"^[A-Z][A-Z\s&.,]+$"),
+    # Generic marketing taglines
+    re.compile(
+        r"^(?:BUSINESS ARCHITECTS|Advisory services|Serving Clients|"
+        r"Our most valuable|We are humbled|Dedicated to|WE ARE)\b",
+        re.IGNORECASE,
+    ),
+]
+ 
+# Descriptions containing these phrases are almost certainly not job listings.
+NON_JOB_DESC_INDICATORS = [
+    "tombstone",
+    "was acquired by",
+    "acquisition financing",
+    "was advised on its",
+    "deal of the year",
+    "featured tombstone",
+    "learn more »",
 ]
 JOB_BOARD_HOST_HINTS = [
     "greenhouse",
@@ -74,6 +139,9 @@ MAX_JOB_PAGES_PER_FIRM = 4
 # Common career page path suffixes to try when only website root is known
 CAREER_PATHS = [
     "/careers",
+    "/careers/students",
+    "/careers/internships",
+    "/careers/students-graduates",
     "/jobs",
     "/career",
     "/join-us",
@@ -163,6 +231,23 @@ def text_mentions_intern(html: str) -> bool:
     return any(kw in text for kw in INTERN_KEYWORDS)
  
  
+def _is_false_positive_title(title: str) -> bool:
+    """Return True if the title matches a known non-job pattern."""
+    return any(pat.search(title) for pat in NON_JOB_TITLE_PATTERNS)
+ 
+ 
+def _is_false_positive_desc(description: str) -> bool:
+    """Return True if the description contains non-job indicators."""
+    desc_lower = description.lower()
+    return any(ind in desc_lower for ind in NON_JOB_DESC_INDICATORS)
+ 
+ 
+def _has_intern_keyword(text: str) -> bool:
+    """Return True if *text* contains a primary intern keyword."""
+    text_lower = text.lower()
+    return any(kw in text_lower for kw in INTERN_KEYWORDS)
+ 
+ 
 def extract_graduation_dates(text: str) -> list[str]:
     """Extract graduation date mentions from text."""
     dates = []
@@ -190,13 +275,13 @@ def find_job_listings(html: str, career_url: str) -> list[dict]:
     # Find all links with intern keywords
     for a in soup.find_all("a", href=True):
         link_text = a.get_text(" ", strip=True).lower()
-        if any(kw in link_text for kw in INTERN_KEYWORDS):
+        if _has_intern_keyword(link_text):
             intern_elements.append(("link", a))
  
     # Find headings with intern keywords
     for heading in soup.find_all(["h1", "h2", "h3", "h4", "h5", "h6"]):
         heading_text = heading.get_text(" ", strip=True).lower()
-        if any(kw in heading_text for kw in INTERN_KEYWORDS):
+        if _has_intern_keyword(heading_text):
             intern_elements.append(("heading", heading))
  
     # Find list items and divs that look like job cards with intern keywords
@@ -204,7 +289,7 @@ def find_job_listings(html: str, career_url: str) -> list[dict]:
         el_text = el.get_text(" ", strip=True)
         if len(el_text) < 20 or len(el_text) > 2000:
             continue
-        if any(kw in el_text.lower() for kw in INTERN_KEYWORDS):
+        if _has_intern_keyword(el_text):
             # Check this element is reasonably sized (a job card, not the whole page)
             children_with_text = [
                 c for c in el.children
@@ -308,10 +393,19 @@ def find_job_listings(html: str, career_url: str) -> list[dict]:
         if title_key in seen_titles:
             continue
  
-        # Verify this title actually contains intern keywords
-        if not any(kw in title.lower() for kw in INTERN_KEYWORDS):
-            # Check if description has intern keywords instead
-            if not any(kw in description.lower() for kw in INTERN_KEYWORDS):
+        # ── False-positive rejection ──
+        # Reject titles that look like person bios, tombstones, news, etc.
+        if _is_false_positive_title(title):
+            continue
+ 
+        # Reject if description contains non-job indicators
+        if description and _is_false_positive_desc(description):
+            continue
+ 
+        # Verify title or description contains a primary intern keyword.
+        # Broad words like "analyst" or "program" alone no longer qualify.
+        if not _has_intern_keyword(title):
+            if not _has_intern_keyword(description):
                 continue
  
         seen_titles.add(title_key)
@@ -360,17 +454,24 @@ def collect_candidate_job_pages(html: str, base_url: str) -> list[str]:
         link_text = anchor.get_text(" ", strip=True).lower()
         signal_text = f"{link_text} {path_and_query}"
  
+        # Skip links that point to clearly non-career sections
+        path_lower = (parsed.path or "").lower()
+        _non_career = (
+            "/news", "/blog", "/press", "/tombstone", "/transaction",
+            "/team", "/people", "/about-us", "/contact", "/client",
+            "/insight", "/event", "/media", "/investor",
+        )
+        if any(hint in path_lower for hint in _non_career):
+            continue
+ 
         looks_like_job_page = (
             any(h in netloc for h in JOB_BOARD_HOST_HINTS)
             or any(h in signal_text for h in JOB_LINK_HINTS)
         )
-        same_family_domain = base_host and (
-            netloc == base_host
-            or netloc.endswith(f".{base_host}")
-            or base_host.endswith(f".{netloc}")
-        )
  
-        if not looks_like_job_page and not same_family_domain:
+        # Only follow links that look career/job-related — don't follow
+        # random same-domain links which pull in marketing, news, etc.
+        if not looks_like_job_page:
             continue
  
         normalized = f"{parsed.scheme}://{parsed.netloc}{parsed.path}"
