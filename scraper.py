@@ -20,6 +20,11 @@ from urllib.parse import urljoin, urlparse
 import requests
 from bs4 import BeautifulSoup, Tag
  
+try:
+    # Optional dependency used only for JavaScript-rendered career pages (e.g. Workday)
+    from playwright.sync_api import sync_playwright
+except Exception:  # pragma: no cover - optional runtime dependency
+    sync_playwright = None
 # ── Config ────────────────────────────────────────────────────────────────────
  
 HEADERS = {
@@ -34,7 +39,16 @@ HEADERS = {
  
 TIMEOUT = 15          # seconds per request
 DELAY   = 1.5         # seconds between requests (be polite)
-INTERN_KEYWORDS = ["intern", "internship", "summer analyst", "co-op", "coop"]
+INTERN_KEYWORDS = [
+    "intern",
+    "internship",
+    "summer analyst",
+    "co-op",
+    "coop",
+    "analyst",
+    "summer",
+    "program",
+]
 JOB_BOARD_HOST_HINTS = [
     "greenhouse",
     "workday",
@@ -113,6 +127,27 @@ def get(url: str) -> requests.Response | None:
     except Exception:
         return None
  
+
+def get_rendered_html(url: str) -> str | None:
+    """
+    Render a page with Playwright and return HTML.
+    Used as a fallback for JavaScript-heavy pages (especially Workday).
+    Returns None when Playwright is unavailable or rendering fails.
+    """
+    if sync_playwright is None:
+        return None
+
+    try:
+        with sync_playwright() as p:
+            browser = p.chromium.launch(headless=True)
+            context = browser.new_context()
+            page = context.new_page()
+            page.goto(url, wait_until="networkidle", timeout=30000)
+            html = page.content()
+            browser.close()
+            return html
+    except Exception:
+        return None
  
 def visible_text(soup: BeautifulSoup) -> str:
     """Extract visible text from a BeautifulSoup tree, stripping scripts/styles."""
@@ -429,7 +464,10 @@ def check_firm(firm: dict) -> dict:
  
     pages_to_scan = collect_candidate_job_pages(r.text, resolved_career_url)
     extracted_lists = []
-
+    is_workday = any(
+        hint in (urlparse(resolved_career_url).netloc or "").lower()
+        for hint in ("workday", "myworkdayjobs", "myworkdaysite")
+    )
     for idx, page_url in enumerate(pages_to_scan):
         page_response = r if idx == 0 else get(page_url)
         if page_response is None or page_response.status_code != 200:
@@ -439,6 +477,13 @@ def check_firm(firm: dict) -> dict:
             time.sleep(0.2)
 
     jobs = merge_jobs(extracted_lists)
+
+    # Workday pages are often JS-rendered; fallback to Playwright rendering if needed.
+    if is_workday and not jobs:
+        rendered_html = get_rendered_html(resolved_career_url)
+        if rendered_html:
+            jobs = merge_jobs([jobs, find_job_listings(rendered_html, resolved_career_url)])
+
     has_intern = len(jobs) > 0
     return {
         "hasInternPosting": has_intern,
