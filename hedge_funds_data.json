@@ -1,0 +1,602 @@
+[
+  {
+    "rank": 1,
+    "name": "Millennium Management",
+    "location": "New York, NY",
+    "aum": "$505B"
+  },
+  {
+    "rank": 2,
+    "name": "Citadel Advisors",
+    "location": "Miami, FL",
+    "aum": "$458B"
+  },
+  {
+    "rank": 3,
+    "name": "Qube Research & Technologies Limited",
+    "location": "London",
+    "aum": "$348.5B"
+  },
+  {
+    "rank": 4,
+    "name": "Capula Investment Management",
+    "location": "London",
+    "aum": "$301.7B"
+  },
+  {
+    "rank": 5,
+    "name": "Symmetry Investments",
+    "location": "St Helier",
+    "aum": "$281.4B"
+  },
+  {
+    "rank": 6,
+    "name": "Balyasny Asset Management",
+    "location": "Chicago, IL",
+    "aum": "$265.4B"
+  },
+  {
+    "rank": 7,
+    "name": "Pacific Investment Management",
+    "location": "Newport Beach, CA",
+    "aum": "$202.3B"
+  },
+  {
+    "rank": 8,
+    "name": "Rokos Capital Management",
+    "location": "London",
+    "aum": "$172.7B"
+  },
+  {
+    "rank": 9,
+    "name": "Brevan Howard Capital Management",
+    "location": "St Helier",
+    "aum": "$143.6B"
+  },
+  {
+    "rank": 10,
+    "name": "Bridgewater Associates",
+    "location": "Westport, CT",
+    "aum": "$141.1B"
+  },
+  {
+    "rank": 11,
+    "name": "Garda Capital Partners",
+    "location": "Wayzata, MN",
+    "aum": "$137.8B"
+  },
+  {
+    "rank": 12,
+    "name": "Marshall Wace",
+    "location": "London",
+    "aum": "$134.5B"
+  },
+  {
+    "rank": 13,
+    "name": "Schonfeld Strategic Advisors",
+    "location": "New York, NY",
+    "aum": "$124.7B"
+  },
+  {
+    "rank": 14,
+    "name": "D. E. Shaw",
+    "location": "New York, NY",
+    "aum": "$120.5B"
+  },
+  {
+    "rank": 15,
+    "name": "Mariner Investment Group",
+    "location": "Harrison, NY",
+    "aum": "$116.5B"
+  },
+  {
+    "rank": 16,
+    "name": "Alphadyne Asset Management",
+    "location": "New York, NY",
+    "aum": "$115.3B"
+  },
+  {
+    "rank": 17,
+    "name": "Exoduspoint Capital Management",
+    "location": "New York, NY",
+    "aum": "$108.6B"
+  },
+  {
+    "rank": 18,
+    "name": "Verition Fund Management",
+    "location": "Greenwich, CT",
+    "aum": "$107.3B"
+  },
+  {
+    "rank": 19,
+    "name": "Oaktree Capital Management",
+    "location": "Los Angeles, CA",
+    "aum": "$107B"
+  },
+  {
+    "rank": 20,
+    "name": "Eisler Capital US",
+    "location": "New York, NY",
+    "aum": "$106.3B"
+  },
+  {
+    "rank": 21,
+    "name": "Two Sigma Investments",
+    "location": "New York, NY",
+    "aum": "$106.3B"
+  },
+  {
+    "rank": 22,
+    "name": "Squarepoint OPS",
+    "location": "New York, NY",
+    "aum": "$105.9B"
+  },
+  {
+    "rank": 23,
+    "name": "Two Sigma Advisers",
+    "location": "New York, NY",
+    "aum": "$101.6B"
+  },
+  {
+    "rank": 24,
+    "name": "Fortress Investment Group",
+    "location": "New York, NY",
+    "aum": "$99.4B"
+  },
+  {
+    "rank": 25,
+    "name": "Blackrock Capital Management",
+    "location": "Wilmington, DE",
+    "aum": "$96.7B"
+  },
+  {
+    "rank": 26,
+    "name": "Renaissance Technologies",
+    "location": "New York, NY",
+    "aum": "$94.4B"
+  },
+  {
+    "rank": 27,
+    "name": "Cerberus Capital Management",
+    "location": "New York, NY",
+    "aum": "$94.3B"
+  },
+  {
+    "rank": 28,
+    "name": "Arrowstreet Capital",
+    "location": "Boston, MA",
+    "aum": "$93.1B"
+  },
+  {
+    "rank": 29,
+    "name": "Bracebridge Capital",
+    "location": "Boston, MA",
+    "aum": "$79.1B"
+  },
+  {
+    "rank": 30,
+    "name": "Elan Capital Management",
+    "location": "London, Greater London",
+    "aum": "$79.1B"
+  },
+  {
+    "rank": 31,
+    "name": "TPG Angelo Gordon",
+    "location": "New York, NY",
+    "aum": "$75.9B"
+  },
+  {
+    "rank": 32,
+    "name": "Element Capital Management",
+    "location": "New York, NY",
+    "aum": "$74.8B"
+  },
+  {
+    "rank": 33,
+    "name": "Capstone Investment Advisors",
+    "location": "New York, NY",
+    "aum": "$69B"
+  },
+  {
+    "rank": 34,
+    "name": "IFM Investors PTY",
+    "location": "Melbourne",
+    "aum": "$66.4B"
+  },
+  {
+    "rank": 35,
+    "name": "Davidson Kempner Capital Management",
+    "location": "New York, NY",
+    "aum": "$66.1B"
+  },
+  {
+    "rank": 36,
+    "name": "AQR Capital Management",
+    "location": "Greenwich, CT",
+    "aum": "$63.4B"
+  },
+  {
+    "rank": 37,
+    "name": "Tudor Investment",
+    "location": "Stamford, CT",
+    "aum": "$62.9B"
+  },
+  {
+    "rank": 38,
+    "name": "TA Associates",
+    "location": "Boston, MA",
+    "aum": "$60.1B"
+  },
+  {
+    "rank": 39,
+    "name": "Lighthouse Investment Partners",
+    "location": "Palm Beach Gardens, FL",
+    "aum": "$54.5B"
+  },
+  {
+    "rank": 40,
+    "name": "Farallon Capital Management",
+    "location": "San Francisco, CA",
+    "aum": "$52.9B"
+  },
+  {
+    "rank": 41,
+    "name": "Adage Capital Management",
+    "location": "Boston, MA",
+    "aum": "$52B"
+  },
+  {
+    "rank": 42,
+    "name": "Kedalion Capital Management",
+    "location": "London",
+    "aum": "$51.2B"
+  },
+  {
+    "rank": 43,
+    "name": "Blackstone Infrastructure Advisors",
+    "location": "New York, NY",
+    "aum": "$48.6B"
+  },
+  {
+    "rank": 44,
+    "name": "Centerbridge Partners",
+    "location": "New York, NY",
+    "aum": "$44.3B"
+  },
+  {
+    "rank": 45,
+    "name": "AHL Partners",
+    "location": "London",
+    "aum": "$42.3B"
+  },
+  {
+    "rank": 46,
+    "name": "Bayview Asset Management",
+    "location": "Coral Gables, FL",
+    "aum": "$41.4B"
+  },
+  {
+    "rank": 47,
+    "name": "Blackstone Tactical Opportunities Advisors",
+    "location": "New York, NY",
+    "aum": "$37B"
+  },
+  {
+    "rank": 48,
+    "name": "Holocene Advisors",
+    "location": "New York, NY",
+    "aum": "$36.7B"
+  },
+  {
+    "rank": 49,
+    "name": "Hudson BAY Capital Management",
+    "location": "Greenwich, CT",
+    "aum": "$34.5B"
+  },
+  {
+    "rank": 50,
+    "name": "Ssga Funds Management",
+    "location": "Boston, MA",
+    "aum": "$34.5B"
+  },
+  {
+    "rank": 51,
+    "name": "Tenaron Capital Management",
+    "location": "New York, NY",
+    "aum": "$34.4B"
+  },
+  {
+    "rank": 52,
+    "name": "Grosvenor Capital Management",
+    "location": "Chicago, IL",
+    "aum": "$34B"
+  },
+  {
+    "rank": 53,
+    "name": "Voloridge",
+    "location": "Jupiter, FL",
+    "aum": "$33.8B"
+  },
+  {
+    "rank": 54,
+    "name": "Paloma Partners Management",
+    "location": "Greenwich, CT",
+    "aum": "$33.2B"
+  },
+  {
+    "rank": 55,
+    "name": "Walleye Capital",
+    "location": "Plymouth, MN",
+    "aum": "$33B"
+  },
+  {
+    "rank": 56,
+    "name": "Blackstone Alternative Solutions",
+    "location": "New York, NY",
+    "aum": "$31B"
+  },
+  {
+    "rank": 57,
+    "name": "Silver Point Capital",
+    "location": "Greenwich, CT",
+    "aum": "$30.1B"
+  },
+  {
+    "rank": 58,
+    "name": "Ares Capital Management",
+    "location": "Los Angeles, CA",
+    "aum": "$30.1B"
+  },
+  {
+    "rank": 59,
+    "name": "Polar Asset Management Partners",
+    "location": "Toronto",
+    "aum": "$29.9B"
+  },
+  {
+    "rank": 60,
+    "name": "Select Equity Group",
+    "location": "New York, NY",
+    "aum": "$29B"
+  },
+  {
+    "rank": 61,
+    "name": "White Oak Capital Management Consultants",
+    "location": "Prabhadevi, Mumbai",
+    "aum": "$28.2B"
+  },
+  {
+    "rank": 62,
+    "name": "HHLR Advisors",
+    "location": "Singapore",
+    "aum": "$27.5B"
+  },
+  {
+    "rank": 63,
+    "name": "Caxton Associates",
+    "location": "New York, NY",
+    "aum": "$25.6B"
+  },
+  {
+    "rank": 64,
+    "name": "Haidar Capital Management",
+    "location": "Pearl River, NY",
+    "aum": "$25.4B"
+  },
+  {
+    "rank": 65,
+    "name": "Monarch",
+    "location": "New York, NY",
+    "aum": "$25.4B"
+  },
+  {
+    "rank": 66,
+    "name": "Baupost Group",
+    "location": "Boston, MA",
+    "aum": "$24.8B"
+  },
+  {
+    "rank": 67,
+    "name": "Alkeon Capital Management",
+    "location": "New York, NY",
+    "aum": "$24.4B"
+  },
+  {
+    "rank": 68,
+    "name": "Global Endowment Management",
+    "location": "Charlotte, NC",
+    "aum": "$24B"
+  },
+  {
+    "rank": 69,
+    "name": "Lone Pine Capital",
+    "location": "Greenwich, CT",
+    "aum": "$23.2B"
+  },
+  {
+    "rank": 70,
+    "name": "Marathon Asset Management",
+    "location": "New York, NY",
+    "aum": "$22.8B"
+  },
+  {
+    "rank": 71,
+    "name": "Alyeska Investment Group",
+    "location": "Chicago, IL",
+    "aum": "$22B"
+  },
+  {
+    "rank": 72,
+    "name": "Universa Investments",
+    "location": "Miami, FL",
+    "aum": "$22B"
+  },
+  {
+    "rank": 73,
+    "name": "Baker Brothers Investments",
+    "location": "New York, NY",
+    "aum": "$22B"
+  },
+  {
+    "rank": 74,
+    "name": "GC Advisors",
+    "location": "Chicago, IL",
+    "aum": "$22B"
+  },
+  {
+    "rank": 75,
+    "name": "Magnetar Financial",
+    "location": "Evanston, IL",
+    "aum": "$21.6B"
+  },
+  {
+    "rank": 76,
+    "name": "Strategic Value Partners",
+    "location": "Greenwich, CT",
+    "aum": "$21B"
+  },
+  {
+    "rank": 77,
+    "name": "Soroban Capital Partners",
+    "location": "New York, NY",
+    "aum": "$20.3B"
+  },
+  {
+    "rank": 78,
+    "name": "HBK Capital Management",
+    "location": "Dallas, TX",
+    "aum": "$20.2B"
+  },
+  {
+    "rank": 79,
+    "name": "Meritage Group",
+    "location": "San Francisco, CA",
+    "aum": "$20.2B"
+  },
+  {
+    "rank": 80,
+    "name": "Capital Fund Management S.A.",
+    "location": "Paris",
+    "aum": "$20.2B"
+  },
+  {
+    "rank": 81,
+    "name": "MIO Partners",
+    "location": "New York, NY",
+    "aum": "$20.1B"
+  },
+  {
+    "rank": 82,
+    "name": "AB Carval Investors",
+    "location": "Minneapolis, MN",
+    "aum": "$19.6B"
+  },
+  {
+    "rank": 83,
+    "name": "Systematica Investments Limited",
+    "location": "St Helier",
+    "aum": "$19.6B"
+  },
+  {
+    "rank": 84,
+    "name": "Centiva Capital",
+    "location": "New York, NY",
+    "aum": "$19B"
+  },
+  {
+    "rank": 85,
+    "name": "Pershing Square Capital Management",
+    "location": "New York, NY",
+    "aum": "$19B"
+  },
+  {
+    "rank": 86,
+    "name": "Graham Capital Management",
+    "location": "Rowayton, CT",
+    "aum": "$18.4B"
+  },
+  {
+    "rank": 87,
+    "name": "III Capital Management",
+    "location": "Boca Raton, FL",
+    "aum": "$18.4B"
+  },
+  {
+    "rank": 88,
+    "name": "Laurion Capital Management",
+    "location": "New York, NY",
+    "aum": "$18.3B"
+  },
+  {
+    "rank": 89,
+    "name": "Linden Advisors",
+    "location": "New York, NY",
+    "aum": "$18.2B"
+  },
+  {
+    "rank": 90,
+    "name": "Investure",
+    "location": "Charlottesville, VA",
+    "aum": "$18B"
+  },
+  {
+    "rank": 91,
+    "name": "Polar Capital",
+    "location": "London",
+    "aum": "$17.7B"
+  },
+  {
+    "rank": 92,
+    "name": "Orbis Investment Management Limited",
+    "location": "Hamilton",
+    "aum": "$17.5B"
+  },
+  {
+    "rank": 93,
+    "name": "Cbre Investment Management",
+    "location": "New York, NY",
+    "aum": "$17.3B"
+  },
+  {
+    "rank": 94,
+    "name": "Varde Management",
+    "location": "Minneapolis, MN",
+    "aum": "$17.2B"
+  },
+  {
+    "rank": 95,
+    "name": "JJJ Capital Management",
+    "location": "London",
+    "aum": "$17B"
+  },
+  {
+    "rank": 96,
+    "name": "Durable Capital Partners",
+    "location": "Bethesda, MD",
+    "aum": "$16.9B"
+  },
+  {
+    "rank": 97,
+    "name": "Appaloosa",
+    "location": "Short Hills, NJ",
+    "aum": "$16.8B"
+  },
+  {
+    "rank": 98,
+    "name": "Deerfield Management",
+    "location": "New York, NY",
+    "aum": "$16.1B"
+  },
+  {
+    "rank": 99,
+    "name": "Magnitude Capital",
+    "location": "New York, NY",
+    "aum": "$16B"
+  },
+  {
+    "rank": 100,
+    "name": "Grantham Mayo VAN Otterloo",
+    "location": "Boston, MA",
+    "aum": "$16B"
+  }
+]

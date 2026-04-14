@@ -1,0 +1,602 @@
+[
+  {
+    "rank": 1,
+    "name": "Sequoia Capital Operations",
+    "location": "Menlo Park, CA",
+    "aum": "$56.3B"
+  },
+  {
+    "rank": 2,
+    "name": "Andreessen Horowitz",
+    "location": "Menlo Park, CA",
+    "aum": "$56B"
+  },
+  {
+    "rank": 3,
+    "name": "General Catalyst",
+    "location": "Cambridge, MA",
+    "aum": "$28.9B"
+  },
+  {
+    "rank": 4,
+    "name": "Encap Investments",
+    "location": "Houston, TX",
+    "aum": "$28.1B"
+  },
+  {
+    "rank": 5,
+    "name": "Lightspeed Venture Partners",
+    "location": "Menlo Park, CA",
+    "aum": "$26B"
+  },
+  {
+    "rank": 6,
+    "name": "New Enterprise Associates",
+    "location": "Menlo Park, CA",
+    "aum": "$25.9B"
+  },
+  {
+    "rank": 7,
+    "name": "Accel Management",
+    "location": "Palo Alto, CA",
+    "aum": "$24.4B"
+  },
+  {
+    "rank": 8,
+    "name": "Cobalt Investment Management",
+    "location": "Santa Monica, CA",
+    "aum": "$23.9B"
+  },
+  {
+    "rank": 9,
+    "name": "Founders Fund",
+    "location": "San Francisco, CA",
+    "aum": "$22.3B"
+  },
+  {
+    "rank": 10,
+    "name": "Index Ventures SA",
+    "location": "Geneva",
+    "aum": "$21.1B"
+  },
+  {
+    "rank": 11,
+    "name": "Bessemer Venture Partners",
+    "location": "Larchmont, NY",
+    "aum": "$18.3B"
+  },
+  {
+    "rank": 12,
+    "name": "Thrive Capital",
+    "location": "New York, NY",
+    "aum": "$15.6B"
+  },
+  {
+    "rank": 13,
+    "name": "Impresa Management",
+    "location": "Boston, MA",
+    "aum": "$14.9B"
+  },
+  {
+    "rank": 14,
+    "name": "Khosla Ventures",
+    "location": "Menlo Park, CA",
+    "aum": "$13.6B"
+  },
+  {
+    "rank": 15,
+    "name": "Angellist Advisors",
+    "location": "San Francisco, CA",
+    "aum": "$13.3B"
+  },
+  {
+    "rank": 16,
+    "name": "Flagship Pioneering",
+    "location": "Cambridge, MA",
+    "aum": "$13.2B"
+  },
+  {
+    "rank": 17,
+    "name": "Banyan Capital Partners",
+    "location": "George Town, Grand Cayman",
+    "aum": "$13.2B"
+  },
+  {
+    "rank": 18,
+    "name": "Spark Capital",
+    "location": "Boston, MA",
+    "aum": "$12.8B"
+  },
+  {
+    "rank": 19,
+    "name": "Ribbit Capital",
+    "location": "Palo Alto, CA",
+    "aum": "$12.3B"
+  },
+  {
+    "rank": 20,
+    "name": "Y Combinator",
+    "location": "Mountain View, CA",
+    "aum": "$12.2B"
+  },
+  {
+    "rank": 21,
+    "name": "RA Capital Management",
+    "location": "Boston, MA",
+    "aum": "$11.2B"
+  },
+  {
+    "rank": 22,
+    "name": "Sapphire Ventures",
+    "location": "Austin, TX",
+    "aum": "$10.8B"
+  },
+  {
+    "rank": 23,
+    "name": "Kleiner Perkins",
+    "location": "Menlo Park, CA",
+    "aum": "$10.8B"
+  },
+  {
+    "rank": 24,
+    "name": "Altimeter Capital Management",
+    "location": "Boston, MA",
+    "aum": "$10.7B"
+  },
+  {
+    "rank": 25,
+    "name": "Arch Venture Partners",
+    "location": "Chicago, IL",
+    "aum": "$10.6B"
+  },
+  {
+    "rank": 26,
+    "name": "IDG Capital Fund Management",
+    "location": "Hong Kong",
+    "aum": "$10.4B"
+  },
+  {
+    "rank": 27,
+    "name": "Bain Capital Ventures",
+    "location": "Boston, MA",
+    "aum": "$10B"
+  },
+  {
+    "rank": 28,
+    "name": "Greenoaks Capital",
+    "location": "Orinda, CA",
+    "aum": "$9.5B"
+  },
+  {
+    "rank": 29,
+    "name": "Matrix Partners China Management",
+    "location": "Singapore",
+    "aum": "$9B"
+  },
+  {
+    "rank": 30,
+    "name": "Greylock Partners",
+    "location": "Burlington, MA",
+    "aum": "$8.5B"
+  },
+  {
+    "rank": 31,
+    "name": "GGV Capital",
+    "location": "Menlo Park, CA",
+    "aum": "$7.7B"
+  },
+  {
+    "rank": 32,
+    "name": "Oak Hcft Management",
+    "location": "Stamford, CT",
+    "aum": "$7.7B"
+  },
+  {
+    "rank": 33,
+    "name": "FTV Capital",
+    "location": "San Francisco, CA",
+    "aum": "$7.7B"
+  },
+  {
+    "rank": 34,
+    "name": "Eight Partners VC",
+    "location": "Austin, TX",
+    "aum": "$7.7B"
+  },
+  {
+    "rank": 35,
+    "name": "Accel Partners Management",
+    "location": "London",
+    "aum": "$7B"
+  },
+  {
+    "rank": 36,
+    "name": "Accel London Management Limited",
+    "location": "St Peter Port",
+    "aum": "$7B"
+  },
+  {
+    "rank": 37,
+    "name": "Balderton Capital",
+    "location": "London",
+    "aum": "$6.9B"
+  },
+  {
+    "rank": 38,
+    "name": "LUX Capital Management",
+    "location": "New York, NY",
+    "aum": "$6.7B"
+  },
+  {
+    "rank": 39,
+    "name": "Altos Ventures Management",
+    "location": "Burlingame, CA",
+    "aum": "$6.6B"
+  },
+  {
+    "rank": 40,
+    "name": "Bond",
+    "location": "San Francisco, CA",
+    "aum": "$6.4B"
+  },
+  {
+    "rank": 41,
+    "name": "Addition",
+    "location": "New York, NY",
+    "aum": "$6.3B"
+  },
+  {
+    "rank": 42,
+    "name": "Redpoint Ventures",
+    "location": "Woodside, CA",
+    "aum": "$6.3B"
+  },
+  {
+    "rank": 43,
+    "name": "B Capital Group",
+    "location": "Manhattan Beach, CA",
+    "aum": "$6.3B"
+  },
+  {
+    "rank": 44,
+    "name": "CRV",
+    "location": "Palo Alto, CA",
+    "aum": "$6.2B"
+  },
+  {
+    "rank": 45,
+    "name": "Columbia Capital",
+    "location": "Alexandria, VA",
+    "aum": "$6B"
+  },
+  {
+    "rank": 46,
+    "name": "Kaszek Management S.A.",
+    "location": "Montevideo",
+    "aum": "$5.6B"
+  },
+  {
+    "rank": 47,
+    "name": "Craft Ventures Management",
+    "location": "San Francisco, CA",
+    "aum": "$5.5B"
+  },
+  {
+    "rank": 48,
+    "name": "Canaan Partners",
+    "location": "Stamford, CT",
+    "aum": "$5.5B"
+  },
+  {
+    "rank": 49,
+    "name": "Matrix Partners",
+    "location": "Cambridge, MA",
+    "aum": "$5.4B"
+  },
+  {
+    "rank": 50,
+    "name": "Indigo Partners",
+    "location": "Phoenix, AZ",
+    "aum": "$5.1B"
+  },
+  {
+    "rank": 51,
+    "name": "Eclipse Ventures",
+    "location": "Palo Alto, CA",
+    "aum": "$5.1B"
+  },
+  {
+    "rank": 52,
+    "name": "Hedosophia Advisor Limited",
+    "location": "St. Peter Port",
+    "aum": "$5.1B"
+  },
+  {
+    "rank": 53,
+    "name": "DFJ Growth",
+    "location": "Menlo Park, CA",
+    "aum": "$5.1B"
+  },
+  {
+    "rank": 54,
+    "name": "VR Management",
+    "location": "Palo Alto, CA",
+    "aum": "$5.1B"
+  },
+  {
+    "rank": 55,
+    "name": "Qiming Venture Partners",
+    "location": "Hong Kong",
+    "aum": "$4.9B"
+  },
+  {
+    "rank": 56,
+    "name": "Zeev Ventures",
+    "location": "Palo Alto, CA",
+    "aum": "$4.9B"
+  },
+  {
+    "rank": 57,
+    "name": "Felicis Ventures",
+    "location": "Menlo Park, CA",
+    "aum": "$4.8B"
+  },
+  {
+    "rank": 58,
+    "name": "Menlo Ventures",
+    "location": "Menlo Park, CA",
+    "aum": "$4.8B"
+  },
+  {
+    "rank": 59,
+    "name": "Benchmark Capital",
+    "location": "Woodside, CA",
+    "aum": "$4.8B"
+  },
+  {
+    "rank": 60,
+    "name": "Greycroft",
+    "location": "New York, NY",
+    "aum": "$4.5B"
+  },
+  {
+    "rank": 61,
+    "name": "Momentum Capital Partners Alpha Advisor Limited",
+    "location": "Beijing",
+    "aum": "$4.5B"
+  },
+  {
+    "rank": 62,
+    "name": "Polaris Growth Management",
+    "location": "Boston, MA",
+    "aum": "$4.5B"
+  },
+  {
+    "rank": 63,
+    "name": "K5 Global Advisor",
+    "location": "",
+    "aum": "$4.4B"
+  },
+  {
+    "rank": 64,
+    "name": "Firstmark Capital",
+    "location": "New York, NY",
+    "aum": "$4.4B"
+  },
+  {
+    "rank": 65,
+    "name": "Atreides Management",
+    "location": "Boston, MA",
+    "aum": "$4.4B"
+  },
+  {
+    "rank": 66,
+    "name": "Madrona Venture Group",
+    "location": "Seattle, WA",
+    "aum": "$4.3B"
+  },
+  {
+    "rank": 67,
+    "name": "Fifth Wall Asset Management",
+    "location": "Santa Monica, CA",
+    "aum": "$4.3B"
+  },
+  {
+    "rank": 68,
+    "name": "Valar Ventures",
+    "location": "New York, NY",
+    "aum": "$4.3B"
+  },
+  {
+    "rank": 69,
+    "name": "Momentum Capital Partners Fund IV Advisor Limited",
+    "location": "Beijing",
+    "aum": "$4.3B"
+  },
+  {
+    "rank": 70,
+    "name": "Elevation Capital Partners",
+    "location": "Salt Lake City, UT",
+    "aum": "$4.2B"
+  },
+  {
+    "rank": 71,
+    "name": "Column Group",
+    "location": "San Francisco, CA",
+    "aum": "$4.2B"
+  },
+  {
+    "rank": 72,
+    "name": "QED Investors",
+    "location": "Alexandria, VA",
+    "aum": "$4.2B"
+  },
+  {
+    "rank": 73,
+    "name": "Eight Roads GP",
+    "location": "Pembroke, Hamilton",
+    "aum": "$4.2B"
+  },
+  {
+    "rank": 74,
+    "name": "Nexus Ventures Advisors Private Limited",
+    "location": "Port Louis, Port Louis",
+    "aum": "$4.2B"
+  },
+  {
+    "rank": 75,
+    "name": "Foundation Capital",
+    "location": "Palo Alto, CA",
+    "aum": "$4.1B"
+  },
+  {
+    "rank": 76,
+    "name": "5Y Capital Management Limited",
+    "location": "Hong Kong",
+    "aum": "$4.1B"
+  },
+  {
+    "rank": 77,
+    "name": "Meritech Capital",
+    "location": "Palo Alto, CA",
+    "aum": "$4.1B"
+  },
+  {
+    "rank": 78,
+    "name": "Versant Venture Management",
+    "location": "San Francisco, CA",
+    "aum": "$4.1B"
+  },
+  {
+    "rank": 79,
+    "name": "Golden Sand River Digital",
+    "location": "Grand Cayman",
+    "aum": "$4.1B"
+  },
+  {
+    "rank": 80,
+    "name": "Qiming Global Management",
+    "location": "Hong Kong",
+    "aum": "$3.9B"
+  },
+  {
+    "rank": 81,
+    "name": "Goodwater Capital",
+    "location": "Burlingame, CA",
+    "aum": "$3.9B"
+  },
+  {
+    "rank": 82,
+    "name": "Mayfield Fund L.L.C. A Delaware Limited Liability",
+    "location": "Menlo Park, CA",
+    "aum": "$3.9B"
+  },
+  {
+    "rank": 83,
+    "name": "BRV Lotus Holdings Limited",
+    "location": "Hong Kong",
+    "aum": "$3.9B"
+  },
+  {
+    "rank": 84,
+    "name": "Breakthrough Energy Ventures",
+    "location": "Boston, MA",
+    "aum": "$3.8B"
+  },
+  {
+    "rank": 85,
+    "name": "Next Legacy Management",
+    "location": "Palo Alto, CA",
+    "aum": "$3.8B"
+  },
+  {
+    "rank": 86,
+    "name": "Union Square Ventures",
+    "location": "New York, NY",
+    "aum": "$3.7B"
+  },
+  {
+    "rank": 87,
+    "name": "IDG Vc Management",
+    "location": "Hong Kong",
+    "aum": "$3.6B"
+  },
+  {
+    "rank": 88,
+    "name": "HV Capital Manager GMBH",
+    "location": "Munich, Bavaria",
+    "aum": "$3.5B"
+  },
+  {
+    "rank": 89,
+    "name": "Highland Europe Geneva S.A.R.L.",
+    "location": "Geneva",
+    "aum": "$3.5B"
+  },
+  {
+    "rank": 90,
+    "name": "Foresite Capital",
+    "location": "Larkspur, CA",
+    "aum": "$3.5B"
+  },
+  {
+    "rank": 91,
+    "name": "True Ventures",
+    "location": "Palo Alto, CA",
+    "aum": "$3.4B"
+  },
+  {
+    "rank": 92,
+    "name": "Foundry Group",
+    "location": "Boulder, CO",
+    "aum": "$3.4B"
+  },
+  {
+    "rank": 93,
+    "name": "Signalfire",
+    "location": "San Francisco, CA",
+    "aum": "$3.3B"
+  },
+  {
+    "rank": 94,
+    "name": "MPM Bioimpact",
+    "location": "Boston, MA",
+    "aum": "$3.3B"
+  },
+  {
+    "rank": 95,
+    "name": "83north 2017",
+    "location": "Tel Aviv",
+    "aum": "$3.3B"
+  },
+  {
+    "rank": 96,
+    "name": "Emergence Equity Management",
+    "location": "San Francisco, CA",
+    "aum": "$3.2B"
+  },
+  {
+    "rank": 97,
+    "name": "DCM",
+    "location": "Menlo Park, CA",
+    "aum": "$3.2B"
+  },
+  {
+    "rank": 98,
+    "name": "Forerunner Ventures Management",
+    "location": "San Francisco, CA",
+    "aum": "$3.2B"
+  },
+  {
+    "rank": 99,
+    "name": "Georgian Partners Growth",
+    "location": "Toronto, Ontario",
+    "aum": "$3.1B"
+  },
+  {
+    "rank": 100,
+    "name": "h Investment Management",
+    "location": "Beijing",
+    "aum": "$3B"
+  }
+]
