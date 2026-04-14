@@ -21,17 +21,25 @@
         <span>FindJobs</span>
       </a>
  
-      <a class="nav__back" href="index.html">
+      <a class="nav__link" href="index.html">
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
-          <line x1="19" y1="12" x2="5" y2="12"/><polyline points="12 19 5 12 12 5"/>
+          <rect x="2" y="7" width="20" height="14" rx="2"/>
+          <path d="M16 7V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v2"/>
         </svg>
-        Back to all firms
+        IB Firms
+      </a>
+ 
+      <a class="nav__link" href="pe.html">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+          <line x1="12" y1="1" x2="12" y2="23"/><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/>
+        </svg>
+        PE Firms
       </a>
  
       <div class="nav__badge">
         <span class="verified-badge">
           <svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg>
-          IBR Verified
+          Verified
         </span>
       </div>
     </div>
@@ -41,7 +49,7 @@
   <div class="hero">
     <div class="hero__inner">
       <h1 class="hero__title">Recent Job Postings</h1>
-      <p class="hero__sub">New intern and job postings discovered by our daily scan, organized by the date they were first found. <strong id="totalJobs">—</strong> postings across <strong id="totalFirms">—</strong> firms.</p>
+      <p class="hero__sub">New intern and job postings from IB and PE firms discovered by our daily scan, organized by the date they were first found. <strong id="totalJobs">—</strong> postings across <strong id="totalFirms">—</strong> firms.</p>
       <p id="lastChecked" class="hero__last-checked" hidden></p>
     </div>
   </div>
@@ -55,10 +63,16 @@
         <h3 class="sidebar__label">Navigation</h3>
         <a class="company-sidebar__link" href="index.html">
           <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
-            <rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/>
-            <rect x="3" y="14" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/>
+            <rect x="2" y="7" width="20" height="14" rx="2"/>
+            <path d="M16 7V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v2"/>
           </svg>
-          All Firms
+          IB Firms
+        </a>
+        <a class="company-sidebar__link" href="pe.html">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+            <line x1="12" y1="1" x2="12" y2="23"/><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/>
+          </svg>
+          PE Firms
         </a>
       </div>
  
@@ -88,7 +102,7 @@
         <span id="statToday">—</span> new today
       </div>
  
-      <p class="sidebar__credit">Source: <em>Investment Banking Recruiting Boutiques (IBR)</em><br>Compiled by Knoton Fung, UCLA</p>
+      <p class="sidebar__credit">Sources: <em>IBR (IB)</em> &amp; <em>Top 100 PE Firms</em></p>
     </aside>
  
     <!-- TIMELINE -->
@@ -111,7 +125,7 @@
  
   <!-- FOOTER -->
   <footer class="footer">
-    <p>FindJobs &mdash; Verified IB Recruiting &bull; Data from IBR &bull; Intern postings refreshed daily</p>
+    <p>FindJobs &mdash; IB &amp; PE Recruiting &bull; Intern postings refreshed daily</p>
   </footer>
  
   <script src="recent.js"></script>

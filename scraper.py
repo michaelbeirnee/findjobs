@@ -604,10 +604,10 @@ def _build_job_key(job: dict) -> str:
     return f"{title}||{url}"
  
  
-def _load_previous_status() -> dict:
-    """Load the existing intern_status.json to preserve firstSeen dates."""
+def _load_previous_status(output_file: str = "intern_status.json") -> dict:
+    """Load the existing status JSON to preserve firstSeen dates."""
     try:
-        with open("intern_status.json", encoding="utf-8") as f:
+        with open(output_file, encoding="utf-8") as f:
             return json.load(f)
     except (FileNotFoundError, json.JSONDecodeError):
         return {}
@@ -639,16 +639,23 @@ def _stamp_first_seen(jobs: list[dict], first_seen_index: dict[str, str], today:
 # ── Main ──────────────────────────────────────────────────────────────────────
  
 def main():
+    # Accept optional command-line arguments for input/output files.
+    # Usage:  python scraper.py [firms_file] [output_file]
+    #   Default: firms_data.json -> intern_status.json
+    #   PE:      python scraper.py pe_firms_data.json pe_intern_status.json
+    firms_file  = sys.argv[1] if len(sys.argv) > 1 else "firms_data.json"
+    output_file = sys.argv[2] if len(sys.argv) > 2 else "intern_status.json"
+ 
     # Load firm list
     try:
-        with open("firms_data.json", encoding="utf-8") as f:
+        with open(firms_file, encoding="utf-8") as f:
             firms = json.load(f)
     except FileNotFoundError:
-        print("ERROR: firms_data.json not found.", file=sys.stderr)
+        print(f"ERROR: {firms_file} not found.", file=sys.stderr)
         sys.exit(1)
  
     # Load previous results to preserve firstSeen dates across runs
-    previous = _load_previous_status()
+    previous = _load_previous_status(output_file)
     first_seen_index = _build_first_seen_index(previous)
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
  
@@ -683,11 +690,11 @@ def main():
         "firms": results,
     }
  
-    with open("intern_status.json", "w", encoding="utf-8") as f:
+    with open(output_file, "w", encoding="utf-8") as f:
         json.dump(output, f, indent=2, ensure_ascii=False)
  
     print(f"\nDone. {found}/{total} firms have intern postings.")
-    print("Results written to intern_status.json")
+    print(f"Results written to {output_file}")
  
  
 if __name__ == "__main__":

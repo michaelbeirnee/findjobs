@@ -1,10 +1,17 @@
-// ── Recent Postings Page: shows all jobs grouped by discovery date ──
+// ── Recent Postings Page: shows all jobs from IB + PE grouped by discovery date ──
  
 const PRESENCE_CLASS = {
   "Very High": "presence-vh",
   "High":      "presence-h",
   "Moderate":  "presence-m",
   "Low":       "presence-l",
+};
+ 
+const TIER_CLASS = {
+  "Mega Fund":        "tier-mega",
+  "Large Fund":       "tier-large",
+  "Upper Mid-Market": "tier-uppermid",
+  "Mid-Market":       "tier-mid",
 };
  
 function initials(name) {
@@ -28,7 +35,6 @@ function escapeAttr(str) {
 }
  
 function formatDate(dateStr) {
-  // dateStr is "YYYY-MM-DD"
   const [y, m, d] = dateStr.split("-").map(Number);
   const date = new Date(y, m - 1, d);
   return date.toLocaleDateString("en-US", {
@@ -54,7 +60,7 @@ function relativeDate(dateStr) {
 }
  
 // ── Render a single job card in the timeline ────────────────────
-function renderTimelineJobCard(job, firmName, firmPresence) {
+function renderTimelineJobCard(job, firmName, firmPresence, firmType) {
   const card = document.createElement("div");
   card.className = "job-card";
  
@@ -72,11 +78,24 @@ function renderTimelineJobCard(job, firmName, firmPresence) {
     : "";
  
   const applyUrl = job.applyUrl || "#";
-  const companyPageUrl = `company.html?firm=${encodeURIComponent(firmName)}`;
+  const companyPageUrl = firmType === "pe"
+    ? `company.html?firm=${encodeURIComponent(firmName)}&type=pe`
+    : `company.html?firm=${encodeURIComponent(firmName)}`;
  
-  const presencePill = firmPresence
-    ? `<span class="card__presence-pill ${PRESENCE_CLASS[firmPresence] || ""}">${escapeHtml(firmPresence)}</span>`
-    : "";
+  // Presence or tier pill
+  let presencePill = "";
+  if (firmType === "pe" && firmPresence) {
+    const cls = TIER_CLASS[firmPresence] || "";
+    presencePill = `<span class="card__presence-pill ${cls}">${escapeHtml(firmPresence)}</span>`;
+  } else if (firmPresence) {
+    const cls = PRESENCE_CLASS[firmPresence] || "";
+    presencePill = `<span class="card__presence-pill ${cls}">${escapeHtml(firmPresence)}</span>`;
+  }
+ 
+  // Type badge (IB or PE)
+  const typeBadgeClass = firmType === "pe" ? "firm-type-badge--pe" : "firm-type-badge--ib";
+  const typeBadgeLabel = firmType === "pe" ? "PE" : "IB";
+  const typeBadge = `<span class="firm-type-badge ${typeBadgeClass}">${typeBadgeLabel}</span>`;
  
   card.innerHTML = `
     <div class="job-card__header">
@@ -91,6 +110,7 @@ function renderTimelineJobCard(job, firmName, firmPresence) {
       </div>
       <p class="job-card__firm">
         <a href="${escapeAttr(companyPageUrl)}" class="recent-firm-link">${escapeHtml(firmName)}</a>
+        ${typeBadge}
         ${presencePill}
       </p>
     </div>
@@ -119,52 +139,13 @@ function renderTimelineJobCard(job, firmName, firmPresence) {
   return card;
 }
  
-// ── Main page logic ─────────────────────────────────────────
-async function init() {
-  let firms = [];
-  let internStatus = {};
-  let lastUpdated = null;
- 
-  try {
-    const firmsRes = await fetch("firms_data.json");
-    firms = await firmsRes.json();
-  } catch (e) {
-    console.error("Failed to load firms_data.json", e);
-  }
- 
-  // Build a lookup for firm presence
-  const firmPresenceMap = {};
-  firms.forEach(f => { firmPresenceMap[f.name] = f.presence; });
- 
-  try {
-    const statusRes = await fetch("intern_status.json");
-    if (statusRes.ok) {
-      const data = await statusRes.json();
-      internStatus = data.firms || {};
-      lastUpdated = data.lastUpdated;
- 
-      if (lastUpdated) {
-        const date = new Date(lastUpdated);
-        const el = document.getElementById("lastChecked");
-        if (el) {
-          el.textContent = `Postings last checked: ${date.toLocaleDateString("en-US", {
-            month: "short", day: "numeric", year: "numeric"
-          })}`;
-          el.hidden = false;
-        }
-      }
-    }
-  } catch (_) {}
- 
-  // Collect all jobs with their firm names, adding firstSeen
-  const allJobs = [];
-  const firmsWithJobs = new Set();
- 
+// ── Collect jobs from an intern status object ──────────────────
+function collectJobs(internStatus, firmLookup, firmType) {
+  const jobs = [];
   for (const [firmName, firmData] of Object.entries(internStatus)) {
     if (!firmData.hasInternPosting) continue;
-    const jobs = firmData.jobs || [];
-    for (const job of jobs) {
-      // Use firstSeen if available, otherwise fall back to lastChecked date
+    const firmJobs = firmData.jobs || [];
+    for (const job of firmJobs) {
       let firstSeen = job.firstSeen;
       if (!firstSeen && firmData.lastChecked) {
         firstSeen = firmData.lastChecked.split("T")[0];
@@ -172,15 +153,82 @@ async function init() {
       if (!firstSeen) {
         firstSeen = new Date().toISOString().split("T")[0];
       }
-      allJobs.push({
+      jobs.push({
         ...job,
         firstSeen,
         firmName,
-        firmPresence: firmPresenceMap[firmName] || null,
+        firmPresence: firmLookup[firmName] || null,
+        firmType,
       });
-      firmsWithJobs.add(firmName);
     }
   }
+  return jobs;
+}
+ 
+// ── Main page logic ─────────────────────────────────────────
+async function init() {
+  // Load IB data
+  let ibFirms = [];
+  let ibInternStatus = {};
+  let lastUpdatedIB = null;
+ 
+  // Load PE data
+  let peFirms = [];
+  let peInternStatus = {};
+  let lastUpdatedPE = null;
+ 
+  // Fetch all data in parallel
+  const [ibFirmsRes, peFirmsRes, ibStatusRes, peStatusRes] = await Promise.all([
+    fetch("firms_data.json").catch(() => null),
+    fetch("pe_firms_data.json").catch(() => null),
+    fetch("intern_status.json").catch(() => null),
+    fetch("pe_intern_status.json").catch(() => null),
+  ]);
+ 
+  if (ibFirmsRes && ibFirmsRes.ok) {
+    ibFirms = await ibFirmsRes.json();
+  }
+  if (peFirmsRes && peFirmsRes.ok) {
+    peFirms = await peFirmsRes.json();
+  }
+  if (ibStatusRes && ibStatusRes.ok) {
+    const data = await ibStatusRes.json();
+    ibInternStatus = data.firms || {};
+    lastUpdatedIB = data.lastUpdated;
+  }
+  if (peStatusRes && peStatusRes.ok) {
+    const data = await peStatusRes.json();
+    peInternStatus = data.firms || {};
+    lastUpdatedPE = data.lastUpdated;
+  }
+ 
+  // Show last-checked timestamp (use the most recent of the two)
+  const lastUpdated = lastUpdatedIB || lastUpdatedPE;
+  if (lastUpdated) {
+    const date = new Date(lastUpdated);
+    const el = document.getElementById("lastChecked");
+    if (el) {
+      el.textContent = `Postings last checked: ${date.toLocaleDateString("en-US", {
+        month: "short", day: "numeric", year: "numeric"
+      })}`;
+      el.hidden = false;
+    }
+  }
+ 
+  // Build lookups for firm presence/tier
+  const ibPresenceMap = {};
+  ibFirms.forEach(f => { ibPresenceMap[f.name] = f.presence; });
+ 
+  const peTierMap = {};
+  peFirms.forEach(f => { peTierMap[f.name] = f.tier; });
+ 
+  // Collect all jobs from both sources
+  const ibJobs = collectJobs(ibInternStatus, ibPresenceMap, "ib");
+  const peJobs = collectJobs(peInternStatus, peTierMap, "pe");
+  const allJobs = [...ibJobs, ...peJobs];
+ 
+  const firmsWithJobs = new Set();
+  allJobs.forEach(j => firmsWithJobs.add(j.firmName));
  
   // Sort jobs by firstSeen descending, then firm name
   allJobs.sort((a, b) => {
@@ -253,7 +301,7 @@ async function init() {
     const jobsList = document.createElement("div");
     jobsList.className = "jobs-list";
     for (const job of jobs) {
-      jobsList.appendChild(renderTimelineJobCard(job, job.firmName, job.firmPresence));
+      jobsList.appendChild(renderTimelineJobCard(job, job.firmName, job.firmPresence, job.firmType));
     }
     section.appendChild(jobsList);
  

@@ -1,4 +1,4 @@
-// ── Company Page: shows intern job listings for a single firm ──
+// ── Company Page: shows intern job listings for a single firm (IB or PE) ──
  
 const PRESENCE_CLASS = {
   "Very High": "presence-vh",
@@ -7,11 +7,25 @@ const PRESENCE_CLASS = {
   "Low":       "presence-l",
 };
  
+const TIER_CLASS = {
+  "Mega Fund":        "tier-mega",
+  "Large Fund":       "tier-large",
+  "Upper Mid-Market": "tier-uppermid",
+  "Mid-Market":       "tier-mid",
+};
+ 
 const PRESENCE_INTERN_LABEL = {
   "Very High": "Many interns historically",
   "High":      "4+ interns historically",
   "Moderate":  "2+ interns historically",
   "Low":       "1 or fewer interns historically",
+};
+ 
+const TIER_AUM_LABEL = {
+  "Mega Fund":        "AUM ≥ $75B",
+  "Large Fund":       "$40B – $75B",
+  "Upper Mid-Market": "$25B – $40B",
+  "Mid-Market":       "< $25B",
 };
  
 function initials(name) {
@@ -102,31 +116,54 @@ function escapeAttr(str) {
  
 // ── Main page logic ─────────────────────────────────────────
 async function init() {
-  // Get firm name from URL
+  // Get firm name and type from URL
   const params = new URLSearchParams(window.location.search);
   const firmName = params.get("firm");
+  const firmType = params.get("type") || "ib"; // default to IB
  
   if (!firmName) {
-    window.location.href = "index.html";
+    window.location.href = firmType === "pe" ? "pe.html" : "index.html";
     return;
+  }
+ 
+  const isPE = firmType === "pe";
+ 
+  // Update back link based on type
+  const backLink = document.getElementById("backLink");
+  if (backLink) {
+    backLink.href = isPE ? "pe.html" : "index.html";
+  }
+ 
+  // Update badge for PE
+  if (isPE) {
+    const badge = document.getElementById("verifiedBadge");
+    if (badge) badge.className = "verified-badge verified-badge--pe";
+    const badgeText = document.getElementById("badgeText");
+    if (badgeText) badgeText.textContent = "Top 100 PE";
+  } else {
+    const badgeText = document.getElementById("badgeText");
+    if (badgeText) badgeText.textContent = "IBR Verified";
   }
  
   // Update page title
   document.title = `${firmName} — Intern Jobs — FindJobs`;
  
-  // Load data
+  // Load data based on type
+  const firmsFile = isPE ? "pe_firms_data.json" : "firms_data.json";
+  const statusFile = isPE ? "pe_intern_status.json" : "intern_status.json";
+ 
   let firms = [];
   let internStatus = {};
  
   try {
-    const firmsRes = await fetch("firms_data.json");
+    const firmsRes = await fetch(firmsFile);
     firms = await firmsRes.json();
   } catch (e) {
-    console.error("Failed to load firms_data.json", e);
+    console.error(`Failed to load ${firmsFile}`, e);
   }
  
   try {
-    const statusRes = await fetch("intern_status.json");
+    const statusRes = await fetch(statusFile);
     if (statusRes.ok) {
       const data = await statusRes.json();
       internStatus = data.firms || {};
@@ -160,10 +197,23 @@ async function init() {
   firmInitials.textContent = initials(firmName);
  
   if (firm) {
-    firmPresencePill.textContent = firm.presence;
-    firmPresencePill.className = `card__presence-pill ${PRESENCE_CLASS[firm.presence]}`;
-    firmPresenceLabel.textContent = PRESENCE_INTERN_LABEL[firm.presence] || "";
-    firmInitials.className = `company-hero__initials company-hero__initials--${firm.presence.toLowerCase().replace(/\s+/g, "")}`;
+    if (isPE) {
+      // PE firm: use tier-based styling
+      firmPresencePill.textContent = firm.tier;
+      firmPresencePill.className = `card__presence-pill ${TIER_CLASS[firm.tier] || ""}`;
+      firmPresenceLabel.textContent = `#${firm.rank} · ${firm.aum} AUM · ${firm.location}`;
+      firmInitials.className = "company-hero__initials company-hero__initials--pe";
+ 
+      // Update hero to PE purple
+      const hero = document.querySelector(".hero");
+      if (hero) hero.classList.add("hero--pe");
+    } else {
+      // IB firm: use presence-based styling
+      firmPresencePill.textContent = firm.presence;
+      firmPresencePill.className = `card__presence-pill ${PRESENCE_CLASS[firm.presence]}`;
+      firmPresenceLabel.textContent = PRESENCE_INTERN_LABEL[firm.presence] || "";
+      firmInitials.className = `company-hero__initials company-hero__initials--${firm.presence.toLowerCase().replace(/\s+/g, "")}`;
+    }
  
     const jobWord = jobs.length === 1 ? "posting" : "postings";
     if (jobs.length > 0) {
@@ -193,6 +243,16 @@ async function init() {
   document.getElementById("linkGlassdoor").href = glassdoorUrl(firmName);
  
   document.getElementById("statJobCount").textContent = jobs.length;
+ 
+  // Update sidebar credit
+  const creditEl = document.querySelector(".sidebar__credit");
+  if (creditEl) {
+    if (isPE) {
+      creditEl.innerHTML = `Source: <em>Top 100 Private Equity Firms by AUM</em>`;
+    } else {
+      creditEl.innerHTML = `Source: <em>Investment Banking Recruiting Boutiques (IBR)</em><br>Compiled by Knoton Fung, UCLA`;
+    }
+  }
  
   // Posting status
   const postingStatusEl = document.getElementById("postingStatus");
