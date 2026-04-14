@@ -97,6 +97,16 @@ function renderTimelineJobCard(job, firmName, firmPresence, firmType) {
   const typeBadgeLabel = firmType === "pe" ? "PE" : "IB";
   const typeBadge = `<span class="firm-type-badge ${typeBadgeClass}">${typeBadgeLabel}</span>`;
  
+  // Location badge
+  const locationBadge = job.firmLocation
+    ? `<span class="job-card__location">
+         <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+           <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/>
+         </svg>
+         ${escapeHtml(job.firmLocation)}
+       </span>`
+    : "";
+ 
   card.innerHTML = `
     <div class="job-card__header">
       <div class="job-card__title-row">
@@ -112,6 +122,7 @@ function renderTimelineJobCard(job, firmName, firmPresence, firmType) {
         <a href="${escapeAttr(companyPageUrl)}" class="recent-firm-link">${escapeHtml(firmName)}</a>
         ${typeBadge}
         ${presencePill}
+        ${locationBadge}
       </p>
     </div>
     ${description}
@@ -140,7 +151,7 @@ function renderTimelineJobCard(job, firmName, firmPresence, firmType) {
 }
  
 // ── Collect jobs from an intern status object ──────────────────
-function collectJobs(internStatus, firmLookup, firmType) {
+function collectJobs(internStatus, firmLookup, firmType, locationLookup) {
   const jobs = [];
   for (const [firmName, firmData] of Object.entries(internStatus)) {
     if (!firmData.hasInternPosting) continue;
@@ -159,10 +170,98 @@ function collectJobs(internStatus, firmLookup, firmType) {
         firmName,
         firmPresence: firmLookup[firmName] || null,
         firmType,
+        firmLocation: locationLookup[firmName] || null,
       });
     }
   }
   return jobs;
+}
+ 
+// ── Render the timeline from a filtered set of jobs ────────────
+function renderTimeline(jobs) {
+  const timeline = document.getElementById("timeline");
+  const emptyState = document.getElementById("emptyState");
+  const dateNav = document.getElementById("dateNav");
+  const resultsCount = document.getElementById("resultsCount");
+  const emptyStateMsg = document.getElementById("emptyStateMsg");
+  const emptyStateSub = document.getElementById("emptyStateSub");
+ 
+  // Clear previous content
+  timeline.innerHTML = "";
+  dateNav.innerHTML = "";
+ 
+  // Group by firstSeen date
+  const grouped = new Map();
+  for (const job of jobs) {
+    if (!grouped.has(job.firstSeen)) {
+      grouped.set(job.firstSeen, []);
+    }
+    grouped.get(job.firstSeen).push(job);
+  }
+ 
+  // Update results count
+  resultsCount.textContent =
+    `${jobs.length} posting${jobs.length !== 1 ? "s" : ""} across ${grouped.size} date${grouped.size !== 1 ? "s" : ""}`;
+ 
+  if (jobs.length === 0) {
+    emptyState.hidden = false;
+    emptyStateMsg.textContent = "No postings match your filters.";
+    emptyStateSub.textContent = "Try broadening your search or clearing filters.";
+    return;
+  }
+  emptyState.hidden = true;
+ 
+  const frag = document.createDocumentFragment();
+  const navFrag = document.createDocumentFragment();
+ 
+  for (const [dateStr, dateJobs] of grouped) {
+    // Date section
+    const section = document.createElement("div");
+    section.className = "recent-date-section";
+    section.id = `date-${dateStr}`;
+ 
+    const relative = relativeDate(dateStr);
+    const relativeHtml = relative ? `<span class="recent-date-relative">${relative}</span>` : "";
+ 
+    const header = document.createElement("div");
+    header.className = "recent-date-header";
+    header.innerHTML = `
+      <div class="recent-date-marker">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+          <rect x="3" y="4" width="18" height="18" rx="2" ry="2"/>
+          <line x1="16" y1="2" x2="16" y2="6"/>
+          <line x1="8" y1="2" x2="8" y2="6"/>
+          <line x1="3" y1="10" x2="21" y2="10"/>
+        </svg>
+      </div>
+      <h2 class="recent-date-title">${formatDate(dateStr)}</h2>
+      ${relativeHtml}
+      <span class="recent-date-count">${dateJobs.length} posting${dateJobs.length !== 1 ? "s" : ""}</span>
+    `;
+    section.appendChild(header);
+ 
+    const jobsList = document.createElement("div");
+    jobsList.className = "jobs-list";
+    for (const job of dateJobs) {
+      jobsList.appendChild(renderTimelineJobCard(job, job.firmName, job.firmPresence, job.firmType));
+    }
+    section.appendChild(jobsList);
+ 
+    frag.appendChild(section);
+ 
+    // Sidebar date nav link
+    const navLink = document.createElement("a");
+    navLink.className = "recent-date-nav__link";
+    navLink.href = `#date-${dateStr}`;
+    navLink.innerHTML = `
+      <span class="recent-date-nav__date">${new Date(dateStr + "T00:00:00").toLocaleDateString("en-US", { month: "short", day: "numeric" })}</span>
+      <span class="recent-date-nav__count">${dateJobs.length}</span>
+    `;
+    navFrag.appendChild(navLink);
+  }
+ 
+  timeline.appendChild(frag);
+  dateNav.appendChild(navFrag);
 }
  
 // ── Main page logic ─────────────────────────────────────────
@@ -222,9 +321,13 @@ async function init() {
   const peTierMap = {};
   peFirms.forEach(f => { peTierMap[f.name] = f.tier; });
  
+  // Build location lookup from PE firms (IB firms don't have location data)
+  const locationLookup = {};
+  peFirms.forEach(f => { if (f.location) locationLookup[f.name] = f.location; });
+ 
   // Collect all jobs from both sources
-  const ibJobs = collectJobs(ibInternStatus, ibPresenceMap, "ib");
-  const peJobs = collectJobs(peInternStatus, peTierMap, "pe");
+  const ibJobs = collectJobs(ibInternStatus, ibPresenceMap, "ib", locationLookup);
+  const peJobs = collectJobs(peInternStatus, peTierMap, "pe", locationLookup);
   const allJobs = [...ibJobs, ...peJobs];
  
   const firmsWithJobs = new Set();
@@ -236,18 +339,9 @@ async function init() {
     return a.firmName.localeCompare(b.firmName);
   });
  
-  // Group by firstSeen date
-  const grouped = new Map();
-  for (const job of allJobs) {
-    if (!grouped.has(job.firstSeen)) {
-      grouped.set(job.firstSeen, []);
-    }
-    grouped.get(job.firstSeen).push(job);
-  }
- 
   // Count today's jobs
   const todayStr = new Date().toISOString().split("T")[0];
-  const todayJobs = grouped.get(todayStr) || [];
+  const todayJobs = allJobs.filter(j => j.firstSeen === todayStr);
  
   // Update stats
   document.getElementById("totalJobs").textContent = allJobs.length;
@@ -255,71 +349,59 @@ async function init() {
   document.getElementById("statTotal").textContent = allJobs.length;
   document.getElementById("statFirms").textContent = firmsWithJobs.size;
   document.getElementById("statToday").textContent = todayJobs.length;
-  document.getElementById("resultsCount").textContent =
-    `${allJobs.length} posting${allJobs.length !== 1 ? "s" : ""} across ${grouped.size} date${grouped.size !== 1 ? "s" : ""}`;
  
-  // Render timeline
-  const timeline = document.getElementById("timeline");
-  const emptyState = document.getElementById("emptyState");
-  const dateNav = document.getElementById("dateNav");
+  // Populate location filter dropdown
+  const locations = new Set();
+  allJobs.forEach(j => { if (j.firmLocation) locations.add(j.firmLocation); });
+  const sortedLocations = [...locations].sort();
+  const locationSelect = document.getElementById("locationFilter");
+  for (const loc of sortedLocations) {
+    const opt = document.createElement("option");
+    opt.value = loc;
+    opt.textContent = loc;
+    locationSelect.appendChild(opt);
+  }
  
+  // ── Filter + render logic ────────────────────────────────
+  const searchInput = document.getElementById("jobSearch");
+ 
+  function applyFilters() {
+    const query = searchInput.value.trim().toLowerCase();
+    const selectedLocation = locationSelect.value;
+ 
+    const filtered = allJobs.filter(job => {
+      // Location filter
+      if (selectedLocation && job.firmLocation !== selectedLocation) return false;
+ 
+      // Text search across title, description, and firm name
+      if (query) {
+        const haystack = [
+          job.title || "",
+          job.description || "",
+          job.firmName || "",
+          job.firmLocation || "",
+        ].join(" ").toLowerCase();
+        if (!haystack.includes(query)) return false;
+      }
+ 
+      return true;
+    });
+ 
+    renderTimeline(filtered);
+  }
+ 
+  // Initial render
   if (allJobs.length === 0) {
-    emptyState.hidden = false;
+    document.getElementById("emptyState").hidden = false;
+    document.getElementById("resultsCount").textContent = "0 postings across 0 dates";
     return;
   }
-  emptyState.hidden = true;
  
-  const frag = document.createDocumentFragment();
-  const navFrag = document.createDocumentFragment();
+  applyFilters();
  
-  for (const [dateStr, jobs] of grouped) {
-    // Date section
-    const section = document.createElement("div");
-    section.className = "recent-date-section";
-    section.id = `date-${dateStr}`;
- 
-    const relative = relativeDate(dateStr);
-    const relativeHtml = relative ? `<span class="recent-date-relative">${relative}</span>` : "";
- 
-    const header = document.createElement("div");
-    header.className = "recent-date-header";
-    header.innerHTML = `
-      <div class="recent-date-marker">
-        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
-          <rect x="3" y="4" width="18" height="18" rx="2" ry="2"/>
-          <line x1="16" y1="2" x2="16" y2="6"/>
-          <line x1="8" y1="2" x2="8" y2="6"/>
-          <line x1="3" y1="10" x2="21" y2="10"/>
-        </svg>
-      </div>
-      <h2 class="recent-date-title">${formatDate(dateStr)}</h2>
-      ${relativeHtml}
-      <span class="recent-date-count">${jobs.length} posting${jobs.length !== 1 ? "s" : ""}</span>
-    `;
-    section.appendChild(header);
- 
-    const jobsList = document.createElement("div");
-    jobsList.className = "jobs-list";
-    for (const job of jobs) {
-      jobsList.appendChild(renderTimelineJobCard(job, job.firmName, job.firmPresence, job.firmType));
-    }
-    section.appendChild(jobsList);
- 
-    frag.appendChild(section);
- 
-    // Sidebar date nav link
-    const navLink = document.createElement("a");
-    navLink.className = "recent-date-nav__link";
-    navLink.href = `#date-${dateStr}`;
-    navLink.innerHTML = `
-      <span class="recent-date-nav__date">${new Date(dateStr + "T00:00:00").toLocaleDateString("en-US", { month: "short", day: "numeric" })}</span>
-      <span class="recent-date-nav__count">${jobs.length}</span>
-    `;
-    navFrag.appendChild(navLink);
-  }
- 
-  timeline.appendChild(frag);
-  dateNav.appendChild(navFrag);
+  // Wire up filter events
+  searchInput.addEventListener("input", applyFilters);
+  locationSelect.addEventListener("change", applyFilters);
 }
  
 document.addEventListener("DOMContentLoaded", init);

@@ -898,6 +898,52 @@ body {
   border-radius: 10px;
 }
  
+/* ── Sidebar search input ──────────────────────────────────── */
+.sidebar__search {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+.sidebar__search-icon {
+  position: absolute;
+  left: 10px;
+  color: var(--text-muted);
+  pointer-events: none;
+}
+.sidebar__search-input {
+  width: 100%;
+  padding: 8px 10px 8px 32px;
+  border: 1.5px solid var(--border);
+  border-radius: 7px;
+  font-size: .88rem;
+  background: #f9fafb;
+  color: var(--text);
+  outline: none;
+  transition: border-color .15s, background .15s;
+}
+.sidebar__search-input:focus {
+  border-color: var(--blue);
+  background: #fff;
+}
+.sidebar__search-input::placeholder {
+  color: var(--text-muted);
+}
+ 
+/* ── Job card location badge ──────────────────────────────── */
+.job-card__location {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  font-size: .75rem;
+  font-weight: 500;
+  color: var(--text-muted);
+  margin-left: 6px;
+}
+.job-card__location svg {
+  flex-shrink: 0;
+  opacity: .7;
+}
+ 
 /* Firm link inside job card on recent page */
 .recent-firm-link {
   color: var(--blue);
