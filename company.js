@@ -1,4 +1,4 @@
-// ── Company Page: shows intern job listings for a single firm (IB or PE) ──
+// ── Company Page: shows intern job listings for a single firm (IB, PE, VC, or Hedge Fund) ──
  
 const PRESENCE_CLASS = {
   "Very High": "presence-vh",
@@ -26,6 +26,14 @@ const TIER_AUM_LABEL = {
   "Large Fund":       "$40B – $75B",
   "Upper Mid-Market": "$25B – $40B",
   "Mid-Market":       "< $25B",
+};
+ 
+// Map firm types to their data and status files
+const TYPE_CONFIG = {
+  ib:    { firmsFile: "firms_data.json",         statusFile: "intern_status.json",       backPage: "index.html", badge: "IBR Verified",      creditHtml: `Source: <em>Investment Banking Recruiting Boutiques (IBR)</em><br>Compiled by Knoton Fung, UCLA` },
+  pe:    { firmsFile: "pe_firms_data.json",      statusFile: "pe_intern_status.json",    backPage: "pe.html",    badge: "Top 100 PE",        creditHtml: `Source: <em>Top 100 Private Equity Firms by AUM</em>` },
+  vc:    { firmsFile: "vc_firms_data.json",      statusFile: "vc_intern_status.json",    backPage: "vc.html",    badge: "Top VC Firms",      creditHtml: `Source: <em>Largest Venture Capital Firms by AUM</em>` },
+  hedge: { firmsFile: "hedge_funds_data.json",   statusFile: "hedge_intern_status.json", backPage: "hedge.html", badge: "Top Hedge Funds",   creditHtml: `Source: <em>Largest Hedge Funds by AUM</em>` },
 };
  
 function initials(name) {
@@ -121,36 +129,37 @@ async function init() {
   const firmName = params.get("firm");
   const firmType = params.get("type") || "ib"; // default to IB
  
+  const config = TYPE_CONFIG[firmType] || TYPE_CONFIG.ib;
+ 
   if (!firmName) {
-    window.location.href = firmType === "pe" ? "pe.html" : "index.html";
+    window.location.href = config.backPage;
     return;
   }
  
   const isPE = firmType === "pe";
+  const isVC = firmType === "vc";
+  const isHedge = firmType === "hedge";
  
   // Update back link based on type
   const backLink = document.getElementById("backLink");
   if (backLink) {
-    backLink.href = isPE ? "pe.html" : "index.html";
+    backLink.href = config.backPage;
   }
  
-  // Update badge for PE
+  // Update badge based on type
   if (isPE) {
     const badge = document.getElementById("verifiedBadge");
     if (badge) badge.className = "verified-badge verified-badge--pe";
-    const badgeText = document.getElementById("badgeText");
-    if (badgeText) badgeText.textContent = "Top 100 PE";
-  } else {
-    const badgeText = document.getElementById("badgeText");
-    if (badgeText) badgeText.textContent = "IBR Verified";
   }
+  const badgeText = document.getElementById("badgeText");
+  if (badgeText) badgeText.textContent = config.badge;
  
   // Update page title
   document.title = `${firmName} — Intern Jobs — FindJobs`;
  
   // Load data based on type
-  const firmsFile = isPE ? "pe_firms_data.json" : "firms_data.json";
-  const statusFile = isPE ? "pe_intern_status.json" : "intern_status.json";
+  const firmsFile = config.firmsFile;
+  const statusFile = config.statusFile;
  
   let firms = [];
   let internStatus = {};
@@ -207,6 +216,11 @@ async function init() {
       // Update hero to PE purple
       const hero = document.querySelector(".hero");
       if (hero) hero.classList.add("hero--pe");
+    } else if (isVC || isHedge) {
+      // VC / Hedge Fund: use rank-based display
+      firmPresencePill.textContent = `#${firm.rank}`;
+      firmPresencePill.className = "card__presence-pill presence-h";
+      firmPresenceLabel.textContent = `${firm.aum} AUM · ${firm.location || "N/A"}`;
     } else {
       // IB firm: use presence-based styling
       firmPresencePill.textContent = firm.presence;
@@ -247,11 +261,7 @@ async function init() {
   // Update sidebar credit
   const creditEl = document.querySelector(".sidebar__credit");
   if (creditEl) {
-    if (isPE) {
-      creditEl.innerHTML = `Source: <em>Top 100 Private Equity Firms by AUM</em>`;
-    } else {
-      creditEl.innerHTML = `Source: <em>Investment Banking Recruiting Boutiques (IBR)</em><br>Compiled by Knoton Fung, UCLA`;
-    }
+    creditEl.innerHTML = config.creditHtml;
   }
  
   // Posting status

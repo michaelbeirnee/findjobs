@@ -1,4 +1,4 @@
-// ── Recent Postings Page: shows all jobs from IB + PE grouped by discovery date ──
+// ── Recent Postings Page: shows all jobs from IB + PE + VC + Hedge Funds grouped by discovery date ──
  
 const PRESENCE_CLASS = {
   "Very High": "presence-vh",
@@ -78,24 +78,38 @@ function renderTimelineJobCard(job, firmName, firmPresence, firmType) {
     : "";
  
   const applyUrl = job.applyUrl || "#";
-  const companyPageUrl = firmType === "pe"
-    ? `company.html?firm=${encodeURIComponent(firmName)}&type=pe`
-    : `company.html?firm=${encodeURIComponent(firmName)}`;
+ 
+  // Build company page URL based on firm type
+  let companyPageUrl;
+  if (firmType === "pe") {
+    companyPageUrl = `company.html?firm=${encodeURIComponent(firmName)}&type=pe`;
+  } else if (firmType === "vc") {
+    companyPageUrl = `company.html?firm=${encodeURIComponent(firmName)}&type=vc`;
+  } else if (firmType === "hedge") {
+    companyPageUrl = `company.html?firm=${encodeURIComponent(firmName)}&type=hedge`;
+  } else {
+    companyPageUrl = `company.html?firm=${encodeURIComponent(firmName)}`;
+  }
  
   // Presence or tier pill
   let presencePill = "";
   if (firmType === "pe" && firmPresence) {
     const cls = TIER_CLASS[firmPresence] || "";
     presencePill = `<span class="card__presence-pill ${cls}">${escapeHtml(firmPresence)}</span>`;
-  } else if (firmPresence) {
+  } else if ((firmType === "ib") && firmPresence) {
     const cls = PRESENCE_CLASS[firmPresence] || "";
     presencePill = `<span class="card__presence-pill ${cls}">${escapeHtml(firmPresence)}</span>`;
   }
  
-  // Type badge (IB or PE)
-  const typeBadgeClass = firmType === "pe" ? "firm-type-badge--pe" : "firm-type-badge--ib";
-  const typeBadgeLabel = firmType === "pe" ? "PE" : "IB";
-  const typeBadge = `<span class="firm-type-badge ${typeBadgeClass}">${typeBadgeLabel}</span>`;
+  // Type badge
+  const typeBadgeMap = {
+    ib:    { cls: "firm-type-badge--ib",    label: "IB" },
+    pe:    { cls: "firm-type-badge--pe",    label: "PE" },
+    vc:    { cls: "firm-type-badge--vc",    label: "VC" },
+    hedge: { cls: "firm-type-badge--hedge", label: "HF" },
+  };
+  const badgeInfo = typeBadgeMap[firmType] || typeBadgeMap.ib;
+  const typeBadge = `<span class="firm-type-badge ${badgeInfo.cls}">${badgeInfo.label}</span>`;
  
   // Location badge
   const locationBadge = job.firmLocation
@@ -266,23 +280,37 @@ function renderTimeline(jobs) {
  
 // ── Main page logic ─────────────────────────────────────────
 async function init() {
-  // Load IB data
+  // Load all data sources in parallel
+  const [ibFirmsRes, peFirmsRes, vcFirmsRes, hedgeFirmsRes, ibStatusRes, peStatusRes, vcStatusRes, hedgeStatusRes] = await Promise.all([
+    fetch("firms_data.json").catch(() => null),
+    fetch("pe_firms_data.json").catch(() => null),
+    fetch("vc_firms_data.json").catch(() => null),
+    fetch("hedge_funds_data.json").catch(() => null),
+    fetch("intern_status.json").catch(() => null),
+    fetch("pe_intern_status.json").catch(() => null),
+    fetch("vc_intern_status.json").catch(() => null),
+    fetch("hedge_intern_status.json").catch(() => null),
+  ]);
+ 
+  // IB data
   let ibFirms = [];
   let ibInternStatus = {};
   let lastUpdatedIB = null;
  
-  // Load PE data
+  // PE data
   let peFirms = [];
   let peInternStatus = {};
   let lastUpdatedPE = null;
  
-  // Fetch all data in parallel
-  const [ibFirmsRes, peFirmsRes, ibStatusRes, peStatusRes] = await Promise.all([
-    fetch("firms_data.json").catch(() => null),
-    fetch("pe_firms_data.json").catch(() => null),
-    fetch("intern_status.json").catch(() => null),
-    fetch("pe_intern_status.json").catch(() => null),
-  ]);
+  // VC data
+  let vcFirms = [];
+  let vcInternStatus = {};
+  let lastUpdatedVC = null;
+ 
+  // Hedge Fund data
+  let hedgeFirms = [];
+  let hedgeInternStatus = {};
+  let lastUpdatedHedge = null;
  
   if (ibFirmsRes && ibFirmsRes.ok) {
     ibFirms = await ibFirmsRes.json();
@@ -290,6 +318,13 @@ async function init() {
   if (peFirmsRes && peFirmsRes.ok) {
     peFirms = await peFirmsRes.json();
   }
+  if (vcFirmsRes && vcFirmsRes.ok) {
+    vcFirms = await vcFirmsRes.json();
+  }
+  if (hedgeFirmsRes && hedgeFirmsRes.ok) {
+    hedgeFirms = await hedgeFirmsRes.json();
+  }
+ 
   if (ibStatusRes && ibStatusRes.ok) {
     const data = await ibStatusRes.json();
     ibInternStatus = data.firms || {};
@@ -300,9 +335,19 @@ async function init() {
     peInternStatus = data.firms || {};
     lastUpdatedPE = data.lastUpdated;
   }
+  if (vcStatusRes && vcStatusRes.ok) {
+    const data = await vcStatusRes.json();
+    vcInternStatus = data.firms || {};
+    lastUpdatedVC = data.lastUpdated;
+  }
+  if (hedgeStatusRes && hedgeStatusRes.ok) {
+    const data = await hedgeStatusRes.json();
+    hedgeInternStatus = data.firms || {};
+    lastUpdatedHedge = data.lastUpdated;
+  }
  
-  // Show last-checked timestamp (use the most recent of the two)
-  const lastUpdated = lastUpdatedIB || lastUpdatedPE;
+  // Show last-checked timestamp (use the most recent of all)
+  const lastUpdated = lastUpdatedIB || lastUpdatedPE || lastUpdatedVC || lastUpdatedHedge;
   if (lastUpdated) {
     const date = new Date(lastUpdated);
     const el = document.getElementById("lastChecked");
@@ -321,14 +366,18 @@ async function init() {
   const peTierMap = {};
   peFirms.forEach(f => { peTierMap[f.name] = f.tier; });
  
-  // Build location lookup from PE firms (IB firms don't have location data)
+  // Build location lookup from all firm sources
   const locationLookup = {};
   peFirms.forEach(f => { if (f.location) locationLookup[f.name] = f.location; });
+  vcFirms.forEach(f => { if (f.location) locationLookup[f.name] = f.location; });
+  hedgeFirms.forEach(f => { if (f.location) locationLookup[f.name] = f.location; });
  
-  // Collect all jobs from both sources
+  // Collect all jobs from all sources
   const ibJobs = collectJobs(ibInternStatus, ibPresenceMap, "ib", locationLookup);
   const peJobs = collectJobs(peInternStatus, peTierMap, "pe", locationLookup);
-  const allJobs = [...ibJobs, ...peJobs];
+  const vcJobs = collectJobs(vcInternStatus, {}, "vc", locationLookup);
+  const hedgeJobs = collectJobs(hedgeInternStatus, {}, "hedge", locationLookup);
+  const allJobs = [...ibJobs, ...peJobs, ...vcJobs, ...hedgeJobs];
  
   const firmsWithJobs = new Set();
   allJobs.forEach(j => firmsWithJobs.add(j.firmName));

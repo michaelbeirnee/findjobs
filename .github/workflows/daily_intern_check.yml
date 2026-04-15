@@ -31,11 +31,17 @@ jobs:
       - name: Run PE intern posting scraper
         run: python scraper.py pe_firms_data.json pe_intern_status.json
  
+      - name: Run VC intern posting scraper
+        run: python scraper.py vc_firms_data.json vc_intern_status.json
+ 
+      - name: Run Hedge Fund intern posting scraper
+        run: python scraper.py hedge_funds_data.json hedge_intern_status.json
+ 
       - name: Commit updated status files
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add intern_status.json pe_intern_status.json
+          git add intern_status.json pe_intern_status.json vc_intern_status.json hedge_intern_status.json
           # Only commit if there are actual changes
           git diff --staged --quiet || git commit -m "chore: update intern job postings [skip ci]"
  

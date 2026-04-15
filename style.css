@@ -1063,3 +1063,11 @@ body {
   background: #ede9fe;
   color: var(--pe-mega);
 }
+.firm-type-badge--vc {
+  background: #d1fae5;
+  color: #059669;
+}
+.firm-type-badge--hedge {
+  background: #fef3c7;
+  color: #d97706;
+}
