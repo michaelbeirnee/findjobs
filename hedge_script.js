@@ -6,7 +6,7 @@ let FIRMS = [];
 let INTERN_STATUS = {};
 let query = "";
 let sortMode = "rank";
-let activeBands = new Set(["Top 50", "51-100"]);
+let activeBands = new Set(["Top 50", "51-100", "101-150", "151-200", "201-250", "251-300"]);
 let showInternOnly = false;
  
 function initials(name) {
@@ -28,7 +28,12 @@ function glassdoorUrl(name) {
 }
  
 function rankBand(f) {
-  return f.rank <= 50 ? "Top 50" : "51-100";
+   if (f.rank <= 50) return "Top 50";
+    if (f.rank <= 100) return "51-100";
+    if (f.rank <= 150) return "101-150";
+    if (f.rank <= 200) return "151-200";
+   if (f.rank <= 250) return "201-250";
+    return "251-300";;
 }
  
 function renderCard(firm) {
