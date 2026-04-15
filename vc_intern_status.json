@@ -1,5 +1,706 @@
 {
-  "lastUpdated": null,
+  "lastUpdated": "2026-04-15T09:30:37.942214+00:00",
   "internCount": 0,
-  "firms": {}
+  "firms": {
+    "Sequoia Capital Operations": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:28:07.922010+00:00",
+      "jobs": []
+    },
+    "Andreessen Horowitz": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:28:09.422239+00:00",
+      "jobs": []
+    },
+    "General Catalyst": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:28:10.922457+00:00",
+      "jobs": []
+    },
+    "Encap Investments": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:28:12.422661+00:00",
+      "jobs": []
+    },
+    "Lightspeed Venture Partners": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:28:13.922868+00:00",
+      "jobs": []
+    },
+    "New Enterprise Associates": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:28:15.423114+00:00",
+      "jobs": []
+    },
+    "Accel Management": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:28:16.923321+00:00",
+      "jobs": []
+    },
+    "Cobalt Investment Management": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:28:18.423554+00:00",
+      "jobs": []
+    },
+    "Founders Fund": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:28:19.923760+00:00",
+      "jobs": []
+    },
+    "Index Ventures SA": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:28:21.423960+00:00",
+      "jobs": []
+    },
+    "Bessemer Venture Partners": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:28:22.924157+00:00",
+      "jobs": []
+    },
+    "Thrive Capital": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:28:24.424363+00:00",
+      "jobs": []
+    },
+    "Impresa Management": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:28:25.924567+00:00",
+      "jobs": []
+    },
+    "Khosla Ventures": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:28:27.424773+00:00",
+      "jobs": []
+    },
+    "Angellist Advisors": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:28:28.924974+00:00",
+      "jobs": []
+    },
+    "Flagship Pioneering": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:28:30.425172+00:00",
+      "jobs": []
+    },
+    "Banyan Capital Partners": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:28:31.925346+00:00",
+      "jobs": []
+    },
+    "Spark Capital": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:28:33.425550+00:00",
+      "jobs": []
+    },
+    "Ribbit Capital": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:28:34.925752+00:00",
+      "jobs": []
+    },
+    "Y Combinator": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:28:36.425939+00:00",
+      "jobs": []
+    },
+    "RA Capital Management": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:28:37.926143+00:00",
+      "jobs": []
+    },
+    "Sapphire Ventures": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:28:39.426343+00:00",
+      "jobs": []
+    },
+    "Kleiner Perkins": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:28:40.926564+00:00",
+      "jobs": []
+    },
+    "Altimeter Capital Management": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:28:42.426734+00:00",
+      "jobs": []
+    },
+    "Arch Venture Partners": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:28:43.926929+00:00",
+      "jobs": []
+    },
+    "IDG Capital Fund Management": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:28:45.427127+00:00",
+      "jobs": []
+    },
+    "Bain Capital Ventures": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:28:46.927315+00:00",
+      "jobs": []
+    },
+    "Greenoaks Capital": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:28:48.427516+00:00",
+      "jobs": []
+    },
+    "Matrix Partners China Management": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:28:49.927723+00:00",
+      "jobs": []
+    },
+    "Greylock Partners": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:28:51.427933+00:00",
+      "jobs": []
+    },
+    "GGV Capital": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:28:52.928130+00:00",
+      "jobs": []
+    },
+    "Oak Hcft Management": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:28:54.428354+00:00",
+      "jobs": []
+    },
+    "FTV Capital": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:28:55.928558+00:00",
+      "jobs": []
+    },
+    "Eight Partners VC": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:28:57.428755+00:00",
+      "jobs": []
+    },
+    "Accel Partners Management": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:28:58.928968+00:00",
+      "jobs": []
+    },
+    "Accel London Management Limited": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:29:00.429177+00:00",
+      "jobs": []
+    },
+    "Balderton Capital": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:29:01.929386+00:00",
+      "jobs": []
+    },
+    "LUX Capital Management": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:29:03.429589+00:00",
+      "jobs": []
+    },
+    "Altos Ventures Management": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:29:04.929804+00:00",
+      "jobs": []
+    },
+    "Bond": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:29:06.430009+00:00",
+      "jobs": []
+    },
+    "Addition": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:29:07.930211+00:00",
+      "jobs": []
+    },
+    "Redpoint Ventures": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:29:09.430416+00:00",
+      "jobs": []
+    },
+    "B Capital Group": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:29:10.930655+00:00",
+      "jobs": []
+    },
+    "CRV": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:29:12.430861+00:00",
+      "jobs": []
+    },
+    "Columbia Capital": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:29:13.931071+00:00",
+      "jobs": []
+    },
+    "Kaszek Management S.A.": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:29:15.431280+00:00",
+      "jobs": []
+    },
+    "Craft Ventures Management": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:29:16.931480+00:00",
+      "jobs": []
+    },
+    "Canaan Partners": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:29:18.431711+00:00",
+      "jobs": []
+    },
+    "Matrix Partners": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:29:19.931921+00:00",
+      "jobs": []
+    },
+    "Indigo Partners": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:29:21.432070+00:00",
+      "jobs": []
+    },
+    "Eclipse Ventures": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:29:22.932275+00:00",
+      "jobs": []
+    },
+    "Hedosophia Advisor Limited": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:29:24.432495+00:00",
+      "jobs": []
+    },
+    "DFJ Growth": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:29:25.932726+00:00",
+      "jobs": []
+    },
+    "VR Management": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:29:27.432914+00:00",
+      "jobs": []
+    },
+    "Qiming Venture Partners": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:29:28.933108+00:00",
+      "jobs": []
+    },
+    "Zeev Ventures": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:29:30.433302+00:00",
+      "jobs": []
+    },
+    "Felicis Ventures": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:29:31.933481+00:00",
+      "jobs": []
+    },
+    "Menlo Ventures": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:29:33.433674+00:00",
+      "jobs": []
+    },
+    "Benchmark Capital": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:29:34.933856+00:00",
+      "jobs": []
+    },
+    "Greycroft": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:29:36.434031+00:00",
+      "jobs": []
+    },
+    "Momentum Capital Partners Alpha Advisor Limited": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:29:37.934208+00:00",
+      "jobs": []
+    },
+    "Polaris Growth Management": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:29:39.434386+00:00",
+      "jobs": []
+    },
+    "K5 Global Advisor": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:29:40.934586+00:00",
+      "jobs": []
+    },
+    "Firstmark Capital": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:29:42.434787+00:00",
+      "jobs": []
+    },
+    "Atreides Management": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:29:43.934990+00:00",
+      "jobs": []
+    },
+    "Madrona Venture Group": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:29:45.435191+00:00",
+      "jobs": []
+    },
+    "Fifth Wall Asset Management": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:29:46.935379+00:00",
+      "jobs": []
+    },
+    "Valar Ventures": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:29:48.435577+00:00",
+      "jobs": []
+    },
+    "Momentum Capital Partners Fund IV Advisor Limited": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:29:49.935780+00:00",
+      "jobs": []
+    },
+    "Elevation Capital Partners": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:29:51.435974+00:00",
+      "jobs": []
+    },
+    "Column Group": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:29:52.936205+00:00",
+      "jobs": []
+    },
+    "QED Investors": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:29:54.436411+00:00",
+      "jobs": []
+    },
+    "Eight Roads GP": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:29:55.936613+00:00",
+      "jobs": []
+    },
+    "Nexus Ventures Advisors Private Limited": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:29:57.436817+00:00",
+      "jobs": []
+    },
+    "Foundation Capital": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:29:58.937016+00:00",
+      "jobs": []
+    },
+    "5Y Capital Management Limited": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:30:00.437219+00:00",
+      "jobs": []
+    },
+    "Meritech Capital": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:30:01.937418+00:00",
+      "jobs": []
+    },
+    "Versant Venture Management": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:30:03.437619+00:00",
+      "jobs": []
+    },
+    "Golden Sand River Digital": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:30:04.937840+00:00",
+      "jobs": []
+    },
+    "Qiming Global Management": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:30:06.438036+00:00",
+      "jobs": []
+    },
+    "Goodwater Capital": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:30:07.938228+00:00",
+      "jobs": []
+    },
+    "Mayfield Fund L.L.C. A Delaware Limited Liability": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:30:09.438426+00:00",
+      "jobs": []
+    },
+    "BRV Lotus Holdings Limited": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:30:10.938629+00:00",
+      "jobs": []
+    },
+    "Breakthrough Energy Ventures": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:30:12.438832+00:00",
+      "jobs": []
+    },
+    "Next Legacy Management": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:30:13.939032+00:00",
+      "jobs": []
+    },
+    "Union Square Ventures": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:30:15.439233+00:00",
+      "jobs": []
+    },
+    "IDG Vc Management": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:30:16.939481+00:00",
+      "jobs": []
+    },
+    "HV Capital Manager GMBH": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:30:18.439681+00:00",
+      "jobs": []
+    },
+    "Highland Europe Geneva S.A.R.L.": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:30:19.939898+00:00",
+      "jobs": []
+    },
+    "Foresite Capital": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:30:21.440075+00:00",
+      "jobs": []
+    },
+    "True Ventures": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:30:22.940266+00:00",
+      "jobs": []
+    },
+    "Foundry Group": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:30:24.440490+00:00",
+      "jobs": []
+    },
+    "Signalfire": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:30:25.940697+00:00",
+      "jobs": []
+    },
+    "MPM Bioimpact": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:30:27.440897+00:00",
+      "jobs": []
+    },
+    "83north 2017": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:30:28.941088+00:00",
+      "jobs": []
+    },
+    "Emergence Equity Management": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:30:30.441286+00:00",
+      "jobs": []
+    },
+    "DCM": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:30:31.941483+00:00",
+      "jobs": []
+    },
+    "Forerunner Ventures Management": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:30:33.441683+00:00",
+      "jobs": []
+    },
+    "Georgian Partners Growth": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:30:34.941862+00:00",
+      "jobs": []
+    },
+    "h Investment Management": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:30:36.442055+00:00",
+      "jobs": []
+    }
+  }
 }

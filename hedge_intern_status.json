@@ -1,5 +1,706 @@
 {
-  "lastUpdated": null,
+  "lastUpdated": "2026-04-15T09:33:08.170658+00:00",
   "internCount": 0,
-  "firms": {}
+  "firms": {
+    "Millennium Management": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:30:38.151150+00:00",
+      "jobs": []
+    },
+    "Citadel Advisors": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:30:39.651344+00:00",
+      "jobs": []
+    },
+    "Qube Research & Technologies Limited": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:30:41.151546+00:00",
+      "jobs": []
+    },
+    "Capula Investment Management": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:30:42.651752+00:00",
+      "jobs": []
+    },
+    "Symmetry Investments": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:30:44.151947+00:00",
+      "jobs": []
+    },
+    "Balyasny Asset Management": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:30:45.652148+00:00",
+      "jobs": []
+    },
+    "Pacific Investment Management": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:30:47.152362+00:00",
+      "jobs": []
+    },
+    "Rokos Capital Management": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:30:48.652567+00:00",
+      "jobs": []
+    },
+    "Brevan Howard Capital Management": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:30:50.152764+00:00",
+      "jobs": []
+    },
+    "Bridgewater Associates": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:30:51.652953+00:00",
+      "jobs": []
+    },
+    "Garda Capital Partners": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:30:53.153160+00:00",
+      "jobs": []
+    },
+    "Marshall Wace": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:30:54.653349+00:00",
+      "jobs": []
+    },
+    "Schonfeld Strategic Advisors": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:30:56.153553+00:00",
+      "jobs": []
+    },
+    "D. E. Shaw": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:30:57.653787+00:00",
+      "jobs": []
+    },
+    "Mariner Investment Group": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:30:59.153982+00:00",
+      "jobs": []
+    },
+    "Alphadyne Asset Management": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:31:00.654177+00:00",
+      "jobs": []
+    },
+    "Exoduspoint Capital Management": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:31:02.154377+00:00",
+      "jobs": []
+    },
+    "Verition Fund Management": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:31:03.654569+00:00",
+      "jobs": []
+    },
+    "Oaktree Capital Management": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:31:05.154762+00:00",
+      "jobs": []
+    },
+    "Eisler Capital US": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:31:06.654960+00:00",
+      "jobs": []
+    },
+    "Two Sigma Investments": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:31:08.155154+00:00",
+      "jobs": []
+    },
+    "Squarepoint OPS": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:31:09.655352+00:00",
+      "jobs": []
+    },
+    "Two Sigma Advisers": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:31:11.155547+00:00",
+      "jobs": []
+    },
+    "Fortress Investment Group": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:31:12.655744+00:00",
+      "jobs": []
+    },
+    "Blackrock Capital Management": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:31:14.155938+00:00",
+      "jobs": []
+    },
+    "Renaissance Technologies": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:31:15.656135+00:00",
+      "jobs": []
+    },
+    "Cerberus Capital Management": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:31:17.156338+00:00",
+      "jobs": []
+    },
+    "Arrowstreet Capital": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:31:18.656536+00:00",
+      "jobs": []
+    },
+    "Bracebridge Capital": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:31:20.156732+00:00",
+      "jobs": []
+    },
+    "Elan Capital Management": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:31:21.656920+00:00",
+      "jobs": []
+    },
+    "TPG Angelo Gordon": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:31:23.157113+00:00",
+      "jobs": []
+    },
+    "Element Capital Management": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:31:24.657310+00:00",
+      "jobs": []
+    },
+    "Capstone Investment Advisors": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:31:26.157513+00:00",
+      "jobs": []
+    },
+    "IFM Investors PTY": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:31:27.657702+00:00",
+      "jobs": []
+    },
+    "Davidson Kempner Capital Management": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:31:29.157890+00:00",
+      "jobs": []
+    },
+    "AQR Capital Management": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:31:30.658088+00:00",
+      "jobs": []
+    },
+    "Tudor Investment": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:31:32.158293+00:00",
+      "jobs": []
+    },
+    "TA Associates": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:31:33.658483+00:00",
+      "jobs": []
+    },
+    "Lighthouse Investment Partners": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:31:35.158684+00:00",
+      "jobs": []
+    },
+    "Farallon Capital Management": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:31:36.658884+00:00",
+      "jobs": []
+    },
+    "Adage Capital Management": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:31:38.159083+00:00",
+      "jobs": []
+    },
+    "Kedalion Capital Management": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:31:39.659275+00:00",
+      "jobs": []
+    },
+    "Blackstone Infrastructure Advisors": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:31:41.159467+00:00",
+      "jobs": []
+    },
+    "Centerbridge Partners": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:31:42.659666+00:00",
+      "jobs": []
+    },
+    "AHL Partners": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:31:44.159866+00:00",
+      "jobs": []
+    },
+    "Bayview Asset Management": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:31:45.660062+00:00",
+      "jobs": []
+    },
+    "Blackstone Tactical Opportunities Advisors": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:31:47.160268+00:00",
+      "jobs": []
+    },
+    "Holocene Advisors": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:31:48.660457+00:00",
+      "jobs": []
+    },
+    "Hudson BAY Capital Management": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:31:50.160647+00:00",
+      "jobs": []
+    },
+    "Ssga Funds Management": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:31:51.660847+00:00",
+      "jobs": []
+    },
+    "Tenaron Capital Management": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:31:53.161032+00:00",
+      "jobs": []
+    },
+    "Grosvenor Capital Management": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:31:54.661226+00:00",
+      "jobs": []
+    },
+    "Voloridge": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:31:56.161429+00:00",
+      "jobs": []
+    },
+    "Paloma Partners Management": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:31:57.661623+00:00",
+      "jobs": []
+    },
+    "Walleye Capital": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:31:59.161805+00:00",
+      "jobs": []
+    },
+    "Blackstone Alternative Solutions": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:32:00.661997+00:00",
+      "jobs": []
+    },
+    "Silver Point Capital": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:32:02.162186+00:00",
+      "jobs": []
+    },
+    "Ares Capital Management": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:32:03.662380+00:00",
+      "jobs": []
+    },
+    "Polar Asset Management Partners": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:32:05.162575+00:00",
+      "jobs": []
+    },
+    "Select Equity Group": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:32:06.662771+00:00",
+      "jobs": []
+    },
+    "White Oak Capital Management Consultants": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:32:08.162960+00:00",
+      "jobs": []
+    },
+    "HHLR Advisors": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:32:09.663159+00:00",
+      "jobs": []
+    },
+    "Caxton Associates": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:32:11.163355+00:00",
+      "jobs": []
+    },
+    "Haidar Capital Management": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:32:12.663545+00:00",
+      "jobs": []
+    },
+    "Monarch": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:32:14.163750+00:00",
+      "jobs": []
+    },
+    "Baupost Group": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:32:15.663940+00:00",
+      "jobs": []
+    },
+    "Alkeon Capital Management": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:32:17.164137+00:00",
+      "jobs": []
+    },
+    "Global Endowment Management": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:32:18.664328+00:00",
+      "jobs": []
+    },
+    "Lone Pine Capital": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:32:20.164520+00:00",
+      "jobs": []
+    },
+    "Marathon Asset Management": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:32:21.664715+00:00",
+      "jobs": []
+    },
+    "Alyeska Investment Group": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:32:23.164906+00:00",
+      "jobs": []
+    },
+    "Universa Investments": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:32:24.665084+00:00",
+      "jobs": []
+    },
+    "Baker Brothers Investments": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:32:26.165270+00:00",
+      "jobs": []
+    },
+    "GC Advisors": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:32:27.665452+00:00",
+      "jobs": []
+    },
+    "Magnetar Financial": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:32:29.165629+00:00",
+      "jobs": []
+    },
+    "Strategic Value Partners": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:32:30.665805+00:00",
+      "jobs": []
+    },
+    "Soroban Capital Partners": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:32:32.165986+00:00",
+      "jobs": []
+    },
+    "HBK Capital Management": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:32:33.666160+00:00",
+      "jobs": []
+    },
+    "Meritage Group": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:32:35.166344+00:00",
+      "jobs": []
+    },
+    "Capital Fund Management S.A.": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:32:36.666519+00:00",
+      "jobs": []
+    },
+    "MIO Partners": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:32:38.166695+00:00",
+      "jobs": []
+    },
+    "AB Carval Investors": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:32:39.666869+00:00",
+      "jobs": []
+    },
+    "Systematica Investments Limited": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:32:41.167081+00:00",
+      "jobs": []
+    },
+    "Centiva Capital": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:32:42.667311+00:00",
+      "jobs": []
+    },
+    "Pershing Square Capital Management": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:32:44.167520+00:00",
+      "jobs": []
+    },
+    "Graham Capital Management": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:32:45.667732+00:00",
+      "jobs": []
+    },
+    "III Capital Management": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:32:47.167937+00:00",
+      "jobs": []
+    },
+    "Laurion Capital Management": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:32:48.668137+00:00",
+      "jobs": []
+    },
+    "Linden Advisors": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:32:50.168333+00:00",
+      "jobs": []
+    },
+    "Investure": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:32:51.668527+00:00",
+      "jobs": []
+    },
+    "Polar Capital": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:32:53.168725+00:00",
+      "jobs": []
+    },
+    "Orbis Investment Management Limited": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:32:54.668918+00:00",
+      "jobs": []
+    },
+    "Cbre Investment Management": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:32:56.169102+00:00",
+      "jobs": []
+    },
+    "Varde Management": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:32:57.669297+00:00",
+      "jobs": []
+    },
+    "JJJ Capital Management": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:32:59.169497+00:00",
+      "jobs": []
+    },
+    "Durable Capital Partners": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:33:00.669706+00:00",
+      "jobs": []
+    },
+    "Appaloosa": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:33:02.169907+00:00",
+      "jobs": []
+    },
+    "Deerfield Management": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:33:03.670095+00:00",
+      "jobs": []
+    },
+    "Magnitude Capital": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:33:05.170296+00:00",
+      "jobs": []
+    },
+    "Grantham Mayo VAN Otterloo": {
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-15T09:33:06.670499+00:00",
+      "jobs": []
+    }
+  }
 }
