@@ -265,7 +265,7 @@ def extract_json_ld_jobs(html: str, career_url: str) -> list[dict]:
     soup = BeautifulSoup(html, "html.parser")
     jobs: list[dict] = []
     seen = set()
-
+ 
     scripts = soup.find_all("script", type="application/ld+json")
     for script in scripts:
         raw = script.string or script.get_text(strip=True)
@@ -275,7 +275,7 @@ def extract_json_ld_jobs(html: str, career_url: str) -> list[dict]:
             payload = json.loads(raw)
         except Exception:
             continue
-
+ 
         # JSON-LD can be a dict, list, or wrapped in @graph.
         stack = [payload]
         while stack:
@@ -285,14 +285,14 @@ def extract_json_ld_jobs(html: str, career_url: str) -> list[dict]:
                 continue
             if not isinstance(node, dict):
                 continue
-
+ 
             if "@graph" in node and isinstance(node["@graph"], list):
                 stack.extend(node["@graph"])
-
+ 
             node_type = str(node.get("@type", "")).lower()
             if "jobposting" not in node_type:
                 continue
-
+ 
             title = (node.get("title") or node.get("name") or "").strip()
             description = (node.get("description") or "").strip()
             apply_url = (
@@ -302,21 +302,21 @@ def extract_json_ld_jobs(html: str, career_url: str) -> list[dict]:
             )
             if apply_url:
                 apply_url = urljoin(career_url, str(apply_url))
-
+ 
             if not title:
                 continue
             if _is_false_positive_title(title):
                 continue
-
+ 
             combined = f"{title} {description}"
             if not _has_intern_keyword(combined):
                 continue
-
+ 
             key = (title.lower(), str(apply_url).lower())
             if key in seen:
                 continue
             seen.add(key)
-
+ 
             grad_dates = extract_graduation_dates(combined)
             jobs.append({
                 "title": title[:200],
@@ -324,7 +324,7 @@ def extract_json_ld_jobs(html: str, career_url: str) -> list[dict]:
                 "graduationDate": grad_dates[0] if grad_dates else None,
                 "applyUrl": apply_url or career_url,
             })
-
+ 
     return jobs 
  
 def find_job_listings(html: str, career_url: str) -> list[dict]:
@@ -335,8 +335,8 @@ def find_job_listings(html: str, career_url: str) -> list[dict]:
     soup = BeautifulSoup(html, "html.parser")
     jobs = []
     seen_titles = set()
-
-
+ 
+ 
     # Strategy 0: Prefer structured metadata when available.
     # This reduces false positives significantly on modern ATS pages.
     for job in extract_json_ld_jobs(html, career_url):
@@ -563,6 +563,304 @@ def collect_candidate_job_pages(html: str, base_url: str) -> list[str]:
     return candidates
  
  
+# ── ATS API Integration ─────────────────────────────────────────────────────
+# Direct API calls to major Applicant Tracking Systems return clean JSON with
+# job titles, descriptions, locations, and apply links — no HTML parsing needed,
+# no false-positive filtering, and no breakage on career-site redesigns.
+ 
+_WORKDAY_LANG_CODES = {
+    "en", "fr", "de", "es", "it", "pt", "nl", "ja", "zh", "ko", "ru", "ar",
+}
+ 
+ 
+def _extract_greenhouse_slug(url: str) -> str | None:
+    """Extract board slug from a Greenhouse career page URL."""
+    parsed = urlparse(url)
+    host = (parsed.netloc or "").lower()
+    if "greenhouse.io" not in host:
+        return None
+    parts = [p for p in parsed.path.strip("/").split("/") if p]
+    return parts[0] if parts else None
+ 
+ 
+def _extract_lever_slug(url: str) -> str | None:
+    """Extract company slug from a Lever career page URL."""
+    parsed = urlparse(url)
+    host = (parsed.netloc or "").lower()
+    if "lever.co" not in host:
+        return None
+    parts = [p for p in parsed.path.strip("/").split("/") if p]
+    return parts[0] if parts else None
+ 
+ 
+def _extract_ashby_slug(url: str) -> str | None:
+    """Extract company slug from an Ashby career page URL."""
+    parsed = urlparse(url)
+    host = (parsed.netloc or "").lower()
+    if "ashbyhq.com" not in host:
+        return None
+    parts = [p for p in parsed.path.strip("/").split("/") if p]
+    return parts[0] if parts else None
+ 
+ 
+def _extract_smartrecruiters_slug(url: str) -> str | None:
+    """Extract company slug from a SmartRecruiters career page URL."""
+    parsed = urlparse(url)
+    host = (parsed.netloc or "").lower()
+    if "smartrecruiters.com" not in host:
+        return None
+    parts = [p for p in parsed.path.strip("/").split("/") if p]
+    return parts[0] if parts else None
+ 
+ 
+def _extract_workday_info(url: str) -> dict | None:
+    """Extract API parameters from a Workday career URL.
+ 
+    Handles the common pattern: {tenant}.wd{n}.myworkdayjobs.com/{lang?}/{board}
+    Returns {"host": ..., "tenant": ..., "board": ...} or None.
+    """
+    parsed = urlparse(url)
+    host = (parsed.netloc or "").lower()
+    if "myworkdayjobs" not in host:
+        return None
+    # Tenant is the first subdomain component
+    tenant = host.split(".")[0] if "." in host else None
+    if not tenant or tenant in ("www",):
+        return None
+    # Board is the first significant path segment (skip language codes)
+    parts = [p for p in parsed.path.strip("/").split("/") if p]
+    board = None
+    for p in parts:
+        if p.lower() in _WORKDAY_LANG_CODES or p.lower() in ("job", "jobs"):
+            continue
+        board = p
+        break
+    if not board:
+        return None
+    return {"host": parsed.netloc, "tenant": tenant, "board": board}
+ 
+ 
+def _ats_job(title: str, description: str, apply_url: str) -> dict | None:
+    """Build a normalised job dict if it passes intern-keyword and false-positive checks."""
+    title = title.strip()
+    if not title:
+        return None
+    if _is_false_positive_title(title):
+        return None
+    combined = f"{title} {description}"
+    if not _has_intern_keyword(combined):
+        return None
+    if description and _is_false_positive_desc(description):
+        return None
+    grad_dates = extract_graduation_dates(combined)
+    return {
+        "title": title[:200],
+        "description": re.sub(r"\s+", " ", description).strip()[:500],
+        "graduationDate": grad_dates[0] if grad_dates else None,
+        "applyUrl": apply_url,
+    }
+ 
+ 
+def fetch_greenhouse_jobs(slug: str) -> list[dict] | None:
+    """Fetch intern jobs from the Greenhouse boards API."""
+    api_url = f"https://boards-api.greenhouse.io/v1/boards/{slug}/jobs?content=true"
+    try:
+        r = requests.get(api_url, headers=HEADERS, timeout=TIMEOUT)
+        if r.status_code != 200:
+            return None
+        data = r.json()
+    except Exception:
+        return None
+ 
+    jobs = []
+    for posting in data.get("jobs", []):
+        title = posting.get("title", "")
+        raw_desc = posting.get("content", "") or ""
+        desc_text = BeautifulSoup(raw_desc, "html.parser").get_text(" ", strip=True)
+        apply_url = posting.get("absolute_url", "")
+ 
+        job = _ats_job(title, desc_text, apply_url)
+        if job:
+            jobs.append(job)
+    return jobs
+ 
+ 
+def fetch_lever_jobs(slug: str) -> list[dict] | None:
+    """Fetch intern jobs from the Lever postings API."""
+    api_url = f"https://api.lever.co/v0/postings/{slug}"
+    try:
+        r = requests.get(api_url, headers=HEADERS, timeout=TIMEOUT)
+        if r.status_code != 200:
+            return None
+        data = r.json()
+    except Exception:
+        return None
+ 
+    jobs = []
+    postings = data if isinstance(data, list) else []
+    for posting in postings:
+        title = posting.get("text", "")
+        desc_plain = posting.get("descriptionPlain", "") or ""
+        desc_body = posting.get("description", "") or ""
+        description = desc_plain or BeautifulSoup(desc_body, "html.parser").get_text(" ", strip=True)
+        apply_url = posting.get("hostedUrl", "") or posting.get("applyUrl", "")
+ 
+        job = _ats_job(title, description, apply_url)
+        if job:
+            jobs.append(job)
+    return jobs
+ 
+ 
+def fetch_ashby_jobs(slug: str) -> list[dict] | None:
+    """Fetch intern jobs from the Ashby posting API."""
+    api_url = f"https://api.ashbyhq.com/posting-api/job-board/{slug}"
+    try:
+        r = requests.get(api_url, headers=HEADERS, timeout=TIMEOUT)
+        if r.status_code != 200:
+            return None
+        data = r.json()
+    except Exception:
+        return None
+ 
+    jobs = []
+    for posting in data.get("jobs", []):
+        title = posting.get("title", "")
+        desc_html = posting.get("descriptionHtml", "") or posting.get("description", "") or ""
+        description = BeautifulSoup(desc_html, "html.parser").get_text(" ", strip=True) if "<" in desc_html else desc_html
+ 
+        job_id = posting.get("id", "")
+        apply_url = (
+            posting.get("applicationUrl")
+            or posting.get("jobUrl")
+            or (f"https://jobs.ashbyhq.com/{slug}/{job_id}" if job_id else "")
+        )
+ 
+        job = _ats_job(title, description, apply_url)
+        if job:
+            jobs.append(job)
+    return jobs
+ 
+ 
+def fetch_smartrecruiters_jobs(slug: str) -> list[dict] | None:
+    """Fetch intern jobs from the SmartRecruiters API."""
+    api_url = f"https://api.smartrecruiters.com/v1/companies/{slug}/postings?limit=100"
+    try:
+        r = requests.get(api_url, headers=HEADERS, timeout=TIMEOUT)
+        if r.status_code != 200:
+            return None
+        data = r.json()
+    except Exception:
+        return None
+ 
+    jobs = []
+    for posting in data.get("content", []):
+        title = posting.get("name", "")
+ 
+        desc_parts = []
+        dept = posting.get("department")
+        if isinstance(dept, dict) and dept.get("label"):
+            desc_parts.append(dept["label"])
+        loc = posting.get("location")
+        if isinstance(loc, dict) and loc.get("city"):
+            loc_str = ", ".join(filter(None, [loc.get("city"), loc.get("region"), loc.get("country")]))
+            desc_parts.append(loc_str)
+        description = " | ".join(desc_parts)
+ 
+        posting_id = posting.get("id", "") or posting.get("ref", "")
+        apply_url = f"https://jobs.smartrecruiters.com/{slug}/{posting_id}"
+ 
+        job = _ats_job(title, description, apply_url)
+        if job:
+            jobs.append(job)
+    return jobs
+ 
+ 
+def fetch_workday_jobs(host: str, tenant: str, board: str) -> list[dict] | None:
+    """Fetch intern jobs from the Workday API with targeted keyword searches."""
+    base_api = f"https://{host}/wday/cxs/{tenant}/{board}/jobs"
+    search_terms = ["intern", "summer analyst", "summer associate"]
+ 
+    all_postings: list[dict] = []
+    seen_paths: set[str] = set()
+    any_success = False
+ 
+    for term in search_terms:
+        body = {"limit": 20, "offset": 0, "appliedFacets": {}, "searchText": term}
+        try:
+            r = requests.post(
+                base_api,
+                json=body,
+                headers={**HEADERS, "Content-Type": "application/json"},
+                timeout=TIMEOUT,
+            )
+            if r.status_code != 200:
+                continue
+            data = r.json()
+            any_success = True
+        except Exception:
+            continue
+ 
+        for posting in data.get("jobPostings", []):
+            path = posting.get("externalPath", "")
+            if path in seen_paths:
+                continue
+            seen_paths.add(path)
+            all_postings.append(posting)
+ 
+    if not any_success:
+        return None
+ 
+    jobs = []
+    for posting in all_postings:
+        title = posting.get("title", "")
+        desc_parts = []
+        if posting.get("locationsText"):
+            desc_parts.append(posting["locationsText"])
+        if posting.get("postedOn"):
+            desc_parts.append(f"Posted: {posting['postedOn']}")
+        for field in posting.get("bulletFields", []):
+            desc_parts.append(str(field))
+        description = " | ".join(desc_parts)
+ 
+        path = posting.get("externalPath", "")
+        apply_url = f"https://{host}{path}" if path else ""
+ 
+        job = _ats_job(title, description, apply_url)
+        if job:
+            jobs.append(job)
+    return jobs
+ 
+ 
+def fetch_ats_jobs(url: str) -> list[dict] | None:
+    """Detect ATS platform from *url* and fetch jobs via its structured API.
+ 
+    Returns:
+        list[dict] — intern jobs found (may be empty if the board has none)
+        None       — URL is not a recognised ATS or the API call failed
+    """
+    slug = _extract_greenhouse_slug(url)
+    if slug:
+        return fetch_greenhouse_jobs(slug)
+ 
+    slug = _extract_lever_slug(url)
+    if slug:
+        return fetch_lever_jobs(slug)
+ 
+    slug = _extract_ashby_slug(url)
+    if slug:
+        return fetch_ashby_jobs(slug)
+ 
+    slug = _extract_smartrecruiters_slug(url)
+    if slug:
+        return fetch_smartrecruiters_jobs(slug)
+ 
+    info = _extract_workday_info(url)
+    if info:
+        return fetch_workday_jobs(info["host"], info["tenant"], info["board"])
+ 
+    return None
+ 
+ 
 def merge_jobs(job_lists: list[list[dict]]) -> list[dict]:
     """Merge multiple extracted job lists while de-duplicating entries."""
     merged: list[dict] = []
@@ -619,6 +917,18 @@ def check_firm(firm: dict) -> dict:
             "jobs": [],
         }
  
+    # ── Try ATS API directly on the career URL before scraping HTML ─────
+    ats_jobs = fetch_ats_jobs(resolved_career_url)
+    if ats_jobs is not None:
+        print(f"  → ATS API hit for {resolved_career_url} ({len(ats_jobs)} intern listing(s))", flush=True)
+        return {
+            "hasInternPosting": len(ats_jobs) > 0,
+            "careerUrl": resolved_career_url,
+            "status": "ok",
+            "lastChecked": datetime.now(timezone.utc).isoformat(),
+            "jobs": ats_jobs,
+        }
+ 
     print(f"  → Checking {resolved_career_url}", flush=True)
     r = get(resolved_career_url)
  
@@ -647,6 +957,11 @@ def check_firm(firm: dict) -> dict:
         for hint in ("workday", "myworkdayjobs", "myworkdaysite")
     )
     for idx, page_url in enumerate(pages_to_scan):
+        # Try ATS API on candidate page URLs (e.g. company site linking to Greenhouse)
+        page_ats_jobs = fetch_ats_jobs(page_url)
+        if page_ats_jobs is not None:
+            extracted_lists.append(page_ats_jobs)
+            continue
         page_response = r if idx == 0 else get(page_url)
         if page_response is None or page_response.status_code != 200:
             continue
