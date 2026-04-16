@@ -257,7 +257,75 @@ def extract_graduation_dates(text: str) -> list[str]:
             if date_str not in dates:
                 dates.append(date_str)
     return dates
- 
+def extract_json_ld_jobs(html: str, career_url: str) -> list[dict]:
+    """
+    Extract jobs from schema.org JSON-LD blocks.
+    This is typically higher precision than DOM heuristics when available.
+    """
+    soup = BeautifulSoup(html, "html.parser")
+    jobs: list[dict] = []
+    seen = set()
+
+    scripts = soup.find_all("script", type="application/ld+json")
+    for script in scripts:
+        raw = script.string or script.get_text(strip=True)
+        if not raw:
+            continue
+        try:
+            payload = json.loads(raw)
+        except Exception:
+            continue
+
+        # JSON-LD can be a dict, list, or wrapped in @graph.
+        stack = [payload]
+        while stack:
+            node = stack.pop()
+            if isinstance(node, list):
+                stack.extend(node)
+                continue
+            if not isinstance(node, dict):
+                continue
+
+            if "@graph" in node and isinstance(node["@graph"], list):
+                stack.extend(node["@graph"])
+
+            node_type = str(node.get("@type", "")).lower()
+            if "jobposting" not in node_type:
+                continue
+
+            title = (node.get("title") or node.get("name") or "").strip()
+            description = (node.get("description") or "").strip()
+            apply_url = (
+                node.get("url")
+                or node.get("hiringOrganization", {}).get("sameAs")
+                or career_url
+            )
+            if apply_url:
+                apply_url = urljoin(career_url, str(apply_url))
+
+            if not title:
+                continue
+            if _is_false_positive_title(title):
+                continue
+
+            combined = f"{title} {description}"
+            if not _has_intern_keyword(combined):
+                continue
+
+            key = (title.lower(), str(apply_url).lower())
+            if key in seen:
+                continue
+            seen.add(key)
+
+            grad_dates = extract_graduation_dates(combined)
+            jobs.append({
+                "title": title[:200],
+                "description": re.sub(r"\s+", " ", description)[:500],
+                "graduationDate": grad_dates[0] if grad_dates else None,
+                "applyUrl": apply_url or career_url,
+            })
+
+    return jobs 
  
 def find_job_listings(html: str, career_url: str) -> list[dict]:
     """
@@ -267,6 +335,15 @@ def find_job_listings(html: str, career_url: str) -> list[dict]:
     soup = BeautifulSoup(html, "html.parser")
     jobs = []
     seen_titles = set()
+
+
+    # Strategy 0: Prefer structured metadata when available.
+    # This reduces false positives significantly on modern ATS pages.
+    for job in extract_json_ld_jobs(html, career_url):
+        title_key = (job.get("title") or "").strip().lower()
+        if title_key and title_key not in seen_titles:
+            seen_titles.add(title_key)
+            jobs.append(job)
  
     # Strategy 1: Look for links/headings containing intern keywords
     # These are the most reliable indicators of job listings
