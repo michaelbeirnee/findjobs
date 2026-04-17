@@ -23,18 +23,30 @@ jobs:
           python-version: "3.11"
  
       - name: Install dependencies
-        run: pip install requests beautifulsoup4
+        run: pip install requests beautifulsoup4 anthropic
  
       - name: Run IB intern posting scraper
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ENABLE_AI_SCAN: "1"
         run: python scraper.py firms_data.json intern_status.json
  
       - name: Run PE intern posting scraper
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ENABLE_AI_SCAN: "1"
         run: python scraper.py pe_firms_data.json pe_intern_status.json
  
       - name: Run VC intern posting scraper
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ENABLE_AI_SCAN: "1"
         run: python scraper.py vc_firms_data.json vc_intern_status.json
  
       - name: Run Hedge Fund intern posting scraper
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ENABLE_AI_SCAN: "1"
         run: python scraper.py hedge_funds_data.json hedge_intern_status.json
  
       - name: Commit updated status files

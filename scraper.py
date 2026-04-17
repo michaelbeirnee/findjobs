@@ -11,6 +11,7 @@ Run:
 """
  
 import json
+import os
 import re
 import time
 import sys
@@ -26,7 +27,13 @@ try:
 except Exception:  # pragma: no cover - optional runtime dependency
     sync_playwright = None
 # ── Config ────────────────────────────────────────────────────────────────────
- 
+
+try:
+    # Optional dependency used only when ENABLE_AI_SCAN=1.
+    import anthropic
+except Exception:  # pragma: no cover - optional runtime dependency
+    anthropic = None
+
 HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -877,6 +884,149 @@ def merge_jobs(job_lists: list[list[dict]]) -> list[dict]:
             merged.append(job)
  
     return merged
+
+# ── AI page scanning ────────────────────────────────────────────────────────
+# Fallback extraction using Claude when ATS APIs and HTML heuristics both come
+# up empty. Enabled by setting ENABLE_AI_SCAN=1 and ANTHROPIC_API_KEY. Designed
+# to be cheap: only runs on pages where deterministic extraction produced zero
+# candidates, so most firms never invoke the model.
+ 
+AI_MODEL = "claude-haiku-4-5"
+AI_SCAN_ENABLED = os.environ.get("ENABLE_AI_SCAN", "").lower() in ("1", "true", "yes")
+AI_MAX_CHARS = 40_000
+ 
+AI_SYSTEM_PROMPT = """You extract internship job listings from career-page text for finance firms (investment banking, private equity, venture capital, hedge funds).
+ 
+Return ONLY listings that are genuine open internship positions for students. Qualifying roles include: internships, summer analyst / summer associate programs, co-op roles, externships, and named student programs that explicitly hire interns.
+ 
+DO NOT return:
+- Full-time or experienced-hire roles (Analyst, Associate, VP, Director, etc. without "intern" / "summer" context).
+- Employee bios or team-member profiles ("John Smith, Summer Analyst 2019").
+- News, deal tombstones, press releases, blog posts, or event listings.
+- Navigation links, section headers, or generic marketing copy.
+- Past/closed programs explicitly described as closed or historical.
+ 
+For each genuine listing, extract:
+- title: the role title as shown (e.g. "2026 Summer Analyst Program").
+- description: a short 1-2 sentence summary from surrounding text (location, program details, eligibility). Keep under 500 chars.
+- graduationDate: expected graduation year/term if stated (e.g. "2027", "May 2027", "Class of 2026"). Null if not mentioned.
+- applyUrl: the apply URL if present in the page. If only a relative path is present, include it as-is — the caller resolves it. If no link exists, use an empty string.
+ 
+If there are no qualifying listings, return {"jobs": []}. Never invent listings."""
+ 
+AI_SCHEMA = {
+    "type": "object",
+    "properties": {
+        "jobs": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "title": {"type": "string"},
+                    "description": {"type": "string"},
+                    "graduationDate": {"type": ["string", "null"]},
+                    "applyUrl": {"type": "string"},
+                },
+                "required": ["title", "description", "graduationDate", "applyUrl"],
+                "additionalProperties": False,
+            },
+        },
+    },
+    "required": ["jobs"],
+    "additionalProperties": False,
+}
+ 
+_ai_client = None
+ 
+ 
+def _get_ai_client():
+    """Lazily construct the Anthropic client; return None if unavailable."""
+    global _ai_client
+    if _ai_client is not None:
+        return _ai_client
+    if anthropic is None:
+        return None
+    if not os.environ.get("ANTHROPIC_API_KEY"):
+        return None
+    try:
+        _ai_client = anthropic.Anthropic()
+    except Exception:
+        return None
+    return _ai_client
+ 
+ 
+def scan_page_with_ai(html: str, career_url: str) -> list[dict]:
+    """Ask Claude to extract intern listings from a career page.
+ 
+    Returns [] when AI scanning is disabled, the SDK is missing, or any call fails.
+    Intended as a last-resort fallback after ATS APIs and HTML heuristics.
+    """
+    if not AI_SCAN_ENABLED:
+        return []
+    client = _get_ai_client()
+    if client is None:
+        return []
+ 
+    soup = BeautifulSoup(html, "html.parser")
+    text = visible_text(soup)
+    if len(text) < 50:
+        return []
+    if len(text) > AI_MAX_CHARS:
+        text = text[:AI_MAX_CHARS]
+ 
+    user_content = f"Career page URL: {career_url}\n\nVisible page text:\n{text}"
+ 
+    try:
+        response = client.messages.create(
+            model=AI_MODEL,
+            max_tokens=4000,
+            system=[{
+                "type": "text",
+                "text": AI_SYSTEM_PROMPT,
+                "cache_control": {"type": "ephemeral"},
+            }],
+            output_config={"format": {"type": "json_schema", "schema": AI_SCHEMA}},
+            messages=[{"role": "user", "content": user_content}],
+        )
+    except Exception as exc:
+        print(f"  → AI scan failed: {exc}", flush=True)
+        return []
+ 
+    try:
+        text_block = next(b.text for b in response.content if b.type == "text")
+        data = json.loads(text_block)
+    except Exception:
+        return []
+ 
+    jobs: list[dict] = []
+    for raw in data.get("jobs", []):
+        title = (raw.get("title") or "").strip()
+        if not title:
+            continue
+        if _is_false_positive_title(title):
+            continue
+        description = re.sub(r"\s+", " ", (raw.get("description") or "").strip())
+        combined = f"{title} {description}"
+        if not _has_intern_keyword(combined):
+            continue
+        if description and _is_false_positive_desc(description):
+            continue
+        apply_url_raw = (raw.get("applyUrl") or "").strip()
+        apply_url = urljoin(career_url, apply_url_raw) if apply_url_raw else career_url
+        grad = raw.get("graduationDate")
+        if not grad:
+            found = extract_graduation_dates(combined)
+            grad = found[0] if found else None
+        jobs.append({
+            "title": title[:200],
+            "description": description[:500],
+            "graduationDate": grad,
+            "applyUrl": apply_url,
+        })
+    return jobs
+ 
+ 
+ 
  
 def discover_career_url(website: str) -> str | None:
     """
@@ -976,6 +1126,13 @@ def check_firm(firm: dict) -> dict:
         rendered_html = get_rendered_html(resolved_career_url)
         if rendered_html:
             jobs = merge_jobs([jobs, find_job_listings(rendered_html, resolved_career_url)])
+    # Final fallback: if deterministic extraction found nothing, ask Claude to
+    # read the page. Only runs when ENABLE_AI_SCAN=1 and ANTHROPIC_API_KEY is set.
+    if not jobs and AI_SCAN_ENABLED:
+        ai_jobs = scan_page_with_ai(r.text, resolved_career_url)
+        if ai_jobs:
+            print(f"  → AI scan found {len(ai_jobs)} intern listing(s)", flush=True)
+            jobs = merge_jobs([jobs, ai_jobs])
  
     has_intern = len(jobs) > 0
     return {
