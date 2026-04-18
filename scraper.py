@@ -886,10 +886,7 @@ def merge_jobs(job_lists: list[list[dict]]) -> list[dict]:
     return merged
 
 # ── AI page scanning ────────────────────────────────────────────────────────
-# Fallback extraction using Claude when ATS APIs and HTML heuristics both come
-# up empty. Enabled by setting ENABLE_AI_SCAN=1 and ANTHROPIC_API_KEY. Designed
-# to be cheap: only runs on pages where deterministic extraction produced zero
-# candidates, so most firms never invoke the model.
+
  
 AI_MODEL = "claude-haiku-4-5"
 AI_SCAN_ENABLED = os.environ.get("ENABLE_AI_SCAN", "").lower() in ("1", "true", "yes")
@@ -1071,12 +1068,20 @@ def check_firm(firm: dict) -> dict:
     ats_jobs = fetch_ats_jobs(resolved_career_url)
     if ats_jobs is not None:
         print(f"  → ATS API hit for {resolved_career_url} ({len(ats_jobs)} intern listing(s))", flush=True)
+        jobs = ats_jobs
+        if AI_SCAN_ENABLED:
+            ats_page = get(resolved_career_url)
+            if ats_page is not None and ats_page.status_code == 200:
+                ai_jobs = scan_page_with_ai(ats_page.text, resolved_career_url)
+                if ai_jobs:
+                    print(f"  → AI scan found {len(ai_jobs)} intern listing(s)", flush=True)
+                    jobs = merge_jobs([jobs, ai_jobs])
         return {
-            "hasInternPosting": len(ats_jobs) > 0,
+            "hasInternPosting": len(jobs) > 0,
             "careerUrl": resolved_career_url,
             "status": "ok",
             "lastChecked": datetime.now(timezone.utc).isoformat(),
-            "jobs": ats_jobs,
+            "jobs": jobs,
         }
  
     print(f"  → Checking {resolved_career_url}", flush=True)
@@ -1126,9 +1131,8 @@ def check_firm(firm: dict) -> dict:
         rendered_html = get_rendered_html(resolved_career_url)
         if rendered_html:
             jobs = merge_jobs([jobs, find_job_listings(rendered_html, resolved_career_url)])
-    # Final fallback: if deterministic extraction found nothing, ask Claude to
-    # read the page. Only runs when ENABLE_AI_SCAN=1 and ANTHROPIC_API_KEY is set.
-    if not jobs and AI_SCAN_ENABLED:
+    # Always run Claude alongside deterministic extraction when enabled
+    if AI_SCAN_ENABLED:
         ai_jobs = scan_page_with_ai(r.text, resolved_career_url)
         if ai_jobs:
             print(f"  → AI scan found {len(ai_jobs)} intern listing(s)", flush=True)
