@@ -43,37 +43,21 @@
   <div class="hero">
     <div class="hero__inner">
       <h1 class="hero__title">Software Engineering Job Board</h1>
-      <p class="hero__sub">Browse <strong id="totalCount">—</strong> top software engineering companies ranked by SWE headcount and global footprint. Each card links directly to career pages and LinkedIn job listings.</p>
+      <p class="hero__sub">Browse <strong id="totalCount">—</strong> of the highest-paying software engineering companies. Each card links directly to LinkedIn job listings and Glassdoor reviews.</p>
     </div>
   </div>
  
   <main class="layout">
     <aside class="sidebar">
       <div class="sidebar__section">
-        <h3 class="sidebar__label">Rank Band</h3>
-        <label class="filter-check"><input type="checkbox" name="band" value="Top 10" checked /> Top 10</label>
-        <label class="filter-check"><input type="checkbox" name="band" value="11-25" checked /> 11-25</label>
-        <label class="filter-check"><input type="checkbox" name="band" value="26-50" checked /> 26-50</label>
-      </div>
- 
-      <div class="sidebar__section">
-        <h3 class="sidebar__label">Engineering Footprint</h3>
-        <label class="filter-check"><input type="checkbox" name="footprint" value="europe" /> Has Europe offices</label>
-        <label class="filter-check"><input type="checkbox" name="footprint" value="global" /> Has other global offices</label>
-      </div>
- 
-      <div class="sidebar__section">
         <h3 class="sidebar__label">Sort by</h3>
         <select id="sortSelect" class="sidebar__select">
-          <option value="rank">Rank (Default)</option>
-          <option value="us">US SWE headcount</option>
-          <option value="intl">Non-US SWE headcount</option>
-          <option value="total">Total SWE headcount</option>
+          <option value="default">Default order</option>
           <option value="alpha">Alphabetical</option>
         </select>
       </div>
  
-      <p class="sidebar__credit">Source: <em>Top Software Engineering Companies by Headcount &amp; Global Footprint</em></p>
+      <p class="sidebar__credit">Source: <em>miketromba/highest-paying-software-companies</em></p>
     </aside>
  
     <section class="cards-section">
