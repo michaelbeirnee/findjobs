@@ -34,6 +34,7 @@ const TYPE_CONFIG = {
   pe:    { firmsFile: "pe_firms_data.json",      statusFile: "pe_intern_status.json",    backPage: "pe.html",    badge: "Top 100 PE",        creditHtml: `Source: <em>Top 100 Private Equity Firms by AUM</em>` },
   vc:    { firmsFile: "vc_firms_data.json",      statusFile: "vc_intern_status.json",    backPage: "vc.html",    badge: "Top VC Firms",      creditHtml: `Source: <em>Largest Venture Capital Firms by AUM</em>` },
   hedge: { firmsFile: "hedge_funds_data.json",   statusFile: "hedge_intern_status.json", backPage: "hedge.html", badge: "Top Hedge Funds",   creditHtml: `Source: <em>Largest Hedge Funds by AUM</em>` },
+  swe:   { firmsFile: "swe_firms_data.json",     statusFile: "swe_intern_status.json",   backPage: "swe.html",   badge: "Top SWE Companies", creditHtml: `Source: <em>miketromba/highest-paying-software-companies</em>` },
 };
  
 function initials(name) {
@@ -139,6 +140,7 @@ async function init() {
   const isPE = firmType === "pe";
   const isVC = firmType === "vc";
   const isHedge = firmType === "hedge";
+  const isSWE = firmType == "swe"; 
  
   // Update back link based on type
   const backLink = document.getElementById("backLink");
@@ -221,7 +223,12 @@ async function init() {
       firmPresencePill.textContent = `#${firm.rank}`;
       firmPresencePill.className = "card__presence-pill presence-h";
       firmPresenceLabel.textContent = `${firm.aum} AUM · ${firm.location || "N/A"}`;
-    } else {
+    } else if (isSWE) {
+      // SWE: simple tag — no presence/tier/rank
+      firmPresencePill.textContent = "SWE";
+      firmPresencePill.className = "card__presence-pill presence-h";
+      firmPresenceLabel.textContent = "Software Engineering Company";
+    }else {
       // IB firm: use presence-based styling
       firmPresencePill.textContent = firm.presence;
       firmPresencePill.className = `card__presence-pill ${PRESENCE_CLASS[firm.presence]}`;

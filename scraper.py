@@ -892,10 +892,10 @@ AI_MODEL = "claude-haiku-4-5"
 AI_SCAN_ENABLED = os.environ.get("ENABLE_AI_SCAN", "").lower() in ("1", "true", "yes")
 AI_MAX_CHARS = 40_000
  
-AI_SYSTEM_PROMPT = """You extract internship job listings from career-page text for finance firms (investment banking, private equity, venture capital, hedge funds).
+AI_SYSTEM_PROMPT = """You extract internship job listings from career-page text for companies across industries — finance firms (investment banking, private equity, venture capital, hedge funds) as well as software, tech, and other employers.
  
-Return ONLY listings that are genuine open internship positions for students. Qualifying roles include: internships, summer analyst / summer associate programs, co-op roles, externships, and named student programs that explicitly hire interns.
- 
+Return ONLY listings that are genuine open internship positions for students. Qualifying roles include: internships, summer analyst / summer associate programs, software engineering internships, co-op roles, externships, and named student programs that explicitly hire interns.
+
 DO NOT return:
 - Full-time or experienced-hire roles (Analyst, Associate, VP, Director, etc. without "intern" / "summer" context).
 - Employee bios or team-member profiles ("John Smith, Summer Analyst 2019").
@@ -1068,6 +1068,7 @@ def check_firm(firm: dict) -> dict:
     ats_jobs = fetch_ats_jobs(resolved_career_url)
     if ats_jobs is not None:
         print(f"  → ATS API hit for {resolved_career_url} ({len(ats_jobs)} intern listing(s))", flush=True)
+        
         jobs = ats_jobs
         if AI_SCAN_ENABLED:
             ats_page = get(resolved_career_url)

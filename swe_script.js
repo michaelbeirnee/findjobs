@@ -1,8 +1,14 @@
 // ── Software Engineering Companies Data ─────────────────────
  
 let FIRMS = [];
+let INTERN_STATUS = {};
 let query = "";
 let sortMode = "default";
+let showInternOnly = false;
+ 
+function firmName(firm) {
+  return typeof firm === "string" ? firm : firm.name;
+}
  
 function initials(name) {
   const stripped = name.replace(/\([^)]*\)/g, "").trim();
@@ -24,25 +30,70 @@ function glassdoorUrl(name) {
   return `https://www.glassdoor.com/Search/results.htm?keyword=${encodeURIComponent(name)}`;
 }
  
-function renderCard(name) {
+function renderCard(firm) {
+  const name = firmName(firm);
+  const internData = INTERN_STATUS[name] || {};
+  const hasIntern = internData.hasInternPosting === true;
+  const internJobs = internData.jobs || [];
+  const careerUrl = internData.careerUrl || (firm && firm.careerUrl) || null;
+ 
   const card = document.createElement("div");
-  card.className = "card";
+  card.className = "card" + (hasIntern ? " card--has-intern" : "");
+ 
+  const internBadgeHtml = hasIntern ? `
+    <div class="card__intern-badge">
+      <svg width="12" height="12" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+        <path d="M12 3L1 9l11 6 9-4.91V17h2V9L12 3zM5 13.18v4L12 21l7-3.82v-4L12 17l-7-3.82z"/>
+      </svg>
+      Intern Posting Open
+    </div>` : "";
+ 
+  const jobCountHtml = hasIntern && internJobs.length > 0
+    ? `<div class="card__job-count">
+         <svg width="12" height="12" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+           <path d="M12 3L1 9l11 6 9-4.91V17h2V9L12 3zM5 13.18v4L12 21l7-3.82v-4L12 17l-7-3.82z"/>
+         </svg>
+         ${internJobs.length} open position${internJobs.length !== 1 ? "s" : ""}
+       </div>`
+    : "";
+ 
+  const careerBtnHtml = careerUrl
+    ? `<a class="btn-career" href="${careerUrl}" target="_blank" rel="noopener noreferrer" title="View career page">
+         <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+           <rect x="2" y="7" width="20" height="14" rx="2"/>
+           <path d="M16 7V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v2"/>
+         </svg>
+         Careers
+       </a>`
+    : `<a class="btn-career btn-career--fallback" href="${linkedInInternUrl(name)}" target="_blank" rel="noopener noreferrer" title="Search intern jobs on LinkedIn">
+         <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+           <circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>
+         </svg>
+         Intern Search
+       </a>`;
+ 
+  const companyPageUrl = `company.html?firm=${encodeURIComponent(name)}&type=swe`;
+ 
   card.innerHTML = `
+    ${internBadgeHtml}
     <div class="card__header">
       <div class="card__initials">${initials(name)}</div>
     </div>
     <div class="card__name">${name}</div>
     <div class="card__type">Software Engineering Company</div>
+    ${jobCountHtml}
     <div class="card__actions">
+      <a class="card__view-jobs" href="${companyPageUrl}" title="View intern job listings for ${name}">
+        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <rect x="2" y="7" width="20" height="14" rx="2"/>
+          <path d="M16 7V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v2"/>
+        </svg>
+        View Jobs
+      </a>
+      ${careerBtnHtml}
       <a class="btn-primary" href="${linkedInJobsUrl(name)}" target="_blank" rel="noopener noreferrer">
         <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
         LinkedIn Jobs
-      </a>
-      <a class="btn-career btn-career--fallback" href="${linkedInInternUrl(name)}" target="_blank" rel="noopener noreferrer" title="Search intern jobs on LinkedIn">
-        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-          <circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>
-        </svg>
-        Intern Search
       </a>
       <a class="btn-secondary" href="${glassdoorUrl(name)}" target="_blank" rel="noopener noreferrer" title="View on Glassdoor">
         <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/></svg>
@@ -55,10 +106,24 @@ function renderCard(name) {
  
 function applyFilters() {
   const q = query.trim().toLowerCase();
-  let filtered = FIRMS.filter(name => !q || name.toLowerCase().includes(q));
+  let filtered = FIRMS.filter(firm => {
+    const name = firmName(firm);
+    if (q && !name.toLowerCase().includes(q)) return false;
+    if (showInternOnly) {
+      const s = INTERN_STATUS[name];
+      if (!s || !s.hasInternPosting) return false;
+    }
+    return true;
+  });
  
   if (sortMode === "alpha") {
-    filtered = [...filtered].sort((a, b) => a.localeCompare(b));
+    filtered = [...filtered].sort((a, b) => firmName(a).localeCompare(firmName(b)));
+  } else if (sortMode === "intern") {
+    filtered = [...filtered].sort((a, b) => {
+      const aIntern = (INTERN_STATUS[firmName(a)] || {}).hasInternPosting ? 0 : 1;
+      const bIntern = (INTERN_STATUS[firmName(b)] || {}).hasInternPosting ? 0 : 1;
+      return aIntern - bIntern || firmName(a).localeCompare(firmName(b));
+    });
   }
  
   const grid = document.getElementById("cardsGrid");
@@ -68,15 +133,44 @@ function applyFilters() {
   empty.hidden = true;
  
   const frag = document.createDocumentFragment();
-  filtered.forEach(n => frag.appendChild(renderCard(n)));
+  filtered.forEach(f => frag.appendChild(renderCard(f)));
   grid.appendChild(frag);
  
   document.getElementById("resultsCount").textContent = `Showing ${filtered.length} of ${FIRMS.length} companies`;
 }
  
+async function loadData() {
+  const firmsRes = await fetch("swe_firms_data.json");
+  FIRMS = await firmsRes.json();
+ 
+  try {
+    const statusRes = await fetch("swe_intern_status.json");
+    if (statusRes.ok) {
+      const data = await statusRes.json();
+      INTERN_STATUS = data.firms || {};
+ 
+      if (data.lastUpdated) {
+        const date = new Date(data.lastUpdated);
+        const el = document.getElementById("lastChecked");
+        if (el) {
+          el.textContent = `Postings last checked: ${date.toLocaleDateString("en-US", {
+            month: "short", day: "numeric", year: "numeric"
+          })}`;
+          el.hidden = false;
+        }
+      }
+ 
+      const internCount = Object.values(INTERN_STATUS).filter(s => s.hasInternPosting).length;
+      const toggleLabel = document.getElementById("internToggleLabel");
+      if (toggleLabel && internCount > 0) {
+        toggleLabel.textContent = `Intern postings only (${internCount} found)`;
+      }
+    }
+  } catch (_) {}
+}
+ 
 async function init() {
-  const res = await fetch("swe_firms_data.json");
-  FIRMS = await res.json();
+  await loadData();
   document.getElementById("totalCount").textContent = FIRMS.length;
  
   document.getElementById("searchInput").addEventListener("input", e => {
@@ -98,8 +192,16 @@ async function init() {
       applyFilters();
     });
   }
-
+ 
+  const internToggle = document.getElementById("internOnlyToggle");
+  if (internToggle) {
+    internToggle.addEventListener("change", () => {
+      showInternOnly = internToggle.checked;
+      applyFilters();
+    });
+  }
+ 
   applyFilters();
 }
-
+ 
 init();
