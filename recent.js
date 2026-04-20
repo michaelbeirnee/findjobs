@@ -185,6 +185,7 @@ function collectJobs(internStatus, firmLookup, firmType, locationLookup) {
         firmPresence: firmLookup[firmName] || null,
         firmType,
         firmLocation: locationLookup[firmName] || null,
+        source : job.source === "ai" ? "ai" : "scrapper", 
       });
     }
   }

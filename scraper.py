@@ -1019,6 +1019,7 @@ def scan_page_with_ai(html: str, career_url: str) -> list[dict]:
             "description": description[:500],
             "graduationDate": grad,
             "applyUrl": apply_url,
+            "source": "ai",
         })
     return jobs
  
@@ -1184,10 +1185,12 @@ def _build_first_seen_index(previous: dict) -> dict[str, str]:
  
  
 def _stamp_first_seen(jobs: list[dict], first_seen_index: dict[str, str], today: str) -> None:
-    """Add firstSeen to each job, preserving the original date if already known."""
+    """Add firstSeen while preserving original dates and normalizing source."""
     for job in jobs:
         key = _build_job_key(job)
         job["firstSeen"] = first_seen_index.get(key, today)
+        if not job.get("source"):
+            job["source"] = "scraper"
  
  
 # ── Main ──────────────────────────────────────────────────────────────────────
