@@ -48,12 +48,18 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           ENABLE_AI_SCAN: "1"
         run: python scraper.py hedge_funds_data.json hedge_intern_status.json
+
+      - name: Run SWE intern posting scraper
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ENABLE_AI_SCAN: "1"
+        run: python scraper.py swe_firms_data.json swe_intern_status.json
  
       - name: Commit updated status files
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add intern_status.json pe_intern_status.json vc_intern_status.json hedge_intern_status.json
+          git add intern_status.json pe_intern_status.json vc_intern_status.json hedge_intern_status.json swe_intern_status.json
           # Only commit if there are actual changes
           git diff --staged --quiet || git commit -m "chore: update intern job postings [skip ci]"
  
