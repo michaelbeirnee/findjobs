@@ -121,6 +121,15 @@ function renderTimelineJobCard(job, firmName, firmPresence, firmType) {
        </span>`
     : "";
  
+  const aiBadge = job.source === "ai"
+    ? `<span class="job-card__badge job-card__badge--ai">
+         <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+           <path d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z"/>
+         </svg>
+         AI Found
+       </span>`
+    : "";
+
   card.innerHTML = `
     <div class="job-card__header">
       <div class="job-card__title-row">
@@ -131,6 +140,7 @@ function renderTimelineJobCard(job, firmName, firmPresence, firmType) {
           </svg>
           Intern
         </span>
+        ${aiBadge}
       </div>
       <p class="job-card__firm">
         <a href="${escapeAttr(companyPageUrl)}" class="recent-firm-link">${escapeHtml(firmName)}</a>
@@ -501,15 +511,29 @@ async function init() {
  
   // ── Filter + render logic ────────────────────────────────
   const searchInput = document.getElementById("jobSearch");
- 
+  const sourceFilterEl = document.getElementById("sourceFilter");
+  let selectedSource = "";
+
+  sourceFilterEl.addEventListener("click", e => {
+    const btn = e.target.closest(".source-filter__btn");
+    if (!btn) return;
+    sourceFilterEl.querySelectorAll(".source-filter__btn").forEach(b => b.classList.remove("source-filter__btn--active"));
+    btn.classList.add("source-filter__btn--active");
+    selectedSource = btn.dataset.value;
+    applyFilters();
+  });
+
   function applyFilters() {
     const query = searchInput.value.trim().toLowerCase();
     const selectedLocation = locationSelect.value;
- 
+
     const filtered = allJobs.filter(job => {
+      // Source filter
+      if (selectedSource && job.source !== selectedSource) return false;
+
       // Location filter
       if (selectedLocation && job.firmLocation !== selectedLocation) return false;
- 
+
       // Text search across title, description, and firm name
       if (query) {
         const haystack = [
@@ -520,10 +544,10 @@ async function init() {
         ].join(" ").toLowerCase();
         if (!haystack.includes(query)) return false;
       }
- 
+
       return true;
     });
- 
+
     renderTimeline(filtered);
   }
  
