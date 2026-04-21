@@ -192,6 +192,76 @@ function collectJobs(internStatus, firmLookup, firmType, locationLookup) {
   return jobs;
 }
  
+// ── Render a collapsible group for 2+ jobs from the same firm ──
+function renderFirmGroup(group) {
+  const { firmName, jobs } = group;
+  const { firmPresence, firmType, firmLocation } = jobs[0];
+
+  let companyPageUrl;
+  if (firmType === "pe") {
+    companyPageUrl = `company.html?firm=${encodeURIComponent(firmName)}&type=pe`;
+  } else if (firmType === "vc") {
+    companyPageUrl = `company.html?firm=${encodeURIComponent(firmName)}&type=vc`;
+  } else if (firmType === "hedge") {
+    companyPageUrl = `company.html?firm=${encodeURIComponent(firmName)}&type=hedge`;
+  } else {
+    companyPageUrl = `company.html?firm=${encodeURIComponent(firmName)}`;
+  }
+
+  let presencePill = "";
+  if (firmType === "pe" && firmPresence) {
+    const cls = TIER_CLASS[firmPresence] || "";
+    presencePill = `<span class="card__presence-pill ${cls}">${escapeHtml(firmPresence)}</span>`;
+  } else if (firmType === "ib" && firmPresence) {
+    const cls = PRESENCE_CLASS[firmPresence] || "";
+    presencePill = `<span class="card__presence-pill ${cls}">${escapeHtml(firmPresence)}</span>`;
+  }
+
+  const typeBadgeMap = {
+    ib:    { cls: "firm-type-badge--ib",    label: "IB" },
+    pe:    { cls: "firm-type-badge--pe",    label: "PE" },
+    vc:    { cls: "firm-type-badge--vc",    label: "VC" },
+    hedge: { cls: "firm-type-badge--hedge", label: "HF" },
+  };
+  const badgeInfo = typeBadgeMap[firmType] || typeBadgeMap.ib;
+  const typeBadge = `<span class="firm-type-badge ${badgeInfo.cls}">${badgeInfo.label}</span>`;
+
+  const locationBadge = firmLocation
+    ? `<span class="job-card__location">
+         <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+           <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/>
+         </svg>
+         ${escapeHtml(firmLocation)}
+       </span>`
+    : "";
+
+  const details = document.createElement("details");
+  details.className = "firm-group";
+  details.innerHTML = `
+    <summary class="firm-group__summary">
+      <span class="firm-group__avatar">${escapeHtml(initials(firmName))}</span>
+      <span class="firm-group__name">
+        <a href="${escapeAttr(companyPageUrl)}" class="recent-firm-link" onclick="event.stopPropagation()">${escapeHtml(firmName)}</a>
+      </span>
+      ${typeBadge}
+      ${presencePill}
+      ${locationBadge}
+      <span class="firm-group__count">${jobs.length} postings</span>
+      <svg class="firm-group__chevron" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <polyline points="6 9 12 15 18 9"/>
+      </svg>
+    </summary>
+    <div class="firm-group__body"></div>
+  `;
+
+  const body = details.querySelector(".firm-group__body");
+  for (const job of jobs) {
+    body.appendChild(renderTimelineJobCard(job, job.firmName, job.firmPresence, job.firmType));
+  }
+
+  return details;
+}
+
 // ── Render the timeline from a filtered set of jobs ────────────
 function renderTimeline(jobs) {
   const timeline = document.getElementById("timeline");
@@ -257,9 +327,26 @@ function renderTimeline(jobs) {
  
     const jobsList = document.createElement("div");
     jobsList.className = "jobs-list";
+
+    // Group consecutive jobs from the same firm into collapsible sections
+    const firmGroups = [];
     for (const job of dateJobs) {
-      jobsList.appendChild(renderTimelineJobCard(job, job.firmName, job.firmPresence, job.firmType));
+      const last = firmGroups[firmGroups.length - 1];
+      if (last && last.firmName === job.firmName) {
+        last.jobs.push(job);
+      } else {
+        firmGroups.push({ firmName: job.firmName, jobs: [job] });
+      }
     }
+
+    for (const group of firmGroups) {
+      if (group.jobs.length === 1) {
+        jobsList.appendChild(renderTimelineJobCard(group.jobs[0], group.jobs[0].firmName, group.jobs[0].firmPresence, group.jobs[0].firmType));
+      } else {
+        jobsList.appendChild(renderFirmGroup(group));
+      }
+    }
+
     section.appendChild(jobsList);
  
     frag.appendChild(section);

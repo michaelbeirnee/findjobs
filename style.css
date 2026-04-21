@@ -889,6 +889,76 @@ a, button { -webkit-tap-highlight-color: transparent; }
 .recent-date-section {
   scroll-margin-top: calc(var(--nav-h) + 20px);
 }
+
+/* ── Firm group collapsible (2+ consecutive jobs from same company) ── */
+.firm-group {
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  background: var(--card-bg);
+  box-shadow: var(--shadow-sm);
+  overflow: hidden;
+}
+.firm-group__summary {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 14px 16px;
+  cursor: pointer;
+  user-select: none;
+  list-style: none;
+  font-size: .9rem;
+}
+.firm-group__summary::-webkit-details-marker { display: none; }
+.firm-group__summary::marker { display: none; }
+.firm-group__summary:hover {
+  background: rgba(0,0,0,.03);
+}
+.firm-group__avatar {
+  flex-shrink: 0;
+  width: 34px;
+  height: 34px;
+  border-radius: 8px;
+  background: var(--blue);
+  color: #fff;
+  font-size: .72rem;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  letter-spacing: .03em;
+}
+.firm-group__name {
+  font-weight: 600;
+  font-size: .95rem;
+}
+.firm-group__count {
+  margin-left: auto;
+  font-size: .78rem;
+  font-weight: 600;
+  color: var(--text-muted);
+  white-space: nowrap;
+  padding: 2px 8px;
+  background: var(--border);
+  border-radius: 20px;
+}
+.firm-group__chevron {
+  flex-shrink: 0;
+  color: var(--text-muted);
+  transition: transform .18s ease;
+}
+.firm-group[open] .firm-group__chevron {
+  transform: rotate(180deg);
+}
+.firm-group__body {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 12px;
+  border-top: 1px solid var(--border);
+}
+.firm-group__body .job-card {
+  margin: 0;
+}
  
 .recent-date-header {
   display: flex;

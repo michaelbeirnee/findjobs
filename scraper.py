@@ -6,7 +6,7 @@ and writes intern_status.json with per-firm results including structured job
 listing details (title, description, graduation date, apply URL).
  
 Run:
-    pip install requests beautifulsoup4
+    pip install -r requirements.txt
     python scraper.py
 """
  
