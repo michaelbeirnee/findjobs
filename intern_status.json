@@ -1,103 +1,105 @@
 {
-  "lastUpdated": "2026-04-20T10:09:12.873186+00:00",
-  "internCount": 28,
+  "lastUpdated": "2026-04-21T09:53:54.021898+00:00",
+  "internCount": 27,
   "firms": {
     "Vermilion Rock Advisors": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T09:06:38.954676+00:00",
+      "lastChecked": "2026-04-21T08:51:47.427876+00:00",
       "jobs": []
     },
     "Excalibur Investment Banking": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T09:06:46.950065+00:00",
+      "lastChecked": "2026-04-21T08:51:56.045888+00:00",
       "jobs": []
     },
     "InvestBank Corporation": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T09:06:48.450269+00:00",
+      "lastChecked": "2026-04-21T08:51:57.546092+00:00",
       "jobs": []
     },
     "Versailles Group, Ltd.": {
       "hasInternPosting": false,
       "careerUrl": "https://www.versaillesgroup.com/about/careers",
       "status": "ok",
-      "lastChecked": "2026-04-20T09:06:59.939141+00:00",
+      "lastChecked": "2026-04-21T08:52:11.327715+00:00",
       "jobs": []
     },
     "MD Global Partners, LLC": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T09:07:06.395599+00:00",
+      "lastChecked": "2026-04-21T08:52:18.075758+00:00",
       "jobs": []
     },
     "George + Company IB": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T09:07:07.895810+00:00",
+      "lastChecked": "2026-04-21T08:52:19.575972+00:00",
       "jobs": []
     },
     "Aureate Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T09:07:18.842392+00:00",
+      "lastChecked": "2026-04-21T08:52:31.019099+00:00",
       "jobs": []
     },
     "52 Capital Partners": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T09:09:12.926264+00:00",
+      "lastChecked": "2026-04-21T08:52:39.894875+00:00",
       "jobs": []
     },
     "Harbor Ridge Capital": {
       "hasInternPosting": false,
       "careerUrl": "https://www.harborridgecapital.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-20T09:09:14.760653+00:00",
+      "lastChecked": "2026-04-21T08:52:41.917635+00:00",
       "jobs": []
     },
     "The Opes Group": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T09:09:23.805700+00:00",
+      "lastChecked": "2026-04-21T08:52:50.523716+00:00",
       "jobs": []
     },
     "41 North LLC": {
       "hasInternPosting": false,
       "careerUrl": "https://www.41northllc.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-20T09:09:33.283871+00:00",
+      "lastChecked": "2026-04-21T08:52:52.959018+00:00",
       "jobs": []
     },
     "Takenaka Partners LLC": {
       "hasInternPosting": true,
       "careerUrl": "https://www.takenakapartners.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-20T09:09:37.045784+00:00",
+      "lastChecked": "2026-04-21T08:52:57.764665+00:00",
       "jobs": [
         {
           "title": "Direct Impact:",
           "description": "Work on significant cross-border deals and contribute meaningfully from day one. Navigating multiple jurisdictions and bridging communication gaps between different business practices presents unique challenges that require a sophisticated blend of financial acumen, strategic insight, and deep cross-cultural understanding. Working on these deals offers unparalleled exposure to complex international business dynamics and provides an exceptional opportunity to develop specialized skills in a truly",
           "graduationDate": null,
           "applyUrl": "https://www.takenakapartners.com/careers",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Direct Impact:",
           "description": "Work on significant cross-border deals and contribute meaningfully from day one. Navigating multiple jurisdictions and bridging communication gaps between different business practices presents unique challenges that require a sophisticated blend of financial acumen, strategic insight, and deep cross-cultural understanding. Working on these deals offers unparalleled exposure to complex international business dynamics and provides an exceptional opportunity to develop specialized skills in a truly",
           "graduationDate": null,
           "applyUrl": "https://www.takenakapartners.com/careers/",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         }
       ]
     },
@@ -105,63 +107,65 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T09:09:38.547888+00:00",
+      "lastChecked": "2026-04-21T08:52:59.266854+00:00",
       "jobs": []
     },
     "Wellesley Hills Financial": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T09:10:01.545615+00:00",
+      "lastChecked": "2026-04-21T08:53:22.178899+00:00",
       "jobs": []
     },
     "Renewable Advisors": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T09:10:10.355545+00:00",
+      "lastChecked": "2026-04-21T08:53:34.076096+00:00",
       "jobs": []
     },
     "Springer Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T09:10:17.161118+00:00",
+      "lastChecked": "2026-04-21T08:53:41.134782+00:00",
       "jobs": []
     },
     "Herculean Group": {
       "hasInternPosting": false,
       "careerUrl": "https://www.herculeangroup.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-20T09:10:19.357796+00:00",
+      "lastChecked": "2026-04-21T08:53:43.287314+00:00",
       "jobs": []
     },
     "Esposito Intellectual Enterprises": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T09:10:20.859030+00:00",
+      "lastChecked": "2026-04-21T08:53:44.788542+00:00",
       "jobs": []
     },
     "Halifax West": {
       "hasInternPosting": true,
       "careerUrl": "https://www.halifaxwest.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-20T09:10:26.205911+00:00",
+      "lastChecked": "2026-04-21T08:53:50.623367+00:00",
       "jobs": [
         {
           "title": "Student Analyst / Intern",
           "description": "",
           "graduationDate": null,
           "applyUrl": "https://www.halifaxwest.com/early-career-professionals",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Our internship program offers students the opportunity to gain hands-on experience in the advisory industry. Interns eng",
           "description": "age in market research, client outreach, and participate in deal calls to learn from industry professionals. Programs are available for full-time summer analysts and flexible part-time fall/spring analysts, working around course schedules.",
           "graduationDate": null,
           "applyUrl": "https://www.halifaxwest.com/early-career-professionals",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         }
       ]
     },
@@ -169,148 +173,153 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T09:10:33.777687+00:00",
+      "lastChecked": "2026-04-21T08:53:59.210204+00:00",
       "jobs": []
     },
     "Concordia Capital": {
       "hasInternPosting": false,
       "careerUrl": "https://www.concordiacapital.com/about/careers",
       "status": "ok",
-      "lastChecked": "2026-04-20T09:10:41.418745+00:00",
+      "lastChecked": "2026-04-21T08:54:06.880899+00:00",
       "jobs": []
     },
     "Integrus Partners": {
       "hasInternPosting": false,
       "careerUrl": "https://www.integruspartners.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-20T09:10:43.944657+00:00",
+      "lastChecked": "2026-04-21T08:54:09.477709+00:00",
       "jobs": []
     },
     "Roadmap Advisors": {
       "hasInternPosting": true,
       "careerUrl": "https://www.roadmapadvisors.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-20T09:10:47.078477+00:00",
+      "lastChecked": "2026-04-21T08:54:12.976969+00:00",
       "jobs": [
         {
           "title": "Investment Banking Externship Program Part-time View job Apply now Summer Investment Banking Internship Full-Time View j",
           "description": "ob Apply now Vice President Full-Time View job Apply now Director of Business Development Full-Time View job Apply now Investment Banking Associate Full-Time View job Apply now Investment Banking Analyst Full-Time View job Apply now",
           "graduationDate": null,
           "applyUrl": "https://www.roadmapadvisors.com/insights/career-opportunities/investment-banking-externship-program/",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Investment Banking Externship Program Part-time View job Apply now",
           "description": "",
           "graduationDate": null,
           "applyUrl": "https://www.roadmapadvisors.com/insights/career-opportunities/investment-banking-externship-program/",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Summer Investment Banking Internship Full-Time View job Apply now",
           "description": "",
           "graduationDate": null,
           "applyUrl": "https://www.roadmapadvisors.com/insights/career-opportunities/summer-investment-banking-internship/",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         }
       ]
     },
     "Icarus Fund": {
       "hasInternPosting": false,
-      "careerUrl": "https://www.icarusfund.com/careers",
-      "status": "ok",
-      "lastChecked": "2026-04-20T09:10:48.911629+00:00",
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-04-21T08:54:21.871231+00:00",
       "jobs": []
     },
     "Cedar Street Capital": {
       "hasInternPosting": false,
       "careerUrl": "https://www.cedarstreetcapital.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-20T09:10:50.710966+00:00",
+      "lastChecked": "2026-04-21T08:54:23.900739+00:00",
       "jobs": []
     },
     "S.C.E. Partners": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T09:10:58.919700+00:00",
+      "lastChecked": "2026-04-21T08:54:32.066553+00:00",
       "jobs": []
     },
     "AugCap": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T09:11:06.065750+00:00",
+      "lastChecked": "2026-04-21T08:54:40.778099+00:00",
       "jobs": []
     },
     "Baird Augustine": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T09:11:13.879372+00:00",
+      "lastChecked": "2026-04-21T08:54:49.540700+00:00",
       "jobs": []
     },
     "KCC Capital Partners": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T09:11:22.525033+00:00",
+      "lastChecked": "2026-04-21T08:55:00.821716+00:00",
       "jobs": []
     },
     "Waterbrook Advisors": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T09:11:31.494826+00:00",
+      "lastChecked": "2026-04-21T08:55:10.614759+00:00",
       "jobs": []
     },
     "Independent Investment Bankers Corp.": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T09:11:37.874820+00:00",
+      "lastChecked": "2026-04-21T08:55:17.136589+00:00",
       "jobs": []
     },
     "Brooks, Houghton & Co": {
       "hasInternPosting": false,
       "careerUrl": "https://www.brookshoughton.com/careers",
       "status": "http_404",
-      "lastChecked": "2026-04-20T09:11:39.644033+00:00",
+      "lastChecked": "2026-04-21T08:55:18.889435+00:00",
       "jobs": []
     },
     "Innovus Advisors": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T09:11:47.875902+00:00",
+      "lastChecked": "2026-04-21T08:55:27.679230+00:00",
       "jobs": []
     },
     "Calabasas Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T09:12:13.570317+00:00",
+      "lastChecked": "2026-04-21T08:55:53.312133+00:00",
       "jobs": []
     },
     "Westlake Securities": {
       "hasInternPosting": true,
       "careerUrl": "https://www.westlakesecurities.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-20T09:12:18.041774+00:00",
+      "lastChecked": "2026-04-21T08:55:57.680038+00:00",
       "jobs": [
         {
           "title": "Below are a range of positions we currently have open; however, we are always accepting resumes. Please send your resume",
           "description": "and a brief summary of your background to [email protected] . Additionally, for interest in our internship program, please reach out to [email protected] .",
           "graduationDate": null,
-          "applyUrl": "https://www.westlakesecurities.com/cdn-cgi/l/email-protection#1f767179705f687a6c6b737e747a6c7a7c6a6d766b767a6c317c7072",
-          "firstSeen": "2026-04-20"
+          "applyUrl": "https://www.westlakesecurities.com/cdn-cgi/l/email-protection#ef86818980af988a9c9b838e848a9c8a8c9a9d869b868a9cc18c8082",
+          "firstSeen": "2026-04-21",
+          "source": "scraper"
         },
         {
           "title": "Below are a range of positions we currently have open; however, we are always accepting resumes. Please send your resume",
           "description": "and a brief summary of your background to [email protected] . Additionally, for interest in our internship program, please reach out to [email protected] .",
           "graduationDate": null,
-          "applyUrl": "https://westlakesecurities.com/cdn-cgi/l/email-protection#1f767179705f687a6c6b737e747a6c7a7c6a6d766b767a6c317c7072",
-          "firstSeen": "2026-04-20"
+          "applyUrl": "https://westlakesecurities.com/cdn-cgi/l/email-protection#177e79717857607264637b767c7264727462657e637e72643974787a",
+          "firstSeen": "2026-04-21",
+          "source": "scraper"
         }
       ]
     },
@@ -318,35 +327,39 @@
       "hasInternPosting": true,
       "careerUrl": "https://www.bardico.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-20T09:12:25.113031+00:00",
+      "lastChecked": "2026-04-21T08:56:00.997166+00:00",
       "jobs": [
         {
           "title": "Summer 2026 Internship Program (Remote)",
           "description": "",
           "graduationDate": null,
           "applyUrl": "https://www.bardico.com/careers",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "​ ​",
           "description": "Working for Bardi Co. is extremely rewarding. The work environment is fast paced and dynamic which encourages me to consistently perform at the highest level. From the moment I joined the team, I was placed on challenging projects. As a result, I have been afforded several opportunities to engage with both our domestic and international clients. My most memorable engagement to date involved traveling to Italy for meetings. Within the organization, there’s a strong sense of culture, community, an",
           "graduationDate": null,
           "applyUrl": "https://www.bardico.com/careers",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "​ SUMMER 2026 INTERNSHIP PROGRAM, REMOTE",
           "description": "",
           "graduationDate": null,
           "applyUrl": "https://www.bardico.com/internship-summer-2022",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Summer 2026 Internship Program - Los Angeles, CA (Remote) .",
           "description": "",
           "graduationDate": null,
           "applyUrl": "https://www.bardico.com/internship-summer-2022",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         }
       ]
     },
@@ -354,21 +367,23 @@
       "hasInternPosting": true,
       "careerUrl": "https://www.xnergy.com/join",
       "status": "ok",
-      "lastChecked": "2026-04-20T09:12:46.502333+00:00",
+      "lastChecked": "2026-04-21T08:56:25.492507+00:00",
       "jobs": [
         {
           "title": "From the Newsroom",
           "description": "Xnergy Financial, Member FINRA/ SIPC, is an international investment banking firm providing debt, equity, merger, and acquisition services to emerging growth and middle-market companies. From the Newsroom Corporate Mergers and Acquisitions: Key Factors to Consider May 17, 2023 Common Challenges in M&A Process and How to Overcome Them May 17, 2023 Common Mistakes in Corporate Acquisitions and How to Avoid Them April 25, 2023 Unlocking Opportunities: The Benefits of M&A Strategy Consulting April 2",
           "graduationDate": null,
           "applyUrl": "https://xnergy.com",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Xnergy Financial, Member FINRA/ SIPC, is an international investment banking firm providing debt, equity, merger, and ac",
           "description": "quisition services to emerging growth and middle-market companies.",
           "graduationDate": null,
           "applyUrl": "https://xnergy.com",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         }
       ]
     },
@@ -376,210 +391,236 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T09:12:53.122305+00:00",
+      "lastChecked": "2026-04-21T08:56:32.595751+00:00",
       "jobs": []
     },
     "New York Bay Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T09:13:04.330788+00:00",
+      "lastChecked": "2026-04-21T08:56:43.850139+00:00",
       "jobs": []
     },
     "American Discovery Capital": {
       "hasInternPosting": false,
       "careerUrl": "https://www.americandiscoverycapital.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-20T09:13:06.161574+00:00",
+      "lastChecked": "2026-04-21T08:56:46.056022+00:00",
       "jobs": []
     },
     "Harbor View Advisors": {
       "hasInternPosting": true,
       "careerUrl": "https://www.harborviewadvisors.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-20T09:13:09.154892+00:00",
+      "lastChecked": "2026-04-21T08:56:49.311562+00:00",
       "jobs": [
         {
           "title": "Interning With Us",
           "description": "Careers Grow With Us Launching Your Career Continuing Your Career Culture & Community Benefits",
           "graduationDate": null,
           "applyUrl": "https://www.harborviewadvisors.com/careers/interning-with-us",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Stay Informed on Upcoming Internship Opportunities",
           "description": "Although our 2026 Summer Internship application is now closed, we are always looking for exceptional talent.",
           "graduationDate": null,
           "applyUrl": "https://share.hsforms.com/1Ps3RHkl-TgyTKhTMUZKzfQcsxl8",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Internships",
           "description": "",
           "graduationDate": null,
           "applyUrl": "https://www.harborviewadvisors.com/careers",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Sell-Side What We Do Differentiators Industry Coverage Recent Outcomes News & Insights Team Buy-Side What We Do Differen",
           "description": "tiators Industry Coverage Recent Outcomes News & Insights Team Team Investment Banking Operations & Accounting Marketing & Events Industries B2B Technology & Services Financial Services & Technology Industrials Media & Events Insights Events Outcomes Careers Grow With Us Interning With Us Launching Your Career Continuing Your Career Culture & Community Benefits Overview About HVA Our Team Contact",
           "graduationDate": null,
           "applyUrl": "https://www.harborviewadvisors.com/sell-side",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Open Role",
           "description": "We are currently hiring a Senior Associate/VP on the Industrials Investment Banking team Review the Role and Submit Your Application 2027 Although our 2026 Summer Internship application is now closed, we are always looking for exceptional talent. Stay Informed on Upcoming Internship Opportunities Interested in joining our team? Tell us more about yourself and why you'd be a great fit. Join Our Talent Network",
           "graduationDate": null,
           "applyUrl": "https://www.linkedin.com/jobs/view/4393592127/",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "2027",
           "description": "Although our 2026 Summer Internship application is now closed, we are always looking for exceptional talent. Stay Informed on Upcoming Internship Opportunities",
           "graduationDate": null,
           "applyUrl": "https://share.hsforms.com/1Ps3RHkl-TgyTKhTMUZKzfQcsxl8",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Although our 2026 Summer Internship application is now closed, we are always looking for exceptional talent. Stay Inform",
           "description": "ed on Upcoming Internship Opportunities",
           "graduationDate": null,
           "applyUrl": "https://share.hsforms.com/1Ps3RHkl-TgyTKhTMUZKzfQcsxl8",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Summer Analyst Intern Start your career on day one at Harbor View. Analysts begin with a six-week training program and c",
           "description": "ontinue to grow through ongoing career development. From the start, they’re embedded in vertical teams, gaining real responsibility and industry exposure through meaningful client work. Students & Graduates Associate At Harbor View, experienced professionals bring fresh perspective and deep expertise that elevates our team. We offer significant opportunities for leadership, a continuous commitment to learning, and long-term growth—within a culture that values both coordination and independent th",
           "graduationDate": null,
           "applyUrl": "https://www.harborviewadvisors.com/team",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Summer Analyst Intern",
           "description": "",
           "graduationDate": null,
           "applyUrl": "https://www.harborviewadvisors.com/careers",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Experience what it’s like to be a full-time member of the team. Our interns take on real work, contribute to team succes",
           "description": "s, and learn directly from firm leadership. With hands-on experience, mentorship, and a collaborative culture, you’ll experience a glimpse of what it’s like to launch a career in finance. Students & Graduates Analyst Associates are a high-impact role—leading analysts, attending conferences, and driving key client work within their vertical teams. They participate in a week-long off-site training session and have access to ongoing development opportunities to support their continued growth. Profe",
           "graduationDate": null,
           "applyUrl": "https://www.harborviewadvisors.com/team",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Experience what it is like to be a full-time member of the team. Our interns take on real work, contribute to team succe",
           "description": "ss, and learn directly from firm leadership. With hands-on experience, mentorship, and a collaborative culture, you will experience a glimpse of what it is like to launch a career in finance. Learn more",
           "graduationDate": null,
           "applyUrl": "https://www.harborviewadvisors.com/careers/interning-with-us",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Harbor View Advisors Offices Jacksonville, FL (HQ) New York, NY Email vision@hvadvisors.com recruitment@hvadvisors.com P",
           "description": "hone +1 (904) 285.4278 Connect with us. Thank you! Your submission has been received! Oops! Something went wrong while submitting the form. Overview Our Team About HVA Industry Coverage B2B Technology & Services Financial Services & Technology Industrials Careers Grow With Us Interning With Us Launching Your Careeer Continuing Your Career Culture & Community Benefits Services Sell-Side Advisory Buy-Side Advisory Media & Events Insights Events Outcomes Social Instagram LinkedIn",
           "graduationDate": null,
           "applyUrl": "mailto:vision@hvadvisors.com?subject=Website%20Inquiry",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Internships",
           "description": "",
           "graduationDate": null,
           "applyUrl": "https://www.harborviewadvisors.com/careers/grow-with-us",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Summer Analyst Intern",
           "description": "",
           "graduationDate": null,
           "applyUrl": "https://www.harborviewadvisors.com/careers/grow-with-us",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Stay Informed on Upcoming Internship Opportunities",
           "description": "Although our 2026 Summer Internship application is now closed, we are always looking for exceptional talent.",
           "graduationDate": null,
           "applyUrl": "https://share.hsforms.com/1Ps3RHkl-TgyTKhTMUZKzfQcsxl8",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "I joined HVA through an off-cycle internship, drawn by its strong culture of recognizing soft skills and developing hard skills. Although I didn’t come from a traditional finance background, HVA provi",
           "description": "",
           "graduationDate": null,
           "applyUrl": "https://www.harborviewadvisors.com/team/tatiana-lathion",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "At Harbor View, interns are integrated into deal teams from day one, working side by side with analysts on meaningful work that directly impacts our clients. I found the fast-paced environment and hig",
           "description": "",
           "graduationDate": null,
           "applyUrl": "https://www.harborviewadvisors.com/team/katherine-carlo",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "The HVA internship gave me a true summer analyst experience—working on live deals, building pitch decks and CIMs, and contributing to market research and quarterly reports. It made the transition into",
           "description": "",
           "graduationDate": null,
           "applyUrl": "https://www.harborviewadvisors.com/team/carson-lubin",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Although our 2026 Summer Internship  application is now closed, we are always looking for exceptional talent. Stay Infor",
           "description": "med on Upcoming Internship Opportunities",
           "graduationDate": null,
           "applyUrl": "https://share.hsforms.com/1Ps3RHkl-TgyTKhTMUZKzfQcsxl8",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "I joined HVA through an off-cycle internship, drawn by its strong culture of recognizing soft skills and developing hard",
           "description": "skills. Although I didn’t come from a traditional finance background, HVA provided the tools, training, and support I needed to quickly get up to speed and become a valuable member of the team. Tatiana Lathion At Harbor View, interns are integrated into deal teams from day one, working side by side with analysts on meaningful work that directly impacts our clients. I found the fast-paced environment and high-impact nature of the projects both engaging and energizing. But what ultimately set Harb",
           "graduationDate": null,
           "applyUrl": "https://www.harborviewadvisors.com/team/tatiana-lathion",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "At Harbor View, interns are integrated into deal teams from day one, working side by side with analysts on meaningful wo",
           "description": "rk that directly impacts our clients. I found the fast-paced environment and high-impact nature of the projects both engaging and energizing. But what ultimately set Harbor View apart for me was the people. The time and genuine effort that everyone - from analysts to partners - invests in the internship program and in each intern’s growth is unmatched. By the end of the summer, I knew I wanted to be a part of the HVA team. Katherine Carlo",
           "graduationDate": null,
           "applyUrl": "https://www.harborviewadvisors.com/team/katherine-carlo",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "The HVA internship gave me a true summer analyst experience—working on live deals, building pitch decks and CIMs, and co",
           "description": "ntributing to market research and quarterly reports. It made the transition into a full-time investment banking analyst role smooth and equipped me with the skills to contribute from day one. Carson Lubin",
           "graduationDate": null,
           "applyUrl": "https://www.harborviewadvisors.com/team/carson-lubin",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Your Future Starts Now . Training doesn’t end when the internship does. Students who receive a return offer join us for",
           "description": "a comprehensive onboarding experience, followed by advanced training as they step into their analyst role. Learn More About Launching Your Career",
           "graduationDate": null,
           "applyUrl": "https://www.harborviewadvisors.com/careers/launching-your-career",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "After interning at large corporations, I chose to start my career at Harbor View because I deeply believed in the vision John and Carolyn were building, and I immediately knew I wanted to be part of i",
           "description": "",
           "graduationDate": null,
           "applyUrl": "https://www.harborviewadvisors.com/team/carson-king",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Learn the Way. Lead the Future. At Harbor View, growth is built into every role. Every new team member completes a struc",
           "description": "tured training program — whether they joined through our internship program, came straight from graduation, or transitioned from another organization. This ensures everyone learns the “Harbor View way” and is fully up to speed on our technical skills and best practices. From day one, team members are paired with mentors who provide guidance, feedback, and support throughout their career journey. Clear career paths, hands-on opportunities to take initiative, and the freedom to pursue projects ali",
           "graduationDate": null,
           "applyUrl": "https://www.harborviewadvisors.com/careers/launching-your-career",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "After interning at large corporations, I chose to start my career at Harbor View because I deeply believed in the vision",
           "description": "John and Carolyn were building, and I immediately knew I wanted to be part of it. HVA offers young professionals the opportunity to make a significant, immediate impact, entrusting us with substantial responsibilities to rise to the occasion and directly influence critical financial decisions for business owners. Carson King",
           "graduationDate": null,
           "applyUrl": "https://www.harborviewadvisors.com/team/carson-king",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         }
       ]
     },
@@ -587,14 +628,15 @@
       "hasInternPosting": true,
       "careerUrl": "https://www.cambridgewilkinson.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-20T09:13:20.775258+00:00",
+      "lastChecked": "2026-04-21T08:57:01.045694+00:00",
       "jobs": [
         {
           "title": "Explore our Internships",
           "description": "If you are currently pursuing an MBA or an undergraduate degree in Business, Finance or Accounting, we invite you to apply for an unpaid internship at Cambridge Wilkinson. Our program is open-ended, designed to provide participants with a comprehensive overview of a career in investment banking. The program is delivered in a highly virtual setting with occasional New York City Metro and San Francisco Bay Area day events. Our program is ideal for the student that is seeking a deeply enriching opp",
           "graduationDate": null,
           "applyUrl": "https://www.cambridgewilkinson.com/careers-students",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         }
       ]
     },
@@ -602,63 +644,67 @@
       "hasInternPosting": false,
       "careerUrl": "https://www.montminy.com/careers",
       "status": "request_error",
-      "lastChecked": "2026-04-20T09:13:22.503197+00:00",
+      "lastChecked": "2026-04-21T08:57:02.798652+00:00",
       "jobs": []
     },
     "Alta Capital Partners": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T09:13:31.792170+00:00",
+      "lastChecked": "2026-04-21T08:57:13.482267+00:00",
       "jobs": []
     },
     "Alderman & Company": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T09:13:51.565799+00:00",
+      "lastChecked": "2026-04-21T08:57:36.896782+00:00",
       "jobs": []
     },
     "Impact Capital Group": {
       "hasInternPosting": false,
       "careerUrl": "https://www.impactcg.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-20T09:13:53.621458+00:00",
+      "lastChecked": "2026-04-21T08:57:39.080870+00:00",
       "jobs": []
     },
     "Berkery, Noyes & Co., LLC": {
       "hasInternPosting": true,
       "careerUrl": "https://www.berkerynoyes.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-20T09:13:59.477079+00:00",
+      "lastChecked": "2026-04-21T08:57:45.309914+00:00",
       "jobs": [
         {
           "title": "Internship Program",
           "description": "Internship Program",
           "graduationDate": null,
           "applyUrl": "https://berkerynoyes.com/jobs/internship-program/",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Junior and Senior undergraduates only",
           "description": "Interns work on substantive projects from day one, gaining early exposure to investment banking. Junior and Senior undergraduates only . 3381 mis@berkerynoyes.com Internship Program Application from BerkeryNoyes.com This field is required Name: This field is required Email: We need more information from you Company Name: Company Website: This field is required Message: Submit By clicking on SUBMIT, I acknowledge having read the Privacy Notice , and agree to my personal data being stored in",
           "graduationDate": null,
           "applyUrl": "https://www.berkerynoyes.com/privacy-policy/",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Interns work on substantive projects from day one, gaining early exposure to investment banking. Junior and Senior under",
           "description": "graduates only. Read More View less",
           "graduationDate": null,
           "applyUrl": "https://berkerynoyes.com/jobs/internship-program/",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Junior and Senior undergraduates only",
           "description": "Interns work on substantive projects from day one, gaining early exposure to investment banking. Junior and Senior undergraduates only . 3381 mis@berkerynoyes.com Internship Program Application from BerkeryNoyes.com This field is required Name: This field is required Email: We need more information from you Company Name: Company Website: This field is required Message: Submit By clicking on SUBMIT, I acknowledge having read the Privacy Notice , and agree to my personal data being stored in",
           "graduationDate": null,
           "applyUrl": "https://berkerynoyes.com/privacy-policy/",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         }
       ]
     },
@@ -666,49 +712,54 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T09:14:05.861906+00:00",
+      "lastChecked": "2026-04-21T08:57:51.847499+00:00",
       "jobs": []
     },
     "Progress Partners": {
       "hasInternPosting": true,
       "careerUrl": "https://www.progresspartners.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-20T09:14:10.166617+00:00",
+      "lastChecked": "2026-04-21T08:57:54.872246+00:00",
       "jobs": [
         {
           "title": "Explore our opportunities for interns We offer full-time and part-time internship opportunities. Find out more about our intern programs.",
           "description": "Explore our opportunities for professionals View our current job openings or get in touch if you think you’re the perfect fit for the Progress team. Explore our opportunities for interns We offer full-time and part-time internship opportunities. Find out more about our intern programs.",
           "graduationDate": null,
           "applyUrl": "https://progresspartners.com/opportunities-for-interns/",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Explore our Opportunities for Interns We offer full-time and part-time internships in the Boston office.",
           "description": "Explore our Opportunities for Professionals View our latest jobs for experienced professionals and apply for jobs online. Explore our Opportunities for Interns We offer full-time and part-time internships in the Boston office.",
           "graduationDate": null,
           "applyUrl": "https://progresspartners.com/opportunities-for-interns/",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Explore our opportunities for interns",
           "description": "We offer full-time and part-time internship opportunities. Find out more about our intern programs.",
           "graduationDate": null,
           "applyUrl": "https://progresspartners.com/careers-at-progress-partners/",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Explore our opportunities for professionals",
           "description": "View our current job openings or get in touch if you think you’re the perfect fit for the Progress team. Explore our opportunities for interns We offer full-time and part-time internship opportunities. Find out more about our intern programs.",
           "graduationDate": null,
           "applyUrl": "https://progresspartners.com/careers",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Underpinning all of this: Our absolute commitment to the future – driven by the innovative technologies that are disrupt",
           "description": "ing, but also providing opportunities for, businesses today. This is how we work with our clients, digital-first businesses at the forefront of this disruption. And it’s how we work together as a team, across the Progress network. For us it means a close-knit culture and collaborative working style, a focus on ‘always learning’, and a transparent approach to internal communications. We seek to drive growth professionally and individually because, for us, it’s about who you are and the impact you",
           "graduationDate": null,
           "applyUrl": "https://progresspartners.com/careers-at-progress-partners/",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         }
       ]
     },
@@ -716,42 +767,44 @@
       "hasInternPosting": false,
       "careerUrl": "https://www.cappellogroup.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-20T09:14:12.173177+00:00",
+      "lastChecked": "2026-04-21T08:57:57.108139+00:00",
       "jobs": []
     },
     "Diamond Capital Advisors": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T09:21:48.703186+00:00",
+      "lastChecked": "2026-04-21T09:05:33.695001+00:00",
       "jobs": []
     },
     "Black Legend Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T09:22:31.004217+00:00",
+      "lastChecked": "2026-04-21T09:06:25.536996+00:00",
       "jobs": []
     },
     "InvestmentBank.com": {
       "hasInternPosting": true,
       "careerUrl": "https://www.investmentbank.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-20T09:22:32.942804+00:00",
+      "lastChecked": "2026-04-21T09:06:27.583153+00:00",
       "jobs": [
         {
           "title": "Internships",
           "description": "For internship-specific information and opportunities, please visit our dedicated page.",
           "graduationDate": null,
           "applyUrl": "https://ibankcom.webflow.io/internships",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Internships:",
           "description": "Our Career Agent Development Program is designed to help you grow into a well-rounded financial professional. Interns benefit from structured training, mentorship, and access to seminars and workshops that support long-term professional development—all paired with a competitive compensation package. If you're a student interested in a summer internship, we encourage you to reach out in late fall for opportunities in the following summer’s program. Priority is given to students from select partne",
           "graduationDate": null,
           "applyUrl": "https://www.investmentbank.com/careers",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         }
       ]
     },
@@ -759,28 +812,30 @@
       "hasInternPosting": false,
       "careerUrl": "https://www.coltonalexander.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-20T09:22:35.776635+00:00",
+      "lastChecked": "2026-04-21T09:06:30.625748+00:00",
       "jobs": []
     },
     "Horizon Partners": {
       "hasInternPosting": true,
       "careerUrl": "https://www.horizonpartners.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-20T09:22:39.457310+00:00",
+      "lastChecked": "2026-04-21T09:06:34.698789+00:00",
       "jobs": [
         {
           "title": "Horizon Partners Wins 2025 Information Technology Deal of the Year (Under $100MM) at the M&A Advisor’s International M&A Awards",
           "description": "June 30, 2025 Read More »",
           "graduationDate": null,
           "applyUrl": "https://www.horizonpartners.com/careers",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Horizon Partners Wins 2025 Information Technology Deal of the Year (Under $100MM) at the M&A Advisor’s International M&A Awards",
           "description": "June 30, 2025",
           "graduationDate": null,
           "applyUrl": "https://horizonpartners.com/why-work-at-horizon-partners/",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         }
       ]
     },
@@ -788,98 +843,99 @@
       "hasInternPosting": false,
       "careerUrl": "https://www.aqtechnology.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-20T09:22:41.353116+00:00",
+      "lastChecked": "2026-04-21T09:06:36.585023+00:00",
       "jobs": []
     },
     "Horatius Group": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T09:22:48.018745+00:00",
+      "lastChecked": "2026-04-21T09:06:43.745561+00:00",
       "jobs": []
     },
     "New Century Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T09:22:58.676708+00:00",
+      "lastChecked": "2026-04-21T09:06:55.019557+00:00",
       "jobs": []
     },
     "Solganick & Co.": {
       "hasInternPosting": false,
       "careerUrl": "https://www.solganick.com/careers",
       "status": "http_404",
-      "lastChecked": "2026-04-20T09:23:02.647192+00:00",
+      "lastChecked": "2026-04-21T09:07:07.319483+00:00",
       "jobs": []
     },
     "Castle Placement": {
       "hasInternPosting": false,
       "careerUrl": "https://www.castleplacement.com/careers",
       "status": "http_404",
-      "lastChecked": "2026-04-20T09:23:04.608607+00:00",
+      "lastChecked": "2026-04-21T09:07:09.546568+00:00",
       "jobs": []
     },
     "Colebrooke Capital, LLC.": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T09:23:12.266173+00:00",
+      "lastChecked": "2026-04-21T09:07:17.937502+00:00",
       "jobs": []
     },
     "CB Capital Partners": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T09:30:48.799628+00:00",
+      "lastChecked": "2026-04-21T09:14:54.463189+00:00",
       "jobs": []
     },
     "The Shaughnessy Group": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T09:30:55.269002+00:00",
+      "lastChecked": "2026-04-21T09:15:00.896905+00:00",
       "jobs": []
     },
     "Bridge Street Advisors": {
       "hasInternPosting": false,
       "careerUrl": "https://www.bridgestreetadvisors.com/careers",
       "status": "http_404",
-      "lastChecked": "2026-04-20T09:30:57.165892+00:00",
+      "lastChecked": "2026-04-21T09:15:03.154849+00:00",
       "jobs": []
     },
     "Madison Park Group": {
       "hasInternPosting": false,
       "careerUrl": "https://www.madisonparkgroup.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-20T09:30:59.914461+00:00",
+      "lastChecked": "2026-04-21T09:15:05.836107+00:00",
       "jobs": []
     },
     "ReVera Capital": {
       "hasInternPosting": false,
       "careerUrl": "https://www.reveracapital.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-20T09:31:01.784035+00:00",
+      "lastChecked": "2026-04-21T09:15:07.862654+00:00",
       "jobs": []
     },
     "Mirus Capital Advisors": {
       "hasInternPosting": false,
       "careerUrl": "https://www.miruscapital.com/careers",
       "status": "request_error",
-      "lastChecked": "2026-04-20T09:31:03.579813+00:00",
+      "lastChecked": "2026-04-21T09:15:09.748731+00:00",
       "jobs": []
     },
     "Asia Renaissance IB": {
       "hasInternPosting": true,
       "careerUrl": "https://www.asiarenaissance.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-20T09:31:06.177748+00:00",
+      "lastChecked": "2026-04-21T09:15:11.749003+00:00",
       "jobs": [
         {
           "title": "Preparation of memoranda for internal and external use",
           "description": "",
           "graduationDate": null,
           "applyUrl": "https://www.asiarenaissance.com/careers",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         }
       ]
     },
@@ -887,154 +943,158 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T09:31:14.971976+00:00",
+      "lastChecked": "2026-04-21T09:15:20.530869+00:00",
       "jobs": []
     },
     "Coady Diemar Partners": {
       "hasInternPosting": false,
       "careerUrl": "https://www.coadydiemar.com/careers",
       "status": "http_404",
-      "lastChecked": "2026-04-20T09:31:16.798300+00:00",
+      "lastChecked": "2026-04-21T09:15:22.339274+00:00",
       "jobs": []
     },
     "Asgaard Capital, LLC": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T09:31:25.828720+00:00",
+      "lastChecked": "2026-04-21T09:15:31.157468+00:00",
       "jobs": []
     },
     "STEP Strategy Advisors": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T09:31:32.443663+00:00",
+      "lastChecked": "2026-04-21T09:15:38.792493+00:00",
       "jobs": []
     },
     "Fortitude Advisors": {
       "hasInternPosting": false,
       "careerUrl": "https://www.fortitudeadvisors.com/careers",
       "status": "http_404",
-      "lastChecked": "2026-04-20T09:31:35.674182+00:00",
+      "lastChecked": "2026-04-21T09:15:43.533364+00:00",
       "jobs": []
     },
     "Columbia West Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T09:31:44.030115+00:00",
+      "lastChecked": "2026-04-21T09:15:52.337847+00:00",
       "jobs": []
     },
     "Crotalus Advisors": {
       "hasInternPosting": false,
       "careerUrl": "https://www.crotalusadvisors.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-20T09:31:46.013332+00:00",
+      "lastChecked": "2026-04-21T09:15:54.205447+00:00",
       "jobs": []
     },
     "ComCap": {
       "hasInternPosting": false,
       "careerUrl": "https://www.comcap.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-20T09:31:48.054206+00:00",
+      "lastChecked": "2026-04-21T09:15:56.197649+00:00",
       "jobs": []
     },
     "Raymond Leigh & Partners": {
       "hasInternPosting": false,
       "careerUrl": "https://www.raymondleigh.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-20T09:31:51.373945+00:00",
+      "lastChecked": "2026-04-21T09:15:59.409528+00:00",
       "jobs": []
     },
     "Centerstone Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T09:32:00.353885+00:00",
+      "lastChecked": "2026-04-21T09:16:08.024546+00:00",
       "jobs": []
     },
     "David N. Deutsch & Co": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T09:32:08.190832+00:00",
+      "lastChecked": "2026-04-21T09:16:17.468465+00:00",
       "jobs": []
     },
     "Seahorn Capital Group": {
       "hasInternPosting": false,
       "careerUrl": "https://www.seahorncapital.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-20T09:32:09.980367+00:00",
+      "lastChecked": "2026-04-21T09:16:20.528291+00:00",
       "jobs": []
     },
     "King's Ransom Group": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T09:32:18.696123+00:00",
+      "lastChecked": "2026-04-21T09:16:29.311417+00:00",
       "jobs": []
     },
     "Genoa Partners LLC": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T09:32:25.845742+00:00",
+      "lastChecked": "2026-04-21T09:16:38.118688+00:00",
       "jobs": []
     },
     "Reynolds Advisory": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T09:40:02.924493+00:00",
+      "lastChecked": "2026-04-21T09:24:16.803192+00:00",
       "jobs": []
     },
     "Palm Tree LLC": {
       "hasInternPosting": false,
       "careerUrl": "https://www.palmtreellc.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-20T09:40:05.410529+00:00",
+      "lastChecked": "2026-04-21T09:24:19.700335+00:00",
       "jobs": []
     },
     "Pharus": {
       "hasInternPosting": false,
       "careerUrl": "https://www.pharus.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-20T09:40:08.791787+00:00",
+      "lastChecked": "2026-04-21T09:24:23.226230+00:00",
       "jobs": []
     },
     "Watertower Advisors": {
       "hasInternPosting": true,
       "careerUrl": "https://www.watertoweradvisors.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-20T09:40:12.152366+00:00",
+      "lastChecked": "2026-04-21T09:24:26.315827+00:00",
       "jobs": [
         {
           "title": "Associate Intern",
           "description": "Job Type: Full-Time Location: Beverly Hills, California We expect the successful candidate to show a willingness to take on a variety of assignments and be flexible as to work responsibilities. Initially the position will be split roughly 75/25 between analytical and client management requirements although we would expect the client engagement management component to grow over time.",
           "graduationDate": null,
           "applyUrl": "https://www.watertoweradvisors.com/careers",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Analyst Intern",
           "description": "Job Type: Academic Internship I Part-Time Location: Beverly Hills, California This role is an excellent opportunity for a student in a collegiate program with strong academic credentials, who is passionate about technology and wants to join a high caliber team of professionals. Experience or serious interest in finance, engineering and technology is preferred.",
           "graduationDate": null,
           "applyUrl": "https://www.watertoweradvisors.com/careers",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Associate Intern",
           "description": "Job Type: Full-Time Location: Beverly Hills, California Watertower Advisors is a leading boutique investment bank looking for a talented individual to join us as an Investment Banking Associate. This is an excellent opportunity for students pursuing an MBA with strong grades, who enjoys technology and has three or more years working in a related field. We expect the successful candidate to show a willingness to take on a variety of assignments and be flexible as to work responsibilities. Initial",
           "graduationDate": null,
           "applyUrl": "https://www.watertoweradvisors.com/careers-associate-intern",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Analyst Intern",
           "description": "Job Type: Academic Internship | Part Time Location: Beverly Hills, California Watertower Advisors is a leading boutique investment bank looking for a talented individual to join us as an Investment Banking Associate. This role is an excellent opportunity for a student in a collegiate program with strong academic credentials, who is passionate about technology and wants to join a high caliber team of professionals. Experience or serious interest in finance, engineering and technology is preferred",
           "graduationDate": null,
           "applyUrl": "https://www.watertoweradvisors.com/careers-analyst-intern",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         }
       ]
     },
@@ -1042,63 +1102,66 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T09:44:03.757025+00:00",
+      "lastChecked": "2026-04-21T09:28:18.093297+00:00",
       "jobs": []
     },
     "Fallbrook Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T09:44:12.737189+00:00",
+      "lastChecked": "2026-04-21T09:28:26.551315+00:00",
       "jobs": []
     },
     "Shea & Company": {
       "hasInternPosting": false,
       "careerUrl": "https://www.sheacompany.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-20T09:44:14.666294+00:00",
+      "lastChecked": "2026-04-21T09:28:28.494945+00:00",
       "jobs": []
     },
     "Independence Point": {
       "hasInternPosting": false,
       "careerUrl": "https://www.independencepoint.com/join-us",
       "status": "ok",
-      "lastChecked": "2026-04-20T09:44:23.936444+00:00",
+      "lastChecked": "2026-04-21T09:28:38.354761+00:00",
       "jobs": []
     },
     "Rush Street Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T09:44:35.415399+00:00",
+      "lastChecked": "2026-04-21T09:28:50.336072+00:00",
       "jobs": []
     },
     "Landmark Ventures": {
       "hasInternPosting": true,
       "careerUrl": "https://www.landmarkventures.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-20T09:44:37.318471+00:00",
+      "lastChecked": "2026-04-21T09:28:52.694551+00:00",
       "jobs": [
         {
           "title": "Name * FIRST NAME * LAST NAME * Title Company * Reason for Contact Internship Business Development Investment Banking Ge",
           "description": "neral Inquiries Partnerships Sponsorships Events Inquiry Email * Attach Files MESSAGE",
           "graduationDate": null,
           "applyUrl": "https://www.landmarkventures.com/careers",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Reason for Contact Internship Business Development Investment Banking General Inquiries Partnerships Sponsorships Events",
           "description": "Inquiry",
           "graduationDate": null,
           "applyUrl": "https://www.landmarkventures.com/careers",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Internship Business Development Investment Banking General Inquiries Partnerships Sponsorships Events Inquiry",
           "description": "",
           "graduationDate": null,
           "applyUrl": "https://www.landmarkventures.com/careers",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         }
       ]
     },
@@ -1106,28 +1169,30 @@
       "hasInternPosting": false,
       "careerUrl": "https://www.delmorgan.com/careers",
       "status": "request_error",
-      "lastChecked": "2026-04-20T09:44:53.945511+00:00",
+      "lastChecked": "2026-04-21T09:29:09.354548+00:00",
       "jobs": []
     },
     "Silverwood Partners": {
       "hasInternPosting": true,
       "careerUrl": "https://www.silverwoodpartners.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-20T09:44:57.431113+00:00",
+      "lastChecked": "2026-04-21T09:29:13.189440+00:00",
       "jobs": [
         {
           "title": "Internships",
           "description": "Silverwood offers internship opportunities to college students during the school year. An intern will be exposed to M&A and private placement transactions, and will gain experience that will be valuable whether the individual chooses to become an investment banker or pursue a career in another field. Candidates should have a good working knowledge of Microsoft Excel, Word, and PowerPoint. A background including work in finance, economics, or accounting is preferred. Candidates must have excellen",
           "graduationDate": null,
           "applyUrl": "https://www.silverwoodpartners.com/careers",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Silverwood offers internship opportunities to college students during the school year. An intern will be exposed to M&A",
           "description": "and private placement transactions, and will gain experience that will be valuable whether the individual chooses to become an investment banker or pursue a career in another field. Candidates should have a good working knowledge of Microsoft Excel, Word, and PowerPoint. A background including work in finance, economics, or accounting is preferred. Candidates must have excellent communication skills, a strong work ethic, the ability to work in a team setting, and the ability to prioritize multip",
           "graduationDate": null,
           "applyUrl": "mailto:careers@silverwoodpartners.com",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         }
       ]
     },
@@ -1135,399 +1200,431 @@
       "hasInternPosting": false,
       "careerUrl": "https://www.bryantparkcapital.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-20T09:44:59.425073+00:00",
+      "lastChecked": "2026-04-21T09:29:15.630849+00:00",
       "jobs": []
     },
     "Park Lane": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T09:47:22.781237+00:00",
+      "lastChecked": "2026-04-21T09:31:34.437370+00:00",
       "jobs": []
     },
     "TM Capital Corp.": {
       "hasInternPosting": false,
       "careerUrl": "https://www.tmcapital.com/careers",
       "status": "http_404",
-      "lastChecked": "2026-04-20T09:47:24.616209+00:00",
+      "lastChecked": "2026-04-21T09:31:36.215157+00:00",
       "jobs": []
     },
     "Navidar": {
       "hasInternPosting": false,
       "careerUrl": "https://www.navidar.com/careers",
       "status": "http_404",
-      "lastChecked": "2026-04-20T09:47:27.603927+00:00",
+      "lastChecked": "2026-04-21T09:31:39.013640+00:00",
       "jobs": []
     },
     "Arrowroot Advisors": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T09:47:51.256558+00:00",
+      "lastChecked": "2026-04-21T09:32:01.346570+00:00",
       "jobs": []
     },
     "AGRA Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T09:48:00.477158+00:00",
+      "lastChecked": "2026-04-21T09:32:12.132731+00:00",
       "jobs": []
     },
     "martinwolf": {
       "hasInternPosting": false,
       "careerUrl": "https://www.martinwolf.com/careers",
       "status": "http_404",
-      "lastChecked": "2026-04-20T09:48:03.228387+00:00",
+      "lastChecked": "2026-04-21T09:32:14.839136+00:00",
       "jobs": []
     },
     "Young America Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T09:48:27.342171+00:00",
+      "lastChecked": "2026-04-21T09:32:26.621330+00:00",
       "jobs": []
     },
     "BDO Capital Advisors, LLC": {
       "hasInternPosting": false,
       "careerUrl": "https://www.bdocapitaladvisors.com/careers",
       "status": "request_error",
-      "lastChecked": "2026-04-20T09:48:28.889332+00:00",
+      "lastChecked": "2026-04-21T09:32:28.210315+00:00",
       "jobs": []
     },
     "Jett Capital Advisors": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T09:48:38.398391+00:00",
+      "lastChecked": "2026-04-21T09:32:38.687201+00:00",
       "jobs": []
     },
     "Woodside Capital Partners": {
       "hasInternPosting": false,
       "careerUrl": "https://www.woodsidecap.com/careers",
       "status": "http_404",
-      "lastChecked": "2026-04-20T09:48:40.631188+00:00",
+      "lastChecked": "2026-04-21T09:32:41.338068+00:00",
       "jobs": []
     },
     "The Peakstone Group": {
       "hasInternPosting": false,
       "careerUrl": "https://www.thepeakstonegroup.com/careers",
       "status": "request_error",
-      "lastChecked": "2026-04-20T09:48:42.193403+00:00",
+      "lastChecked": "2026-04-21T09:32:42.900127+00:00",
       "jobs": []
     },
     "Oaklins DeSilva+Phillips": {
       "hasInternPosting": false,
       "careerUrl": "https://www.desilvaphillips.com/careers",
       "status": "request_error",
-      "lastChecked": "2026-04-20T09:48:43.887613+00:00",
+      "lastChecked": "2026-04-21T09:32:44.689107+00:00",
       "jobs": []
     },
     "Mid-Market Securities": {
       "hasInternPosting": false,
       "careerUrl": "https://www.midmarketsecurities.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-20T09:48:49.173060+00:00",
+      "lastChecked": "2026-04-21T09:32:47.230757+00:00",
       "jobs": []
     },
     "JEGI CLARITY": {
       "hasInternPosting": false,
       "careerUrl": "https://www.jegiclarity.com/careers",
       "status": "request_error",
-      "lastChecked": "2026-04-20T09:48:51.330077+00:00",
+      "lastChecked": "2026-04-21T09:32:49.875923+00:00",
       "jobs": []
     },
     "733Park": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T09:48:58.817349+00:00",
+      "lastChecked": "2026-04-21T09:32:58.581514+00:00",
       "jobs": []
     },
     "Calder Capital": {
       "hasInternPosting": false,
       "careerUrl": "https://www.caldercapital.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-20T09:49:00.552807+00:00",
+      "lastChecked": "2026-04-21T09:33:01.634474+00:00",
       "jobs": []
     },
     "PTB": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T09:49:07.001696+00:00",
+      "lastChecked": "2026-04-21T09:33:08.468577+00:00",
       "jobs": []
     },
     "Meritage Partners": {
       "hasInternPosting": false,
       "careerUrl": "https://www.meritagepartners.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-20T09:49:11.680389+00:00",
+      "lastChecked": "2026-04-21T09:33:11.057371+00:00",
       "jobs": []
     },
     "Trafalgar Capital Partners": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T09:49:20.579052+00:00",
+      "lastChecked": "2026-04-21T09:33:19.907825+00:00",
       "jobs": []
     },
     "Software Equity Group": {
       "hasInternPosting": false,
       "careerUrl": "https://www.softwareequitygroup.com/careers",
       "status": "http_404",
-      "lastChecked": "2026-04-20T09:49:22.372501+00:00",
+      "lastChecked": "2026-04-21T09:33:22.050468+00:00",
       "jobs": []
     },
     "Nfluence Partners": {
       "hasInternPosting": false,
       "careerUrl": "https://www.nfluence.com/careers",
       "status": "http_404",
-      "lastChecked": "2026-04-20T09:49:24.057193+00:00",
+      "lastChecked": "2026-04-21T09:33:23.816010+00:00",
       "jobs": []
     },
     "Gabriel Horn Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T09:49:31.673935+00:00",
+      "lastChecked": "2026-04-21T09:33:32.003326+00:00",
       "jobs": []
     },
     "Sycamore Canyon Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T09:49:40.379903+00:00",
+      "lastChecked": "2026-04-21T09:33:40.677503+00:00",
       "jobs": []
     },
     "BlackRose Group": {
       "hasInternPosting": true,
       "careerUrl": "https://www.blackrosegroup.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-20T09:50:07.877132+00:00",
+      "lastChecked": "2026-04-21T09:34:00.784394+00:00",
       "jobs": [
         {
           "title": "International investigations",
           "description": "Risk assessment and risk management Crisis Management High-tech security & infrastructure solutions Cybersecurity services On-site protection International investigations Consultancy services",
           "graduationDate": null,
           "applyUrl": "https://www.blackrosegroup.com/international-investigations/",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Who We Are Where we are Services Risk assessment and risk management Crisis Management High-tech security & infrastructu",
           "description": "re solutions Cybersecurity services On-site protection International investigations Consultancy services Careers Case studies Contact Us Reserved Area English Français Italiano",
           "graduationDate": null,
           "applyUrl": "https://www.blackrosegroup.com/",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Services Risk assessment and risk management Crisis Management High-tech security & infrastructure solutions Cybersecuri",
           "description": "ty services On-site protection International investigations Consultancy services",
           "graduationDate": null,
           "applyUrl": "https://www.blackrosegroup.com/careers",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Risk assessment and risk management",
           "description": "High-tech security & infrastructure solutions Cybersecurity services Crisis Management On-site protection International investigations Consultancy services",
           "graduationDate": null,
           "applyUrl": "https://www.blackrosegroup.com/risk-assessment-and-risk-management/",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Black Rose Group",
           "description": "Black Rose Security Ltd 41 DEVONSHIRE STREET GROUND FLOOR LONDON W1G 7AJ United Kingdom Privacy policy Cookie policy Made in imature Company Who we Are Where we are Careers Case studies / success stories Code of Ethics Sustainability Contact Us Our Services Risk assessment and risk management High-tech & infrastructure solutions Cybersecurity services Crisis Management International investigations On-site protection Consultancy services Group Black Rose srl (italy) Black Rose Security ltd (Londo",
           "graduationDate": null,
           "applyUrl": "https://www.imature.it",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Our Services",
           "description": "Risk assessment and risk management High-tech & infrastructure solutions Cybersecurity services Crisis Management International investigations On-site protection Consultancy services",
           "graduationDate": null,
           "applyUrl": "https://www.blackrosegroup.com/risk-assessment-and-risk-management/",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Risk assessment and risk management High-tech & infrastructure solutions Cybersecurity services Crisis Management Intern",
           "description": "ational investigations On-site protection Consultancy services",
           "graduationDate": null,
           "applyUrl": "https://www.blackrosegroup.com/risk-assessment-and-risk-management/",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "We shield your world when you need it most, solving your most critical challenges because when failure is not an option, you need a partner who delivers, every time, everywhere.",
           "description": "Black Rose Group Black Rose Security Ltd 41 DEVONSHIRE STREET GROUND FLOOR LONDON W1G 7AJ United Kingdom Privacy policy Cookie policy Company Who we Are Where we are Careers Case studies / success stories Code of Ethics Sustainability Contact Us Services Risk assessment and risk management High-tech & infrastructure solutions Cybersecurity services Crisis Management International investigations On-site protection Consultancy services Our Group Black Rose srl (italy) Black Rose Security ltd (Lond",
           "graduationDate": null,
           "applyUrl": "https://www.instagram.com/blackrosegroup5/",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Company Who we Are Where we are Careers Case studies / success stories Code of Ethics Sustainability Contact Us Services",
           "description": "Risk assessment and risk management High-tech & infrastructure solutions Cybersecurity services Crisis Management International investigations On-site protection Consultancy services Our Group Black Rose srl (italy) Black Rose Security ltd (London) Black Rose Tech ltd (London) Black Rose Securité Sas (Paris) Our Brochure",
           "graduationDate": null,
           "applyUrl": "https://www.blackrosegroup.com/careers",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Services Risk assessment and risk management High-tech & infrastructure solutions Cybersecurity services Crisis Manageme",
           "description": "nt International investigations On-site protection Consultancy services",
           "graduationDate": null,
           "applyUrl": "https://www.blackrosegroup.com/careers",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Services Risk assessment and risk management Crisis Management High-tech security & infrastructure solutions Cybersecuri",
           "description": "ty services On-site protection International investigations Consultancy services",
           "graduationDate": null,
           "applyUrl": "https://www.blackrosegroup.com/careers/",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Company Who we Are Where we are Careers Case studies / success stories Code of Ethics Sustainability Contact Us Services",
           "description": "Risk assessment and risk management High-tech & infrastructure solutions Cybersecurity services Crisis Management International investigations On-site protection Consultancy services Our Group Black Rose srl (italy) Black Rose Security ltd (London) Black Rose Tech ltd (London) Black Rose Securité Sas (Paris) Our Brochure",
           "graduationDate": null,
           "applyUrl": "https://www.blackrosegroup.com/careers/",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Services Risk assessment and risk management High-tech & infrastructure solutions Cybersecurity services Crisis Manageme",
           "description": "nt International investigations On-site protection Consultancy services",
           "graduationDate": null,
           "applyUrl": "https://www.blackrosegroup.com/careers/",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Enquêtes internationales",
           "description": "Évaluation et gestion des risques Gestion de crise Solutions de sécurité et infrastructures high-tech Services de Cybersécurité Protection sur site Enquêtes internationales Services de Conseil",
           "graduationDate": null,
           "applyUrl": "https://www.blackrosegroup.com/fr/enquetes-internationales/",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Qui Nous Sommes Où nous trouver Services Évaluation et gestion des risques Gestion de crise Solutions de sécurité et inf",
           "description": "rastructures high-tech Services de Cybersécurité Protection sur site Enquêtes internationales Services de Conseil Opportunités de carrière Histoires de réussite Contactez-nous Espace Réservé Français English Italiano",
           "graduationDate": null,
           "applyUrl": "https://www.blackrosegroup.com/fr/",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Services Évaluation et gestion des risques Gestion de crise Solutions de sécurité et infrastructures high-tech Services",
           "description": "de Cybersécurité Protection sur site Enquêtes internationales Services de Conseil",
           "graduationDate": null,
           "applyUrl": "https://www.blackrosegroup.com/fr/opportunites-de-carriere/",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Évaluation des risques et gestion des risques",
           "description": "Solutions de sécurité et d'infrastructure de haute technologie Services de cybersécurité Gestion de crise Protection sur site Enquêtes internationales Services de conseil",
           "graduationDate": null,
           "applyUrl": "https://www.blackrosegroup.com/fr/evaluation-et-gestion-des-risques/",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Group",
           "description": "Black Rose Group Black Rose Security Ltd 41 DEVONSHIRE STREET GROUND FLOOR LONDON W1G 7AJ Royaume-Uni Privacy policy Cookie policy Fabriqué en imature Entreprise Qui Nous Sommes Où nous trouver Opportunités de carrière Études de cas / Histoires de réussite Code éthique Durabilité Contactez-nous Nos services Évaluation et gestion des risques Sécurité et infrastructures high-tech Services de Cybersécurité Gestion de crise Enquêtes internationales Protection sur site Services de Conseil Le groupe B",
           "graduationDate": null,
           "applyUrl": "https://www.imature.it",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Nos services",
           "description": "Évaluation et gestion des risques Sécurité et infrastructures high-tech Services de Cybersécurité Gestion de crise Enquêtes internationales Protection sur site Services de Conseil",
           "graduationDate": null,
           "applyUrl": "https://www.blackrosegroup.com/fr/evaluation-et-gestion-des-risques/",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Évaluation et gestion des risques Sécurité et infrastructures high-tech Services de Cybersécurité Gestion de crise Enquê",
           "description": "tes internationales Protection sur site Services de Conseil",
           "graduationDate": null,
           "applyUrl": "https://www.blackrosegroup.com/fr/evaluation-et-gestion-des-risques/",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Nous protégeons votre monde lorsque vous en avez le plus besoin, en relevant vos défis les plus critiques, car lorsque l’échec n’est pas une option, vous avez besoin d’un partenaire qui donne des résu",
           "description": "Black Rose Group Black Rose Security Ltd 41 DEVONSHIRE STREET GROUND FLOOR LONDON W1G 7AJ Royaume-Uni Privacy policy Cookie policy Entreprise Qui Nous Sommes Où nous trouver Opportunités de carrière Études de cas / Histoires de réussite Code éthique Durabilité Contactez-nous Services Évaluation et gestion des risques Sécurité et infrastructures high-tech Services de Cybersécurité Gestion de crise Enquêtes internationales Protection sur site Services de Conseil Notre groupe Black Rose srl (Italie",
           "graduationDate": null,
           "applyUrl": "https://www.instagram.com/blackrosegroup5/",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Entreprise Qui Nous Sommes Où nous trouver Opportunités de carrière Études de cas / Histoires de réussite Code éthique D",
           "description": "urabilité Contactez-nous Services Évaluation et gestion des risques Sécurité et infrastructures high-tech Services de Cybersécurité Gestion de crise Enquêtes internationales Protection sur site Services de Conseil Notre groupe Black Rose srl (Italie) Black Rose Security ltd (Londres) Black Rose Tech ltd (Londres) Black Rose Securité Sas (Paris) Notre Brochure",
           "graduationDate": null,
           "applyUrl": "https://www.blackrosegroup.com/fr/opportunites-de-carriere/",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Services Évaluation et gestion des risques Sécurité et infrastructures high-tech Services de Cybersécurité Gestion de cr",
           "description": "ise Enquêtes internationales Protection sur site Services de Conseil",
           "graduationDate": null,
           "applyUrl": "https://www.blackrosegroup.com/fr/opportunites-de-carriere/",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Investigazioni internazionali",
           "description": "Valutazione e gestione del rischio Gestione delle Crisi Soluzioni di sicurezza e infrastrutture high-tech Servizi di cybersecurity Protezione in loco Investigazioni internazionali Servizi di consulenza",
           "graduationDate": null,
           "applyUrl": "https://www.blackrosegroup.com/it/investigazioni-internazionali/",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Chi Siamo Dove Siamo Servizi Valutazione e gestione del rischio Gestione delle Crisi Soluzioni di sicurezza e infrastrut",
           "description": "ture high-tech Servizi di cybersecurity Protezione in loco Investigazioni internazionali Servizi di consulenza Opportunità di Lavoro Storie di successo Contattaci Area Riservata Italiano English Français",
           "graduationDate": null,
           "applyUrl": "https://www.blackrosegroup.com/it/",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Servizi Valutazione e gestione del rischio Gestione delle Crisi Soluzioni di sicurezza e infrastrutture high-tech Serviz",
           "description": "i di cybersecurity Protezione in loco Investigazioni internazionali Servizi di consulenza",
           "graduationDate": null,
           "applyUrl": "https://www.blackrosegroup.com/it/opportunita-di-lavoro/",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Valutazione e gestione del rischio",
           "description": "Soluzioni di sicurezza e infrastrutture high-tech Servizi di Cybersecurity Gestione delle crisi Protezione in loco Investigazioni internazionali Servizi di consulenza",
           "graduationDate": null,
           "applyUrl": "https://www.blackrosegroup.com/it/valutazione-e-gestione-del-rischio/",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "I nostri Servizi",
           "description": "Valutazione e gestione del rischio Sicurezza e infrastrutture high-tech Servizi di cybersecurity Gestione delle Crisi Investigazioni internazionali Protezione in loco Servizi di consulenza",
           "graduationDate": null,
           "applyUrl": "https://www.blackrosegroup.com/it/valutazione-e-gestione-del-rischio/",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Valutazione e gestione del rischio Sicurezza e infrastrutture high-tech Servizi di cybersecurity Gestione delle Crisi In",
           "description": "vestigazioni internazionali Protezione in loco Servizi di consulenza",
           "graduationDate": null,
           "applyUrl": "https://www.blackrosegroup.com/it/valutazione-e-gestione-del-rischio/",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Proteggiamo il tuo mondo quando ne hai più bisogno, risolvendo le tue sfide più critiche, perché quando fallire non è un’opzione, hai bisogno di un partner che consegni risultati, ogni volta, ovunque.",
           "description": "Black Rose Group Black Rose Security Ltd 41 DEVONSHIRE STREET GROUND FLOOR LONDON W1G 7AJ United Kingdom Privacy policy Cookie policy Società Chi Siamo Dove siamo Opportunità di Lavoro Studi di caso / Storie di successo Codice Etico Sostenibilità Contattaci Servizi Valutazione e gestione del rischio Sicurezza e infrastrutture high-tech Servizi di cybersecurity Gestione delle Crisi Investigazioni internazionali Protezione in loco Servizi di consulenza Il nostro Gruppo Black Rose srl (italia) Blac",
           "graduationDate": null,
           "applyUrl": "https://www.instagram.com/blackrosegroup5/",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Società Chi Siamo Dove siamo Opportunità di Lavoro Studi di caso / Storie di successo Codice Etico Sostenibilità Contatt",
           "description": "aci Servizi Valutazione e gestione del rischio Sicurezza e infrastrutture high-tech Servizi di cybersecurity Gestione delle Crisi Investigazioni internazionali Protezione in loco Servizi di consulenza Il nostro Gruppo Black Rose srl (italia) Black Rose Security ltd (Londra) Black Rose Tech ltd (Londra) Black Rose Securité Sas (Parigi) La nostra Brochure",
           "graduationDate": null,
           "applyUrl": "https://www.blackrosegroup.com/it/opportunita-di-lavoro/",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Servizi Valutazione e gestione del rischio Sicurezza e infrastrutture high-tech Servizi di cybersecurity Gestione delle",
           "description": "Crisi Investigazioni internazionali Protezione in loco Servizi di consulenza",
           "graduationDate": null,
           "applyUrl": "https://www.blackrosegroup.com/it/opportunita-di-lavoro/",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         }
       ]
     },
@@ -1535,469 +1632,480 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T09:50:16.793045+00:00",
+      "lastChecked": "2026-04-21T09:34:09.761894+00:00",
       "jobs": []
     },
     "PEAK Technology Partners": {
       "hasInternPosting": false,
       "careerUrl": "https://www.peaktechpartners.com/careers",
-      "status": "ok",
-      "lastChecked": "2026-04-20T09:50:18.634035+00:00",
+      "status": "request_error",
+      "lastChecked": "2026-04-21T09:34:15.775571+00:00",
       "jobs": []
     },
     "Cohen & Company": {
       "hasInternPosting": false,
       "careerUrl": "https://www.cohencompany.com/careers",
       "status": "request_error",
-      "lastChecked": "2026-04-20T09:50:20.226954+00:00",
+      "lastChecked": "2026-04-21T09:34:17.499913+00:00",
       "jobs": []
     },
     "Watertower Group": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T09:50:29.831568+00:00",
+      "lastChecked": "2026-04-21T09:34:27.898295+00:00",
       "jobs": []
     },
     "Grand Avenue Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T09:50:38.530630+00:00",
+      "lastChecked": "2026-04-21T09:34:36.789751+00:00",
       "jobs": []
     },
     "Boustead Securities": {
       "hasInternPosting": false,
       "careerUrl": "https://www.boustead1828.com/careers",
       "status": "http_404",
-      "lastChecked": "2026-04-20T09:50:40.296654+00:00",
+      "lastChecked": "2026-04-21T09:34:38.509179+00:00",
       "jobs": []
     },
     "ROTH Capital Partners": {
       "hasInternPosting": false,
       "careerUrl": "https://www.rothcapital.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-20T09:50:43.321388+00:00",
+      "lastChecked": "2026-04-21T09:34:41.498100+00:00",
       "jobs": []
     },
     "LockeBridge Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T09:51:02.381618+00:00",
+      "lastChecked": "2026-04-21T09:35:00.555034+00:00",
       "jobs": []
     },
     "Drake Star": {
       "hasInternPosting": false,
       "careerUrl": "https://www.drakestar.com/careers",
       "status": "http_404",
-      "lastChecked": "2026-04-20T09:51:04.496331+00:00",
+      "lastChecked": "2026-04-21T09:35:03.140201+00:00",
       "jobs": []
     },
     "SilverMile Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T09:51:31.681000+00:00",
+      "lastChecked": "2026-04-21T09:35:26.884989+00:00",
       "jobs": []
     },
     "Madison Street Capital": {
       "hasInternPosting": false,
       "careerUrl": "https://www.madisonstreetcapital.com/careers",
       "status": "http_404",
-      "lastChecked": "2026-04-20T09:51:33.958340+00:00",
+      "lastChecked": "2026-04-21T09:35:29.307559+00:00",
       "jobs": []
     },
     "Edgemont Partners": {
       "hasInternPosting": false,
       "careerUrl": "https://www.edgemontpartners.com/careers",
       "status": "http_404",
-      "lastChecked": "2026-04-20T09:51:35.737347+00:00",
+      "lastChecked": "2026-04-21T09:35:31.327213+00:00",
       "jobs": []
     },
     "Hum Capital": {
       "hasInternPosting": false,
       "careerUrl": "https://www.humcapital.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-20T09:51:40.109563+00:00",
+      "lastChecked": "2026-04-21T09:35:35.300108+00:00",
       "jobs": []
     },
     "GTK Partners": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T09:51:51.625603+00:00",
+      "lastChecked": "2026-04-21T09:35:47.531256+00:00",
       "jobs": []
     },
     "Westcove Partners": {
       "hasInternPosting": false,
       "careerUrl": "https://www.westcovepartners.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-20T09:51:55.782942+00:00",
+      "lastChecked": "2026-04-21T09:35:52.410146+00:00",
       "jobs": []
     },
     "Salem Partners LLC": {
       "hasInternPosting": false,
       "careerUrl": "https://www.salempartners.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-20T09:51:57.471350+00:00",
+      "lastChecked": "2026-04-21T09:35:54.127595+00:00",
       "jobs": []
     },
     "WestPark Capital, Inc.": {
       "hasInternPosting": false,
       "careerUrl": "https://www.westparkcapital.com/careers",
       "status": "request_error",
-      "lastChecked": "2026-04-20T09:52:14.065134+00:00",
+      "lastChecked": "2026-04-21T09:36:10.858214+00:00",
       "jobs": []
     },
     "Northern Edge Advisors": {
       "hasInternPosting": false,
       "careerUrl": "https://www.northernedgeadvisors.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-20T09:52:16.544282+00:00",
+      "lastChecked": "2026-04-21T09:36:13.898860+00:00",
       "jobs": []
     },
     "Greif & Co.": {
       "hasInternPosting": false,
       "careerUrl": "https://www.greifco.com/careers",
       "status": "http_404",
-      "lastChecked": "2026-04-20T09:52:18.411899+00:00",
+      "lastChecked": "2026-04-21T09:36:15.866670+00:00",
       "jobs": []
     },
     "England & Company": {
       "hasInternPosting": false,
       "careerUrl": "https://www.englandco.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-20T09:52:26.480123+00:00",
+      "lastChecked": "2026-04-21T09:36:20.129409+00:00",
       "jobs": []
     },
     "BDA Partners": {
       "hasInternPosting": false,
       "careerUrl": "https://www.bdapartners.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-20T09:52:30.400939+00:00",
+      "lastChecked": "2026-04-21T09:36:25.096275+00:00",
       "jobs": []
     },
     "Parcrest Advisors": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T09:52:36.781988+00:00",
+      "lastChecked": "2026-04-21T09:36:31.547461+00:00",
       "jobs": []
     },
     "Brock Capital Group": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T09:52:43.414394+00:00",
+      "lastChecked": "2026-04-21T09:36:39.119064+00:00",
       "jobs": []
     },
     "Aleutian Capital Group": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T09:53:03.212552+00:00",
+      "lastChecked": "2026-04-21T09:37:00.901674+00:00",
       "jobs": []
     },
     "Alantra": {
       "hasInternPosting": false,
       "careerUrl": "https://www.alantra.com/en/careers",
       "status": "http_403",
-      "lastChecked": "2026-04-20T09:53:04.809781+00:00",
+      "lastChecked": "2026-04-21T09:37:02.500235+00:00",
       "jobs": []
     },
     "Janney Montgomery Scott": {
       "hasInternPosting": false,
       "careerUrl": "https://www.janney.com/careers",
       "status": "http_403",
-      "lastChecked": "2026-04-20T09:53:06.473518+00:00",
+      "lastChecked": "2026-04-21T09:37:04.311211+00:00",
       "jobs": []
     },
     "Layer 7 Capital": {
       "hasInternPosting": false,
       "careerUrl": "https://www.layer7capital.com/careers",
       "status": "http_404",
-      "lastChecked": "2026-04-20T09:53:08.288865+00:00",
+      "lastChecked": "2026-04-21T09:37:06.137626+00:00",
       "jobs": []
     },
     "QInvest LLC": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T09:53:18.036393+00:00",
+      "lastChecked": "2026-04-21T09:37:17.512775+00:00",
       "jobs": []
     },
     "Redmount Mergers & Acquisitions": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T09:53:24.430039+00:00",
+      "lastChecked": "2026-04-21T09:37:24.129162+00:00",
       "jobs": []
     },
     "CapM Advisors": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T09:53:31.766103+00:00",
+      "lastChecked": "2026-04-21T09:37:32.089356+00:00",
       "jobs": []
     },
     "Frisch Capital Partners": {
       "hasInternPosting": false,
       "careerUrl": "https://www.frischcapital.com/work-with-us",
       "status": "ok",
-      "lastChecked": "2026-04-20T09:53:42.021530+00:00",
+      "lastChecked": "2026-04-21T09:37:41.944641+00:00",
       "jobs": []
     },
     "Agile Equity": {
       "hasInternPosting": false,
       "careerUrl": "https://www.agileequity.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-20T09:53:45.587929+00:00",
+      "lastChecked": "2026-04-21T09:37:48.888356+00:00",
       "jobs": []
     },
     "Sigma Capital Group": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T10:01:22.862484+00:00",
+      "lastChecked": "2026-04-21T09:45:27.760855+00:00",
       "jobs": []
     },
     "Scura Partners": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T10:01:36.336370+00:00",
+      "lastChecked": "2026-04-21T09:45:42.658230+00:00",
       "jobs": []
     },
     "Newport Valuations": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T10:01:51.533229+00:00",
+      "lastChecked": "2026-04-21T09:45:57.186483+00:00",
       "jobs": []
     },
     "Big Path Capital": {
       "hasInternPosting": false,
       "careerUrl": "https://www.bigpathcapital.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-20T10:01:54.398522+00:00",
+      "lastChecked": "2026-04-21T09:46:01.219695+00:00",
       "jobs": []
     },
     "Methuselah Advisors": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T10:02:03.567436+00:00",
+      "lastChecked": "2026-04-21T09:46:10.471037+00:00",
       "jobs": []
     },
     "CEC Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T10:02:15.054804+00:00",
+      "lastChecked": "2026-04-21T09:46:23.458310+00:00",
       "jobs": []
     },
     "Pars Capital Partners": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T10:02:27.461982+00:00",
+      "lastChecked": "2026-04-21T09:46:38.940981+00:00",
       "jobs": []
     },
     "R.L. Hulett": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T10:02:49.831409+00:00",
+      "lastChecked": "2026-04-21T09:47:03.956980+00:00",
       "jobs": []
     },
     "LSH Partners": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T10:02:58.682178+00:00",
+      "lastChecked": "2026-04-21T09:47:12.625556+00:00",
       "jobs": []
     },
     "Kinected Advisors": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T10:03:05.710214+00:00",
+      "lastChecked": "2026-04-21T09:47:19.942544+00:00",
       "jobs": []
     },
     "BroadSpan Capital LLC": {
       "hasInternPosting": false,
       "careerUrl": "https://www.broadspancapital.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-20T10:03:07.358899+00:00",
+      "lastChecked": "2026-04-21T09:47:21.736268+00:00",
       "jobs": []
     },
     "M+A Squared, LLC": {
       "hasInternPosting": false,
       "careerUrl": "https://www.masquared.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-20T10:03:10.535252+00:00",
+      "lastChecked": "2026-04-21T09:47:24.654421+00:00",
       "jobs": []
     },
     "TAG FIG": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T10:03:16.901672+00:00",
+      "lastChecked": "2026-04-21T09:47:31.385298+00:00",
       "jobs": []
     },
     "Emory & Co., LLC": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T10:03:25.272447+00:00",
+      "lastChecked": "2026-04-21T09:47:40.103651+00:00",
       "jobs": []
     },
     "Park Avenue Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T10:03:34.081425+00:00",
+      "lastChecked": "2026-04-21T09:47:48.904487+00:00",
       "jobs": []
     },
     "Broad Street Capital Group": {
       "hasInternPosting": false,
       "careerUrl": "https://www.broadstreetcapital.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-20T10:03:36.072745+00:00",
+      "lastChecked": "2026-04-21T09:47:51.153290+00:00",
       "jobs": []
     },
     "Freedom Capital Markets": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T10:03:43.881992+00:00",
+      "lastChecked": "2026-04-21T09:48:00.897855+00:00",
       "jobs": []
     },
     "Robinson & Co Banking": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T10:03:50.341255+00:00",
+      "lastChecked": "2026-04-21T09:48:07.543565+00:00",
       "jobs": []
     },
     "REV Global": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T10:07:41.894610+00:00",
+      "lastChecked": "2026-04-21T09:51:59.375829+00:00",
       "jobs": []
     },
     "WaveEdge Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T10:07:49.160619+00:00",
+      "lastChecked": "2026-04-21T09:52:08.175652+00:00",
       "jobs": []
     },
     "Stump & Company": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T10:07:57.027380+00:00",
+      "lastChecked": "2026-04-21T09:52:17.673915+00:00",
       "jobs": []
     },
     "Vista Point Advisors": {
       "hasInternPosting": false,
       "careerUrl": "https://www.vistapointadvisors.com/careers",
       "status": "http_404",
-      "lastChecked": "2026-04-20T10:07:59.494403+00:00",
+      "lastChecked": "2026-04-21T09:52:20.483057+00:00",
       "jobs": []
     },
     "Merritt Healthcare Advisors": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-20T10:08:06.701787+00:00",
+      "lastChecked": "2026-04-21T09:52:29.142826+00:00",
       "jobs": []
     },
     "Goldman Sachs": {
       "hasInternPosting": true,
       "careerUrl": "https://www.goldmansachs.com/careers/students",
       "status": "ok",
-      "lastChecked": "2026-04-20T10:08:10.000607+00:00",
+      "lastChecked": "2026-04-21T09:52:32.515037+00:00",
       "jobs": [
         {
           "title": "Explore Internships",
           "description": "Explore Internships",
           "graduationDate": null,
           "applyUrl": "https://www.goldmansachs.com/careers/students/programs-and-internships?0=gscom%253Aprogram-type%252Finternship",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "At-A-Glance: 2025 Internship Program Explore Internships",
           "description": "",
           "graduationDate": null,
           "applyUrl": "https://www.goldmansachs.com/careers/students/programs-and-internships?0=gscom%253Aprogram-type%252Finternship",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "At-A-Glance: 2025 Internship Program",
           "description": "",
           "graduationDate": null,
           "applyUrl": "https://www.goldmansachs.com/careers/students",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "2.6K Number of Interns 500+ Schools Represented 85+ Languages Spoken Source: Goldman Sachs Campus Recruitment",
           "description": "",
           "graduationDate": null,
           "applyUrl": "https://www.goldmansachs.com/careers/students",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "2.6K Number of Interns 500+ Schools Represented 85+ Languages Spoken",
           "description": "",
           "graduationDate": null,
           "applyUrl": "https://www.goldmansachs.com/careers/students",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "2.6K Number of Interns",
           "description": "",
           "graduationDate": null,
           "applyUrl": "https://www.goldmansachs.com/careers/students",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Exploratory Programs We host a wide range of programs for university and graduate school students. Programs typically co",
           "description": "nsist of technical and soft skills training, groups projects, and networking with our people. Explore Programs Internships A Goldman Sachs internship gives you a unique opportunity to learn about the finance industry by working side by side with our experienced professionals. Our interns don't learn by watching, they learn by getting involved in real projects. Explore Internships Full-Time As a new analyst or associate, you will learn about our businesses, develop important relationships, and bu",
           "graduationDate": null,
           "applyUrl": "https://www.goldmansachs.com/careers/students/programs-and-internships",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Internships A Goldman Sachs internship gives you a unique opportunity to learn about the finance industry by working sid",
           "description": "e by side with our experienced professionals. Our interns don't learn by watching, they learn by getting involved in real projects. Explore Internships",
           "graduationDate": null,
           "applyUrl": "https://www.goldmansachs.com/careers/students/programs-and-internships?0=gscom%253Aprogram-type%252Finternship",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "A Goldman Sachs internship gives you a unique opportunity to learn about the finance industry by working side by side wi",
           "description": "th our experienced professionals. Our interns don't learn by watching, they learn by getting involved in real projects.",
           "graduationDate": null,
           "applyUrl": "https://www.goldmansachs.com/careers/students",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Graduate Students Our Summer Associate Program and Full Time Associate positions allow both Graduates and Master of Busi",
           "description": "ness Administration (MBA) students to learn and grow with our teams around the world. Explore Opportunities",
           "graduationDate": null,
           "applyUrl": "https://www.goldmansachs.com/careers/students/mba",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Programs and Internships",
           "description": "",
           "graduationDate": null,
           "applyUrl": "https://www.goldmansachs.com/careers/students/programs-and-internships?0=gscom%253Aprogram-type%252Finternship",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         }
       ]
     },
@@ -2005,63 +2113,71 @@
       "hasInternPosting": true,
       "careerUrl": "https://careers.jpmorgan.com/us/en/students/programs",
       "status": "ok",
-      "lastChecked": "2026-04-20T10:08:14.948822+00:00",
+      "lastChecked": "2026-04-21T09:52:37.785839+00:00",
       "jobs": [
         {
           "title": "Programs",
           "description": "We offer a wide range of programs across our business. Use the filters below to discover more. Reset All Filters School Programs & Apprenticeships Early Insight (pre-internship) Internship Full-Time Keep informed of when applications open Join our network",
           "graduationDate": null,
           "applyUrl": "https://jpmc.recsolu.com/app/collect/form/DzxUSeMxXyIfhXycFNIbEg",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Reset All Filters School Programs & Apprenticeships Early Insight (pre-internship) Internship Full-Time Keep informed of",
           "description": "when applications open Join our network",
           "graduationDate": null,
           "applyUrl": "https://jpmc.recsolu.com/app/collect/form/DzxUSeMxXyIfhXycFNIbEg",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "School Programs & Apprenticeships Early Insight (pre-internship) Internship Full-Time Keep informed of when applications",
           "description": "open Join our network",
           "graduationDate": null,
           "applyUrl": "https://jpmc.recsolu.com/app/collect/form/DzxUSeMxXyIfhXycFNIbEg",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "School Programs & Apprenticeships Early Insight (pre-internship) Internship Full-Time",
           "description": "",
           "graduationDate": null,
           "applyUrl": "https://careers.jpmorgan.com/us/en/students/programs",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Corporate Functions",
           "description": "Collaborates with internal and external clients looking for expertise with business strategies. Explore opportunities",
           "graduationDate": null,
           "applyUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions?keyword=Corporate+function&mode=location",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Collaborates with internal and external clients looking for expertise with business strategies.",
           "description": "",
           "graduationDate": null,
           "applyUrl": "https://careers.jpmorgan.com/about/diversity-opportunity-and-inclusion",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Collaborates with internal and external clients looking for expertise with business strategies.",
           "description": "",
           "graduationDate": null,
           "applyUrl": "https://careers.jpmorgan.com/impact/careers-and-skills",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Collaborates with internal and external clients looking for expertise with business strategies.",
           "description": "",
           "graduationDate": null,
           "applyUrl": "https://careers.jpmorgan.com/careers",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         }
       ]
     },
@@ -2069,141 +2185,96 @@
       "hasInternPosting": false,
       "careerUrl": "https://www.morganstanley.com/careers/students-graduates",
       "status": "http_404",
-      "lastChecked": "2026-04-20T10:08:16.739529+00:00",
+      "lastChecked": "2026-04-21T09:52:39.653978+00:00",
       "jobs": []
     },
     "Bank of America": {
       "hasInternPosting": false,
       "careerUrl": "https://careers.bankofamerica.com/en-us/students/job-search?ref=search&start=0&rows=10&search=getAllJobs",
       "status": "ok",
-      "lastChecked": "2026-04-20T10:08:21.527134+00:00",
+      "lastChecked": "2026-04-21T09:52:44.488334+00:00",
       "jobs": []
     },
     "Citigroup": {
       "hasInternPosting": false,
       "careerUrl": "https://jobs.citi.com/students",
       "status": "http_404",
-      "lastChecked": "2026-04-20T10:08:23.410501+00:00",
+      "lastChecked": "2026-04-21T09:52:46.385529+00:00",
       "jobs": []
     },
     "Barclays": {
       "hasInternPosting": false,
       "careerUrl": "https://search.jobs.barclays/students-and-graduates",
       "status": "http_404",
-      "lastChecked": "2026-04-20T10:08:25.413185+00:00",
+      "lastChecked": "2026-04-21T09:52:48.576717+00:00",
       "jobs": []
     },
     "UBS": {
       "hasInternPosting": false,
       "careerUrl": "https://www.ubs.com/global/en/careers/graduates-and-interns.html",
       "status": "http_403",
-      "lastChecked": "2026-04-20T10:08:27.135030+00:00",
+      "lastChecked": "2026-04-21T09:52:50.342559+00:00",
       "jobs": []
     },
     "Deutsche Bank": {
-      "hasInternPosting": true,
+      "hasInternPosting": false,
       "careerUrl": "https://careers.db.com/students-graduates",
-      "status": "ok",
-      "lastChecked": "2026-04-20T10:08:31.075264+00:00",
-      "jobs": [
-        {
-          "title": "Internship Programme",
-          "description": "Graduate Programme Internship Programme Insight Programmes Employability Hub Events Search Programmes Unofficial Guide to Banking Your Application FAQ Technology A notice on Recruitment Scams",
-          "graduationDate": null,
-          "applyUrl": "https://careers.db.com/students-graduates/internship-programme",
-          "firstSeen": "2026-04-13"
-        },
-        {
-          "title": "Hear from our Interns & Graduates",
-          "description": "",
-          "graduationDate": null,
-          "applyUrl": "https://careers.db.com/students-graduates",
-          "firstSeen": "2026-04-13"
-        },
-        {
-          "title": "Students and Graduates Graduate Programme Internship Programme Insight Programmes Employability Hub Events Search Progra",
-          "description": "mmes Unofficial Guide to Banking Your Application FAQ Technology A notice on Recruitment Scams",
-          "graduationDate": null,
-          "applyUrl": "https://careers.db.com/students-graduates",
-          "firstSeen": "2026-04-13"
-        },
-        {
-          "title": "Graduate Programme Internship Programme Insight Programmes Employability Hub Events Search Programmes Unofficial Guide t",
-          "description": "o Banking Your Application FAQ Technology A notice on Recruitment Scams",
-          "graduationDate": null,
-          "applyUrl": "https://careers.db.com/students-graduates/graduate-programme",
-          "firstSeen": "2026-04-13"
-        },
-        {
-          "title": "Insight Programmes & Events",
-          "description": "We have numerous pre-internship opportunities designed to introduce you to life at Deutsche Bank and the wide-ranging careers we offer and interesting work we do. Our Insight Programmes and events differ by region and are designed for students in their first (freshmen/pre-penultimate) or second (sophomore/penultimate) year of study. more Internship Programme Our internship opportunities are your steppingstone to a career a Deutsche Bank. You’ll receive formal training, and you’ll quickly gain th",
-          "graduationDate": null,
-          "applyUrl": "https://careers.db.com/students-graduates/insight-programmes/index?language_id=1",
-          "firstSeen": "2026-04-13"
-        },
-        {
-          "title": "designed for students in their first (freshmen/pre-penultimate) or second (sophomore/penultimate) year of study.",
-          "description": "We have numerous pre-internship opportunities designed to introduce you to life at Deutsche Bank and the wide-ranging careers we offer and interesting work we do. Our Insight Programmes and events differ by region and are designed for students in their first (freshmen/pre-penultimate) or second (sophomore/penultimate) year of study. more",
-          "graduationDate": null,
-          "applyUrl": "https://careers.db.com/students-graduates/insight-programmes/index?language_id=1",
-          "firstSeen": "2026-04-13"
-        },
-        {
-          "title": "To be eligible for our internship you must be in your penultimate year of study.",
-          "description": "Our internship opportunities are your steppingstone to a career a Deutsche Bank. You’ll receive formal training, and you’ll quickly gain the confidence to take on real projects. You’ll feel supported by colleagues from across our business and start to develop your own professional network. We offer our Internship Programme across various business divisions and infrastructure areas. To be eligible for our internship you must be in your penultimate year of study. more",
-          "graduationDate": null,
-          "applyUrl": "https://careers.db.com/students-graduates/internship-programme/",
-          "firstSeen": "2026-04-13"
-        }
-      ]
+      "status": "request_error",
+      "lastChecked": "2026-04-21T09:53:08.066233+00:00",
+      "jobs": []
     },
     "Wells Fargo Securities": {
       "hasInternPosting": false,
       "careerUrl": "https://www.wellsfargojobs.com/en/internships",
       "status": "http_403",
-      "lastChecked": "2026-04-20T10:08:32.693871+00:00",
+      "lastChecked": "2026-04-21T09:53:09.699904+00:00",
       "jobs": []
     },
     "Jefferies": {
       "hasInternPosting": true,
       "careerUrl": "https://www.jefferies.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-20T10:08:35.523886+00:00",
+      "lastChecked": "2026-04-21T09:53:12.676666+00:00",
       "jobs": [
         {
           "title": "Intern and Entry-Level Programs",
           "description": "Intern and Entry-Level Programs",
           "graduationDate": null,
           "applyUrl": "https://jefferies.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-4/xf-016c915b0a67/candidate/jobboard/vacancy/2/adv/",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Apply Now Apply Now Intern and Entry-Level Programs All Other Opportunities",
           "description": "",
           "graduationDate": null,
           "applyUrl": "https://www.jefferies.com/careers",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Apply Now Intern and Entry-Level Programs All Other Opportunities",
           "description": "",
           "graduationDate": null,
           "applyUrl": "https://jefferies.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-4/xf-016c915b0a67/candidate/jobboard/vacancy/2/adv/",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Apply Now Apply Now Intern and Entry-Level Programs All Other Opportunities",
           "description": "",
           "graduationDate": null,
           "applyUrl": "https://www.jefferies.com/careers/",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Apply Now Apply Now Intern and Entry-Level Programs All Other Opportunities",
           "description": "",
           "graduationDate": null,
           "applyUrl": "https://www.jefferies.com/careers/experienced-professionals/",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         }
       ]
     },
@@ -2211,42 +2282,46 @@
       "hasInternPosting": false,
       "careerUrl": "https://www.rbc.com/careers/early-talent.html",
       "status": "http_404",
-      "lastChecked": "2026-04-20T10:08:37.381506+00:00",
+      "lastChecked": "2026-04-21T09:53:14.585767+00:00",
       "jobs": []
     },
     "BMO Capital Markets": {
       "hasInternPosting": true,
       "careerUrl": "https://jobs.bmo.com/ca/en/students",
       "status": "ok",
-      "lastChecked": "2026-04-20T10:08:42.438928+00:00",
+      "lastChecked": "2026-04-21T09:53:18.799670+00:00",
       "jobs": [
         {
           "title": "Interns and Co-ops",
           "description": "Set yourself up for a future with BMO. Our placements are designed to challenge you, open your eyes to opportunity and help you find your career path. Along the way, you'll connect with team members and discover just how much you can grow. EXPLORE OPPORTUNITIES",
           "graduationDate": null,
           "applyUrl": "https://jobs.bmo.com/ca/en/students",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Intern office hours",
           "description": "Want to know what being a BMO intern is like? Ask one. Join intern office hours to ask real interns how they landed their position, what it’s like to work at BMO, and how to excel as a candidate. Learn more",
           "graduationDate": null,
           "applyUrl": "javascript:void(0)",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Recent Grads",
           "description": "Finishing school is one step toward your future, but what’s next? We've got ideas—and we need you to make them work! If you’re ambitious, curious, creative, and eager to make an impact, BMO is a great place to start and an even better place to grow. Explore what our teams have to offer. EXPLORE OPPORTUNITIES Interns and Co-ops Set yourself up for a future with BMO. Our placements are designed to challenge you, open your eyes to opportunity and help you find your career path. Along the way, you'l",
           "graduationDate": null,
           "applyUrl": "https://jobs.bmo.com/ca/en/recent-grad-entry-level",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Overall hiring experience",
           "description": "BMO exceeded over 94% of candidate’s expectation on the overall hiring process. Learn more Build a resume Join our campus recruiters to learn how to build a resume with impact and create a strong first impression. Learn more Interview 101 Join our interview prep sessions to test your skills, learn from simulated scenarios, and get tips on how to nail a virtual or in-person interview. Learn more Intern office hours Want to know what being a BMO intern is like? Ask one. Join intern office hours to",
           "graduationDate": null,
           "applyUrl": "https://jobs.bmo.com/ca/en/students",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         }
       ]
     },
@@ -2254,56 +2329,63 @@
       "hasInternPosting": true,
       "careerUrl": "https://www.stifel.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-20T10:08:45.384384+00:00",
+      "lastChecked": "2026-04-21T09:53:22.005629+00:00",
       "jobs": [
         {
           "title": "Internships and Campus Connection",
           "description": "Internships and Campus Connection",
           "graduationDate": null,
           "applyUrl": "https://www.stifel.com/careers",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Internships",
           "description": "FAQs Opportunities for: Stifel Financial Advisors Institutional Group Banking & Lending Home Office Associates Internships Campus Connections Get to know Stifel Benefits Human Capital Find Headquarters Contact",
           "graduationDate": null,
           "applyUrl": "https://www.stifel.com/careers/internships",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "FAQs Opportunities for: Stifel Financial Advisors Institutional Group Banking & Lending Home Office Associates Internshi",
           "description": "ps Campus Connections Get to know Stifel Benefits Human Capital Find Headquarters Contact",
           "graduationDate": null,
           "applyUrl": "https://www.stifel.com/careers/FAQs",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Student Programs & Internship Programs",
           "description": "",
           "graduationDate": null,
           "applyUrl": "https://stifelinstitutional.com/careers/eu-campus-entry-level/",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Summer Internships – London",
           "description": "Stifel’s Summer Internship Program introduces participants to the financial industry through practical experience. The program aims to provide an understanding of industry operations and corporate practices. Summer internships are available within the following divisions in London: Corporate Finance, Equity Capital Markets, Equities Research, and Equities Sales. In London, the internship duration is six to eight weeks during the summer. Applicants must have completed their penultimate year of un",
           "graduationDate": null,
           "applyUrl": "https://stifelinstitutional.com/careers/eu-campus-entry-level/",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Off-Cycle Internships – Continental Europe & London",
           "description": "Across Paris, Munich, Frankfurt, Stockholm, and London, Off-cycle Internships are offered for up to six months within the Investment Banking division. Candidates for Off-cycle Internships should have graduated or completed undergraduate studies prior to the internship start date or be MBA students. Previous relevant internship experience is typically expected.",
           "graduationDate": null,
           "applyUrl": "https://stifelinstitutional.com/careers/eu-campus-entry-level/",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Graduate Analyst Programs",
           "description": "The Graduate Analyst Program at Stifel is designed for students in the final year of an undergraduate or master’s degree seeking roles in international investment banking. Graduate positions are available within the following divisions in London: Corporate Finance, Equity Capital Markets, Equities Research, and Equities Sales. The Graduate Analyst Program consists of an initial comprehensive training program consisting of both technical and professional skills content, designed to equip new anal",
           "graduationDate": null,
           "applyUrl": "https://stifelinstitutional.com/careers/eu-campus-entry-level/",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         }
       ]
     },
@@ -2311,63 +2393,71 @@
       "hasInternPosting": true,
       "careerUrl": "https://www.pipersandler.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-20T10:08:48.423922+00:00",
+      "lastChecked": "2026-04-21T09:53:29.003041+00:00",
       "jobs": [
         {
           "title": "60+ global offices",
           "description": "Piper Sandler has more than 60 offices across the United States as well as international offices in London, Aberdeen, Zurich, Munich and Hong Kong. We're headquartered in Minneapolis, Minnesota, and pride ourselves on being a Wall Street bank with midwest values.",
           "graduationDate": null,
           "applyUrl": "https://www.pipersandler.com/locations",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Veterans Network",
           "description": "The Veterans Network supports former military personnel within and beyond Piper Sandler. This group serves as an internal resource for community engagement, training, events and recruiting initiatives, as well as to assist veterans in their transition to the corporate workforce.",
           "graduationDate": null,
           "applyUrl": "https://www.pipersandler.com/careers",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Our internships and various student programs are not just a training ground but the start of your career path.",
           "description": "We offer a wide range of programs across all of our business lines and support areas throughout the United States and abroad.",
           "graduationDate": null,
           "applyUrl": "https://www.pipersandler.com/careers/students",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Internships",
           "description": "Piper Sandler internships are designed to fortify your knowledge and capabilities with technical training and hands-on experience. Your career possibilities are endless with a foundation built in partnership with Piper Sandler.",
           "graduationDate": null,
           "applyUrl": "https://www.pipersandler.com/careers/students",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Early Careers",
           "description": "Image Early Careers Explore the various early careers opportunities in our Aberdeen and London offices, including our summer analyst programme, invaluable spring week and student placement opportunities. We are fully invested in our future pipeline of talent. Aberdeen London",
           "graduationDate": null,
           "applyUrl": "https://www.pipersandler.com/careers/students/early-careers-aberdeen",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "“Analysts are given great exposure both from a client and senior banker perspective from a very early time in the analys",
           "description": "t program. On my second month on the job, we had a sell-side healthcare services M&A transaction going through diligence. The CEO specifically asked to meet me and thank me for all my hard work on the transaction over the past couple months. It is my understanding that this sort of experience does not happen at bulge bracket investment banks.” Adam Burpee Investment Banking Analyst 2019 - Present “My internship experience at Piper Sandler was everything I could have asked for and more. I was for",
           "graduationDate": null,
           "applyUrl": "https://www.pipersandler.com/careers/students",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "“My internship experience at Piper Sandler was everything I could have asked for and more. I was fortunate to spend two",
           "description": "summers at Piper, where I not only learned the tactical skills needed to succeed on the job, but also the importance underlying the work I was doing. The leaders of Piper Sandler did a great job investing in me as a young professional, as a colleague, and as a person. Piper has fostered a healthy and inclusive culture, focusing on relationships and collaboration, allowing for optimal outcomes for both the client and the firm. I am very grateful for the relationships I made and the invaluable ski",
           "graduationDate": null,
           "applyUrl": "https://www.pipersandler.com/careers/students",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "“As an intern I was provided many opportunities to grow and gain knowledge, which I am able to apply to my career today.",
           "description": "The people that work here are very approachable and want to help you learn and succeed.” Mitch Wolkow Fixed Income Intern Class of 2018",
           "graduationDate": "2018",
           "applyUrl": "https://www.pipersandler.com/careers/students",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         }
       ]
     },
@@ -2375,21 +2465,23 @@
       "hasInternPosting": true,
       "careerUrl": "https://www.williamblair.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-20T10:08:51.804735+00:00",
+      "lastChecked": "2026-04-21T09:53:32.462471+00:00",
       "jobs": [
         {
           "title": "Are you sure you want to leave?",
           "description": "Information contained on the internet is not subject to William Blair & Company's control or review, and may not be accurate. For disclosure information, please visit www.williamblair.com/disclosures Stay here Yes, I'm sure",
           "graduationDate": null,
           "applyUrl": "https://www.williamblair.com/disclosures",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Strategic Resources",
           "description": "Our full suite of internal support departments provides strategic insight and outstanding execution to strengthen the firm’s business units: Brand Marketing and Communications; Accounting and Finance; Human Resources; Legal and Compliance; Information Technology; Workplace and Real Estate Management.",
           "graduationDate": null,
           "applyUrl": "https://www.williamblair.com/Careers/Experienced-Professionals",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         }
       ]
     },
@@ -2397,175 +2489,198 @@
       "hasInternPosting": false,
       "careerUrl": "https://www.raymondjames.com/careers",
       "status": "http_403",
-      "lastChecked": "2026-04-20T10:08:53.582352+00:00",
+      "lastChecked": "2026-04-21T09:53:34.151367+00:00",
       "jobs": []
     },
     "Lincoln International": {
       "hasInternPosting": true,
       "careerUrl": "https://www.lincolninternational.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-20T10:08:56.866037+00:00",
+      "lastChecked": "2026-04-21T09:53:37.646213+00:00",
       "jobs": [
         {
           "title": "By Service",
           "description": "Who We Are About Lincoln International About MarshBerry Firm Leadership Our People By Service Mergers & Acquisitions Capital Advisory Private Funds Advisory Valuations & Opinions By Industry Business Services Consumer Energy Transition, Power & Infrastructure Financial Services Healthcare Industrials Technology By Location Americas Asia Europe What We Do Mergers & Acquisitions Private Funds Advisory Capital Advisory & Restructuring Valuations & Opinions Who We Serve Your Industry Business Servic",
           "graduationDate": null,
           "applyUrl": "https://www.lincolninternational.com",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Growth, Development & Personal Success",
           "description": "Lincoln International provides in-depth training in an apprenticeship model to ensure successful assimilation to the firm and to our approach to client service and high-quality, value-add deliverables. Lincoln is a recognized best place to work and our culture consistently receives high rankings from employees in our annual employee engagement survey. We support our employees with competitive benefits that provide the health and financial wellness tools necessary for them to succeed personally.",
           "graduationDate": null,
           "applyUrl": "https://www.lincolninternational.com/careers",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Who We Are About MarshBerry Our People What We Do Mergers & Acquisitions Capital Advisory & Restructuring Private Funds",
           "description": "Advisory Valuations & Opinions Who We Serve Our Thinking Careers & Culture Transactions Worldwide Connect with Us Search News & Events Conferences Global Results Lincoln Alumni Regulatory Disclosures Privacy Form CRS Code of Conduct © 2026 Lincoln International LLC Firm details on FINRA’s BrokerCheck",
           "graduationDate": null,
           "applyUrl": "https://www.lincolninternational.com/about-us/",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "© 2026 Lincoln International LLC Firm details on FINRA’s BrokerCheck",
           "description": "",
           "graduationDate": null,
           "applyUrl": "https://www.linkedin.com/company/lincoln-international?trk=cp_followed_name_lincoln-international",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Marketing marketing Marketing cookies and similar technologies are used to tailor advertisements that are more relevant",
           "description": "to the user. They can be used by our advertising partners to build a profile of your interests and show you relevant advertisements on other sites. These cookies and similar technologies are based on uniquely identifying your browser and internet device.",
           "graduationDate": null,
           "applyUrl": "https://www.lincolninternational.com/careers",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Marketing cookies and similar technologies are used to tailor advertisements that are more relevant to the user. They ca",
           "description": "n be used by our advertising partners to build a profile of your interests and show you relevant advertisements on other sites. These cookies and similar technologies are based on uniquely identifying your browser and internet device.",
           "graduationDate": null,
           "applyUrl": "https://www.lincolninternational.com/careers",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Inspired Professionals",
           "description": "Our clients engage us for our expertise and industry knowledge. They continue to work with us year after year — and often for decades — because of the character and caliber of our people. Integrity, trust and teamwork are more than words at Lincoln International; they drive how we work with our clients — and with each other. Lincoln International’s approach, growth and global reach provide career opportunities that are unique to the industry. We are inspired by both client and colleague achievem",
           "graduationDate": null,
           "applyUrl": "https://www.lincolninternational.com/careers-and-culture/",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Marketing marketing Marketing cookies and similar technologies are used to tailor advertisements that are more relevant",
           "description": "to the user. They can be used by our advertising partners to build a profile of your interests and show you relevant advertisements on other sites. These cookies and similar technologies are based on uniquely identifying your browser and internet device.",
           "graduationDate": null,
           "applyUrl": "https://www.lincolninternational.com/careers-and-culture/",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Marketing cookies and similar technologies are used to tailor advertisements that are more relevant to the user. They ca",
           "description": "n be used by our advertising partners to build a profile of your interests and show you relevant advertisements on other sites. These cookies and similar technologies are based on uniquely identifying your browser and internet device.",
           "graduationDate": null,
           "applyUrl": "https://www.lincolninternational.com/careers-and-culture/",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Growth, Development & Personal Success",
           "description": "Lincoln International provides in-depth training in an apprenticeship model to ensure successful assimilation to the firm and to our approach to client service and high-quality, value-add deliverables. Lincoln is a recognized best place to work and our culture consistently receives high rankings from employees in our annual employee engagement survey. We support our employees with competitive benefits that provide the health and financial wellness tools necessary for them to succeed personally.",
           "graduationDate": null,
           "applyUrl": "https://www.lincolninternational.com/careers-and-culture/careers/",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Marketing marketing Marketing cookies and similar technologies are used to tailor advertisements that are more relevant",
           "description": "to the user. They can be used by our advertising partners to build a profile of your interests and show you relevant advertisements on other sites. These cookies and similar technologies are based on uniquely identifying your browser and internet device.",
           "graduationDate": null,
           "applyUrl": "https://www.lincolninternational.com/careers-and-culture/careers/",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Marketing cookies and similar technologies are used to tailor advertisements that are more relevant to the user. They ca",
           "description": "n be used by our advertising partners to build a profile of your interests and show you relevant advertisements on other sites. These cookies and similar technologies are based on uniquely identifying your browser and internet device.",
           "graduationDate": null,
           "applyUrl": "https://www.lincolninternational.com/careers-and-culture/careers/",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Dispersed Globally, United in Contribution At Lincoln International, our employees bring the same energy that fuels client success to helping our communities succeed. Whether working on behalf of clie",
           "description": "Dispersed Globally, United in Contribution At Lincoln International, our employees bring the same energy that fuels client success to helping our communities succeed. Whether working on behalf of clients or for an important cause, we are united globally in our efforts to donate, volunteer and improve the world for all. Elevating Women in Finance Lincoln brings women together through a variety of recurring global programs to drive connections, offer growth opportunities and provide a forum focuse",
           "graduationDate": null,
           "applyUrl": "https://www.lincolninternational.com/careers-and-culture/inclusion-opportunity/#dispersed",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Inclusion & Opportunity in Action",
           "description": "Dispersed Globally, United in Contribution At Lincoln International, our employees bring the same energy that fuels client success to helping our communities succeed. Whether working on behalf of clients or for an important cause, we are united globally in our efforts to donate, volunteer and improve the world for all. Elevating Women in Finance Lincoln brings women together through a variety of recurring global programs to drive connections, offer growth opportunities and provide a forum focuse",
           "graduationDate": null,
           "applyUrl": "https://www.lincolninternational.com/careers-and-culture/inclusion-opportunity/#dispersed",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Dispersed Globally, United in Contribution",
           "description": "At Lincoln International, our employees bring the same energy that fuels client success to helping our communities succeed. Whether working on behalf of clients or for an important cause, we are united globally in our efforts to donate, volunteer and improve the world for all. Elevating Women in Finance Lincoln brings women together through a variety of recurring global programs to drive connections, offer growth opportunities and provide a forum focused on the continued advancement of women. Ce",
           "graduationDate": null,
           "applyUrl": "https://www.lincolninternational.com/careers-and-culture/inclusion-opportunity/#dispersed",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Abe Day:",
           "description": "Lincoln International celebrates our shared sense of giving annually during April in honor of the firm’s founding in April 1996. Lincoln’s global employees channel their efforts to support area causes through giving activities affectionately referred to as Abe Day in recognition of the firm’s namesake, U.S. President Abraham Lincoln. As part of Abe Day, Lincoln partners with Charity Miles, a platform that tracks movement and earns funds for charity. Each mile completed during Abe Day earns a cha",
           "graduationDate": null,
           "applyUrl": "https://www.lincolninternational.com/careers-and-culture/inclusion-opportunity/",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Elevating Women in Finance",
           "description": "Uniting, empowering and uplifting women is incredibly important at Lincoln International. Programs for Candidates & Finance Professionals Lincoln holds a variety of events globally to connect successful women and provide opportunities for advancement and development. Women in Finance: Each year, Lincoln holds a U.S. mentorship event for college sophomores to form relationships with fellow women and learn about careers in investment banking. Nordics Women in Banking Breakfast: Lincoln Internation",
           "graduationDate": null,
           "applyUrl": "https://www.lincolninternational.com/careers-and-culture/inclusion-opportunity/",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Nordics Women in Banking Breakfast:",
           "description": "Lincoln International’s Stockholm office hosts an annual breakfast to foster valuable connections and discuss career opportunities in investment banking in the Nordics.",
           "graduationDate": null,
           "applyUrl": "https://www.lincolninternational.com/careers-and-culture/inclusion-opportunity/",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Frankfurt Roundtable Discussion:",
           "description": "Lincoln International’s team in Frankfurt hosts a roundtable discussion for women in finance to discuss their careers, the challenges they face and ideas on how to work toward continued advancement for women.",
           "graduationDate": null,
           "applyUrl": "https://www.lincolninternational.com/careers-and-culture/inclusion-opportunity/",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Celebrating & Honoring Colleagues",
           "description": "Through a variety of programs throughout the year, Lincoln celebrates and learns about the diverse backgrounds and valuable contributions made by our fellow colleagues and potential talent. Women’s History Month: In honor of Women’s History Month and International Women’s Day, Lincoln International offices across the world celebrate and show appreciation to our dynamic, trailblazing women employees who make an immeasurable impact in every corner of the organization. Veterans Day: Lincoln honors",
           "graduationDate": null,
           "applyUrl": "https://www.lincolninternational.com/careers-and-culture/inclusion-opportunity/",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Women’s History Month:",
           "description": "In honor of Women’s History Month and International Women’s Day, Lincoln International offices across the world celebrate and show appreciation to our dynamic, trailblazing women employees who make an immeasurable impact in every corner of the organization.",
           "graduationDate": null,
           "applyUrl": "https://www.lincolninternational.com/careers-and-culture/inclusion-opportunity/",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Marketing marketing Marketing cookies and similar technologies are used to tailor advertisements that are more relevant",
           "description": "to the user. They can be used by our advertising partners to build a profile of your interests and show you relevant advertisements on other sites. These cookies and similar technologies are based on uniquely identifying your browser and internet device.",
           "graduationDate": null,
           "applyUrl": "https://www.lincolninternational.com/careers-and-culture/inclusion-opportunity/",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Marketing cookies and similar technologies are used to tailor advertisements that are more relevant to the user. They ca",
           "description": "n be used by our advertising partners to build a profile of your interests and show you relevant advertisements on other sites. These cookies and similar technologies are based on uniquely identifying your browser and internet device.",
           "graduationDate": null,
           "applyUrl": "https://www.lincolninternational.com/careers-and-culture/inclusion-opportunity/",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         }
       ]
     },
@@ -2573,105 +2688,118 @@
       "hasInternPosting": false,
       "careerUrl": "https://www.harriswilliams.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-20T10:08:59.138880+00:00",
+      "lastChecked": "2026-04-21T09:53:39.929593+00:00",
       "jobs": []
     },
     "Houlihan Lokey": {
       "hasInternPosting": true,
       "careerUrl": "https://www.hl.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-20T10:09:06.447555+00:00",
+      "lastChecked": "2026-04-21T09:53:47.619858+00:00",
       "jobs": [
         {
           "title": "Unparalleled Early Career Opportunities",
           "description": "By partnering with an employer that provides mentorship, real-world experience, and opportunity, you can help ensure that your professional starting point fosters limitless possibilities. Our focus is firmly on the road ahead. As we build for the future, our various lines of business continue to expand through acquisitions and organic growth. This means we can offer recent graduates and interns something unique: room to grow and create. As a Houlihan Lokey intern, Financial Analyst, or Associate",
           "graduationDate": null,
           "applyUrl": "https://www.hl.com/careers/early-careers/",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "By partnering with an employer that provides mentorship, real-world experience, and opportunity, you can help ensure tha",
           "description": "t your professional starting point fosters limitless possibilities. Our focus is firmly on the road ahead. As we build for the future, our various lines of business continue to expand through acquisitions and organic growth. This means we can offer recent graduates and interns something unique: room to grow and create. As a Houlihan Lokey intern, Financial Analyst, or Associate, you will be joining an entrepreneurial, resourceful culture where you will have an opportunity to make your mark and f",
           "graduationDate": null,
           "applyUrl": "https://www.hl.com/careers",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "By partnering with an employer that provides mentorship, real-world experience, and opportunity, you can help ensure tha",
           "description": "t your professional starting point fosters limitless possibilities. Our focus is firmly on the road ahead. As we build for the future, our various lines of business continue to expand through acquisitions and organic growth. This means we can offer recent graduates and interns something unique: room to grow and create. As a Houlihan Lokey intern, Financial Analyst, or Associate, you will be joining an entrepreneurial, resourceful culture where you will have an opportunity to make your mark and f",
           "graduationDate": null,
           "applyUrl": "https://www.hl.com/careers/",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "6-Month Off-Cycle Internship - Corporate Finance",
-          "description": "Paris, France | Posted: Posted 4 Days Ago | R3069",
+          "description": "Paris, France | Posted: Posted 5 Days Ago | R3069",
           "graduationDate": null,
           "applyUrl": "https://hl.wd1.myworkdayjobs.com/job/Paris-France/XMLNAME-6-Month-Off-Cycle-Internship---Corporate-Finance_R3069",
-          "firstSeen": "2026-04-19"
+          "firstSeen": "2026-04-19",
+          "source": "scraper"
         },
         {
           "title": "2026 Off-Cycle Internship - Corporate Finance (IT Services)",
-          "description": "Frankfurt, Germany | Posted: Posted 24 Days Ago | R3161",
+          "description": "Frankfurt, Germany | Posted: Posted 25 Days Ago | R3161",
           "graduationDate": null,
           "applyUrl": "https://hl.wd1.myworkdayjobs.com/job/Frankfurt-Germany/XMLNAME-2026-Off-Cycle-Internship---Corporate-Finance--IT-Services-_R3161",
-          "firstSeen": "2026-04-19"
+          "firstSeen": "2026-04-19",
+          "source": "scraper"
         },
         {
           "title": "Q4 2026 Off-Cycle Internship - Corporate Finance (Technology)",
-          "description": "Frankfurt, Germany | Posted: Posted 24 Days Ago | R3012",
+          "description": "Frankfurt, Germany | Posted: Posted 25 Days Ago | R3012",
           "graduationDate": null,
           "applyUrl": "https://hl.wd1.myworkdayjobs.com/job/Frankfurt-Germany/Q4-2026-Off-Cycle-Internship---Corporate-Finance--Technology-_R3012",
-          "firstSeen": "2026-04-19"
+          "firstSeen": "2026-04-19",
+          "source": "scraper"
         },
         {
           "title": "6-Month Off-Cycle Internship (July 2026)  - Capital Solutions - Debt Advisory",
-          "description": "Paris, France | Posted: Posted 25 Days Ago | R3146",
+          "description": "Paris, France | Posted: Posted 26 Days Ago | R3146",
           "graduationDate": null,
           "applyUrl": "https://hl.wd1.myworkdayjobs.com/job/Paris-France/XMLNAME-6-Month-Off-Cycle-Internship--July-2026-----Capital-Solutions---Debt-Advisory_R3146",
-          "firstSeen": "2026-04-19"
+          "firstSeen": "2026-04-19",
+          "source": "scraper"
         },
         {
           "title": "Q4 2026 Off-Cycle Internship - Corporate Finance (Industrials)",
-          "description": "Frankfurt, Germany | Posted: Posted 26 Days Ago | R3013",
+          "description": "Frankfurt, Germany | Posted: Posted 27 Days Ago | R3013",
           "graduationDate": null,
           "applyUrl": "https://hl.wd1.myworkdayjobs.com/job/Frankfurt-Germany/Q4-2026-Off-Cycle-Internship---Corporate-Finance--Industrials-_R3013",
-          "firstSeen": "2026-04-19"
+          "firstSeen": "2026-04-19",
+          "source": "scraper"
         },
         {
           "title": "3 Month Internship -  Financial Restructuring (Q4 2026)",
           "description": "Frankfurt, Germany | Posted: Posted 30+ Days Ago | R2889",
           "graduationDate": null,
           "applyUrl": "https://hl.wd1.myworkdayjobs.com/job/Frankfurt-Germany/XMLNAME-3-Month-Internship----Financial-Restructuring--Q2-Q3--2026-_R2889",
-          "firstSeen": "2026-04-19"
+          "firstSeen": "2026-04-19",
+          "source": "scraper"
         },
         {
           "title": "Off-Cycle Internship,  Primary Capital Advisory (Private Equity Fundraising) - July 2026",
           "description": "Paris, France | Posted: Posted 30+ Days Ago | R3137",
           "graduationDate": null,
           "applyUrl": "https://hl.wd1.myworkdayjobs.com/job/Paris-France/Off-Cycle-Internship---Primary-Capital-Advisory--Private-Equity-Fundraising----July-2026_R3137",
-          "firstSeen": "2026-04-19"
+          "firstSeen": "2026-04-19",
+          "source": "scraper"
         },
         {
           "title": "Off-Cycle Intern, Financial and Valuation Advisory (Hong Kong)",
           "description": "Hong Kong, China | Posted: Posted 30+ Days Ago | R3096",
           "graduationDate": null,
           "applyUrl": "https://hl.wd1.myworkdayjobs.com/job/Hong-Kong-China/Off-Cycle-Intern--Financial-and-Valuation-Advisory--Hong-Kong-_R3096",
-          "firstSeen": "2026-04-19"
+          "firstSeen": "2026-04-19",
+          "source": "scraper"
         },
         {
           "title": "Off-Cycle Intern, Financial and Valuation Advisory (Singapore)",
           "description": "Singapore, Singapore | Posted: Posted 30+ Days Ago | R3097",
           "graduationDate": null,
           "applyUrl": "https://hl.wd1.myworkdayjobs.com/job/Singapore-Singapore/Off-Cycle-Intern--Financial-and-Valuation-Advisory--Singapore-_R3097",
-          "firstSeen": "2026-04-19"
+          "firstSeen": "2026-04-19",
+          "source": "scraper"
         },
         {
           "title": "4-Month Off-Cycle Internship 2026 (Munich)",
           "description": "Munich, Germany | Posted: Posted 30+ Days Ago | R2585",
           "graduationDate": null,
           "applyUrl": "https://hl.wd1.myworkdayjobs.com/job/Munich-Germany/XMLNAME-4-Month-Off-Cycle-Internship-2026--Munich-_R2585",
-          "firstSeen": "2026-04-19"
+          "firstSeen": "2026-04-19",
+          "source": "scraper"
         }
       ]
     },
@@ -2679,42 +2807,46 @@
       "hasInternPosting": false,
       "careerUrl": "https://keybank.wd5.myworkdayjobs.com",
       "status": "http_406",
-      "lastChecked": "2026-04-20T10:09:08.160357+00:00",
+      "lastChecked": "2026-04-21T09:53:49.383002+00:00",
       "jobs": []
     },
     "Citizens JMP": {
       "hasInternPosting": true,
       "careerUrl": "https://jobs.citizensbank.com/students-and-grads",
       "status": "ok",
-      "lastChecked": "2026-04-20T10:09:11.370942+00:00",
+      "lastChecked": "2026-04-21T09:53:52.519783+00:00",
       "jobs": [
         {
           "title": "Learn More about Early Career Development Programs & Internships",
           "description": "View All Early Career Development Program & Internship Jobs",
           "graduationDate": null,
           "applyUrl": "https://jobs.citizensbank.com/college-grad",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "View All Early Career Development Program & Internship Jobs",
           "description": "Learn More about Early Career Development Programs & Internships",
           "graduationDate": null,
           "applyUrl": "https://jobs.citizensbank.com/category/student-and-recent-graduates-jobs/288/8240544/1",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Early Career Development Program & Internships",
           "description": "Fast track your career with our internship and development programs designed specifically for students and recent grads. Commercial Banking Consumer Banking Corporate Technology, Security & Digital Learn More about Early Career Development Programs & Internships View All Early Career Development Program & Internship Jobs",
           "graduationDate": null,
           "applyUrl": "https://jobs.citizensbank.com/college-grad",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         },
         {
           "title": "Technology",
           "description": "Join our growing Tech team and upgrade the experience for over a million users. Software Engineering & Dev Ops Architecture & Strategy Data Science & Engineering Cyber Security Infrastructure & Cloud Agile & Delivery UI/UX Early Career Development Programs & Internships Learn More about Technology Jobs View All Technology Jobs",
           "graduationDate": null,
           "applyUrl": "https://jobs.citizensbank.com/digital-transformation",
-          "firstSeen": "2026-04-13"
+          "firstSeen": "2026-04-13",
+          "source": "scraper"
         }
       ]
     }
