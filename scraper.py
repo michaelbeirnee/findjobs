@@ -888,7 +888,7 @@ def merge_jobs(job_lists: list[list[dict]]) -> list[dict]:
 # ── AI page scanning ────────────────────────────────────────────────────────
 
  
-AI_MODEL = "claude-haiku-4-5"
+AI_MODEL = "claude-haiku-4-5-20251001"
 AI_SCAN_ENABLED = os.environ.get("ENABLE_AI_SCAN", "").lower() in ("1", "true", "yes")
 AI_MAX_CHARS = 40_000
  
@@ -982,7 +982,12 @@ def scan_page_with_ai(html: str, career_url: str) -> list[dict]:
                 "text": AI_SYSTEM_PROMPT,
                 "cache_control": {"type": "ephemeral"},
             }],
-            output_config={"format": {"type": "json_schema", "schema": AI_SCHEMA}},
+            tools=[{
+                "name": "extract_jobs",
+                "description": "Extract intern job listings from the career page",
+                "input_schema": AI_SCHEMA,
+            }],
+            tool_choice={"type": "tool", "name": "extract_jobs"},
             messages=[{"role": "user", "content": user_content}],
         )
     except Exception as exc:
@@ -990,8 +995,8 @@ def scan_page_with_ai(html: str, career_url: str) -> list[dict]:
         return []
  
     try:
-        text_block = next(b.text for b in response.content if b.type == "text")
-        data = json.loads(text_block)
+        tool_block = next(b for b in response.content if b.type == "tool_use")
+        data = tool_block.input
     except Exception:
         return []
  
