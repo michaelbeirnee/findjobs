@@ -405,6 +405,7 @@ a, button { -webkit-tap-highlight-color: transparent; }
   letter-spacing: .02em;
   box-shadow: inset 0 -2px 0 rgba(0, 0, 0, .08);
 }
+.card__initials                  { background: #6366f1; }
 .card[data-presence="Very High"] .card__initials { background: var(--vh-color); }
 .card[data-presence="High"]      .card__initials { background: var(--h-color); }
 .card[data-presence="Moderate"]  .card__initials { background: var(--m-color); }
