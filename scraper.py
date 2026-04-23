@@ -1082,7 +1082,7 @@ def check_firm(firm: dict) -> dict:
                 ai_jobs = scan_page_with_ai(ats_page.text, resolved_career_url)
                 if ai_jobs:
                     print(f"  → AI scan found {len(ai_jobs)} intern listing(s)", flush=True)
-                    jobs = merge_jobs([jobs, ai_jobs])
+                    jobs = merge_jobs([ai_jobs, jobs])
         return {
             "hasInternPosting": len(jobs) > 0,
             "careerUrl": resolved_career_url,
@@ -1143,8 +1143,8 @@ def check_firm(firm: dict) -> dict:
         ai_jobs = scan_page_with_ai(r.text, resolved_career_url)
         if ai_jobs:
             print(f"  → AI scan found {len(ai_jobs)} intern listing(s)", flush=True)
-            jobs = merge_jobs([jobs, ai_jobs])
- 
+            jobs = merge_jobs([ai_jobs, jobs])
+
     has_intern = len(jobs) > 0
     return {
         "hasInternPosting": has_intern,
