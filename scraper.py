@@ -1114,6 +1114,7 @@ def check_firm(firm: dict) -> dict:
  
     pages_to_scan = collect_candidate_job_pages(r.text, resolved_career_url)
     extracted_lists = []
+    ai_html_pages: list[tuple[str, str]] = []  # (html, url) for AI scan
     is_workday = any(
         hint in (urlparse(resolved_career_url).netloc or "").lower()
         for hint in ("workday", "myworkdayjobs", "myworkdaysite")
@@ -1128,6 +1129,7 @@ def check_firm(firm: dict) -> dict:
         if page_response is None or page_response.status_code != 200:
             continue
         extracted_lists.append(find_job_listings(page_response.text, page_url))
+        ai_html_pages.append((page_response.text, page_url))
         if idx > 0:
             time.sleep(0.2)
  
@@ -1138,12 +1140,16 @@ def check_firm(firm: dict) -> dict:
         rendered_html = get_rendered_html(resolved_career_url)
         if rendered_html:
             jobs = merge_jobs([jobs, find_job_listings(rendered_html, resolved_career_url)])
-    # Always run Claude alongside deterministic extraction when enabled
-    if AI_SCAN_ENABLED:
-        ai_jobs = scan_page_with_ai(r.text, resolved_career_url)
-        if ai_jobs:
-            print(f"  → AI scan found {len(ai_jobs)} intern listing(s)", flush=True)
-            jobs = merge_jobs([ai_jobs, jobs])
+    # Run Claude on every sub-page actually fetched (not just the root page)
+    if AI_SCAN_ENABLED and ai_html_pages:
+        all_ai_jobs: list[dict] = []
+        for html, page_url in ai_html_pages:
+            page_ai_jobs = scan_page_with_ai(html, page_url)
+            if page_ai_jobs:
+                all_ai_jobs.extend(page_ai_jobs)
+        if all_ai_jobs:
+            print(f"  → AI scan found {len(all_ai_jobs)} intern listing(s)", flush=True)
+            jobs = merge_jobs([all_ai_jobs, jobs])
 
     has_intern = len(jobs) > 0
     return {
