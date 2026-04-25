@@ -1046,81 +1046,27 @@ def discover_career_url(website: str) -> str | None:
     return None
  
  
-def check_firm(firm: dict) -> dict:
+def _scrape_firm_jobs(career_url: str) -> tuple[list[dict], list[tuple[str, str]]]:
     """
-    Check a single firm's career page for intern mentions.
-    Returns a result dict with structured job listings.
+    Phase 1: scraper-based job collection (ATS API + HTML heuristics).
+
+    Returns (scraper_jobs, html_pages) where html_pages is a list of
+    (html, page_url) tuples that were fetched, available for the AI phase.
     """
-    career_url = firm.get("careerUrl")
-    website    = firm.get("website")
-    name       = firm["name"]
- 
-    # If only website root is available, discover the career page
-    resolved_career_url = career_url
-    if not resolved_career_url and website:
-        print(f"  → Discovering career page for {name}…", flush=True)
-        resolved_career_url = discover_career_url(website)
- 
-    if not resolved_career_url:
-        return {
-            "hasInternPosting": False,
-            "careerUrl": None,
-            "status": "no_url",
-            "lastChecked": datetime.now(timezone.utc).isoformat(),
-            "jobs": [],
-        }
- 
-    # ── Try ATS API directly on the career URL before scraping HTML ─────
-    ats_jobs = fetch_ats_jobs(resolved_career_url)
-    if ats_jobs is not None:
-        print(f"  → ATS API hit for {resolved_career_url} ({len(ats_jobs)} intern listing(s))", flush=True)
-        
-        jobs = ats_jobs
-        if AI_SCAN_ENABLED:
-            ats_page = get(resolved_career_url)
-            if ats_page is not None and ats_page.status_code == 200:
-                ai_jobs = scan_page_with_ai(ats_page.text, resolved_career_url)
-                if ai_jobs:
-                    print(f"  → AI scan found {len(ai_jobs)} intern listing(s)", flush=True)
-                    jobs = merge_jobs([ai_jobs, jobs])
-        return {
-            "hasInternPosting": len(jobs) > 0,
-            "careerUrl": resolved_career_url,
-            "status": "ok",
-            "lastChecked": datetime.now(timezone.utc).isoformat(),
-            "jobs": jobs,
-        }
- 
-    print(f"  → Checking {resolved_career_url}", flush=True)
-    r = get(resolved_career_url)
- 
-    if r is None:
-        return {
-            "hasInternPosting": False,
-            "careerUrl": resolved_career_url,
-            "status": "request_error",
-            "lastChecked": datetime.now(timezone.utc).isoformat(),
-            "jobs": [],
-        }
- 
-    if r.status_code != 200:
-        return {
-            "hasInternPosting": False,
-            "careerUrl": resolved_career_url,
-            "status": f"http_{r.status_code}",
-            "lastChecked": datetime.now(timezone.utc).isoformat(),
-            "jobs": [],
-        }
- 
-    pages_to_scan = collect_candidate_job_pages(r.text, resolved_career_url)
-    extracted_lists = []
-    ai_html_pages: list[tuple[str, str]] = []  # (html, url) for AI scan
+    r = get(career_url)
+    if r is None or r.status_code != 200:
+        return [], []
+
+    pages_to_scan = collect_candidate_job_pages(r.text, career_url)
+    extracted_lists: list[list[dict]] = []
+    html_pages: list[tuple[str, str]] = []
+
     is_workday = any(
-        hint in (urlparse(resolved_career_url).netloc or "").lower()
+        hint in (urlparse(career_url).netloc or "").lower()
         for hint in ("workday", "myworkdayjobs", "myworkdaysite")
     )
+
     for idx, page_url in enumerate(pages_to_scan):
-        # Try ATS API on candidate page URLs (e.g. company site linking to Greenhouse)
         page_ats_jobs = fetch_ats_jobs(page_url)
         if page_ats_jobs is not None:
             extracted_lists.append(page_ats_jobs)
@@ -1129,27 +1075,109 @@ def check_firm(firm: dict) -> dict:
         if page_response is None or page_response.status_code != 200:
             continue
         extracted_lists.append(find_job_listings(page_response.text, page_url))
-        ai_html_pages.append((page_response.text, page_url))
+        html_pages.append((page_response.text, page_url))
         if idx > 0:
             time.sleep(0.2)
- 
-    jobs = merge_jobs(extracted_lists)
- 
-    # Workday pages are often JS-rendered; fallback to Playwright rendering if needed.
-    if is_workday and not jobs:
-        rendered_html = get_rendered_html(resolved_career_url)
+
+    scraper_jobs = merge_jobs(extracted_lists)
+
+    if is_workday and not scraper_jobs:
+        rendered_html = get_rendered_html(career_url)
         if rendered_html:
-            jobs = merge_jobs([jobs, find_job_listings(rendered_html, resolved_career_url)])
-    # Run Claude on every sub-page actually fetched (not just the root page)
-    if AI_SCAN_ENABLED and ai_html_pages:
-        all_ai_jobs: list[dict] = []
-        for html, page_url in ai_html_pages:
-            page_ai_jobs = scan_page_with_ai(html, page_url)
-            if page_ai_jobs:
-                all_ai_jobs.extend(page_ai_jobs)
-        if all_ai_jobs:
-            print(f"  → AI scan found {len(all_ai_jobs)} intern listing(s)", flush=True)
-            jobs = merge_jobs([all_ai_jobs, jobs])
+            scraper_jobs = merge_jobs([scraper_jobs, find_job_listings(rendered_html, career_url)])
+
+    return scraper_jobs, html_pages
+
+
+def _ai_scan_pages(html_pages: list[tuple[str, str]]) -> list[dict]:
+    """
+    Phase 2: AI-based job collection, run independently on the same pages.
+
+    Returns [] when AI scanning is disabled or no jobs are found.
+    """
+    if not AI_SCAN_ENABLED or not html_pages:
+        return []
+    all_ai_jobs: list[dict] = []
+    for html, page_url in html_pages:
+        page_ai_jobs = scan_page_with_ai(html, page_url)
+        if page_ai_jobs:
+            all_ai_jobs.extend(page_ai_jobs)
+    if all_ai_jobs:
+        print(f"  → AI scan found {len(all_ai_jobs)} intern listing(s)", flush=True)
+    return all_ai_jobs
+
+
+def check_firm(firm: dict) -> dict:
+    """
+    Check a single firm's career page for intern mentions.
+    Returns a result dict with structured job listings.
+    """
+    career_url = firm.get("careerUrl")
+    website    = firm.get("website")
+    name       = firm["name"]
+
+    resolved_career_url = career_url
+    if not resolved_career_url and website:
+        print(f"  → Discovering career page for {name}…", flush=True)
+        resolved_career_url = discover_career_url(website)
+
+    if not resolved_career_url:
+        return {
+            "hasInternPosting": False,
+            "careerUrl": None,
+            "status": "no_url",
+            "lastChecked": datetime.now(timezone.utc).isoformat(),
+            "jobs": [],
+        }
+
+    # ── Try ATS API directly on the career URL before scraping HTML ─────
+    ats_jobs = fetch_ats_jobs(resolved_career_url)
+    if ats_jobs is not None:
+        print(f"  → ATS API hit for {resolved_career_url} ({len(ats_jobs)} intern listing(s))", flush=True)
+        # Phase 2: AI scans the same page independently and adds its findings
+        html_pages: list[tuple[str, str]] = []
+        if AI_SCAN_ENABLED:
+            ats_page = get(resolved_career_url)
+            if ats_page is not None and ats_page.status_code == 200:
+                html_pages = [(ats_page.text, resolved_career_url)]
+        ai_jobs = _ai_scan_pages(html_pages)
+        jobs = merge_jobs([ats_jobs, ai_jobs])
+        return {
+            "hasInternPosting": len(jobs) > 0,
+            "careerUrl": resolved_career_url,
+            "status": "ok",
+            "lastChecked": datetime.now(timezone.utc).isoformat(),
+            "jobs": jobs,
+        }
+
+    print(f"  → Checking {resolved_career_url}", flush=True)
+    r = get(resolved_career_url)
+
+    if r is None:
+        return {
+            "hasInternPosting": False,
+            "careerUrl": resolved_career_url,
+            "status": "request_error",
+            "lastChecked": datetime.now(timezone.utc).isoformat(),
+            "jobs": [],
+        }
+
+    if r.status_code != 200:
+        return {
+            "hasInternPosting": False,
+            "careerUrl": resolved_career_url,
+            "status": f"http_{r.status_code}",
+            "lastChecked": datetime.now(timezone.utc).isoformat(),
+            "jobs": [],
+        }
+
+    # Phase 1: scraper collects jobs and returns which pages were fetched
+    scraper_jobs, html_pages = _scrape_firm_jobs(resolved_career_url)
+
+    # Phase 2: AI runs independently on those same pages and adds its findings
+    ai_jobs = _ai_scan_pages(html_pages)
+
+    jobs = merge_jobs([scraper_jobs, ai_jobs])
 
     has_intern = len(jobs) > 0
     return {
@@ -1159,8 +1187,8 @@ def check_firm(firm: dict) -> dict:
         "lastChecked": datetime.now(timezone.utc).isoformat(),
         "jobs": jobs,
     }
- 
- 
+
+
 # ── firstSeen tracking ────────────────────────────────────────────────────────
  
 def _build_job_key(job: dict) -> str:
