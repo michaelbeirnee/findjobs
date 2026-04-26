@@ -238,8 +238,20 @@ def text_mentions_intern(html: str) -> bool:
     return any(kw in text for kw in INTERN_KEYWORDS)
  
  
+# The first pattern (person bios) collides with legitimate intern titles like
+# "Investment Banking Summer Analyst". Skip it when the title already contains
+# an intern keyword.
+_PERSON_BIO_PATTERN = NON_JOB_TITLE_PATTERNS[0]
+
+
 def _is_false_positive_title(title: str) -> bool:
     """Return True if the title matches a known non-job pattern."""
+    if _has_intern_keyword(title):
+        return any(
+            pat.search(title)
+            for pat in NON_JOB_TITLE_PATTERNS
+            if pat is not _PERSON_BIO_PATTERN
+        )
     return any(pat.search(title) for pat in NON_JOB_TITLE_PATTERNS)
  
  
@@ -934,20 +946,53 @@ AI_SCHEMA = {
 }
  
 _ai_client = None
- 
- 
+_ai_client_checked = False
+
+# Run-wide AI scan counters (reset per main() invocation).
+_ai_stats: dict[str, int] = {
+    "pages_offered": 0,
+    "skipped_disabled": 0,
+    "skipped_no_client": 0,
+    "skipped_short_text": 0,
+    "calls_attempted": 0,
+    "calls_failed": 0,
+    "calls_empty_response": 0,
+    "raw_jobs_returned": 0,
+    "jobs_kept": 0,
+}
+
+
+def _log_ai_startup() -> None:
+    """Log AI configuration once so CI runs reveal why AI scan is/isn't running."""
+    enabled = AI_SCAN_ENABLED
+    sdk_present = anthropic is not None
+    key_present = bool(os.environ.get("ANTHROPIC_API_KEY"))
+    client_ok = _get_ai_client() is not None
+    print(
+        f"AI scan config: ENABLE_AI_SCAN={enabled} sdk_installed={sdk_present} "
+        f"api_key_present={key_present} client_ready={client_ok}",
+        flush=True,
+    )
+
+
 def _get_ai_client():
     """Lazily construct the Anthropic client; return None if unavailable."""
-    global _ai_client
+    global _ai_client, _ai_client_checked
     if _ai_client is not None:
         return _ai_client
+    if _ai_client_checked:
+        return None
+    _ai_client_checked = True
     if anthropic is None:
+        print("  → AI client unavailable: anthropic SDK not installed", flush=True)
         return None
     if not os.environ.get("ANTHROPIC_API_KEY"):
+        print("  → AI client unavailable: ANTHROPIC_API_KEY not set", flush=True)
         return None
     try:
         _ai_client = anthropic.Anthropic()
-    except Exception:
+    except Exception as exc:
+        print(f"  → AI client init failed: {exc}", flush=True)
         return None
     return _ai_client
  
@@ -958,21 +1003,26 @@ def scan_page_with_ai(html: str, career_url: str) -> list[dict]:
     Returns [] when AI scanning is disabled, the SDK is missing, or any call fails.
     Intended as a last-resort fallback after ATS APIs and HTML heuristics.
     """
+    _ai_stats["pages_offered"] += 1
     if not AI_SCAN_ENABLED:
+        _ai_stats["skipped_disabled"] += 1
         return []
     client = _get_ai_client()
     if client is None:
+        _ai_stats["skipped_no_client"] += 1
         return []
  
     soup = BeautifulSoup(html, "html.parser")
     text = visible_text(soup)
     if len(text) < 50:
+        _ai_stats["skipped_short_text"] += 1
         return []
     if len(text) > AI_MAX_CHARS:
         text = text[:AI_MAX_CHARS]
  
     user_content = f"Career page URL: {career_url}\n\nVisible page text:\n{text}"
  
+    _ai_stats["calls_attempted"] += 1
     try:
         response = client.messages.create(
             model=AI_MODEL,
@@ -991,6 +1041,7 @@ def scan_page_with_ai(html: str, career_url: str) -> list[dict]:
             messages=[{"role": "user", "content": user_content}],
         )
     except Exception as exc:
+        _ai_stats["calls_failed"] += 1
         print(f"  → AI scan failed: {exc}", flush=True)
         return []
  
@@ -998,10 +1049,13 @@ def scan_page_with_ai(html: str, career_url: str) -> list[dict]:
         tool_block = next(b for b in response.content if b.type == "tool_use")
         data = tool_block.input
     except Exception:
+        _ai_stats["calls_empty_response"] += 1
         return []
  
+    raw_list = data.get("jobs", [])
+    _ai_stats["raw_jobs_returned"] += len(raw_list)
     jobs: list[dict] = []
-    for raw in data.get("jobs", []):
+    for raw in raw_list:
         title = (raw.get("title") or "").strip()
         if not title:
             continue
@@ -1026,6 +1080,7 @@ def scan_page_with_ai(html: str, career_url: str) -> list[dict]:
             "applyUrl": apply_url,
             "source": "ai",
         })
+    _ai_stats["jobs_kept"] += len(jobs)
     return jobs
  
  
@@ -1241,6 +1296,11 @@ def main():
     #   PE:      python scraper.py pe_firms_data.json pe_intern_status.json
     firms_file  = sys.argv[1] if len(sys.argv) > 1 else "firms_data.json"
     output_file = sys.argv[2] if len(sys.argv) > 2 else "intern_status.json"
+ 
+    # Reset per-run AI stats and log startup config
+    for k in _ai_stats:
+        _ai_stats[k] = 0
+    _log_ai_startup()
  
     # Load firm list
     try:

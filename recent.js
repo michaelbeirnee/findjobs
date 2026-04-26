@@ -1,4 +1,4 @@
-// ── Recent Postings Page: shows all jobs from IB + PE + VC + Hedge Funds grouped by discovery date ──
+// ── Recent Postings Page: shows all jobs from IB + PE + VC + Hedge Funds + SWE grouped by discovery date ──
  
 const PRESENCE_CLASS = {
   "Very High": "presence-vh",
@@ -87,10 +87,12 @@ function renderTimelineJobCard(job, firmName, firmPresence, firmType) {
     companyPageUrl = `company.html?firm=${encodeURIComponent(firmName)}&type=vc`;
   } else if (firmType === "hedge") {
     companyPageUrl = `company.html?firm=${encodeURIComponent(firmName)}&type=hedge`;
+  } else if (firmType === "swe") {
+    companyPageUrl = `company.html?firm=${encodeURIComponent(firmName)}&type=swe`;
   } else {
     companyPageUrl = `company.html?firm=${encodeURIComponent(firmName)}`;
   }
- 
+
   // Presence or tier pill
   let presencePill = "";
   if (firmType === "pe" && firmPresence) {
@@ -107,10 +109,11 @@ function renderTimelineJobCard(job, firmName, firmPresence, firmType) {
     pe:    { cls: "firm-type-badge--pe",    label: "PE" },
     vc:    { cls: "firm-type-badge--vc",    label: "VC" },
     hedge: { cls: "firm-type-badge--hedge", label: "HF" },
+    swe:   { cls: "firm-type-badge--swe",   label: "SWE" },
   };
   const badgeInfo = typeBadgeMap[firmType] || typeBadgeMap.ib;
   const typeBadge = `<span class="firm-type-badge ${badgeInfo.cls}">${badgeInfo.label}</span>`;
- 
+
   // Location badge
   const locationBadge = job.firmLocation
     ? `<span class="job-card__location">
@@ -214,6 +217,8 @@ function renderFirmGroup(group) {
     companyPageUrl = `company.html?firm=${encodeURIComponent(firmName)}&type=vc`;
   } else if (firmType === "hedge") {
     companyPageUrl = `company.html?firm=${encodeURIComponent(firmName)}&type=hedge`;
+  } else if (firmType === "swe") {
+    companyPageUrl = `company.html?firm=${encodeURIComponent(firmName)}&type=swe`;
   } else {
     companyPageUrl = `company.html?firm=${encodeURIComponent(firmName)}`;
   }
@@ -232,6 +237,7 @@ function renderFirmGroup(group) {
     pe:    { cls: "firm-type-badge--pe",    label: "PE" },
     vc:    { cls: "firm-type-badge--vc",    label: "VC" },
     hedge: { cls: "firm-type-badge--hedge", label: "HF" },
+    swe:   { cls: "firm-type-badge--swe",   label: "SWE" },
   };
   const badgeInfo = typeBadgeMap[firmType] || typeBadgeMap.ib;
   const typeBadge = `<span class="firm-type-badge ${badgeInfo.cls}">${badgeInfo.label}</span>`;
@@ -379,15 +385,17 @@ function renderTimeline(jobs) {
 // ── Main page logic ─────────────────────────────────────────
 async function init() {
   // Load all data sources in parallel
-  const [ibFirmsRes, peFirmsRes, vcFirmsRes, hedgeFirmsRes, ibStatusRes, peStatusRes, vcStatusRes, hedgeStatusRes] = await Promise.all([
+  const [ibFirmsRes, peFirmsRes, vcFirmsRes, hedgeFirmsRes, sweFirmsRes, ibStatusRes, peStatusRes, vcStatusRes, hedgeStatusRes, sweStatusRes] = await Promise.all([
     fetch("firms_data.json").catch(() => null),
     fetch("pe_firms_data.json").catch(() => null),
     fetch("vc_firms_data.json").catch(() => null),
     fetch("hedge_funds_data.json").catch(() => null),
+    fetch("swe_firms_data.json").catch(() => null),
     fetch("intern_status.json").catch(() => null),
     fetch("pe_intern_status.json").catch(() => null),
     fetch("vc_intern_status.json").catch(() => null),
     fetch("hedge_intern_status.json").catch(() => null),
+    fetch("swe_intern_status.json").catch(() => null),
   ]);
  
   // IB data
@@ -409,7 +417,12 @@ async function init() {
   let hedgeFirms = [];
   let hedgeInternStatus = {};
   let lastUpdatedHedge = null;
- 
+
+  // SWE data
+  let sweFirms = [];
+  let sweInternStatus = {};
+  let lastUpdatedSWE = null;
+
   if (ibFirmsRes && ibFirmsRes.ok) {
     ibFirms = await ibFirmsRes.json();
   }
@@ -422,7 +435,10 @@ async function init() {
   if (hedgeFirmsRes && hedgeFirmsRes.ok) {
     hedgeFirms = await hedgeFirmsRes.json();
   }
- 
+  if (sweFirmsRes && sweFirmsRes.ok) {
+    sweFirms = await sweFirmsRes.json();
+  }
+
   if (ibStatusRes && ibStatusRes.ok) {
     const data = await ibStatusRes.json();
     ibInternStatus = data.firms || {};
@@ -443,9 +459,14 @@ async function init() {
     hedgeInternStatus = data.firms || {};
     lastUpdatedHedge = data.lastUpdated;
   }
- 
+  if (sweStatusRes && sweStatusRes.ok) {
+    const data = await sweStatusRes.json();
+    sweInternStatus = data.firms || {};
+    lastUpdatedSWE = data.lastUpdated;
+  }
+
   // Show last-checked timestamp (use the most recent of all)
-  const lastUpdated = lastUpdatedIB || lastUpdatedPE || lastUpdatedVC || lastUpdatedHedge;
+  const lastUpdated = lastUpdatedIB || lastUpdatedPE || lastUpdatedVC || lastUpdatedHedge || lastUpdatedSWE;
   if (lastUpdated) {
     const date = new Date(lastUpdated);
     const el = document.getElementById("lastChecked");
@@ -469,13 +490,15 @@ async function init() {
   peFirms.forEach(f => { if (f.location) locationLookup[f.name] = f.location; });
   vcFirms.forEach(f => { if (f.location) locationLookup[f.name] = f.location; });
   hedgeFirms.forEach(f => { if (f.location) locationLookup[f.name] = f.location; });
- 
+  sweFirms.forEach(f => { if (f.location) locationLookup[f.name] = f.location; });
+
   // Collect all jobs from all sources
   const ibJobs = collectJobs(ibInternStatus, ibPresenceMap, "ib", locationLookup);
   const peJobs = collectJobs(peInternStatus, peTierMap, "pe", locationLookup);
   const vcJobs = collectJobs(vcInternStatus, {}, "vc", locationLookup);
   const hedgeJobs = collectJobs(hedgeInternStatus, {}, "hedge", locationLookup);
-  const allJobs = [...ibJobs, ...peJobs, ...vcJobs, ...hedgeJobs];
+  const sweJobs = collectJobs(sweInternStatus, {}, "swe", locationLookup);
+  const allJobs = [...ibJobs, ...peJobs, ...vcJobs, ...hedgeJobs, ...sweJobs];
  
   const firmsWithJobs = new Set();
   allJobs.forEach(j => firmsWithJobs.add(j.firmName));
