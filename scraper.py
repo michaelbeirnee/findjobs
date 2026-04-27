@@ -9,7 +9,9 @@ Run:
     pip install -r requirements.txt
     python scraper.py
 """
- 
+
+from __future__ import annotations
+
 import json
 import os
 import re
@@ -900,7 +902,8 @@ def merge_jobs(job_lists: list[list[dict]]) -> list[dict]:
 # ── AI page scanning ────────────────────────────────────────────────────────
 
  
-AI_MODEL = os.environ.get("ANTHROPIC_MODEL", "claude-haiku-4-5")
+# Anthropic Messages API expects a model identifier; default to the Claude API ID.
+AI_MODEL = os.environ.get("ANTHROPIC_MODEL", "claude-haiku-4-5-20251001")
 AI_SCAN_ENABLED = os.environ.get("ENABLE_AI_SCAN", "").lower() in ("1", "true", "yes")
 AI_MAX_CHARS = 40_000
  
@@ -1140,6 +1143,7 @@ def _scrape_firm_jobs(career_url: str) -> tuple[list[dict], list[tuple[str, str]
         rendered_html = get_rendered_html(career_url)
         if rendered_html:
             scraper_jobs = merge_jobs([scraper_jobs, find_job_listings(rendered_html, career_url)])
+            html_pages.append((rendered_html, career_url))
 
     return scraper_jobs, html_pages
 
@@ -1351,20 +1355,11 @@ def main():
  
     print(f"\nDone. {found}/{total} firms have intern postings.")
     print(f"Results written to {output_file}")
-    if AI_SCAN_ENABLED:
-        print(
-            "AI scan summary: "
-            f"pages_offered={_ai_stats['pages_offered']} "
-            f"skipped_disabled={_ai_stats['skipped_disabled']} "
-            f"skipped_no_client={_ai_stats['skipped_no_client']} "
-            f"skipped_short_text={_ai_stats['skipped_short_text']} "
-            f"calls_attempted={_ai_stats['calls_attempted']} "
-            f"calls_failed={_ai_stats['calls_failed']} "
-            f"calls_empty_response={_ai_stats['calls_empty_response']} "
-            f"raw_jobs_returned={_ai_stats['raw_jobs_returned']} "
-            f"jobs_kept={_ai_stats['jobs_kept']}",
-            flush=True,
-        )
+    print(
+        "AI scan summary: "
+        + ", ".join(f"{k}={v}" for k, v in _ai_stats.items()),
+        flush=True,
+    )
 
 
 if __name__ == "__main__":
