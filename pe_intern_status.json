@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-04-30T10:53:56.573727+00:00",
-  "internCount": 51,
+  "lastUpdated": "2026-05-01T10:41:32.464796+00:00",
+  "internCount": 50,
   "firms": {
     "Kohlberg Kravis Roberts": {
       "hasInternPosting": true,
       "careerUrl": "https://www.kkr.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:12:27.862395+00:00",
+      "lastChecked": "2026-05-01T10:01:44.134460+00:00",
       "jobs": [
         {
           "title": "Welcome to KKR Student Careers, where we pave the way for the next generation of leaders through our internship and early careers full-time programs across the globe. At KKR, you'll find yourself imme",
@@ -70,21 +70,21 @@
       "hasInternPosting": false,
       "careerUrl": "https://www.harbourvest.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:12:32.253882+00:00",
+      "lastChecked": "2026-05-01T10:01:49.217504+00:00",
       "jobs": []
     },
     "Thoma Bravo": {
       "hasInternPosting": false,
       "careerUrl": "https://www.thomabravo.com/about/careers",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:12:46.998060+00:00",
+      "lastChecked": "2026-05-01T10:02:00.075693+00:00",
       "jobs": []
     },
     "Blackstone Management Partners": {
       "hasInternPosting": true,
       "careerUrl": "https://www.blackstone.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:12:54.017139+00:00",
+      "lastChecked": "2026-05-01T10:02:05.373113+00:00",
       "jobs": [
         {
           "title": "news & INSIGHTS",
@@ -124,14 +124,14 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:13:06.674983+00:00",
+      "lastChecked": "2026-05-01T10:02:16.791184+00:00",
       "jobs": []
     },
     "TPG Capital Advisors": {
       "hasInternPosting": true,
       "careerUrl": "https://www.tpg.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:13:09.128870+00:00",
+      "lastChecked": "2026-05-01T10:02:19.294924+00:00",
       "jobs": [
         {
           "title": "IDMC (Internet, Digital Media & Communications)",
@@ -171,163 +171,42 @@
       "hasInternPosting": false,
       "careerUrl": "https://www.hfrp.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:13:11.215590+00:00",
+      "lastChecked": "2026-05-01T10:02:21.157300+00:00",
       "jobs": []
     },
     "Silver Lake Technology Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:13:21.334355+00:00",
+      "lastChecked": "2026-05-01T10:02:31.850565+00:00",
       "jobs": []
     },
     "Vista Equity Partners Management": {
-      "hasInternPosting": true,
+      "hasInternPosting": false,
       "careerUrl": "https://www.vistaequitypartners.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:13:26.250772+00:00",
-      "jobs": [
-        {
-          "title": "Enterprise Solutions Engineer",
-          "description": "Smartsheet United States ; Remote USD 117,500-142,500 / year Today Automation Business And Industrial Business/Productivity Software Business Software & Services Cloud Management Collaboration Data Storage Effectiveness Enterprise Enterprise Software Information Security Information Technology and Services Innovation Internet Services Mobile Platform Productivity Project Management Reporting SaaS Scale Security Services-Prepackaged Software Software Software Software Development Storage Technolo",
-          "graduationDate": null,
-          "applyUrl": "https://vistaequitypartners.getro.com/companies/smartsheet#content",
-          "firstSeen": "2026-04-30",
-          "source": "scraper"
-        },
-        {
-          "title": "Smartsheet United States ; Remote USD 117,500-142,500 / year Today Automation Business And Industrial Business/Productiv",
-          "description": "ity Software Business Software & Services Cloud Management Collaboration Data Storage Effectiveness Enterprise Enterprise Software Information Security Information Technology and Services Innovation Internet Services Mobile Platform Productivity Project Management Reporting SaaS Scale Security Services-Prepackaged Software Software Software Software Development Storage Technology Workforce Management Work Management Mid-Senior Level",
-          "graduationDate": null,
-          "applyUrl": "https://vistaequitypartners.getro.com/companies/smartsheet#content",
-          "firstSeen": "2026-04-30",
-          "source": "scraper"
-        },
-        {
-          "title": "Executive HR Business Partner ( 85604404 )",
-          "description": "Jio Today Apps Broadband Consumer Electronics Distribution Electronics Hardware Information Services Internet Internet Service Providers Internet Services Media Mobile Mobile & Telecommunications Product Development Software Technology Technology And Computing Telecommunication Telecommunications Telecommunications Service Providers Wireless Read more about Executive HR Business Partner ( 85604404 ) at Jio",
-          "graduationDate": null,
-          "applyUrl": "https://vistaequitypartners.getro.com/companies/jio-2-e2eb194c-5f23-44ba-bcb5-b2eef6227899#content",
-          "firstSeen": "2026-04-30",
-          "source": "scraper"
-        },
-        {
-          "title": "Jio Today Apps Broadband Consumer Electronics Distribution Electronics Hardware Information Services Internet Internet S",
-          "description": "ervice Providers Internet Services Media Mobile Mobile & Telecommunications Product Development Software Technology Technology And Computing Telecommunication Telecommunications Telecommunications Service Providers Wireless",
-          "graduationDate": null,
-          "applyUrl": "https://vistaequitypartners.getro.com/companies/jio-2-e2eb194c-5f23-44ba-bcb5-b2eef6227899#content",
-          "firstSeen": "2026-04-30",
-          "source": "scraper"
-        },
-        {
-          "title": "Internet Service Providers",
-          "description": "",
-          "graduationDate": null,
-          "applyUrl": "https://vistaequitypartners.getro.com/jobs",
-          "firstSeen": "2026-04-30",
-          "source": "scraper"
-        },
-        {
-          "title": "State Training Incharge ( 84098494 )",
-          "description": "Jio Today Apps Broadband Consumer Electronics Distribution Electronics Hardware Information Services Internet Internet Service Providers Internet Services Media Mobile Mobile & Telecommunications Product Development Software Technology Technology And Computing Telecommunication Telecommunications Telecommunications Service Providers Wireless Read more about State Training Incharge ( 84098494 ) at Jio",
-          "graduationDate": null,
-          "applyUrl": "https://vistaequitypartners.getro.com/companies/jio-2-e2eb194c-5f23-44ba-bcb5-b2eef6227899#content",
-          "firstSeen": "2026-04-30",
-          "source": "scraper"
-        },
-        {
-          "title": "Associate Software Engineer",
-          "description": "Infoblox Bengaluru, Karnataka, India Today Automation Automation/Workflow Software Cloud Computer and Network Security Computer & Network Security Cybersecurity Cyber Threat Intelligence Data Protection Data Storage DNS Enterprise Security Enterprise Software Government Hardware Identity Management Information Security Internet IT Consulting and Outsourcing IT Security IT Services Network Automation Network Hardware Network / Hosting / Infrastructure Network Management Software Network Security",
-          "graduationDate": null,
-          "applyUrl": "https://vistaequitypartners.getro.com/companies/infoblox#content",
-          "firstSeen": "2026-04-30",
-          "source": "scraper"
-        },
-        {
-          "title": "Infoblox Bengaluru, Karnataka, India Today Automation Automation/Workflow Software Cloud Computer and Network Security C",
-          "description": "omputer & Network Security Cybersecurity Cyber Threat Intelligence Data Protection Data Storage DNS Enterprise Security Enterprise Software Government Hardware Identity Management Information Security Internet IT Consulting and Outsourcing IT Security IT Services Network Automation Network Hardware Network / Hosting / Infrastructure Network Management Software Network Security Physical Security Privacy and Security Real Time SaaS Security Security Services-Computer Processing & Data Preparation",
-          "graduationDate": null,
-          "applyUrl": "https://vistaequitypartners.getro.com/companies/infoblox#content",
-          "firstSeen": "2026-04-30",
-          "source": "scraper"
-        },
-        {
-          "title": "Loss Prevention Manager ( 85594302 )",
-          "description": "Jio Today Apps Broadband Consumer Electronics Distribution Electronics Hardware Information Services Internet Internet Service Providers Internet Services Media Mobile Mobile & Telecommunications Product Development Software Technology Technology And Computing Telecommunication Telecommunications Telecommunications Service Providers Wireless Mid-Senior Level Read more about Loss Prevention Manager ( 85594302 ) at Jio",
-          "graduationDate": null,
-          "applyUrl": "https://vistaequitypartners.getro.com/companies/jio-2-e2eb194c-5f23-44ba-bcb5-b2eef6227899#content",
-          "firstSeen": "2026-04-30",
-          "source": "scraper"
-        },
-        {
-          "title": "Console Officer Operations Centre ( 85604470 )",
-          "description": "Jio Today Apps Broadband Consumer Electronics Distribution Electronics Hardware Information Services Internet Internet Service Providers Internet Services Media Mobile Mobile & Telecommunications Product Development Software Technology Technology And Computing Telecommunication Telecommunications Telecommunications Service Providers Wireless Read more about Console Officer Operations Centre ( 85604470 ) at Jio",
-          "graduationDate": null,
-          "applyUrl": "https://vistaequitypartners.getro.com/companies/jio-2-e2eb194c-5f23-44ba-bcb5-b2eef6227899#content",
-          "firstSeen": "2026-04-30",
-          "source": "scraper"
-        },
-        {
-          "title": "SLP Supply Chain Operations ( 85602712 )",
-          "description": "Jio Today Apps Broadband Consumer Electronics Distribution Electronics Hardware Information Services Internet Internet Service Providers Internet Services Media Mobile Mobile & Telecommunications Product Development Software Technology Technology And Computing Telecommunication Telecommunications Telecommunications Service Providers Wireless Read more about SLP Supply Chain Operations ( 85602712 ) at Jio",
-          "graduationDate": null,
-          "applyUrl": "https://vistaequitypartners.getro.com/companies/jio-2-e2eb194c-5f23-44ba-bcb5-b2eef6227899#content",
-          "firstSeen": "2026-04-30",
-          "source": "scraper"
-        },
-        {
-          "title": "JC SCM Store Lead C ( 85602943 )",
-          "description": "Jio Today Apps Broadband Consumer Electronics Distribution Electronics Hardware Information Services Internet Internet Service Providers Internet Services Media Mobile Mobile & Telecommunications Product Development Software Technology Technology And Computing Telecommunication Telecommunications Telecommunications Service Providers Wireless Read more about JC SCM Store Lead C ( 85602943 ) at Jio",
-          "graduationDate": null,
-          "applyUrl": "https://vistaequitypartners.getro.com/companies/jio-2-e2eb194c-5f23-44ba-bcb5-b2eef6227899#content",
-          "firstSeen": "2026-04-30",
-          "source": "scraper"
-        },
-        {
-          "title": "Outside Sales Representative - San Francisco",
-          "description": "Playlist Technologies United States USD 57,900-86,075 / year Today Advertising Analytics Android Art And Entertainment Artificial Intelligence Artificial Intelligence (AI) Communication Software Consumer Data & Analytics Entertainment Entertainment Software Heroku Internet Internet Services Internet Services iOS Machine Learning Media Media & Entertainment Messaging Messaging and Telecommunications Mobile MongoDB Movies, Music and Entertainment Music Music and Audio Music Licensing Music Streami",
-          "graduationDate": null,
-          "applyUrl": "https://vistaequitypartners.getro.com/companies/playlist-technologies#content",
-          "firstSeen": "2026-04-30",
-          "source": "scraper"
-        },
-        {
-          "title": "Playlist Technologies United States USD 57,900-86,075 / year Today Advertising Analytics Android Art And Entertainment A",
-          "description": "rtificial Intelligence Artificial Intelligence (AI) Communication Software Consumer Data & Analytics Entertainment Entertainment Software Heroku Internet Internet Services Internet Services iOS Machine Learning Media Media & Entertainment Messaging Messaging and Telecommunications Mobile MongoDB Movies, Music and Entertainment Music Music and Audio Music Licensing Music Streaming NoSQL Social Social Media Social Network Social Networking Software Streaming Technology, Information and Internet Mi",
-          "graduationDate": null,
-          "applyUrl": "https://vistaequitypartners.getro.com/companies/playlist-technologies#content",
-          "firstSeen": "2026-04-30",
-          "source": "scraper"
-        },
-        {
-          "title": "Technology, Information and Internet",
-          "description": "",
-          "graduationDate": null,
-          "applyUrl": "https://vistaequitypartners.getro.com/jobs",
-          "firstSeen": "2026-04-30",
-          "source": "scraper"
-        }
-      ]
+      "lastChecked": "2026-05-01T10:02:36.155053+00:00",
+      "jobs": []
     },
     "Global Infrastructure Management": {
       "hasInternPosting": false,
       "careerUrl": "https://www.global-infra.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:13:28.973888+00:00",
+      "lastChecked": "2026-05-01T10:02:38.980356+00:00",
       "jobs": []
     },
     "Warburg Pincus": {
       "hasInternPosting": false,
       "careerUrl": "https://www.warburgpincus.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:13:31.512648+00:00",
+      "lastChecked": "2026-05-01T10:02:41.328024+00:00",
       "jobs": []
     },
     "Insight Venture Partners": {
       "hasInternPosting": true,
       "careerUrl": "https://www.insightpartners.com/jobs",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:13:37.175041+00:00",
+      "lastChecked": "2026-05-01T10:02:49.555183+00:00",
       "jobs": [
         {
           "title": "pull-quote I stumbled into Insight as a summer analyst. I joined with no expectation of being here more than a summer. I",
@@ -343,35 +222,35 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:13:48.923215+00:00",
+      "lastChecked": "2026-05-01T10:03:01.724482+00:00",
       "jobs": []
     },
     "Coatue Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:13:58.553715+00:00",
+      "lastChecked": "2026-05-01T10:03:09.923863+00:00",
       "jobs": []
     },
     "Stepstone Group": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:14:19.938780+00:00",
+      "lastChecked": "2026-05-01T10:03:23.280359+00:00",
       "jobs": []
     },
     "Pantheon": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:14:30.403051+00:00",
+      "lastChecked": "2026-05-01T10:03:33.490099+00:00",
       "jobs": []
     },
     "Hamilton Lane": {
       "hasInternPosting": true,
       "careerUrl": "https://www.hamiltonlane.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:14:34.597714+00:00",
+      "lastChecked": "2026-05-01T10:03:37.502731+00:00",
       "jobs": [
         {
           "title": "Employee-led Initiatives",
@@ -403,7 +282,7 @@
       "hasInternPosting": true,
       "careerUrl": "https://www.generalatlantic.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:14:37.504704+00:00",
+      "lastChecked": "2026-05-01T10:03:40.389739+00:00",
       "jobs": [
         {
           "title": "US and UK Undergraduates General Atlantic hires undergraduate students across all business functions – Investment Areas,",
@@ -571,14 +450,14 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:14:49.594405+00:00",
+      "lastChecked": "2026-05-01T10:03:52.372412+00:00",
       "jobs": []
     },
     "Bain Capital Private Equity": {
       "hasInternPosting": true,
       "careerUrl": "https://www.baincapital.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:14:57.855829+00:00",
+      "lastChecked": "2026-05-01T10:03:59.599385+00:00",
       "jobs": [
         {
           "title": "Learning and development",
@@ -618,7 +497,7 @@
       "hasInternPosting": true,
       "careerUrl": "https://www.brookfield.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:15:03.441470+00:00",
+      "lastChecked": "2026-05-01T10:04:08.445634+00:00",
       "jobs": [
         {
           "title": "Habitat for Humanity",
@@ -810,21 +689,21 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:15:17.132896+00:00",
+      "lastChecked": "2026-05-01T10:04:21.440636+00:00",
       "jobs": []
     },
     "Tiger Global Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:15:24.999458+00:00",
+      "lastChecked": "2026-05-01T10:04:29.529338+00:00",
       "jobs": []
     },
     "Blue OWL Gpsc Advisors": {
       "hasInternPosting": true,
       "careerUrl": "https://www.blueowl.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:15:29.823429+00:00",
+      "lastChecked": "2026-05-01T10:04:34.787785+00:00",
       "jobs": [
         {
           "title": "We offer long-term career development opportunities and mentorship from experienced leaders who empower our people to ta",
@@ -836,7 +715,7 @@
         },
         {
           "title": "Controller - International Entities, Vice President",
-          "description": "Short Hills, NJ | Posted: Posted 22 Days Ago | R-102101",
+          "description": "Short Hills, NJ | Posted: Posted 23 Days Ago | R-102101",
           "graduationDate": null,
           "applyUrl": "https://blueowl.wd1.myworkdayjobs.com/job/Short-Hills-NJ/Controller---International-Entities--Vice-President_R-102101",
           "firstSeen": "2026-04-19",
@@ -844,7 +723,7 @@
         },
         {
           "title": "Controller - International Entities, Vice President",
-          "description": "Short Hills, NJ | Posted: Posted 22 Days Ago | R-102103",
+          "description": "Short Hills, NJ | Posted: Posted 23 Days Ago | R-102103",
           "graduationDate": null,
           "applyUrl": "https://blueowl.wd1.myworkdayjobs.com/job/Short-Hills-NJ/Controller---International-Entities--Vice-President_R-102103-2",
           "firstSeen": "2026-04-19",
@@ -852,7 +731,7 @@
         },
         {
           "title": "Private Wealth, International Client Solutions, Associate – New York",
-          "description": "New York City, NY | Posted: Posted 2 Days Ago | R-101997",
+          "description": "New York City, NY | Posted: Posted 3 Days Ago | R-101997",
           "graduationDate": null,
           "applyUrl": "https://blueowl.wd1.myworkdayjobs.com/job/New-York-City-NY/Private-Wealth--International-Client-Solutions--Associate---New-York_R-101997",
           "firstSeen": "2026-04-19",
@@ -872,7 +751,7 @@
       "hasInternPosting": true,
       "careerUrl": "https://www.eqtgroup.com/about/careers",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:15:41.874153+00:00",
+      "lastChecked": "2026-05-01T10:04:47.281847+00:00",
       "jobs": [
         {
           "title": "Our Business Lines",
@@ -907,14 +786,6 @@
           "source": "scraper"
         },
         {
-          "title": "Fullstack Engineer",
-          "description": "<div class=\"content-intro\"><p><em>&nbsp;</em></p></div><p>As a FullStack Engineer with a backend focus in the Fintech team, you will design and build scalable backend systems, APIs, and integrations that power EQT’s financial and operational platforms. This role combines strong system design, cloud infrastructure, and database expertise with close collaboration across an international team.</p> <h2><strong>About the Fintech team</strong></h2> <p>The Fintech team is part of EQT’s Technology organ",
-          "graduationDate": null,
-          "applyUrl": "https://job-boards.eu.greenhouse.io/eqtpartners/jobs/4794657101",
-          "firstSeen": "2026-04-22",
-          "source": "scraper"
-        },
-        {
           "title": "Fundraising Coordinator",
           "description": "<div class=\"content-intro\"><p><em>&nbsp;</em></p></div><p>Join EQT as a Fundraising Coordinator within the CRM team, supporting global fundraising activities, investor events, and roadshows. This role blends coordination, communication, and digital tools in a fast-paced, international environment.</p> <h2><strong>About the CRM team</strong></h2> <p>The CRM team sits within the Brand &amp; Marketing function and is responsible for planning and delivering global pre-marketing, marketing, and due d",
           "graduationDate": null,
@@ -936,21 +807,21 @@
       "hasInternPosting": false,
       "careerUrl": "https://www.lexingtonpartners.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:15:44.552284+00:00",
+      "lastChecked": "2026-05-01T10:04:49.797651+00:00",
       "jobs": []
     },
     "BDT Capital Partners": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:15:55.303000+00:00",
+      "lastChecked": "2026-05-01T10:05:00.576291+00:00",
       "jobs": []
     },
     "Strategic Partners Fund Solutions Advisors": {
       "hasInternPosting": true,
       "careerUrl": "https://www.blackstone.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:15:59.854335+00:00",
+      "lastChecked": "2026-05-01T10:05:05.722610+00:00",
       "jobs": [
         {
           "title": "news & INSIGHTS",
@@ -990,7 +861,7 @@
       "hasInternPosting": true,
       "careerUrl": "https://www.sixthstreet.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:16:05.000978+00:00",
+      "lastChecked": "2026-05-01T10:05:10.579213+00:00",
       "jobs": [
         {
           "title": "Consumer and Internet",
@@ -1054,7 +925,7 @@
       "hasInternPosting": true,
       "careerUrl": "https://www.goldmansachs.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:16:08.182052+00:00",
+      "lastChecked": "2026-05-01T10:05:13.849131+00:00",
       "jobs": [
         {
           "title": "Internships and Programs",
@@ -1102,21 +973,21 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:16:16.617997+00:00",
+      "lastChecked": "2026-05-01T10:05:21.247716+00:00",
       "jobs": []
     },
     "H.I.G. Capital": {
       "hasInternPosting": false,
       "careerUrl": "https://www.higcapital.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:16:19.229531+00:00",
+      "lastChecked": "2026-05-01T10:05:23.737239+00:00",
       "jobs": []
     },
     "Blackrock Capital Investment Advisors": {
       "hasInternPosting": true,
       "careerUrl": "https://www.blackrock.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:16:21.776686+00:00",
+      "lastChecked": "2026-05-01T10:05:26.894058+00:00",
       "jobs": [
         {
           "title": "Navigating Internal Mobility? Here’s What Worked for These BlackRock Leaders You may not always be sure when – or how – to make your next career move, whether that means switching to a different team,",
@@ -1156,7 +1027,7 @@
       "hasInternPosting": true,
       "careerUrl": "https://visionfund.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:16:25.346734+00:00",
+      "lastChecked": "2026-05-01T10:05:30.510633+00:00",
       "jobs": [
         {
           "title": "05 – What does your typical day look like? Picture a phone headset or your favorite airline. I am busy with one or the o",
@@ -1180,28 +1051,28 @@
       "hasInternPosting": false,
       "careerUrl": "https://www.hillhouseinvestment.com/join-us",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:16:38.084595+00:00",
+      "lastChecked": "2026-05-01T10:05:43.128652+00:00",
       "jobs": []
     },
     "Hongshan Capital Advisors Limited": {
       "hasInternPosting": false,
       "careerUrl": "https://www.hongshan.com/jobs",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:16:51.369781+00:00",
+      "lastChecked": "2026-05-01T10:05:57.694053+00:00",
       "jobs": []
     },
     "Clearlake Capital Group": {
       "hasInternPosting": false,
       "careerUrl": "https://www.clearlakecapital.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:16:55.449127+00:00",
+      "lastChecked": "2026-05-01T10:06:01.543498+00:00",
       "jobs": []
     },
     "Adams Street Partners": {
       "hasInternPosting": true,
       "careerUrl": "https://www.adamsstreetpartners.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:17:04.081538+00:00",
+      "lastChecked": "2026-05-01T10:06:09.319680+00:00",
       "jobs": [
         {
           "title": "Please update your browser.",
@@ -1353,21 +1224,21 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:17:17.144392+00:00",
+      "lastChecked": "2026-05-01T10:06:21.118987+00:00",
       "jobs": []
     },
     "Platinum Equity Advisors": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:17:28.206328+00:00",
+      "lastChecked": "2026-05-01T10:06:32.256415+00:00",
       "jobs": []
     },
     "Ardian Investment UK Limited": {
       "hasInternPosting": true,
       "careerUrl": "https://www.ardian.com/join-us",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:17:46.271870+00:00",
+      "lastChecked": "2026-05-01T10:06:50.144449+00:00",
       "jobs": [
         {
           "title": "Follow Ardian Jobs & Internships",
@@ -1378,51 +1249,35 @@
           "source": "scraper"
         },
         {
-          "title": "Infrastructure Intern – September 2026 I NYC",
-          "description": "Infrastructure Infrastructure Intern – September 2026 I NYC",
+          "title": "Secondaries & Primaries Intern - January 2027 / Frankfurt (M/F)",
+          "description": "Secondaries & Primaries Secondaries & Primaries Intern - January 2027 / Frankfurt (M/F)",
           "graduationDate": null,
-          "applyUrl": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/New-York/Infrastructure-Intern---September-2026-I-NYC_JR1001798",
-          "firstSeen": "2026-04-30",
+          "applyUrl": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Frankfurt/Secondaries---Primaries-Intern---January-2027---Frankfurt--M-F-_JR1001728",
+          "firstSeen": "2026-05-01",
           "source": "scraper"
         },
         {
-          "title": "Fund Finance Secondaries & Primaries Intern -  September 2026 - Frankfurt (M/F)",
-          "description": "Fund Finance Fund Finance Secondaries & Primaries Intern - September 2026 - Frankfurt (M/F)",
+          "title": "Investor Solutions Intern - September 2026 - Frankfurt  (M/F)",
+          "description": "Investor Relations Investor Solutions Intern - September 2026 - Frankfurt (M/F)",
           "graduationDate": null,
-          "applyUrl": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Frankfurt/Fund-Finance-Secondaries---Primaries-Intern----September-2026---Frankfurt--M-F-_JR1001846",
-          "firstSeen": "2026-04-30",
+          "applyUrl": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Frankfurt/Investor-Solutions-Intern---Internship-September-2026--Frankfurt_JR1001773",
+          "firstSeen": "2026-05-01",
           "source": "scraper"
         },
         {
-          "title": "Internal & CSR Communication Apprentice - Septembre 2026 - Paris (H/F)",
-          "description": "Brand & Communication Internal & CSR Communication Apprentice - Septembre 2026 - Paris (H/F)",
+          "title": "Investor Relations Intern - March 2026  I Tokyo (M/F)",
+          "description": "Investor Relations Investor Relations Intern - March 2026 I Tokyo (M/F)",
           "graduationDate": null,
-          "applyUrl": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Paris/Internal---CSR-Communication-Apprentice_JR1001828",
-          "firstSeen": "2026-04-30",
+          "applyUrl": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Tokyo/Investor-Relations-Intern---October-2025--I-Tokyo--M-F-_JR1001528",
+          "firstSeen": "2026-05-01",
           "source": "scraper"
         },
         {
-          "title": "Infrastructure Intern - June 2026I Milan (M/F)-1",
-          "description": "Infrastructure Infrastructure Intern - June 2026I Milan (M/F)-1",
+          "title": "Expansion Intern - January 2027 - Frankfurt (M/F)",
+          "description": "Expansion Expansion Intern - January 2027 - Frankfurt (M/F)",
           "graduationDate": null,
-          "applyUrl": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Milan/Infrastructure-Intern---June-2026I-Milan--M-F--1_JR1001938",
-          "firstSeen": "2026-04-30",
-          "source": "scraper"
-        },
-        {
-          "title": "Secondaries & Primaries Intern – January 2027 I New York",
-          "description": "Secondaries & Primaries Secondaries & Primaries Intern – January 2027 I New York",
-          "graduationDate": null,
-          "applyUrl": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/New-York/Secondaries---Primaries-Intern---January-2027-I-New-York_JR1001759",
-          "firstSeen": "2026-04-30",
-          "source": "scraper"
-        },
-        {
-          "title": "Expansion Intern - April 2027 - Frankfurt (M/F)",
-          "description": "Expansion Expansion Intern - April 2027 - Frankfurt (M/F)",
-          "graduationDate": null,
-          "applyUrl": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Frankfurt/Expansion-Intern---Q2-2027---Frankfurt---M-F-_JR1001814",
-          "firstSeen": "2026-04-30",
+          "applyUrl": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Frankfurt/Expansion-Intern---Q1-2027---Frankfurt---M-F-_JR1001812",
+          "firstSeen": "2026-05-01",
           "source": "scraper"
         },
         {
@@ -1450,104 +1305,72 @@
           "source": "scraper"
         },
         {
-          "title": "Infrastructure Infrastructure Intern – September 2026 I NYC New York View",
+          "title": "Secondaries & Primaries Secondaries & Primaries Intern - January 2027 / Frankfurt (M/F) Frankfurt View",
           "description": "",
           "graduationDate": null,
-          "applyUrl": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/New-York/Infrastructure-Intern---September-2026-I-NYC_JR1001798",
-          "firstSeen": "2026-04-30",
+          "applyUrl": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Frankfurt/Secondaries---Primaries-Intern---January-2027---Frankfurt--M-F-_JR1001728",
+          "firstSeen": "2026-05-01",
           "source": "scraper"
         },
         {
-          "title": "Infrastructure Infrastructure Intern – September 2026 I NYC",
+          "title": "Secondaries & Primaries Secondaries & Primaries Intern - January 2027 / Frankfurt (M/F)",
           "description": "",
           "graduationDate": null,
-          "applyUrl": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/New-York/Infrastructure-Intern---September-2026-I-NYC_JR1001798",
-          "firstSeen": "2026-04-30",
+          "applyUrl": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Frankfurt/Secondaries---Primaries-Intern---January-2027---Frankfurt--M-F-_JR1001728",
+          "firstSeen": "2026-05-01",
           "source": "scraper"
         },
         {
-          "title": "Fund Finance Fund Finance Secondaries & Primaries Intern -  September 2026 - Frankfurt (M/F) Frankfurt View",
+          "title": "Investor Relations Investor Solutions Intern - September 2026 - Frankfurt  (M/F) Frankfurt View",
           "description": "",
           "graduationDate": null,
-          "applyUrl": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Frankfurt/Fund-Finance-Secondaries---Primaries-Intern----September-2026---Frankfurt--M-F-_JR1001846",
-          "firstSeen": "2026-04-30",
+          "applyUrl": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Frankfurt/Investor-Solutions-Intern---Internship-September-2026--Frankfurt_JR1001773",
+          "firstSeen": "2026-05-01",
           "source": "scraper"
         },
         {
-          "title": "Fund Finance Fund Finance Secondaries & Primaries Intern -  September 2026 - Frankfurt (M/F)",
+          "title": "Investor Relations Investor Solutions Intern - September 2026 - Frankfurt  (M/F)",
           "description": "",
           "graduationDate": null,
-          "applyUrl": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Frankfurt/Fund-Finance-Secondaries---Primaries-Intern----September-2026---Frankfurt--M-F-_JR1001846",
-          "firstSeen": "2026-04-30",
+          "applyUrl": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Frankfurt/Investor-Solutions-Intern---Internship-September-2026--Frankfurt_JR1001773",
+          "firstSeen": "2026-05-01",
           "source": "scraper"
         },
         {
-          "title": "Brand & Communication Internal & CSR Communication Apprentice - Septembre 2026 - Paris (H/F) Paris View",
+          "title": "Investor Relations Investor Relations Intern - March 2026  I Tokyo (M/F) Tokyo View",
           "description": "",
           "graduationDate": null,
-          "applyUrl": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Paris/Internal---CSR-Communication-Apprentice_JR1001828",
-          "firstSeen": "2026-04-30",
+          "applyUrl": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Tokyo/Investor-Relations-Intern---October-2025--I-Tokyo--M-F-_JR1001528",
+          "firstSeen": "2026-05-01",
           "source": "scraper"
         },
         {
-          "title": "Brand & Communication Internal & CSR Communication Apprentice - Septembre 2026 - Paris (H/F)",
+          "title": "Investor Relations Investor Relations Intern - March 2026  I Tokyo (M/F)",
           "description": "",
           "graduationDate": null,
-          "applyUrl": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Paris/Internal---CSR-Communication-Apprentice_JR1001828",
-          "firstSeen": "2026-04-30",
+          "applyUrl": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Tokyo/Investor-Relations-Intern---October-2025--I-Tokyo--M-F-_JR1001528",
+          "firstSeen": "2026-05-01",
           "source": "scraper"
         },
         {
-          "title": "Infrastructure Infrastructure Intern - June 2026I Milan (M/F)-1 Milan View",
+          "title": "Expansion Expansion Intern - January 2027 - Frankfurt (M/F) Frankfurt View",
           "description": "",
           "graduationDate": null,
-          "applyUrl": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Milan/Infrastructure-Intern---June-2026I-Milan--M-F--1_JR1001938",
-          "firstSeen": "2026-04-30",
+          "applyUrl": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Frankfurt/Expansion-Intern---Q1-2027---Frankfurt---M-F-_JR1001812",
+          "firstSeen": "2026-05-01",
           "source": "scraper"
         },
         {
-          "title": "Infrastructure Infrastructure Intern - June 2026I Milan (M/F)-1",
+          "title": "Expansion Expansion Intern - January 2027 - Frankfurt (M/F)",
           "description": "",
           "graduationDate": null,
-          "applyUrl": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Milan/Infrastructure-Intern---June-2026I-Milan--M-F--1_JR1001938",
-          "firstSeen": "2026-04-30",
-          "source": "scraper"
-        },
-        {
-          "title": "Secondaries & Primaries Secondaries & Primaries Intern – January 2027 I New York New York View",
-          "description": "",
-          "graduationDate": null,
-          "applyUrl": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/New-York/Secondaries---Primaries-Intern---January-2027-I-New-York_JR1001759",
-          "firstSeen": "2026-04-30",
-          "source": "scraper"
-        },
-        {
-          "title": "Secondaries & Primaries Secondaries & Primaries Intern – January 2027 I New York",
-          "description": "",
-          "graduationDate": null,
-          "applyUrl": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/New-York/Secondaries---Primaries-Intern---January-2027-I-New-York_JR1001759",
-          "firstSeen": "2026-04-30",
-          "source": "scraper"
-        },
-        {
-          "title": "Expansion Expansion Intern - April 2027 - Frankfurt (M/F) Frankfurt View",
-          "description": "",
-          "graduationDate": null,
-          "applyUrl": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Frankfurt/Expansion-Intern---Q2-2027---Frankfurt---M-F-_JR1001814",
-          "firstSeen": "2026-04-30",
-          "source": "scraper"
-        },
-        {
-          "title": "Expansion Expansion Intern - April 2027 - Frankfurt (M/F)",
-          "description": "",
-          "graduationDate": null,
-          "applyUrl": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Frankfurt/Expansion-Intern---Q2-2027---Frankfurt---M-F-_JR1001814",
-          "firstSeen": "2026-04-30",
+          "applyUrl": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Frankfurt/Expansion-Intern---Q1-2027---Frankfurt---M-F-_JR1001812",
+          "firstSeen": "2026-05-01",
           "source": "scraper"
         },
         {
           "title": "Ardian Jobs & Internships",
-          "description": "Ardian Jobs & Internships 40,802 followers 6d Edited",
+          "description": "Ardian Jobs & Internships 40,854 followers 20h",
           "graduationDate": null,
           "applyUrl": "https://fr.linkedin.com/showcase/jobs-&-internships/?trk=organization_guest_main-feed-card_feed-actor-name",
           "firstSeen": "2026-04-24",
@@ -1578,27 +1401,83 @@
           "source": "scraper"
         },
         {
+          "title": "Ardian Jobs & Internships 40,854 followers 20h Report this post Ardian France recrute un stagiaire en Group Finance Trea",
+          "description": "sury. Cette opportunité vous intéresse ? C’est le moment idéal pour commencer à vous préparer en vue d’un éventuel entretien ! https://lnkd.in/eyXtCzY5 Group Finance Treasury Stage - Septembre 2026 I Paris (H/F) ardian.wd103.myworkdayjobs.com 32 2 Comments Like Comment Share",
+          "graduationDate": null,
+          "applyUrl": "https://fr.linkedin.com/posts/jobs-%26-internships_group-finance-treasury-stage-septembre-activity-7455612647154016256-tMhR",
+          "firstSeen": "2026-05-01",
+          "source": "scraper"
+        },
+        {
+          "title": "Ardian Jobs & Internships 40,854 followers 20h Report this post",
+          "description": "",
+          "graduationDate": null,
+          "applyUrl": "https://fr.linkedin.com/showcase/jobs-&-internships/?trk=organization_guest_main-feed-card_feed-actor-image",
+          "firstSeen": "2026-05-01",
+          "source": "scraper"
+        },
+        {
+          "title": "Ardian Jobs & Internships 40,854 followers 20h",
+          "description": "",
+          "graduationDate": null,
+          "applyUrl": "https://fr.linkedin.com/showcase/jobs-&-internships/?trk=organization_guest_main-feed-card_feed-actor-image",
+          "firstSeen": "2026-05-01",
+          "source": "scraper"
+        },
+        {
+          "title": "Inside Alexis’ role: sourcing and investing in semiconductors.",
+          "description": "Ardian Jobs & Internships 40,854 followers 20h Edited Report this post Exploring emerging industries and developing new investment strategies is part of the journey at Ardian , as experienced by Alexis Fallait , Investment Manager in the #ArdianSemiconductor team, featured in our 𝗙𝗹𝗮𝘀𝗵 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 𝘀𝗲𝗿𝗶𝗲𝘀. After joining as an intern in 2022, Alexis supported the launch of our semiconductor activity. In his role, he combines a deep understanding of complex technologies with an investor mindset, foc",
+          "graduationDate": null,
+          "applyUrl": "https://www.linkedin.com/posts/jobs-%26-internships_inside-alexis-role-sourcing-and-investing-activity-7455611837217312769-xgnA",
+          "firstSeen": "2026-05-01",
+          "source": "scraper"
+        },
+        {
+          "title": "Ardian Jobs & Internships 40,854 followers 20h Edited Report this post",
+          "description": "",
+          "graduationDate": null,
+          "applyUrl": "https://fr.linkedin.com/showcase/jobs-&-internships/?trk=organization_guest_main-feed-card_feed-actor-image",
+          "firstSeen": "2026-05-01",
+          "source": "scraper"
+        },
+        {
+          "title": "Ardian Jobs & Internships 40,854 followers 20h Edited",
+          "description": "",
+          "graduationDate": null,
+          "applyUrl": "https://fr.linkedin.com/showcase/jobs-&-internships/?trk=organization_guest_main-feed-card_feed-actor-image",
+          "firstSeen": "2026-05-01",
+          "source": "scraper"
+        },
+        {
+          "title": "Exploring emerging industries and developing new investment strategies is part of the journey at Ardian , as experienced",
+          "description": "by Alexis Fallait , Investment Manager in the #ArdianSemiconductor team, featured in our 𝗙𝗹𝗮𝘀𝗵 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 𝘀𝗲𝗿𝗶𝗲𝘀. After joining as an intern in 2022, Alexis supported the launch of our semiconductor activity. In his role, he combines a deep understanding of complex technologies with an investor mindset, focusing on identifying attractive opportunities across the value chain and supporting long-term value creation, placing him at the intersection of finance, innovation and long-term value creatio",
+          "graduationDate": null,
+          "applyUrl": "https://fr.linkedin.com/company/ardian?trk=organization_guest_main-feed-card-text",
+          "firstSeen": "2026-05-01",
+          "source": "scraper"
+        },
+        {
           "title": "Discover how Lucile integrates Sustainability across investments at Ardian.",
-          "description": "Ardian Jobs & Internships 40,802 followers 6d Edited Report this post At Ardian , nurturing the next generation of talent also means empowering those shaping the future of sustainable investing, including Lucile Degrave , Senior Associate in the Sustainability team, featured in our 𝗙𝗹𝗮𝘀𝗵 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 𝘀𝗲𝗿𝗶𝗲𝘀. After an internship in 2019, Lucile joined Ardian full-time in 2022 and has since contributed to integrating sustainability considerations across the investment lifecycle, from deal selection",
+          "description": "Ardian Jobs & Internships 40,854 followers 1w Edited Report this post At Ardian , nurturing the next generation of talent also means empowering those shaping the future of sustainable investing, including Lucile Degrave , Senior Associate in the Sustainability team, featured in our 𝗙𝗹𝗮𝘀𝗵 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 𝘀𝗲𝗿𝗶𝗲𝘀. After an internship in 2019, Lucile joined Ardian full-time in 2022 and has since contributed to integrating sustainability considerations across the investment lifecycle, from deal selection",
           "graduationDate": null,
           "applyUrl": "https://www.linkedin.com/posts/jobs-%26-internships_discover-how-lucile-integrates-sustainability-activity-7453072975270014977-gGFg",
           "firstSeen": "2026-04-24",
           "source": "scraper"
         },
         {
-          "title": "Ardian Jobs & Internships 40,802 followers 6d Edited Report this post",
+          "title": "Ardian Jobs & Internships 40,854 followers 1w Edited Report this post",
           "description": "",
           "graduationDate": null,
           "applyUrl": "https://fr.linkedin.com/showcase/jobs-&-internships/?trk=organization_guest_main-feed-card_feed-actor-image",
-          "firstSeen": "2026-04-30",
+          "firstSeen": "2026-05-01",
           "source": "scraper"
         },
         {
-          "title": "Ardian Jobs & Internships 40,802 followers 6d Edited",
+          "title": "Ardian Jobs & Internships 40,854 followers 1w Edited",
           "description": "",
           "graduationDate": null,
           "applyUrl": "https://fr.linkedin.com/showcase/jobs-&-internships/?trk=organization_guest_main-feed-card_feed-actor-image",
-          "firstSeen": "2026-04-30",
+          "firstSeen": "2026-05-01",
           "source": "scraper"
         },
         {
@@ -1626,51 +1505,51 @@
           "source": "scraper"
         },
         {
-          "title": "Ardian Jobs & Internships reposted this Lisa Marrache Ardian • 3K followers 2w Edited Report this post Ce matin, j’ai eu",
-          "description": "la chance de rencontrer Marianne Mahéo , Romaric Senturo et Manuella Tchanguin , anciens participants du programme Voxpopuli chez Ardian . Vox Populi , c’est une initiative que nous avons lancée il y a 6 ans : une semaine d’immersion pour des étudiants aux parcours d’excellence, issus de milieux modestes, afin de découvrir nos métiers et mieux comprendre les codes du secteur. Un point avec lequel je repars de cette table ronde : l’importance de savoir demander de l’aide. Un rappel simple, mais",
+          "title": "Ardian Jobs & Internships reposted this Lisa Marrache 2w Edited Report this post Ce matin, j’ai eu la chance de rencontr",
+          "description": "er Marianne Mahéo , Romaric Senturo et Manuella Tchanguin , anciens participants du programme Voxpopuli chez Ardian . Vox Populi , c’est une initiative que nous avons lancée il y a 6 ans : une semaine d’immersion pour des étudiants aux parcours d’excellence, issus de milieux modestes, afin de découvrir nos métiers et mieux comprendre les codes du secteur. Un point avec lequel je repars de cette table ronde : l’importance de savoir demander de l’aide. Un rappel simple, mais essentiel : progresse",
           "graduationDate": null,
           "applyUrl": "https://www.linkedin.com/posts/activity-7450213964908707843-gtnL",
           "firstSeen": "2026-04-30",
           "source": "scraper"
         },
         {
-          "title": "Ardian Jobs & Internships 40,802 followers 1w Report this post Opening doors to future talent starts with creating acces",
+          "title": "Ardian Jobs & Internships 40,854 followers 2w Report this post Opening doors to future talent starts with creating acces",
           "description": "s. 🤝 Last week, our Ardian office in London hosted the 2026 𝑰𝒏𝒗𝒆𝒔𝒕𝒊𝒏𝒈 𝑷𝒐𝒕𝒆𝒏𝒕𝒊𝒂𝒍 𝑷𝒓𝒐𝒈𝒓𝒂𝒎𝒎𝒆 organized by the Classroom to Boardroom Foundation , marking the sixth consecutive year of this collaboration. Designed to foster diversity and inclusion in finance, the programme offers students from underrepresented backgrounds a unique opportunity to explore careers in Private Equity and gain first-hand exposure to the industry. Over three days, participants engaged with our teams through interactive",
           "graduationDate": null,
           "applyUrl": "https://www.linkedin.com/posts/jobs-%26-internships_ardian-privateequity-earlycareers-activity-7450536479753269248-1908",
-          "firstSeen": "2026-04-30",
+          "firstSeen": "2026-05-01",
           "source": "scraper"
         },
         {
-          "title": "Ardian Jobs & Internships 40,802 followers 1w Report this post",
+          "title": "Ardian Jobs & Internships 40,854 followers 2w Report this post",
           "description": "",
           "graduationDate": null,
           "applyUrl": "https://fr.linkedin.com/showcase/jobs-&-internships/?trk=organization_guest_main-feed-card_feed-actor-image",
-          "firstSeen": "2026-04-30",
+          "firstSeen": "2026-05-01",
           "source": "scraper"
         },
         {
-          "title": "Ardian Jobs & Internships 40,802 followers 1w",
+          "title": "Ardian Jobs & Internships 40,854 followers 2w",
           "description": "",
           "graduationDate": null,
           "applyUrl": "https://fr.linkedin.com/showcase/jobs-&-internships/?trk=organization_guest_main-feed-card_feed-actor-image",
-          "firstSeen": "2026-04-30",
+          "firstSeen": "2026-05-01",
           "source": "scraper"
         },
         {
-          "title": "Ardian Jobs & Internships reposted this HEC Women in Business Club 2,087 followers 2w Edited Report this post Last week,",
+          "title": "Ardian Jobs & Internships reposted this HEC Women in Business Club 2,088 followers 2w Edited Report this post Last week,",
           "description": "HEC Women in Business had the privilege of hosting an evening at Ardian’s offices at Place Vendôme. We were delighted to meet with Lisa Marrache , Carole Barnay and Marion HASCOET , who shared their career journeys and offered valuable insights into the different paths within private equity, from investment to investor relations and inclusion & diversity. Beyond understanding the technicalities of the industry, what stood out was the diversity of perspectives and the openness with which they",
           "graduationDate": null,
           "applyUrl": "https://www.linkedin.com/posts/activity-7450196248906579968-dyD-",
-          "firstSeen": "2026-04-30",
+          "firstSeen": "2026-05-01",
           "source": "scraper"
         },
         {
-          "title": "Ardian Jobs & Internships reposted this Career Center IÉSEG 10,748 followers 2w Report this post Il y a quelques jours,",
+          "title": "Ardian Jobs & Internships reposted this Career Center IÉSEG 10,752 followers 2w Report this post Il y a quelques jours,",
           "description": "les étudiants des Masters Finance ont eu l’opportunité d’être reçus dans les bureaux parisiens d’ Ardian pour une session d’échanges enrichissante. Au programme : présentation des activités, spécificités et perspectives d’ Ardian en Europe et à l’international, avec un focus sur les métiers des relations investisseurs et du fund finance. Un grand merci à Corentin Désarménien , Laure Fabayre , Karine Lesport , Pauline Massiot , Hippolyte Nappey pour leur accueil chaleureux et le partage de le",
           "graduationDate": null,
           "applyUrl": "https://fr.linkedin.com/showcase/jobs-&-internships/?trk=organization_guest_main-feed-card_feed-reaction-header",
-          "firstSeen": "2026-04-30",
+          "firstSeen": "2026-05-01",
           "source": "scraper"
         },
         {
@@ -1682,67 +1561,35 @@
           "source": "scraper"
         },
         {
-          "title": "Ardian Jobs & Internships 40,802 followers 2w Report this post Start your day with a taste of Private Markets. ☕🥐\nOn May",
+          "title": "Ardian Jobs & Internships 40,854 followers 2w Report this post Start your day with a taste of Private Markets. ☕🥐\nOn May",
           "description": "13, Ardian is hosting a female student breakfast networking event at our Frankfurt office, from 10:00am to 12:00pm. This is a unique opportunity to: Discover what a career in Private Markets looks like Connect directly with Ardian’s investment professionals Ask questions and exchange ideas in an informal atmosphere 👩🎓 Female students are encouraged to apply by submitting their CV. 🚄 Travel costs within Germany will be covered by Ardian. Join us and take your first step into Private Markets!",
           "graduationDate": null,
           "applyUrl": "https://www.linkedin.com/posts/jobs-%26-internships_ardianwomen-privateequity-womeninfinance-activity-7449481010783608833-FfJk",
-          "firstSeen": "2026-04-30",
-          "source": "scraper"
-        },
-        {
-          "title": "Ardian Jobs & Internships 40,802 followers 2w Report this post",
-          "description": "",
-          "graduationDate": null,
-          "applyUrl": "https://fr.linkedin.com/showcase/jobs-&-internships/?trk=organization_guest_main-feed-card_feed-actor-image",
-          "firstSeen": "2026-04-30",
-          "source": "scraper"
-        },
-        {
-          "title": "Ardian Jobs & Internships 40,802 followers 2w",
-          "description": "",
-          "graduationDate": null,
-          "applyUrl": "https://fr.linkedin.com/showcase/jobs-&-internships/?trk=organization_guest_main-feed-card_feed-actor-image",
-          "firstSeen": "2026-04-30",
+          "firstSeen": "2026-05-01",
           "source": "scraper"
         },
         {
           "title": "Meet the Architects of Ardian | Douglas Miller, Managing Director",
-          "description": "Ardian Jobs & Internships 40,802 followers 3w Edited Report this post Based in San Francisco, Doug Miller , Managing Director in the Investor Relations team at Ardian , has played a key role in supporting the company's continued development across the West Coast institutional landscape. In an environment defined by accelerating change, he underscores the importance of agility, technological progress, and a deeply client-centric approach in sustaining long-term partnerships. Watch the full vide",
+          "description": "Ardian Jobs & Internships 40,854 followers 3w Edited Report this post Based in San Francisco, Doug Miller , Managing Director in the Investor Relations team at Ardian , has played a key role in supporting the company's continued development across the West Coast institutional landscape. In an environment defined by accelerating change, he underscores the importance of agility, technological progress, and a deeply client-centric approach in sustaining long-term partnerships. Watch the full vide",
           "graduationDate": null,
           "applyUrl": "https://www.linkedin.com/posts/jobs-%26-internships_meet-the-architects-of-ardian-douglas-miller-activity-7447648045414006784-f9sI",
           "firstSeen": "2026-04-18",
           "source": "scraper"
         },
         {
-          "title": "Ardian Jobs & Internships 40,802 followers 3w Edited Report this post",
+          "title": "Ardian Jobs & Internships 40,854 followers 3w Edited Report this post",
           "description": "",
           "graduationDate": null,
           "applyUrl": "https://fr.linkedin.com/showcase/jobs-&-internships/?trk=organization_guest_main-feed-card_feed-actor-image",
-          "firstSeen": "2026-04-30",
+          "firstSeen": "2026-05-01",
           "source": "scraper"
         },
         {
-          "title": "Ardian Jobs & Internships 40,802 followers 3w Edited",
+          "title": "Ardian Jobs & Internships 40,854 followers 3w Edited",
           "description": "",
           "graduationDate": null,
           "applyUrl": "https://fr.linkedin.com/showcase/jobs-&-internships/?trk=organization_guest_main-feed-card_feed-actor-image",
-          "firstSeen": "2026-04-30",
-          "source": "scraper"
-        },
-        {
-          "title": "Ardian Jobs & Internships reposted this Transaction emlyon 3,448 followers 3w Report this post Visite d'entreprise | Ard",
-          "description": "ian – Paris Le 2 avril, Transaction emlyon a eu l'opportunité de se rendre au 20 place Vendôme pour une visite d'entreprise chez Ardian . Cette rencontre a permis aux étudiants de découvrir plus en détail le positionnement d'Ardian, acteur majeur de l'investissement sur les marchés privés. La matinée s'est articulée autour de plusieurs présentations animées par des alumni de l' emlyon business school : - Jérôme Jouyet , Head of Product Specialists & Client Services & Managing Director, et Ben",
-          "graduationDate": null,
-          "applyUrl": "https://fr.linkedin.com/showcase/jobs-&-internships/?trk=organization_guest_main-feed-card_feed-reaction-header",
-          "firstSeen": "2026-04-30",
-          "source": "scraper"
-        },
-        {
-          "title": "Ardian Jobs & Internships reposted this Finance Club University of Zurich 3,870 followers 1mo Report this post Last week",
-          "description": ", we had the pleasure of welcoming our strategic partner, Ardian , to our #BBL . The speakers kicked off the event by introducing the firm and its story. The team then did a deep dive into private market secondaries, explaining what secondary investments are, the different types of secondary transactions and the overall evolution of the secondary market. Afterwards, they discussed the firm's investor relations and customized solutions activities and touched on latest fundraising trends in the m",
-          "graduationDate": null,
-          "applyUrl": "https://fr.linkedin.com/showcase/jobs-&-internships/?trk=organization_guest_main-feed-card_feed-reaction-header",
-          "firstSeen": "2026-04-30",
+          "firstSeen": "2026-05-01",
           "source": "scraper"
         },
         {
@@ -1795,7 +1642,7 @@
         },
         {
           "title": "Real Estate Intern- June 2026I Milan",
-          "description": "Milan | Posted: Posted 7 Days Ago",
+          "description": "Milan | Posted: Posted 8 Days Ago",
           "graduationDate": null,
           "applyUrl": "https://ardian.wd103.myworkdayjobs.com/job/Milan/Real-Estate-Intern--June-2026I-Milan_JR1001953",
           "firstSeen": "2026-04-24",
@@ -1835,7 +1682,7 @@
         },
         {
           "title": "Fund Finance Intern - Start Date ASAP | London",
-          "description": "London | Posted: Posted 8 Days Ago",
+          "description": "London | Posted: Posted 9 Days Ago",
           "graduationDate": null,
           "applyUrl": "https://ardian.wd103.myworkdayjobs.com/job/London/Fund-Finance-Intern---Start-Date-ASAP---London_JR1001952",
           "firstSeen": "2026-04-22",
@@ -1879,14 +1726,14 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:18:16.575656+00:00",
+      "lastChecked": "2026-05-01T10:07:33.379840+00:00",
       "jobs": []
     },
     "Ardian France": {
       "hasInternPosting": true,
       "careerUrl": "https://www.ardian.com/join-us",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:18:33.329449+00:00",
+      "lastChecked": "2026-05-01T10:07:50.466023+00:00",
       "jobs": [
         {
           "title": "Follow Ardian Jobs & Internships",
@@ -1897,51 +1744,35 @@
           "source": "scraper"
         },
         {
-          "title": "Infrastructure Intern – September 2026 I NYC",
-          "description": "Infrastructure Infrastructure Intern – September 2026 I NYC",
+          "title": "Secondaries & Primaries Intern - January 2027 / Frankfurt (M/F)",
+          "description": "Secondaries & Primaries Secondaries & Primaries Intern - January 2027 / Frankfurt (M/F)",
           "graduationDate": null,
-          "applyUrl": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/New-York/Infrastructure-Intern---September-2026-I-NYC_JR1001798",
-          "firstSeen": "2026-04-30",
+          "applyUrl": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Frankfurt/Secondaries---Primaries-Intern---January-2027---Frankfurt--M-F-_JR1001728",
+          "firstSeen": "2026-05-01",
           "source": "scraper"
         },
         {
-          "title": "Fund Finance Secondaries & Primaries Intern -  September 2026 - Frankfurt (M/F)",
-          "description": "Fund Finance Fund Finance Secondaries & Primaries Intern - September 2026 - Frankfurt (M/F)",
+          "title": "Investor Solutions Intern - September 2026 - Frankfurt  (M/F)",
+          "description": "Investor Relations Investor Solutions Intern - September 2026 - Frankfurt (M/F)",
           "graduationDate": null,
-          "applyUrl": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Frankfurt/Fund-Finance-Secondaries---Primaries-Intern----September-2026---Frankfurt--M-F-_JR1001846",
-          "firstSeen": "2026-04-30",
+          "applyUrl": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Frankfurt/Investor-Solutions-Intern---Internship-September-2026--Frankfurt_JR1001773",
+          "firstSeen": "2026-05-01",
           "source": "scraper"
         },
         {
-          "title": "Internal & CSR Communication Apprentice - Septembre 2026 - Paris (H/F)",
-          "description": "Brand & Communication Internal & CSR Communication Apprentice - Septembre 2026 - Paris (H/F)",
+          "title": "Investor Relations Intern - March 2026  I Tokyo (M/F)",
+          "description": "Investor Relations Investor Relations Intern - March 2026 I Tokyo (M/F)",
           "graduationDate": null,
-          "applyUrl": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Paris/Internal---CSR-Communication-Apprentice_JR1001828",
-          "firstSeen": "2026-04-30",
+          "applyUrl": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Tokyo/Investor-Relations-Intern---October-2025--I-Tokyo--M-F-_JR1001528",
+          "firstSeen": "2026-05-01",
           "source": "scraper"
         },
         {
-          "title": "Infrastructure Intern - June 2026I Milan (M/F)-1",
-          "description": "Infrastructure Infrastructure Intern - June 2026I Milan (M/F)-1",
+          "title": "Expansion Intern - January 2027 - Frankfurt (M/F)",
+          "description": "Expansion Expansion Intern - January 2027 - Frankfurt (M/F)",
           "graduationDate": null,
-          "applyUrl": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Milan/Infrastructure-Intern---June-2026I-Milan--M-F--1_JR1001938",
-          "firstSeen": "2026-04-30",
-          "source": "scraper"
-        },
-        {
-          "title": "Secondaries & Primaries Intern – January 2027 I New York",
-          "description": "Secondaries & Primaries Secondaries & Primaries Intern – January 2027 I New York",
-          "graduationDate": null,
-          "applyUrl": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/New-York/Secondaries---Primaries-Intern---January-2027-I-New-York_JR1001759",
-          "firstSeen": "2026-04-30",
-          "source": "scraper"
-        },
-        {
-          "title": "Expansion Intern - April 2027 - Frankfurt (M/F)",
-          "description": "Expansion Expansion Intern - April 2027 - Frankfurt (M/F)",
-          "graduationDate": null,
-          "applyUrl": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Frankfurt/Expansion-Intern---Q2-2027---Frankfurt---M-F-_JR1001814",
-          "firstSeen": "2026-04-30",
+          "applyUrl": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Frankfurt/Expansion-Intern---Q1-2027---Frankfurt---M-F-_JR1001812",
+          "firstSeen": "2026-05-01",
           "source": "scraper"
         },
         {
@@ -1969,104 +1800,72 @@
           "source": "scraper"
         },
         {
-          "title": "Infrastructure Infrastructure Intern – September 2026 I NYC New York View",
+          "title": "Secondaries & Primaries Secondaries & Primaries Intern - January 2027 / Frankfurt (M/F) Frankfurt View",
           "description": "",
           "graduationDate": null,
-          "applyUrl": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/New-York/Infrastructure-Intern---September-2026-I-NYC_JR1001798",
-          "firstSeen": "2026-04-30",
+          "applyUrl": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Frankfurt/Secondaries---Primaries-Intern---January-2027---Frankfurt--M-F-_JR1001728",
+          "firstSeen": "2026-05-01",
           "source": "scraper"
         },
         {
-          "title": "Infrastructure Infrastructure Intern – September 2026 I NYC",
+          "title": "Secondaries & Primaries Secondaries & Primaries Intern - January 2027 / Frankfurt (M/F)",
           "description": "",
           "graduationDate": null,
-          "applyUrl": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/New-York/Infrastructure-Intern---September-2026-I-NYC_JR1001798",
-          "firstSeen": "2026-04-30",
+          "applyUrl": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Frankfurt/Secondaries---Primaries-Intern---January-2027---Frankfurt--M-F-_JR1001728",
+          "firstSeen": "2026-05-01",
           "source": "scraper"
         },
         {
-          "title": "Fund Finance Fund Finance Secondaries & Primaries Intern -  September 2026 - Frankfurt (M/F) Frankfurt View",
+          "title": "Investor Relations Investor Solutions Intern - September 2026 - Frankfurt  (M/F) Frankfurt View",
           "description": "",
           "graduationDate": null,
-          "applyUrl": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Frankfurt/Fund-Finance-Secondaries---Primaries-Intern----September-2026---Frankfurt--M-F-_JR1001846",
-          "firstSeen": "2026-04-30",
+          "applyUrl": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Frankfurt/Investor-Solutions-Intern---Internship-September-2026--Frankfurt_JR1001773",
+          "firstSeen": "2026-05-01",
           "source": "scraper"
         },
         {
-          "title": "Fund Finance Fund Finance Secondaries & Primaries Intern -  September 2026 - Frankfurt (M/F)",
+          "title": "Investor Relations Investor Solutions Intern - September 2026 - Frankfurt  (M/F)",
           "description": "",
           "graduationDate": null,
-          "applyUrl": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Frankfurt/Fund-Finance-Secondaries---Primaries-Intern----September-2026---Frankfurt--M-F-_JR1001846",
-          "firstSeen": "2026-04-30",
+          "applyUrl": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Frankfurt/Investor-Solutions-Intern---Internship-September-2026--Frankfurt_JR1001773",
+          "firstSeen": "2026-05-01",
           "source": "scraper"
         },
         {
-          "title": "Brand & Communication Internal & CSR Communication Apprentice - Septembre 2026 - Paris (H/F) Paris View",
+          "title": "Investor Relations Investor Relations Intern - March 2026  I Tokyo (M/F) Tokyo View",
           "description": "",
           "graduationDate": null,
-          "applyUrl": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Paris/Internal---CSR-Communication-Apprentice_JR1001828",
-          "firstSeen": "2026-04-30",
+          "applyUrl": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Tokyo/Investor-Relations-Intern---October-2025--I-Tokyo--M-F-_JR1001528",
+          "firstSeen": "2026-05-01",
           "source": "scraper"
         },
         {
-          "title": "Brand & Communication Internal & CSR Communication Apprentice - Septembre 2026 - Paris (H/F)",
+          "title": "Investor Relations Investor Relations Intern - March 2026  I Tokyo (M/F)",
           "description": "",
           "graduationDate": null,
-          "applyUrl": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Paris/Internal---CSR-Communication-Apprentice_JR1001828",
-          "firstSeen": "2026-04-30",
+          "applyUrl": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Tokyo/Investor-Relations-Intern---October-2025--I-Tokyo--M-F-_JR1001528",
+          "firstSeen": "2026-05-01",
           "source": "scraper"
         },
         {
-          "title": "Infrastructure Infrastructure Intern - June 2026I Milan (M/F)-1 Milan View",
+          "title": "Expansion Expansion Intern - January 2027 - Frankfurt (M/F) Frankfurt View",
           "description": "",
           "graduationDate": null,
-          "applyUrl": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Milan/Infrastructure-Intern---June-2026I-Milan--M-F--1_JR1001938",
-          "firstSeen": "2026-04-30",
+          "applyUrl": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Frankfurt/Expansion-Intern---Q1-2027---Frankfurt---M-F-_JR1001812",
+          "firstSeen": "2026-05-01",
           "source": "scraper"
         },
         {
-          "title": "Infrastructure Infrastructure Intern - June 2026I Milan (M/F)-1",
+          "title": "Expansion Expansion Intern - January 2027 - Frankfurt (M/F)",
           "description": "",
           "graduationDate": null,
-          "applyUrl": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Milan/Infrastructure-Intern---June-2026I-Milan--M-F--1_JR1001938",
-          "firstSeen": "2026-04-30",
-          "source": "scraper"
-        },
-        {
-          "title": "Secondaries & Primaries Secondaries & Primaries Intern – January 2027 I New York New York View",
-          "description": "",
-          "graduationDate": null,
-          "applyUrl": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/New-York/Secondaries---Primaries-Intern---January-2027-I-New-York_JR1001759",
-          "firstSeen": "2026-04-30",
-          "source": "scraper"
-        },
-        {
-          "title": "Secondaries & Primaries Secondaries & Primaries Intern – January 2027 I New York",
-          "description": "",
-          "graduationDate": null,
-          "applyUrl": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/New-York/Secondaries---Primaries-Intern---January-2027-I-New-York_JR1001759",
-          "firstSeen": "2026-04-30",
-          "source": "scraper"
-        },
-        {
-          "title": "Expansion Expansion Intern - April 2027 - Frankfurt (M/F) Frankfurt View",
-          "description": "",
-          "graduationDate": null,
-          "applyUrl": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Frankfurt/Expansion-Intern---Q2-2027---Frankfurt---M-F-_JR1001814",
-          "firstSeen": "2026-04-30",
-          "source": "scraper"
-        },
-        {
-          "title": "Expansion Expansion Intern - April 2027 - Frankfurt (M/F)",
-          "description": "",
-          "graduationDate": null,
-          "applyUrl": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Frankfurt/Expansion-Intern---Q2-2027---Frankfurt---M-F-_JR1001814",
-          "firstSeen": "2026-04-30",
+          "applyUrl": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Frankfurt/Expansion-Intern---Q1-2027---Frankfurt---M-F-_JR1001812",
+          "firstSeen": "2026-05-01",
           "source": "scraper"
         },
         {
           "title": "Ardian Jobs & Internships",
-          "description": "Ardian Jobs & Internships 40,802 followers 6d Edited",
+          "description": "Ardian Jobs & Internships 40,854 followers 20h",
           "graduationDate": null,
           "applyUrl": "https://fr.linkedin.com/showcase/jobs-&-internships/?trk=organization_guest_main-feed-card_feed-actor-name",
           "firstSeen": "2026-04-24",
@@ -2097,27 +1896,83 @@
           "source": "scraper"
         },
         {
+          "title": "Ardian Jobs & Internships 40,854 followers 20h Report this post Ardian France recrute un stagiaire en Group Finance Trea",
+          "description": "sury. Cette opportunité vous intéresse ? C’est le moment idéal pour commencer à vous préparer en vue d’un éventuel entretien ! https://lnkd.in/eyXtCzY5 Group Finance Treasury Stage - Septembre 2026 I Paris (H/F) ardian.wd103.myworkdayjobs.com 32 2 Comments Like Comment Share",
+          "graduationDate": null,
+          "applyUrl": "https://fr.linkedin.com/posts/jobs-%26-internships_group-finance-treasury-stage-septembre-activity-7455612647154016256-tMhR",
+          "firstSeen": "2026-05-01",
+          "source": "scraper"
+        },
+        {
+          "title": "Ardian Jobs & Internships 40,854 followers 20h Report this post",
+          "description": "",
+          "graduationDate": null,
+          "applyUrl": "https://fr.linkedin.com/showcase/jobs-&-internships/?trk=organization_guest_main-feed-card_feed-actor-image",
+          "firstSeen": "2026-05-01",
+          "source": "scraper"
+        },
+        {
+          "title": "Ardian Jobs & Internships 40,854 followers 20h",
+          "description": "",
+          "graduationDate": null,
+          "applyUrl": "https://fr.linkedin.com/showcase/jobs-&-internships/?trk=organization_guest_main-feed-card_feed-actor-image",
+          "firstSeen": "2026-05-01",
+          "source": "scraper"
+        },
+        {
+          "title": "Inside Alexis’ role: sourcing and investing in semiconductors.",
+          "description": "Ardian Jobs & Internships 40,854 followers 20h Edited Report this post Exploring emerging industries and developing new investment strategies is part of the journey at Ardian , as experienced by Alexis Fallait , Investment Manager in the #ArdianSemiconductor team, featured in our 𝗙𝗹𝗮𝘀𝗵 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 𝘀𝗲𝗿𝗶𝗲𝘀. After joining as an intern in 2022, Alexis supported the launch of our semiconductor activity. In his role, he combines a deep understanding of complex technologies with an investor mindset, foc",
+          "graduationDate": null,
+          "applyUrl": "https://www.linkedin.com/posts/jobs-%26-internships_inside-alexis-role-sourcing-and-investing-activity-7455611837217312769-xgnA",
+          "firstSeen": "2026-05-01",
+          "source": "scraper"
+        },
+        {
+          "title": "Ardian Jobs & Internships 40,854 followers 20h Edited Report this post",
+          "description": "",
+          "graduationDate": null,
+          "applyUrl": "https://fr.linkedin.com/showcase/jobs-&-internships/?trk=organization_guest_main-feed-card_feed-actor-image",
+          "firstSeen": "2026-05-01",
+          "source": "scraper"
+        },
+        {
+          "title": "Ardian Jobs & Internships 40,854 followers 20h Edited",
+          "description": "",
+          "graduationDate": null,
+          "applyUrl": "https://fr.linkedin.com/showcase/jobs-&-internships/?trk=organization_guest_main-feed-card_feed-actor-image",
+          "firstSeen": "2026-05-01",
+          "source": "scraper"
+        },
+        {
+          "title": "Exploring emerging industries and developing new investment strategies is part of the journey at Ardian , as experienced",
+          "description": "by Alexis Fallait , Investment Manager in the #ArdianSemiconductor team, featured in our 𝗙𝗹𝗮𝘀𝗵 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 𝘀𝗲𝗿𝗶𝗲𝘀. After joining as an intern in 2022, Alexis supported the launch of our semiconductor activity. In his role, he combines a deep understanding of complex technologies with an investor mindset, focusing on identifying attractive opportunities across the value chain and supporting long-term value creation, placing him at the intersection of finance, innovation and long-term value creatio",
+          "graduationDate": null,
+          "applyUrl": "https://fr.linkedin.com/company/ardian?trk=organization_guest_main-feed-card-text",
+          "firstSeen": "2026-05-01",
+          "source": "scraper"
+        },
+        {
           "title": "Discover how Lucile integrates Sustainability across investments at Ardian.",
-          "description": "Ardian Jobs & Internships 40,802 followers 6d Edited Report this post At Ardian , nurturing the next generation of talent also means empowering those shaping the future of sustainable investing, including Lucile Degrave , Senior Associate in the Sustainability team, featured in our 𝗙𝗹𝗮𝘀𝗵 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 𝘀𝗲𝗿𝗶𝗲𝘀. After an internship in 2019, Lucile joined Ardian full-time in 2022 and has since contributed to integrating sustainability considerations across the investment lifecycle, from deal selection",
+          "description": "Ardian Jobs & Internships 40,854 followers 1w Edited Report this post At Ardian , nurturing the next generation of talent also means empowering those shaping the future of sustainable investing, including Lucile Degrave , Senior Associate in the Sustainability team, featured in our 𝗙𝗹𝗮𝘀𝗵 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 𝘀𝗲𝗿𝗶𝗲𝘀. After an internship in 2019, Lucile joined Ardian full-time in 2022 and has since contributed to integrating sustainability considerations across the investment lifecycle, from deal selection",
           "graduationDate": null,
           "applyUrl": "https://www.linkedin.com/posts/jobs-%26-internships_discover-how-lucile-integrates-sustainability-activity-7453072975270014977-gGFg",
           "firstSeen": "2026-04-24",
           "source": "scraper"
         },
         {
-          "title": "Ardian Jobs & Internships 40,802 followers 6d Edited Report this post",
+          "title": "Ardian Jobs & Internships 40,854 followers 1w Edited Report this post",
           "description": "",
           "graduationDate": null,
           "applyUrl": "https://fr.linkedin.com/showcase/jobs-&-internships/?trk=organization_guest_main-feed-card_feed-actor-image",
-          "firstSeen": "2026-04-30",
+          "firstSeen": "2026-05-01",
           "source": "scraper"
         },
         {
-          "title": "Ardian Jobs & Internships 40,802 followers 6d Edited",
+          "title": "Ardian Jobs & Internships 40,854 followers 1w Edited",
           "description": "",
           "graduationDate": null,
           "applyUrl": "https://fr.linkedin.com/showcase/jobs-&-internships/?trk=organization_guest_main-feed-card_feed-actor-image",
-          "firstSeen": "2026-04-30",
+          "firstSeen": "2026-05-01",
           "source": "scraper"
         },
         {
@@ -2153,43 +2008,43 @@
           "source": "scraper"
         },
         {
-          "title": "Ardian Jobs & Internships 40,802 followers 1w Report this post Opening doors to future talent starts with creating acces",
+          "title": "Ardian Jobs & Internships 40,854 followers 2w Report this post Opening doors to future talent starts with creating acces",
           "description": "s. 🤝 Last week, our Ardian office in London hosted the 2026 𝑰𝒏𝒗𝒆𝒔𝒕𝒊𝒏𝒈 𝑷𝒐𝒕𝒆𝒏𝒕𝒊𝒂𝒍 𝑷𝒓𝒐𝒈𝒓𝒂𝒎𝒎𝒆 organized by the Classroom to Boardroom Foundation , marking the sixth consecutive year of this collaboration. Designed to foster diversity and inclusion in finance, the programme offers students from underrepresented backgrounds a unique opportunity to explore careers in Private Equity and gain first-hand exposure to the industry. Over three days, participants engaged with our teams through interactive",
           "graduationDate": null,
           "applyUrl": "https://www.linkedin.com/posts/jobs-%26-internships_ardian-privateequity-earlycareers-activity-7450536479753269248-1908",
-          "firstSeen": "2026-04-30",
+          "firstSeen": "2026-05-01",
           "source": "scraper"
         },
         {
-          "title": "Ardian Jobs & Internships 40,802 followers 1w Report this post",
+          "title": "Ardian Jobs & Internships 40,854 followers 2w Report this post",
           "description": "",
           "graduationDate": null,
           "applyUrl": "https://fr.linkedin.com/showcase/jobs-&-internships/?trk=organization_guest_main-feed-card_feed-actor-image",
-          "firstSeen": "2026-04-30",
+          "firstSeen": "2026-05-01",
           "source": "scraper"
         },
         {
-          "title": "Ardian Jobs & Internships 40,802 followers 1w",
+          "title": "Ardian Jobs & Internships 40,854 followers 2w",
           "description": "",
           "graduationDate": null,
           "applyUrl": "https://fr.linkedin.com/showcase/jobs-&-internships/?trk=organization_guest_main-feed-card_feed-actor-image",
-          "firstSeen": "2026-04-30",
+          "firstSeen": "2026-05-01",
           "source": "scraper"
         },
         {
-          "title": "Ardian Jobs & Internships reposted this HEC Women in Business Club 2,087 followers 2w Edited Report this post Last week,",
+          "title": "Ardian Jobs & Internships reposted this HEC Women in Business Club 2,088 followers 2w Edited Report this post Last week,",
           "description": "HEC Women in Business had the privilege of hosting an evening at Ardian’s offices at Place Vendôme. We were delighted to meet with Lisa Marrache , Carole Barnay and Marion HASCOET , who shared their career journeys and offered valuable insights into the different paths within private equity, from investment to investor relations and inclusion & diversity. Beyond understanding the technicalities of the industry, what stood out was the diversity of perspectives and the openness with which they",
           "graduationDate": null,
           "applyUrl": "https://www.linkedin.com/posts/activity-7450196248906579968-dyD-",
-          "firstSeen": "2026-04-30",
+          "firstSeen": "2026-05-01",
           "source": "scraper"
         },
         {
-          "title": "Ardian Jobs & Internships reposted this Career Center IÉSEG 10,748 followers 2w Report this post Il y a quelques jours,",
+          "title": "Ardian Jobs & Internships reposted this Career Center IÉSEG 10,752 followers 2w Report this post Il y a quelques jours,",
           "description": "les étudiants des Masters Finance ont eu l’opportunité d’être reçus dans les bureaux parisiens d’ Ardian pour une session d’échanges enrichissante. Au programme : présentation des activités, spécificités et perspectives d’ Ardian en Europe et à l’international, avec un focus sur les métiers des relations investisseurs et du fund finance. Un grand merci à Corentin Désarménien , Laure Fabayre , Karine Lesport , Pauline Massiot , Hippolyte Nappey pour leur accueil chaleureux et le partage de le",
           "graduationDate": null,
           "applyUrl": "https://fr.linkedin.com/showcase/jobs-&-internships/?trk=organization_guest_main-feed-card_feed-reaction-header",
-          "firstSeen": "2026-04-30",
+          "firstSeen": "2026-05-01",
           "source": "scraper"
         },
         {
@@ -2201,67 +2056,35 @@
           "source": "scraper"
         },
         {
-          "title": "Ardian Jobs & Internships 40,802 followers 2w Report this post Start your day with a taste of Private Markets. ☕🥐\nOn May",
+          "title": "Ardian Jobs & Internships 40,854 followers 2w Report this post Start your day with a taste of Private Markets. ☕🥐\nOn May",
           "description": "13, Ardian is hosting a female student breakfast networking event at our Frankfurt office, from 10:00am to 12:00pm. This is a unique opportunity to: Discover what a career in Private Markets looks like Connect directly with Ardian’s investment professionals Ask questions and exchange ideas in an informal atmosphere 👩🎓 Female students are encouraged to apply by submitting their CV. 🚄 Travel costs within Germany will be covered by Ardian. Join us and take your first step into Private Markets!",
           "graduationDate": null,
           "applyUrl": "https://www.linkedin.com/posts/jobs-%26-internships_ardianwomen-privateequity-womeninfinance-activity-7449481010783608833-FfJk",
-          "firstSeen": "2026-04-30",
-          "source": "scraper"
-        },
-        {
-          "title": "Ardian Jobs & Internships 40,802 followers 2w Report this post",
-          "description": "",
-          "graduationDate": null,
-          "applyUrl": "https://fr.linkedin.com/showcase/jobs-&-internships/?trk=organization_guest_main-feed-card_feed-actor-image",
-          "firstSeen": "2026-04-30",
-          "source": "scraper"
-        },
-        {
-          "title": "Ardian Jobs & Internships 40,802 followers 2w",
-          "description": "",
-          "graduationDate": null,
-          "applyUrl": "https://fr.linkedin.com/showcase/jobs-&-internships/?trk=organization_guest_main-feed-card_feed-actor-image",
-          "firstSeen": "2026-04-30",
+          "firstSeen": "2026-05-01",
           "source": "scraper"
         },
         {
           "title": "Meet the Architects of Ardian | Douglas Miller, Managing Director",
-          "description": "Ardian Jobs & Internships 40,802 followers 3w Edited Report this post Based in San Francisco, Doug Miller , Managing Director in the Investor Relations team at Ardian , has played a key role in supporting the company's continued development across the West Coast institutional landscape. In an environment defined by accelerating change, he underscores the importance of agility, technological progress, and a deeply client-centric approach in sustaining long-term partnerships. Watch the full vide",
+          "description": "Ardian Jobs & Internships 40,854 followers 3w Edited Report this post Based in San Francisco, Doug Miller , Managing Director in the Investor Relations team at Ardian , has played a key role in supporting the company's continued development across the West Coast institutional landscape. In an environment defined by accelerating change, he underscores the importance of agility, technological progress, and a deeply client-centric approach in sustaining long-term partnerships. Watch the full vide",
           "graduationDate": null,
           "applyUrl": "https://www.linkedin.com/posts/jobs-%26-internships_meet-the-architects-of-ardian-douglas-miller-activity-7447648045414006784-f9sI",
           "firstSeen": "2026-04-18",
           "source": "scraper"
         },
         {
-          "title": "Ardian Jobs & Internships 40,802 followers 3w Edited Report this post",
+          "title": "Ardian Jobs & Internships 40,854 followers 3w Edited Report this post",
           "description": "",
           "graduationDate": null,
           "applyUrl": "https://fr.linkedin.com/showcase/jobs-&-internships/?trk=organization_guest_main-feed-card_feed-actor-image",
-          "firstSeen": "2026-04-30",
+          "firstSeen": "2026-05-01",
           "source": "scraper"
         },
         {
-          "title": "Ardian Jobs & Internships 40,802 followers 3w Edited",
+          "title": "Ardian Jobs & Internships 40,854 followers 3w Edited",
           "description": "",
           "graduationDate": null,
           "applyUrl": "https://fr.linkedin.com/showcase/jobs-&-internships/?trk=organization_guest_main-feed-card_feed-actor-image",
-          "firstSeen": "2026-04-30",
-          "source": "scraper"
-        },
-        {
-          "title": "Ardian Jobs & Internships reposted this Transaction emlyon 3,448 followers 3w Report this post Visite d'entreprise | Ard",
-          "description": "ian – Paris Le 2 avril, Transaction emlyon a eu l'opportunité de se rendre au 20 place Vendôme pour une visite d'entreprise chez Ardian . Cette rencontre a permis aux étudiants de découvrir plus en détail le positionnement d'Ardian, acteur majeur de l'investissement sur les marchés privés. La matinée s'est articulée autour de plusieurs présentations animées par des alumni de l' emlyon business school : - Jérôme Jouyet , Head of Product Specialists & Client Services & Managing Director, et Ben",
-          "graduationDate": null,
-          "applyUrl": "https://fr.linkedin.com/showcase/jobs-&-internships/?trk=organization_guest_main-feed-card_feed-reaction-header",
-          "firstSeen": "2026-04-30",
-          "source": "scraper"
-        },
-        {
-          "title": "Ardian Jobs & Internships reposted this Finance Club University of Zurich 3,870 followers 1mo Report this post Last week",
-          "description": ", we had the pleasure of welcoming our strategic partner, Ardian , to our #BBL . The speakers kicked off the event by introducing the firm and its story. The team then did a deep dive into private market secondaries, explaining what secondary investments are, the different types of secondary transactions and the overall evolution of the secondary market. Afterwards, they discussed the firm's investor relations and customized solutions activities and touched on latest fundraising trends in the m",
-          "graduationDate": null,
-          "applyUrl": "https://fr.linkedin.com/showcase/jobs-&-internships/?trk=organization_guest_main-feed-card_feed-reaction-header",
-          "firstSeen": "2026-04-30",
+          "firstSeen": "2026-05-01",
           "source": "scraper"
         },
         {
@@ -2314,7 +2137,7 @@
         },
         {
           "title": "Real Estate Intern- June 2026I Milan",
-          "description": "Milan | Posted: Posted 7 Days Ago",
+          "description": "Milan | Posted: Posted 8 Days Ago",
           "graduationDate": null,
           "applyUrl": "https://ardian.wd103.myworkdayjobs.com/job/Milan/Real-Estate-Intern--June-2026I-Milan_JR1001953",
           "firstSeen": "2026-04-24",
@@ -2354,7 +2177,7 @@
         },
         {
           "title": "Fund Finance Intern - Start Date ASAP | London",
-          "description": "London | Posted: Posted 8 Days Ago",
+          "description": "London | Posted: Posted 9 Days Ago",
           "graduationDate": null,
           "applyUrl": "https://ardian.wd103.myworkdayjobs.com/job/London/Fund-Finance-Intern---Start-Date-ASAP---London_JR1001952",
           "firstSeen": "2026-04-22",
@@ -2398,21 +2221,21 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:18:45.383985+00:00",
+      "lastChecked": "2026-05-01T10:08:00.707609+00:00",
       "jobs": []
     },
     "Apax Partners": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:18:57.289256+00:00",
+      "lastChecked": "2026-05-01T10:08:11.419308+00:00",
       "jobs": []
     },
     "HG": {
       "hasInternPosting": true,
       "careerUrl": "https://www.hgcapital.com/join-us",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:19:03.364989+00:00",
+      "lastChecked": "2026-05-01T10:09:02.339469+00:00",
       "jobs": [
         {
           "title": "Development We empower everyone across the business to take control of their own career and personal development and enc",
@@ -2460,21 +2283,21 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:19:14.340796+00:00",
+      "lastChecked": "2026-05-01T10:09:13.318432+00:00",
       "jobs": []
     },
     "Veritas Capital Fund Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:19:24.423305+00:00",
+      "lastChecked": "2026-05-01T10:09:22.977130+00:00",
       "jobs": []
     },
     "BC Partners": {
       "hasInternPosting": true,
       "careerUrl": "https://www.bcpartners.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:19:28.360741+00:00",
+      "lastChecked": "2026-05-01T10:09:26.928081+00:00",
       "jobs": [
         {
           "title": "Local networks, global insights",
@@ -2490,14 +2313,14 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:19:45.831803+00:00",
+      "lastChecked": "2026-05-01T10:09:44.703235+00:00",
       "jobs": []
     },
     "Brookfield Renewable Energy Group": {
       "hasInternPosting": true,
       "careerUrl": "https://www.brookfield.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:19:51.412850+00:00",
+      "lastChecked": "2026-05-01T10:09:50.181455+00:00",
       "jobs": [
         {
           "title": "Habitat for Humanity",
@@ -2689,7 +2512,7 @@
       "hasInternPosting": true,
       "careerUrl": "https://www.pathwaycapital.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:20:01.519144+00:00",
+      "lastChecked": "2026-05-01T10:09:57.909049+00:00",
       "jobs": [
         {
           "title": "Senior Investment Intern: Summer 2026 – Hybrid – Providence",
@@ -2745,7 +2568,7 @@
       "hasInternPosting": true,
       "careerUrl": "https://www.brookfield.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:20:06.989497+00:00",
+      "lastChecked": "2026-05-01T10:10:03.402464+00:00",
       "jobs": [
         {
           "title": "Habitat for Humanity",
@@ -2937,28 +2760,28 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:20:13.677948+00:00",
+      "lastChecked": "2026-05-01T10:10:10.098851+00:00",
       "jobs": []
     },
     "Digitalbridge Investment Management": {
       "hasInternPosting": false,
       "careerUrl": "https://www.digitalbridge.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:20:16.427998+00:00",
+      "lastChecked": "2026-05-01T10:10:12.800771+00:00",
       "jobs": []
     },
     "Summit Partners": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:20:25.140290+00:00",
+      "lastChecked": "2026-05-01T10:10:21.559987+00:00",
       "jobs": []
     },
     "GCM Customized Fund Investment Group": {
       "hasInternPosting": true,
       "careerUrl": "https://www.gcmgrosvenor.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:20:36.133188+00:00",
+      "lastChecked": "2026-05-01T10:10:31.237277+00:00",
       "jobs": [
         {
           "title": "www.internet-signalement.gouv.fr",
@@ -3046,42 +2869,42 @@
       "hasInternPosting": false,
       "careerUrl": "https://www.genstarcapital.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:20:37.879161+00:00",
+      "lastChecked": "2026-05-01T10:10:33.262344+00:00",
       "jobs": []
     },
     "Nordic Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:20:51.925614+00:00",
+      "lastChecked": "2026-05-01T10:10:47.222994+00:00",
       "jobs": []
     },
     "Roark Capital Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:21:01.862436+00:00",
+      "lastChecked": "2026-05-01T10:10:57.009159+00:00",
       "jobs": []
     },
     "Copenhagen Infrastructure Partners": {
       "hasInternPosting": false,
       "careerUrl": "https://cipartners.dk/careers",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:21:09.139055+00:00",
+      "lastChecked": "2026-05-01T10:11:04.869254+00:00",
       "jobs": []
     },
     "TJC": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:21:19.601546+00:00",
+      "lastChecked": "2026-05-01T10:11:15.213964+00:00",
       "jobs": []
     },
     "Blackrock Alternatives Management": {
       "hasInternPosting": true,
       "careerUrl": "https://www.blackrock.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:21:22.541217+00:00",
+      "lastChecked": "2026-05-01T10:11:18.797670+00:00",
       "jobs": [
         {
           "title": "Navigating Internal Mobility? Here’s What Worked for These BlackRock Leaders You may not always be sure when – or how – to make your next career move, whether that means switching to a different team,",
@@ -3121,7 +2944,7 @@
       "hasInternPosting": true,
       "careerUrl": "https://www.psgequity.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:21:25.782087+00:00",
+      "lastChecked": "2026-05-01T10:11:21.971260+00:00",
       "jobs": [
         {
           "title": "We see you are visiting from an Internet Explorer browser. Due to the deprecation of Internet Explorer and for security",
@@ -3153,7 +2976,7 @@
       "hasInternPosting": true,
       "careerUrl": "https://www.macquarie.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:21:29.792756+00:00",
+      "lastChecked": "2026-05-01T10:11:26.580365+00:00",
       "jobs": [
         {
           "title": "Graduates and Interns",
@@ -3249,7 +3072,7 @@
       "hasInternPosting": true,
       "careerUrl": "https://www.castlelake.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:21:33.035037+00:00",
+      "lastChecked": "2026-05-01T10:11:30.169641+00:00",
       "jobs": [
         {
           "title": "The technical storage or access that is used exclusively for statistical purposes. The technical storage or access that",
@@ -3281,21 +3104,21 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:21:44.444747+00:00",
+      "lastChecked": "2026-05-01T10:11:42.121530+00:00",
       "jobs": []
     },
     "TDR Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:21:58.026644+00:00",
+      "lastChecked": "2026-05-01T10:11:55.854841+00:00",
       "jobs": []
     },
     "LGT Capital Partners Ireland Limited": {
       "hasInternPosting": true,
       "careerUrl": "https://www.lgtcp.com/jobs",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:22:08.880008+00:00",
+      "lastChecked": "2026-05-01T10:12:06.778511+00:00",
       "jobs": [
         {
           "title": "Learning and development",
@@ -3335,42 +3158,42 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:22:19.209904+00:00",
+      "lastChecked": "2026-05-01T10:12:16.170748+00:00",
       "jobs": []
     },
     "D1 Capital Partners": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:22:25.825696+00:00",
+      "lastChecked": "2026-05-01T10:12:23.036123+00:00",
       "jobs": []
     },
     "Dragoneer Investment Group": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:22:34.464026+00:00",
+      "lastChecked": "2026-05-01T10:12:31.595450+00:00",
       "jobs": []
     },
     "Berkshire Partners": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:22:42.140695+00:00",
+      "lastChecked": "2026-05-01T10:12:39.137232+00:00",
       "jobs": []
     },
     "New Mountain Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:22:52.180282+00:00",
+      "lastChecked": "2026-05-01T10:12:48.677479+00:00",
       "jobs": []
     },
     "Macquarie Infrastructure Partners": {
       "hasInternPosting": true,
       "careerUrl": "https://www.macquarie.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:22:55.377972+00:00",
+      "lastChecked": "2026-05-01T10:12:51.957317+00:00",
       "jobs": [
         {
           "title": "Graduates and Interns",
@@ -3466,154 +3289,154 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:23:01.982046+00:00",
+      "lastChecked": "2026-05-01T10:12:58.551734+00:00",
       "jobs": []
     },
     "Astorg Asset Management Sarl": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:23:13.269589+00:00",
+      "lastChecked": "2026-05-01T10:13:10.467304+00:00",
       "jobs": []
     },
     "KPS Capital Partners": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:23:23.495356+00:00",
+      "lastChecked": "2026-05-01T10:13:20.923505+00:00",
       "jobs": []
     },
     "American Securities": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:23:35.265971+00:00",
+      "lastChecked": "2026-05-01T10:13:34.013721+00:00",
       "jobs": []
     },
     "Onex Partners Manager": {
       "hasInternPosting": false,
       "careerUrl": "https://www.onex.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:23:37.220128+00:00",
+      "lastChecked": "2026-05-01T10:13:36.041529+00:00",
       "jobs": []
     },
     "MBK Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:23:44.027424+00:00",
+      "lastChecked": "2026-05-01T10:13:42.665553+00:00",
       "jobs": []
     },
     "Harvest Partners": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:24:00.380331+00:00",
+      "lastChecked": "2026-05-01T10:13:59.071285+00:00",
       "jobs": []
     },
     "Portfolio Advisors": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:24:08.085035+00:00",
+      "lastChecked": "2026-05-01T10:14:06.636370+00:00",
       "jobs": []
     },
     "BTG Pactual Asset Management US": {
       "hasInternPosting": false,
       "careerUrl": "https://www.btgpactual.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:24:10.633714+00:00",
+      "lastChecked": "2026-05-01T10:14:09.308927+00:00",
       "jobs": []
     },
     "50 South Capital Advisors": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:24:23.026254+00:00",
+      "lastChecked": "2026-05-01T10:14:21.170954+00:00",
       "jobs": []
     },
     "TCV": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:24:30.770003+00:00",
+      "lastChecked": "2026-05-01T10:14:28.903698+00:00",
       "jobs": []
     },
     "Generation Investment Management": {
       "hasInternPosting": false,
-      "careerUrl": null,
-      "status": "no_url",
-      "lastChecked": "2026-04-30T10:25:26.985452+00:00",
+      "careerUrl": "https://www.generationim.com/careers",
+      "status": "ok",
+      "lastChecked": "2026-05-01T10:14:32.272911+00:00",
       "jobs": []
     },
     "Quantum Capital Group": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:25:34.426841+00:00",
+      "lastChecked": "2026-05-01T10:14:39.504946+00:00",
       "jobs": []
     },
     "SVB Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:25:41.176909+00:00",
+      "lastChecked": "2026-05-01T10:14:46.480608+00:00",
       "jobs": []
     },
     "Stepstone Group Real Assets": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:25:48.144073+00:00",
+      "lastChecked": "2026-05-01T10:14:53.306335+00:00",
       "jobs": []
     },
     "Accel-KKR": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:25:59.721033+00:00",
+      "lastChecked": "2026-05-01T10:15:05.804510+00:00",
       "jobs": []
     },
     "Partners Group AG": {
       "hasInternPosting": false,
       "careerUrl": "https://www.partnersgroup.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:26:05.759989+00:00",
+      "lastChecked": "2026-05-01T10:15:12.602098+00:00",
       "jobs": []
     },
     "Madison Dearborn Partners": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:26:18.178484+00:00",
+      "lastChecked": "2026-05-01T10:15:24.215042+00:00",
       "jobs": []
     },
     "JAB Consumer Fund Management Sarl": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:26:27.040333+00:00",
+      "lastChecked": "2026-05-01T10:15:31.502751+00:00",
       "jobs": []
     },
     "Audax Private Equity": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:26:40.656452+00:00",
+      "lastChecked": "2026-05-01T10:15:44.089565+00:00",
       "jobs": []
     },
     "Kelso": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:26:49.811431+00:00",
+      "lastChecked": "2026-05-01T10:15:53.506448+00:00",
       "jobs": []
     },
     "Waterland Private Equity Investments": {
       "hasInternPosting": true,
       "careerUrl": "https://www.waterland.nu/careers",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:27:00.002119+00:00",
+      "lastChecked": "2026-05-01T10:16:03.731405+00:00",
       "jobs": [
         {
           "title": "All departments Central Services Internships Investment team Office Management All countries France Germany The Netherla",
@@ -3669,14 +3492,14 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:27:10.732474+00:00",
+      "lastChecked": "2026-05-01T10:16:14.464929+00:00",
       "jobs": []
     },
     "Triton Investments Advisers": {
       "hasInternPosting": true,
       "careerUrl": "https://www.triton-partners.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:27:17.619770+00:00",
+      "lastChecked": "2026-05-01T10:16:23.228335+00:00",
       "jobs": [
         {
           "title": "Apply for internships at Triton Partners",
@@ -3728,7 +3551,7 @@
         },
         {
           "title": "Vendor Management Intern",
-          "description": "London | Posted: Posted 6 Days Ago | R987",
+          "description": "London | Posted: Posted 7 Days Ago | R987",
           "graduationDate": null,
           "applyUrl": "https://tritonpartners.wd3.myworkdayjobs.com/job/London/Vendor-Management-Intern_R987",
           "firstSeen": "2026-04-24",
@@ -3752,7 +3575,7 @@
         },
         {
           "title": "Private Equity Internship - Stockholm January - June 2027",
-          "description": "Stockholm | Posted: Posted 7 Days Ago | R953",
+          "description": "Stockholm | Posted: Posted 8 Days Ago | R953",
           "graduationDate": null,
           "applyUrl": "https://tritonpartners.wd3.myworkdayjobs.com/job/Stockholm/Private-Equity-Internship---Stockholm-January---June-2027_R953",
           "firstSeen": "2026-04-23",
@@ -3760,7 +3583,7 @@
         },
         {
           "title": "Private Equity Internship - London (1 July - end Sept 2026)",
-          "description": "London | Posted: Posted 7 Days Ago | R904",
+          "description": "London | Posted: Posted 8 Days Ago | R904",
           "graduationDate": null,
           "applyUrl": "https://tritonpartners.wd3.myworkdayjobs.com/job/London/Private-Equity-Internship--Dutch-Speaking--Q3-2026_R904",
           "firstSeen": "2026-04-23",
@@ -3772,28 +3595,28 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:27:26.311777+00:00",
+      "lastChecked": "2026-05-01T10:16:31.985319+00:00",
       "jobs": []
     },
     "GI Partners": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:27:36.635545+00:00",
+      "lastChecked": "2026-05-01T10:16:41.983273+00:00",
       "jobs": []
     },
     "KSL Capital Partners": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:27:45.347369+00:00",
+      "lastChecked": "2026-05-01T10:16:50.770453+00:00",
       "jobs": []
     },
     "Morgan Stanley Infrastructure": {
       "hasInternPosting": true,
       "careerUrl": "https://www.morganstanley.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:27:49.251789+00:00",
+      "lastChecked": "2026-05-01T10:16:54.535491+00:00",
       "jobs": [
         {
           "title": "Experienced Professionals Experienced Professionals You've spent time honing your skill set. Now, use it to your full po",
@@ -3913,7 +3736,7 @@
       "hasInternPosting": true,
       "careerUrl": "https://www.cfprivateequity.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:27:52.020032+00:00",
+      "lastChecked": "2026-05-01T10:16:57.132867+00:00",
       "jobs": [
         {
           "title": "View our internship opportunities",
@@ -3937,7 +3760,7 @@
       "hasInternPosting": true,
       "careerUrl": "https://www.alpineinvestors.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:27:57.576662+00:00",
+      "lastChecked": "2026-05-01T10:17:01.808841+00:00",
       "jobs": [
         {
           "title": "Alpine Internships",
@@ -4073,14 +3896,14 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:28:08.968995+00:00",
+      "lastChecked": "2026-05-01T10:17:13.849826+00:00",
       "jobs": []
     },
     "MS Capital Partners Adviser": {
       "hasInternPosting": true,
       "careerUrl": "https://www.morganstanley.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:28:12.695900+00:00",
+      "lastChecked": "2026-05-01T10:17:17.570507+00:00",
       "jobs": [
         {
           "title": "Experienced Professionals Experienced Professionals You've spent time honing your skill set. Now, use it to your full po",
@@ -4200,7 +4023,7 @@
       "hasInternPosting": true,
       "careerUrl": "https://www.thrivent.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:28:16.171825+00:00",
+      "lastChecked": "2026-05-01T10:17:20.954023+00:00",
       "jobs": [
         {
           "title": "Internships",
@@ -4224,56 +4047,56 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:28:26.711981+00:00",
+      "lastChecked": "2026-05-01T10:17:31.285345+00:00",
       "jobs": []
     },
     "RCP Advisors 2": {
       "hasInternPosting": false,
       "careerUrl": "https://www.rcpadvisors.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:28:30.016211+00:00",
+      "lastChecked": "2026-05-01T10:17:34.771001+00:00",
       "jobs": []
     },
     "Westbridge Capital US Advisors": {
       "hasInternPosting": false,
       "careerUrl": "https://www.westbridgecap.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:28:33.729176+00:00",
+      "lastChecked": "2026-05-01T10:17:38.886247+00:00",
       "jobs": []
     },
     "Battery Management": {
       "hasInternPosting": false,
       "careerUrl": "https://www.battery.com/hiring",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:28:45.229600+00:00",
+      "lastChecked": "2026-05-01T10:17:50.543394+00:00",
       "jobs": []
     },
     "Siguler Guff Advisers": {
       "hasInternPosting": false,
       "careerUrl": "https://www.sigulerguff.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:28:47.825737+00:00",
+      "lastChecked": "2026-05-01T10:17:53.065487+00:00",
       "jobs": []
     },
     "Apogem Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:28:55.392765+00:00",
+      "lastChecked": "2026-05-01T10:18:01.031025+00:00",
       "jobs": []
     },
     "K1 Investment Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:29:03.845247+00:00",
+      "lastChecked": "2026-05-01T10:18:09.659009+00:00",
       "jobs": []
     },
     "AEA Qp Advisers": {
       "hasInternPosting": true,
       "careerUrl": "https://www.aeainvestors.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:29:06.871406+00:00",
+      "lastChecked": "2026-05-01T10:18:12.655938+00:00",
       "jobs": [
         {
           "title": "AEA launched its inaugural summer analyst program in 2021, which targets students enrolled at historically black colleges and universities",
@@ -4377,56 +4200,56 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:29:40.441395+00:00",
+      "lastChecked": "2026-05-01T10:18:46.848484+00:00",
       "jobs": []
     },
     "Boyu Capital Group Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:30:18.008154+00:00",
+      "lastChecked": "2026-05-01T10:19:24.108123+00:00",
       "jobs": []
     },
     "MIC Capital Management UK": {
       "hasInternPosting": false,
       "careerUrl": "https://www.miccapital.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:30:20.595485+00:00",
+      "lastChecked": "2026-05-01T10:19:26.572644+00:00",
       "jobs": []
     },
     "Peak XV Partners Operations": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:30:33.775459+00:00",
+      "lastChecked": "2026-05-01T10:19:39.917530+00:00",
       "jobs": []
     },
     "ECP": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:30:41.993445+00:00",
+      "lastChecked": "2026-05-01T10:19:47.932137+00:00",
       "jobs": []
     },
     "Searchlight Capital Partners": {
       "hasInternPosting": false,
       "careerUrl": "https://www.searchlightcap.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:30:48.295075+00:00",
+      "lastChecked": "2026-05-01T10:20:01.689038+00:00",
       "jobs": []
     },
     "Great Hill Partners": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:31:01.109315+00:00",
+      "lastChecked": "2026-05-01T10:20:15.586569+00:00",
       "jobs": []
     },
     "J.P. Morgan Private Investments": {
       "hasInternPosting": true,
       "careerUrl": "https://www.jpmorgan.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:31:06.264050+00:00",
+      "lastChecked": "2026-05-01T10:20:20.738952+00:00",
       "jobs": [
         {
           "title": "Corporate Functions",
@@ -4458,7 +4281,7 @@
       "hasInternPosting": true,
       "careerUrl": "https://www.3i.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:31:13.106728+00:00",
+      "lastChecked": "2026-05-01T10:20:27.883178+00:00",
       "jobs": [
         {
           "title": "Our international presence",
@@ -4538,21 +4361,21 @@
       "hasInternPosting": false,
       "careerUrl": "https://www.glendowercapital.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:31:18.248790+00:00",
+      "lastChecked": "2026-05-01T10:20:33.395331+00:00",
       "jobs": []
     },
     "Partners Enterprise Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:31:25.812018+00:00",
+      "lastChecked": "2026-05-01T10:20:41.046383+00:00",
       "jobs": []
     },
     "Riverside": {
       "hasInternPosting": true,
       "careerUrl": "https://www.riversidecompany.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:31:29.558605+00:00",
+      "lastChecked": "2026-05-01T10:20:44.933558+00:00",
       "jobs": [
         {
           "title": "Work With Us",
@@ -4608,35 +4431,35 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:31:36.086464+00:00",
+      "lastChecked": "2026-05-01T10:20:51.538795+00:00",
       "jobs": []
     },
     "THL Managers VII": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:31:55.064861+00:00",
+      "lastChecked": "2026-05-01T10:21:11.249436+00:00",
       "jobs": []
     },
     "Vitruvian Partners": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:32:07.064905+00:00",
+      "lastChecked": "2026-05-01T10:21:23.514492+00:00",
       "jobs": []
     },
     "PAI Partners": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:32:21.131994+00:00",
+      "lastChecked": "2026-05-01T10:21:37.921384+00:00",
       "jobs": []
     },
     "Blackstone Private Credit Strategies": {
       "hasInternPosting": true,
       "careerUrl": "https://www.blackstone.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:32:27.107545+00:00",
+      "lastChecked": "2026-05-01T10:21:42.602066+00:00",
       "jobs": [
         {
           "title": "news & INSIGHTS",
@@ -4676,105 +4499,105 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:32:33.761861+00:00",
+      "lastChecked": "2026-05-01T10:21:49.418987+00:00",
       "jobs": []
     },
     "Kohlberg": {
       "hasInternPosting": false,
       "careerUrl": "https://www.kohlberg.com/company/careers",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:32:42.988342+00:00",
+      "lastChecked": "2026-05-01T10:21:58.738865+00:00",
       "jobs": []
     },
     "Cinven Limited": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:33:37.314338+00:00",
+      "lastChecked": "2026-05-01T10:22:51.270647+00:00",
       "jobs": []
     },
     "SCS Capital Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:41:12.358505+00:00",
+      "lastChecked": "2026-05-01T10:29:11.496752+00:00",
       "jobs": []
     },
     "Cinven Capital Management VII General Partner Limited": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:42:11.284004+00:00",
+      "lastChecked": "2026-05-01T10:30:06.633113+00:00",
       "jobs": []
     },
     "Oak Hill Capital Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:42:19.830961+00:00",
+      "lastChecked": "2026-05-01T10:30:15.157590+00:00",
       "jobs": []
     },
     "Riverstone Investment Group": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:42:27.508184+00:00",
+      "lastChecked": "2026-05-01T10:30:22.788867+00:00",
       "jobs": []
     },
     "Truebridge Capital Partners": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:42:44.493318+00:00",
+      "lastChecked": "2026-05-01T10:30:40.805221+00:00",
       "jobs": []
     },
     "Carlyle Aviation PDP Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:42:51.164479+00:00",
+      "lastChecked": "2026-05-01T10:30:47.427117+00:00",
       "jobs": []
     },
     "Sycamore Partners": {
       "hasInternPosting": false,
       "careerUrl": "https://www.sycamorepartners.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:42:53.368792+00:00",
+      "lastChecked": "2026-05-01T10:30:49.485915+00:00",
       "jobs": []
     },
     "Parthenon Capital Partners": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:43:04.063646+00:00",
+      "lastChecked": "2026-05-01T10:31:00.639242+00:00",
       "jobs": []
     },
     "EIG Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:43:16.511162+00:00",
+      "lastChecked": "2026-05-01T10:31:13.020042+00:00",
       "jobs": []
     },
     "Reverence Capital Partners": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:43:27.026288+00:00",
+      "lastChecked": "2026-05-01T10:31:23.623075+00:00",
       "jobs": []
     },
     "Alpinvest Partners B.V.": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:43:33.642706+00:00",
+      "lastChecked": "2026-05-01T10:31:30.292463+00:00",
       "jobs": []
     },
     "Energy & Minerals Group": {
       "hasInternPosting": true,
       "careerUrl": "https://www.emgtx.com/join",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:43:56.092578+00:00",
+      "lastChecked": "2026-05-01T10:31:44.769824+00:00",
       "jobs": [
         {
           "title": "Serra Verde Secures US$565 million Financing from US International Development Finance Corporation",
@@ -4798,14 +4621,14 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:44:06.403936+00:00",
+      "lastChecked": "2026-05-01T10:31:55.544199+00:00",
       "jobs": []
     },
     "Blackstone Strategic Capital Advisors": {
       "hasInternPosting": true,
       "careerUrl": "https://www.blackstone.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:44:11.164247+00:00",
+      "lastChecked": "2026-05-01T10:32:00.349390+00:00",
       "jobs": [
         {
           "title": "news & INSIGHTS",
@@ -4845,49 +4668,49 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:44:18.675108+00:00",
+      "lastChecked": "2026-05-01T10:32:07.595064+00:00",
       "jobs": []
     },
     "Schroders Capital Management US": {
       "hasInternPosting": false,
       "careerUrl": "https://www.schroderscapital.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:44:24.698849+00:00",
+      "lastChecked": "2026-05-01T10:32:14.498541+00:00",
       "jobs": []
     },
     "Lime Rock": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:44:46.516605+00:00",
+      "lastChecked": "2026-05-01T10:32:37.717990+00:00",
       "jobs": []
     },
     "Digital Bridge Advisors": {
       "hasInternPosting": false,
       "careerUrl": "https://www.digitalbridge.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:44:49.301560+00:00",
+      "lastChecked": "2026-05-01T10:32:40.654987+00:00",
       "jobs": []
     },
     "OA Private Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:44:56.666805+00:00",
+      "lastChecked": "2026-05-01T10:32:48.093727+00:00",
       "jobs": []
     },
     "Hahn": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:45:08.295394+00:00",
+      "lastChecked": "2026-05-01T10:33:00.352202+00:00",
       "jobs": []
     },
     "NGP": {
       "hasInternPosting": true,
       "careerUrl": "https://www.ngpenergycapital.com/company/careers",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:45:25.723562+00:00",
+      "lastChecked": "2026-05-01T10:33:26.389056+00:00",
       "jobs": [
         {
           "title": "Camino Natural Resources",
@@ -4919,21 +4742,21 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:45:34.854841+00:00",
+      "lastChecked": "2026-05-01T10:33:34.524133+00:00",
       "jobs": []
     },
     "Manulife Investment Management Private Markets US": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:45:43.308735+00:00",
+      "lastChecked": "2026-05-01T10:33:43.037767+00:00",
       "jobs": []
     },
     "Patria Finance Limited": {
       "hasInternPosting": true,
       "careerUrl": "https://www.patria.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:45:46.813005+00:00",
+      "lastChecked": "2026-05-01T10:33:47.363682+00:00",
       "jobs": [
         {
           "title": "Job openings",
@@ -4961,7 +4784,7 @@
         },
         {
           "title": "Private Equity Intern Private Equity - Investment · Bogotá Office",
-          "description": "Talent & Development Specialist Corporate - Human Resources · São Paulo Office · Fully Remote Private Equity Intern Private Equity - Investment · Bogotá Office Real Estate Credit Associate REAL ESTATE BR – INVESTMENTS CREDIT &SECURITIES · São Paulo Office VP II - Information Technology Corporate - Information Technology · São Paulo Office Sr. FP&A Analyst, Value Creation G&T - Value Creation · São Paulo Office Sr Director - Legal Funds GPMS Corporate - Legal · Edinburgh Office People Budget Asso",
+          "description": "Talent & Development Specialist Corporate - Human Resources · São Paulo Office · Fully Remote Associate I, ESG - Value Creation G&T - Value Creation · São Paulo Office Private Equity Intern Private Equity - Investment · Bogotá Office Real Estate Credit Associate REAL ESTATE BR – INVESTMENTS CREDIT &SECURITIES · São Paulo Office VP II - Information Technology Corporate - Information Technology · São Paulo Office Sr. FP&A Analyst, Value Creation G&T - Value Creation · São Paulo Office Sr Director",
           "graduationDate": null,
           "applyUrl": "https://careers.patria.com/jobs/594266-private-equity-intern",
           "firstSeen": "2026-04-18",
@@ -4969,18 +4792,18 @@
         },
         {
           "title": "Open roles in our offices worldwide",
-          "description": "Talent & Development Specialist Corporate - Human Resources · São Paulo Office · Fully Remote Private Equity Intern Private Equity - Investment · Bogotá Office Real Estate Credit Associate REAL ESTATE BR – INVESTMENTS CREDIT &SECURITIES · São Paulo Office VP II - Information Technology Corporate - Information Technology · São Paulo Office Sr. FP&A Analyst, Value Creation G&T - Value Creation · São Paulo Office Sr Director - Legal Funds GPMS Corporate - Legal · Edinburgh Office People Budget Asso",
+          "description": "Talent & Development Specialist Corporate - Human Resources · São Paulo Office · Fully Remote Associate I, ESG - Value Creation G&T - Value Creation · São Paulo Office Private Equity Intern Private Equity - Investment · Bogotá Office Real Estate Credit Associate REAL ESTATE BR – INVESTMENTS CREDIT &SECURITIES · São Paulo Office VP II - Information Technology Corporate - Information Technology · São Paulo Office Sr. FP&A Analyst, Value Creation G&T - Value Creation · São Paulo Office Sr Director",
           "graduationDate": null,
           "applyUrl": "https://careers.patria.com/jobs/598625-talent-development-specialist",
           "firstSeen": "2026-04-28",
           "source": "scraper"
         },
         {
-          "title": "Talent & Development Specialist Corporate - Human Resources · São Paulo Office · Fully Remote Private Equity Intern Priv",
-          "description": "ate Equity - Investment · Bogotá Office Real Estate Credit Associate REAL ESTATE BR – INVESTMENTS CREDIT &SECURITIES · São Paulo Office VP II - Information Technology Corporate - Information Technology · São Paulo Office Sr. FP&A Analyst, Value Creation G&T - Value Creation · São Paulo Office Sr Director - Legal Funds GPMS Corporate - Legal · Edinburgh Office People Budget Associate Corporate - Human Resources · São Paulo Office Senior Data Analyst REAL ESTATE BR – INVESTMENTS CREDIT &SECURITIES",
+          "title": "Talent & Development Specialist Corporate - Human Resources · São Paulo Office · Fully Remote Associate I, ESG - Value C",
+          "description": "reation G&T - Value Creation · São Paulo Office Private Equity Intern Private Equity - Investment · Bogotá Office Real Estate Credit Associate REAL ESTATE BR – INVESTMENTS CREDIT &SECURITIES · São Paulo Office VP II - Information Technology Corporate - Information Technology · São Paulo Office Sr. FP&A Analyst, Value Creation G&T - Value Creation · São Paulo Office Sr Director - Legal Funds GPMS Corporate - Legal · Edinburgh Office People Budget Associate Corporate - Human Resources · São Paulo",
           "graduationDate": null,
           "applyUrl": "https://careers.patria.com/jobs/598625-talent-development-specialist",
-          "firstSeen": "2026-04-28",
+          "firstSeen": "2026-05-01",
           "source": "scraper"
         }
       ]
@@ -4989,84 +4812,84 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:46:42.443478+00:00",
+      "lastChecked": "2026-05-01T10:34:42.239720+00:00",
       "jobs": []
     },
     "OEP Capital Advisors": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:46:50.532755+00:00",
+      "lastChecked": "2026-05-01T10:34:50.341961+00:00",
       "jobs": []
     },
     "Arctos Partners": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:46:59.647308+00:00",
+      "lastChecked": "2026-05-01T10:35:03.626653+00:00",
       "jobs": []
     },
     "Oakley Capital Manager Limited": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:47:15.351731+00:00",
+      "lastChecked": "2026-05-01T10:35:19.031765+00:00",
       "jobs": []
     },
     "Asia Alternatives Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:47:23.296864+00:00",
+      "lastChecked": "2026-05-01T10:35:27.165406+00:00",
       "jobs": []
     },
     "Evergreen Investment Advisors": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:47:31.089399+00:00",
+      "lastChecked": "2026-05-01T10:35:34.607012+00:00",
       "jobs": []
     },
     "Great Mountain Partners": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:47:39.290463+00:00",
+      "lastChecked": "2026-05-01T10:35:42.698566+00:00",
       "jobs": []
     },
     "Arsenal Capital Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:47:57.619044+00:00",
+      "lastChecked": "2026-05-01T10:35:57.992333+00:00",
       "jobs": []
     },
     "Infravia Capital Partners": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:48:20.429271+00:00",
+      "lastChecked": "2026-05-01T10:36:20.889906+00:00",
       "jobs": []
     },
     "One Rock Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:48:32.208403+00:00",
+      "lastChecked": "2026-05-01T10:36:33.087952+00:00",
       "jobs": []
     },
     "Certares Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:48:42.308905+00:00",
+      "lastChecked": "2026-05-01T10:36:46.547669+00:00",
       "jobs": []
     },
     "Actis GP": {
       "hasInternPosting": true,
       "careerUrl": "https://www.act.is/careers",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:48:48.071912+00:00",
+      "lastChecked": "2026-05-01T10:36:52.410836+00:00",
       "jobs": [
         {
           "title": "The primary route into the firm for Investment Professionals is through our Associate Programme. The Programme brings in all Permanent and Summer Associate hires as one “Class” annually every June. Th",
@@ -5082,70 +4905,70 @@
       "hasInternPosting": false,
       "careerUrl": "https://www.atalayacap.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:48:50.334224+00:00",
+      "lastChecked": "2026-05-01T10:36:54.522649+00:00",
       "jobs": []
     },
     "Bridgepoint Advisers Limited": {
       "hasInternPosting": false,
       "careerUrl": "https://www.bridgepoint.eu/careers",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:48:53.482410+00:00",
+      "lastChecked": "2026-05-01T10:36:57.898693+00:00",
       "jobs": []
     },
     "Aquiline Management Holdings": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:49:09.880346+00:00",
+      "lastChecked": "2026-05-01T10:37:14.480953+00:00",
       "jobs": []
     },
     "Golden Gate Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:49:21.677224+00:00",
+      "lastChecked": "2026-05-01T10:37:26.382833+00:00",
       "jobs": []
     },
     "Vistria Group": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:49:28.491924+00:00",
+      "lastChecked": "2026-05-01T10:37:32.979132+00:00",
       "jobs": []
     },
     "Affinity Equity Partners Limited": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:49:41.674829+00:00",
+      "lastChecked": "2026-05-01T10:37:46.483565+00:00",
       "jobs": []
     },
     "Goldberg Lindsay": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:50:16.280527+00:00",
+      "lastChecked": "2026-05-01T10:37:57.971607+00:00",
       "jobs": []
     },
     "Gridiron Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:50:25.501937+00:00",
+      "lastChecked": "2026-05-01T10:38:05.342551+00:00",
       "jobs": []
     },
     "Grain Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:51:04.020770+00:00",
+      "lastChecked": "2026-05-01T10:38:41.780600+00:00",
       "jobs": []
     },
     "Blackstone Multi-Asset Advisors": {
       "hasInternPosting": true,
       "careerUrl": "https://www.blackstone.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:51:08.670027+00:00",
+      "lastChecked": "2026-05-01T10:38:46.589354+00:00",
       "jobs": [
         {
           "title": "news & INSIGHTS",
@@ -5185,105 +5008,105 @@
       "hasInternPosting": false,
       "careerUrl": "https://www.primaveracapital.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:51:10.771449+00:00",
+      "lastChecked": "2026-05-01T10:38:48.697414+00:00",
       "jobs": []
     },
     "Pomona Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:51:28.130168+00:00",
+      "lastChecked": "2026-05-01T10:39:05.980182+00:00",
       "jobs": []
     },
     "Altaris": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:51:38.523666+00:00",
+      "lastChecked": "2026-05-01T10:39:16.417629+00:00",
       "jobs": []
     },
     "Icon Infrastructure": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:52:03.607014+00:00",
+      "lastChecked": "2026-05-01T10:39:39.439083+00:00",
       "jobs": []
     },
     "Gryphon Advisors": {
       "hasInternPosting": false,
       "careerUrl": "https://www.gryphon-inv.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:52:05.848140+00:00",
+      "lastChecked": "2026-05-01T10:39:42.218513+00:00",
       "jobs": []
     },
     "Wynnchurch Capital": {
       "hasInternPosting": false,
       "careerUrl": "https://www.wynnchurch.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:52:08.543179+00:00",
+      "lastChecked": "2026-05-01T10:39:44.740522+00:00",
       "jobs": []
     },
     "Sentinel Capital Partners": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:52:21.213861+00:00",
+      "lastChecked": "2026-05-01T10:39:57.792726+00:00",
       "jobs": []
     },
     "Arlington Capital Partners": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:52:31.921727+00:00",
+      "lastChecked": "2026-05-01T10:40:09.411906+00:00",
       "jobs": []
     },
     "Peak XV Partners I": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:52:45.488054+00:00",
+      "lastChecked": "2026-05-01T10:40:21.638249+00:00",
       "jobs": []
     },
     "LS Power Equity Advisors": {
       "hasInternPosting": false,
       "careerUrl": "https://www.lspower.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:52:47.862627+00:00",
+      "lastChecked": "2026-05-01T10:40:23.941195+00:00",
       "jobs": []
     },
     "JMI Management": {
       "hasInternPosting": false,
       "careerUrl": "https://www.jmi.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:52:51.945461+00:00",
+      "lastChecked": "2026-05-01T10:40:27.529186+00:00",
       "jobs": []
     },
     "Greenbriar Equity Group": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:53:05.247087+00:00",
+      "lastChecked": "2026-05-01T10:40:41.047006+00:00",
       "jobs": []
     },
     "Inflexion Private Equity Partners": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:53:17.511314+00:00",
+      "lastChecked": "2026-05-01T10:40:52.892347+00:00",
       "jobs": []
     },
     "VY Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:53:25.852702+00:00",
+      "lastChecked": "2026-05-01T10:41:01.226701+00:00",
       "jobs": []
     },
     "Blackstone Growth Advisors": {
       "hasInternPosting": true,
       "careerUrl": "https://www.blackstone.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:53:30.449519+00:00",
+      "lastChecked": "2026-05-01T10:41:05.904164+00:00",
       "jobs": [
         {
           "title": "news & INSIGHTS",
@@ -5323,23 +5146,15 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:53:43.950904+00:00",
+      "lastChecked": "2026-05-01T10:41:19.618339+00:00",
       "jobs": []
     },
     "Wafra": {
       "hasInternPosting": true,
       "careerUrl": "https://www.wafra.com/careers",
       "status": "ok",
-      "lastChecked": "2026-04-30T10:53:47.939600+00:00",
+      "lastChecked": "2026-05-01T10:41:23.776438+00:00",
       "jobs": [
-        {
-          "title": "Accounting Intern Summer 2026",
-          "description": "Accounting Intern Summer 2026 MZ Wallace New York, NY 1 day ago",
-          "graduationDate": null,
-          "applyUrl": "https://www.linkedin.com/jobs/view/accounting-intern-summer-2026-at-mz-wallace-4408017872?refId=K45FvNxu6Dhv6xbXlOxNSQ%3D%3D&trackingId=HJ%2FgOFM5DfKwibfmYv41hA%3D%3D",
-          "firstSeen": "2026-04-30",
-          "source": "scraper"
-        },
         {
           "title": "Staff Internal Auditor jobs 3,536 open jobs",
           "description": "",
@@ -5394,7 +5209,7 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-04-30T10:53:55.073597+00:00",
+      "lastChecked": "2026-05-01T10:41:30.964622+00:00",
       "jobs": []
     }
   }
