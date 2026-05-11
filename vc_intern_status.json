@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-05-10T11:00:17.469761+00:00",
+  "lastUpdated": "2026-05-11T12:56:26.700627+00:00",
   "internCount": 18,
   "firms": {
     "Sequoia Capital Operations": {
       "hasInternPosting": true,
       "careerUrl": "https://www.sequoiacap.com/jobs",
       "status": "ok",
-      "lastChecked": "2026-05-10T10:39:29.338959+00:00",
+      "lastChecked": "2026-05-11T12:34:01.510661+00:00",
       "jobs": [
         {
           "title": "Make a dent in the world",
@@ -43,31 +43,64 @@
       ]
     },
     "Andreessen Horowitz": {
-      "hasInternPosting": false,
+      "hasInternPosting": true,
       "careerUrl": "https://a16z.com/jobs",
       "status": "ok",
-      "lastChecked": "2026-05-10T10:39:48.946623+00:00",
-      "jobs": []
+      "lastChecked": "2026-05-11T12:34:07.483921+00:00",
+      "jobs": [
+        {
+          "title": "763 companies . 15,364 jobs . It's time to build.",
+          "description": "All Portfolio Jobs Jobs by company a16z jobs A16Z TalentPlace Filter jobs by skills and more Roles Enter roles Skills Enter skills Location Enter locations Company stage Enter stages Industry Enter industries Salary Select... Internships only Remote options All jobs Posted Anytime Powered by Consider Powered by Consider Privacy Terms Software is Eating the World © 2026 Andreessen Horowitz © 2026 Andreessen Horowitz Terms of Use Privacy Policy Disclosures Sitemap",
+          "graduationDate": null,
+          "applyUrl": "https://a16z.com/jobs",
+          "firstSeen": "2026-05-11",
+          "source": "scraper"
+        },
+        {
+          "title": "Filter jobs by skills and more Roles Enter roles Skills Enter skills Location Enter locations Company stage Enter stages",
+          "description": "Industry Enter industries Salary Select... Internships only Remote options All jobs Posted Anytime Powered by Consider",
+          "graduationDate": null,
+          "applyUrl": "https://product.consider.com/ctc/talent-circle?utm_campaign=undefined",
+          "firstSeen": "2026-04-18",
+          "source": "scraper"
+        },
+        {
+          "title": "Internships only Remote options All jobs Posted Anytime Powered by Consider",
+          "description": "",
+          "graduationDate": null,
+          "applyUrl": "https://product.consider.com/ctc/talent-circle?utm_campaign=undefined",
+          "firstSeen": "2026-04-18",
+          "source": "scraper"
+        },
+        {
+          "title": "Internships only Remote options All jobs Posted Anytime",
+          "description": "",
+          "graduationDate": null,
+          "applyUrl": "https://a16z.com/jobs",
+          "firstSeen": "2026-05-11",
+          "source": "scraper"
+        }
+      ]
     },
     "General Catalyst": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-10T10:39:58.254109+00:00",
+      "lastChecked": "2026-05-11T12:34:17.415385+00:00",
       "jobs": []
     },
     "Encap Investments": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-10T10:40:11.718226+00:00",
+      "lastChecked": "2026-05-11T12:34:28.696665+00:00",
       "jobs": []
     },
     "Lightspeed Venture Partners": {
       "hasInternPosting": true,
       "careerUrl": "https://lsvp.com/work-with-us",
       "status": "ok",
-      "lastChecked": "2026-05-10T10:40:20.319299+00:00",
+      "lastChecked": "2026-05-11T12:34:38.342699+00:00",
       "jobs": [
         {
           "title": "Filter jobs by skills and more Roles Enter roles Skills Enter skills Location Enter locations Company stage Enter stages",
@@ -99,42 +132,42 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-10T10:40:35.694019+00:00",
+      "lastChecked": "2026-05-11T12:34:54.018441+00:00",
       "jobs": []
     },
     "Accel Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-10T10:40:45.181043+00:00",
+      "lastChecked": "2026-05-11T12:35:04.208467+00:00",
       "jobs": []
     },
     "Cobalt Investment Management": {
       "hasInternPosting": false,
       "careerUrl": "https://www.cobaltlp.com/careers",
       "status": "ok",
-      "lastChecked": "2026-05-10T10:40:50.602949+00:00",
+      "lastChecked": "2026-05-11T12:35:09.418012+00:00",
       "jobs": []
     },
     "Founders Fund": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-10T10:41:02.044783+00:00",
+      "lastChecked": "2026-05-11T12:35:22.116164+00:00",
       "jobs": []
     },
     "Index Ventures SA": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-10T10:41:15.638678+00:00",
+      "lastChecked": "2026-05-11T12:35:36.414197+00:00",
       "jobs": []
     },
     "Bessemer Venture Partners": {
       "hasInternPosting": true,
       "careerUrl": "https://www.bvp.com/jobs",
       "status": "ok",
-      "lastChecked": "2026-05-10T10:41:20.447696+00:00",
+      "lastChecked": "2026-05-11T12:35:41.588518+00:00",
       "jobs": [
         {
           "title": "Filter jobs by skills and more Roles Enter roles Skills Enter skills Location Enter locations Company stage Enter stages",
@@ -206,63 +239,63 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-10T10:41:28.747494+00:00",
+      "lastChecked": "2026-05-11T12:35:50.767428+00:00",
       "jobs": []
     },
     "Impresa Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-10T10:41:35.051085+00:00",
+      "lastChecked": "2026-05-11T12:35:57.245188+00:00",
       "jobs": []
     },
     "Khosla Ventures": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-10T10:41:45.613049+00:00",
+      "lastChecked": "2026-05-11T12:36:08.238190+00:00",
       "jobs": []
     },
     "Angellist Advisors": {
       "hasInternPosting": false,
       "careerUrl": "https://www.angellist.com/careers",
       "status": "ok",
-      "lastChecked": "2026-05-10T10:41:51.366513+00:00",
+      "lastChecked": "2026-05-11T12:36:13.822106+00:00",
       "jobs": []
     },
     "Flagship Pioneering": {
       "hasInternPosting": false,
       "careerUrl": "https://www.flagshippioneering.com/join",
       "status": "ok",
-      "lastChecked": "2026-05-10T10:42:04.039413+00:00",
+      "lastChecked": "2026-05-11T12:36:27.095634+00:00",
       "jobs": []
     },
     "Banyan Capital Partners": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-10T10:42:18.826506+00:00",
+      "lastChecked": "2026-05-11T12:36:42.740932+00:00",
       "jobs": []
     },
     "Spark Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-10T10:42:28.157887+00:00",
+      "lastChecked": "2026-05-11T12:36:52.603881+00:00",
       "jobs": []
     },
     "Ribbit Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-10T10:42:37.316882+00:00",
+      "lastChecked": "2026-05-11T12:37:03.538440+00:00",
       "jobs": []
     },
     "Y Combinator": {
       "hasInternPosting": true,
       "careerUrl": "https://www.ycombinator.com/careers",
       "status": "ok",
-      "lastChecked": "2026-05-10T10:42:41.373641+00:00",
+      "lastChecked": "2026-05-11T12:37:07.806424+00:00",
       "jobs": [
         {
           "title": "Internships",
@@ -286,77 +319,77 @@
       "hasInternPosting": false,
       "careerUrl": "https://www.racap.com/join-us",
       "status": "ok",
-      "lastChecked": "2026-05-10T10:42:52.085563+00:00",
+      "lastChecked": "2026-05-11T12:37:21.912884+00:00",
       "jobs": []
     },
     "Sapphire Ventures": {
       "hasInternPosting": true,
       "careerUrl": "https://sapphireventures.com/careers",
       "status": "ok",
-      "lastChecked": "2026-05-10T10:43:01.416349+00:00",
+      "lastChecked": "2026-05-11T12:37:28.398493+00:00",
       "jobs": [
         {
           "title": "Corporate Account Executive",
-          "description": "Glean New York, NY, USA Today Agentic AI Artificial Intelligence Artificial Intelligence (AI) Big Data Business/Productivity Software Data & Analytics Database Software Enterprise Software Generative AI Internet Internet Services Machine Learning Platform Productivity Tools SaaS Science and Engineering Search Search Engine Software Software Software Development Technology Read more about Corporate Account Executive at Glean",
+          "description": "Glean New York, NY, USA USD 165k-185k / year + Equity 2 days Agentic AI Artificial Intelligence Artificial Intelligence (AI) Big Data Business/Productivity Software Data & Analytics Database Software Enterprise Software Generative AI Internet Internet Services Machine Learning Platform Productivity Tools SaaS Science and Engineering Search Search Engine Software Software Software Development Technology Mid-Senior Level Read more about Corporate Account Executive at Glean",
           "graduationDate": null,
           "applyUrl": "https://sapphireventures.com/companies/glean#content",
           "firstSeen": "2026-05-10",
           "source": "scraper"
         },
         {
-          "title": "Glean New York, NY, USA Today Agentic AI Artificial Intelligence Artificial Intelligence (AI) Big Data Business/Producti",
-          "description": "vity Software Data & Analytics Database Software Enterprise Software Generative AI Internet Internet Services Machine Learning Platform Productivity Tools SaaS Science and Engineering Search Search Engine Software Software Software Development Technology",
+          "title": "Glean New York, NY, USA USD 165k-185k / year + Equity 2 days Agentic AI Artificial Intelligence Artificial Intelligence",
+          "description": "(AI) Big Data Business/Productivity Software Data & Analytics Database Software Enterprise Software Generative AI Internet Internet Services Machine Learning Platform Productivity Tools SaaS Science and Engineering Search Search Engine Software Software Software Development Technology Mid-Senior Level",
           "graduationDate": null,
           "applyUrl": "https://sapphireventures.com/companies/glean#content",
-          "firstSeen": "2026-05-10",
+          "firstSeen": "2026-05-11",
           "source": "scraper"
         },
         {
           "title": "AI Outcomes Manager, LATAM",
-          "description": "Glean Brazil Today Agentic AI Artificial Intelligence Artificial Intelligence (AI) Big Data Business/Productivity Software Data & Analytics Database Software Enterprise Software Generative AI Internet Internet Services Machine Learning Platform Productivity Tools SaaS Science and Engineering Search Search Engine Software Software Software Development Technology Read more about AI Outcomes Manager, LATAM at Glean",
+          "description": "Glean Brazil 2 days Agentic AI Artificial Intelligence Artificial Intelligence (AI) Big Data Business/Productivity Software Data & Analytics Database Software Enterprise Software Generative AI Internet Internet Services Machine Learning Platform Productivity Tools SaaS Science and Engineering Search Search Engine Software Software Software Development Technology Mid-Senior Level Read more about AI Outcomes Manager, LATAM at Glean",
           "graduationDate": null,
           "applyUrl": "https://sapphireventures.com/companies/glean#content",
           "firstSeen": "2026-05-10",
           "source": "scraper"
         },
         {
-          "title": "Glean Brazil Today Agentic AI Artificial Intelligence Artificial Intelligence (AI) Big Data Business/Productivity Softwa",
-          "description": "re Data & Analytics Database Software Enterprise Software Generative AI Internet Internet Services Machine Learning Platform Productivity Tools SaaS Science and Engineering Search Search Engine Software Software Software Development Technology",
+          "title": "Glean Brazil 2 days Agentic AI Artificial Intelligence Artificial Intelligence (AI) Big Data Business/Productivity Softw",
+          "description": "are Data & Analytics Database Software Enterprise Software Generative AI Internet Internet Services Machine Learning Platform Productivity Tools SaaS Science and Engineering Search Search Engine Software Software Software Development Technology Mid-Senior Level",
           "graduationDate": null,
           "applyUrl": "https://sapphireventures.com/companies/glean#content",
-          "firstSeen": "2026-05-10",
+          "firstSeen": "2026-05-11",
           "source": "scraper"
         },
         {
           "title": "Enterprise Account Executive",
-          "description": "Glean California, USA Today Agentic AI Artificial Intelligence Artificial Intelligence (AI) Big Data Business/Productivity Software Data & Analytics Database Software Enterprise Software Generative AI Internet Internet Services Machine Learning Platform Productivity Tools SaaS Science and Engineering Search Search Engine Software Software Software Development Technology Read more about Enterprise Account Executive at Glean",
+          "description": "Glean California, USA USD 240k-315k / year + Equity 2 days Agentic AI Artificial Intelligence Artificial Intelligence (AI) Big Data Business/Productivity Software Data & Analytics Database Software Enterprise Software Generative AI Internet Internet Services Machine Learning Platform Productivity Tools SaaS Science and Engineering Search Search Engine Software Software Software Development Technology Senior Read more about Enterprise Account Executive at Glean",
           "graduationDate": null,
           "applyUrl": "https://sapphireventures.com/companies/glean#content",
           "firstSeen": "2026-05-10",
           "source": "scraper"
         },
         {
-          "title": "Glean California, USA Today Agentic AI Artificial Intelligence Artificial Intelligence (AI) Big Data Business/Productivi",
-          "description": "ty Software Data & Analytics Database Software Enterprise Software Generative AI Internet Internet Services Machine Learning Platform Productivity Tools SaaS Science and Engineering Search Search Engine Software Software Software Development Technology",
+          "title": "Glean California, USA USD 240k-315k / year + Equity 2 days Agentic AI Artificial Intelligence Artificial Intelligence (A",
+          "description": "I) Big Data Business/Productivity Software Data & Analytics Database Software Enterprise Software Generative AI Internet Internet Services Machine Learning Platform Productivity Tools SaaS Science and Engineering Search Search Engine Software Software Software Development Technology Senior",
           "graduationDate": null,
           "applyUrl": "https://sapphireventures.com/companies/glean#content",
-          "firstSeen": "2026-05-10",
+          "firstSeen": "2026-05-11",
           "source": "scraper"
         },
         {
           "title": "Sales Strategy & Operations Lead",
-          "description": "LangChain London, UK GBP 115k-150k / year + Equity Today Agentic AI Apps Artificial Intelligence (AI) Business/Productivity Software Data & Analytics Database Developer APIs Developer Tools Education Enterprise Software Generative AI Internet Services Language Learning Science and Engineering Software Software Development Applications Technology Technology, Information and Internet Series B Director Read more about Sales Strategy & Operations Lead at LangChain",
+          "description": "LangChain London, UK GBP 115k-150k / year + Equity 2 days Agentic AI Apps Artificial Intelligence (AI) Business/Productivity Software Data & Analytics Database Developer APIs Developer Tools Education Enterprise Software Generative AI Internet Services Language Learning Science and Engineering Software Software Development Applications Technology Technology, Information and Internet Series B Director Read more about Sales Strategy & Operations Lead at LangChain",
           "graduationDate": null,
           "applyUrl": "https://sapphireventures.com/companies/langchain-2#content",
           "firstSeen": "2026-05-10",
           "source": "scraper"
         },
         {
-          "title": "LangChain London, UK GBP 115k-150k / year + Equity Today Agentic AI Apps Artificial Intelligence (AI) Business/Productiv",
-          "description": "ity Software Data & Analytics Database Developer APIs Developer Tools Education Enterprise Software Generative AI Internet Services Language Learning Science and Engineering Software Software Development Applications Technology Technology, Information and Internet Series B Director",
+          "title": "LangChain London, UK GBP 115k-150k / year + Equity 2 days Agentic AI Apps Artificial Intelligence (AI) Business/Producti",
+          "description": "vity Software Data & Analytics Database Developer APIs Developer Tools Education Enterprise Software Generative AI Internet Services Language Learning Science and Engineering Software Software Development Applications Technology Technology, Information and Internet Series B Director",
           "graduationDate": null,
           "applyUrl": "https://sapphireventures.com/companies/langchain-2#content",
-          "firstSeen": "2026-05-10",
+          "firstSeen": "2026-05-11",
           "source": "scraper"
         },
         {
@@ -398,22 +431,6 @@
           "applyUrl": "https://www.linkedin.com/jobs/international-account-executive-jobs?trk=public_jobs_linkster_link",
           "firstSeen": "2026-05-10",
           "source": "scraper"
-        },
-        {
-          "title": "Program Management Intern jobs",
-          "description": "Senior Software Project Manager jobs Program Management Intern jobs Support Escalation Engineer jobs Technical Program Director jobs Technical Project Manager jobs Hardware Engineering Manager jobs Senior Project Program Manager jobs Technology Program Manager jobs Senior Technical Project Manager jobs Technical Solutions Manager jobs Information Technology Program Manager jobs Senior Director Program Management jobs Vice President Technology Operations jobs Manufacturing Development Engineer jo",
-          "graduationDate": null,
-          "applyUrl": "https://www.linkedin.com/jobs/program-management-intern-jobs?trk=public_jobs_linkster_link",
-          "firstSeen": "2026-05-10",
-          "source": "scraper"
-        },
-        {
-          "title": "Senior Software Project Manager jobs Program Management Intern jobs Support Escalation Engineer jobs Technical Program D",
-          "description": "irector jobs Technical Project Manager jobs Hardware Engineering Manager jobs Senior Project Program Manager jobs Technology Program Manager jobs Senior Technical Project Manager jobs Technical Solutions Manager jobs Information Technology Program Manager jobs Senior Director Program Management jobs Vice President Technology Operations jobs Manufacturing Development Engineer jobs Senior Project Management jobs",
-          "graduationDate": null,
-          "applyUrl": "https://www.linkedin.com/jobs/senior-software-project-manager-jobs?trk=public_jobs_linkster_link",
-          "firstSeen": "2026-05-10",
-          "source": "scraper"
         }
       ]
     },
@@ -421,56 +438,56 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-10T10:43:11.020572+00:00",
+      "lastChecked": "2026-05-11T12:37:38.443965+00:00",
       "jobs": []
     },
     "Altimeter Capital Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-10T10:43:17.287495+00:00",
+      "lastChecked": "2026-05-11T12:37:44.758089+00:00",
       "jobs": []
     },
     "Arch Venture Partners": {
       "hasInternPosting": false,
       "careerUrl": "https://www.archventure.com/company/careers",
       "status": "ok",
-      "lastChecked": "2026-05-10T10:43:27.673763+00:00",
+      "lastChecked": "2026-05-11T12:37:56.412123+00:00",
       "jobs": []
     },
     "IDG Capital Fund Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-10T10:43:40.867032+00:00",
+      "lastChecked": "2026-05-11T12:38:15.383254+00:00",
       "jobs": []
     },
     "Bain Capital Ventures": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-10T10:43:57.369922+00:00",
+      "lastChecked": "2026-05-11T12:38:31.137555+00:00",
       "jobs": []
     },
     "Greenoaks Capital": {
       "hasInternPosting": false,
       "careerUrl": "https://greenoakscap.com/careers",
       "status": "ok",
-      "lastChecked": "2026-05-10T10:43:59.553342+00:00",
+      "lastChecked": "2026-05-11T12:38:33.759257+00:00",
       "jobs": []
     },
     "Matrix Partners China Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-10T10:44:16.208932+00:00",
+      "lastChecked": "2026-05-11T12:38:53.892941+00:00",
       "jobs": []
     },
     "Greylock Partners": {
       "hasInternPosting": true,
       "careerUrl": "https://greylock.com/careers",
       "status": "ok",
-      "lastChecked": "2026-05-10T10:44:24.608450+00:00",
+      "lastChecked": "2026-05-11T12:39:00.048322+00:00",
       "jobs": [
         {
           "title": "Filter jobs by skills and more Roles Enter roles Skills Enter skills Location Enter locations Company stage Enter stages",
@@ -566,43 +583,43 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-10T10:44:38.566222+00:00",
+      "lastChecked": "2026-05-11T12:39:15.655170+00:00",
       "jobs": []
     },
     "Oak Hcft Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-10T10:44:48.348090+00:00",
+      "lastChecked": "2026-05-11T12:39:26.501512+00:00",
       "jobs": []
     },
     "FTV Capital": {
       "hasInternPosting": false,
       "careerUrl": "https://www.ftvcapital.com/careers/students",
       "status": "ok",
-      "lastChecked": "2026-05-10T10:44:53.241883+00:00",
+      "lastChecked": "2026-05-11T12:39:31.771188+00:00",
       "jobs": []
     },
     "Eight Partners VC": {
       "hasInternPosting": true,
       "careerUrl": "https://www.8vc.com/jobs",
       "status": "ok",
-      "lastChecked": "2026-05-10T10:45:08.511514+00:00",
+      "lastChecked": "2026-05-11T12:39:49.269158+00:00",
       "jobs": [
         {
           "title": "Software Engineer II, Forwarding App Infra",
-          "description": "Flexport Shenzhen, Guangdong, China Today Air Freight Analytics Business And Industrial Business/Productivity Software Capital Cargo Insurance Cloud Software Customs Brokerage Data Enterprise Software Freight Forwarding Freight Service Global Trade International Shipping Logistics Logistics and Supply Chain Ocean Freight Platform SaaS Shipping Software Supply Chain Management Technology Transportation Transportation, Logistics, Supply Chain and Storage Read more about Software Engineer II, Forwa",
+          "description": "Flexport Shenzhen, Guangdong, China 1 day Air Freight Analytics Business And Industrial Business/Productivity Software Capital Cargo Insurance Cloud Software Customs Brokerage Data Enterprise Software Freight Forwarding Freight Service Global Trade International Shipping Logistics Logistics and Supply Chain Ocean Freight Platform SaaS Shipping Software Supply Chain Management Technology Transportation Transportation, Logistics, Supply Chain and Storage Read more about Software Engineer II, Forwa",
           "graduationDate": null,
           "applyUrl": "https://jobs.8vc.com/companies/flexport#content",
           "firstSeen": "2026-05-10",
           "source": "scraper"
         },
         {
-          "title": "Flexport Shenzhen, Guangdong, China Today Air Freight Analytics Business And Industrial Business/Productivity Software C",
+          "title": "Flexport Shenzhen, Guangdong, China 1 day Air Freight Analytics Business And Industrial Business/Productivity Software C",
           "description": "apital Cargo Insurance Cloud Software Customs Brokerage Data Enterprise Software Freight Forwarding Freight Service Global Trade International Shipping Logistics Logistics and Supply Chain Ocean Freight Platform SaaS Shipping Software Supply Chain Management Technology Transportation Transportation, Logistics, Supply Chain and Storage",
           "graduationDate": null,
           "applyUrl": "https://jobs.8vc.com/companies/flexport#content",
-          "firstSeen": "2026-05-10",
+          "firstSeen": "2026-05-11",
           "source": "scraper"
         },
         {
@@ -615,114 +632,66 @@
         },
         {
           "title": "Customs Specialist - Join Our Talent Community",
-          "description": "Flexport Dallas, TX, USA Today Air Freight Analytics Business And Industrial Business/Productivity Software Capital Cargo Insurance Cloud Software Customs Brokerage Data Enterprise Software Freight Forwarding Freight Service Global Trade International Shipping Logistics Logistics and Supply Chain Ocean Freight Platform SaaS Shipping Software Supply Chain Management Technology Transportation Transportation, Logistics, Supply Chain and Storage Read more about Customs Specialist - Join Our Talent C",
+          "description": "Flexport Los Angeles, CA, USA 1 day Air Freight Analytics Business And Industrial Business/Productivity Software Capital Cargo Insurance Cloud Software Customs Brokerage Data Enterprise Software Freight Forwarding Freight Service Global Trade International Shipping Logistics Logistics and Supply Chain Ocean Freight Platform SaaS Shipping Software Supply Chain Management Technology Transportation Transportation, Logistics, Supply Chain and Storage Read more about Customs Specialist - Join Our Tal",
           "graduationDate": null,
           "applyUrl": "https://jobs.8vc.com/companies/flexport#content",
           "firstSeen": "2026-05-10",
           "source": "scraper"
         },
         {
-          "title": "Flexport Dallas, TX, USA Today Air Freight Analytics Business And Industrial Business/Productivity Software Capital Carg",
-          "description": "o Insurance Cloud Software Customs Brokerage Data Enterprise Software Freight Forwarding Freight Service Global Trade International Shipping Logistics Logistics and Supply Chain Ocean Freight Platform SaaS Shipping Software Supply Chain Management Technology Transportation Transportation, Logistics, Supply Chain and Storage",
+          "title": "Flexport Los Angeles, CA, USA 1 day Air Freight Analytics Business And Industrial Business/Productivity Software Capital",
+          "description": "Cargo Insurance Cloud Software Customs Brokerage Data Enterprise Software Freight Forwarding Freight Service Global Trade International Shipping Logistics Logistics and Supply Chain Ocean Freight Platform SaaS Shipping Software Supply Chain Management Technology Transportation Transportation, Logistics, Supply Chain and Storage",
           "graduationDate": null,
           "applyUrl": "https://jobs.8vc.com/companies/flexport#content",
-          "firstSeen": "2026-05-10",
+          "firstSeen": "2026-05-11",
           "source": "scraper"
         },
         {
           "title": "Operations Associate - Join Our Talent Community",
-          "description": "Flexport Dallas, TX, USA Today Air Freight Analytics Business And Industrial Business/Productivity Software Capital Cargo Insurance Cloud Software Customs Brokerage Data Enterprise Software Freight Forwarding Freight Service Global Trade International Shipping Logistics Logistics and Supply Chain Ocean Freight Platform SaaS Shipping Software Supply Chain Management Technology Transportation Transportation, Logistics, Supply Chain and Storage Read more about Operations Associate - Join Our Talent",
+          "description": "Flexport Atlanta, GA, USA 1 day Air Freight Analytics Business And Industrial Business/Productivity Software Capital Cargo Insurance Cloud Software Customs Brokerage Data Enterprise Software Freight Forwarding Freight Service Global Trade International Shipping Logistics Logistics and Supply Chain Ocean Freight Platform SaaS Shipping Software Supply Chain Management Technology Transportation Transportation, Logistics, Supply Chain and Storage Read more about Operations Associate - Join Our Talen",
           "graduationDate": null,
           "applyUrl": "https://jobs.8vc.com/companies/flexport#content",
           "firstSeen": "2026-05-10",
           "source": "scraper"
         },
         {
-          "title": "Flexport Los Angeles, CA, USA Today Air Freight Analytics Business And Industrial Business/Productivity Software Capital",
-          "description": "Cargo Insurance Cloud Software Customs Brokerage Data Enterprise Software Freight Forwarding Freight Service Global Trade International Shipping Logistics Logistics and Supply Chain Ocean Freight Platform SaaS Shipping Software Supply Chain Management Technology Transportation Transportation, Logistics, Supply Chain and Storage",
-          "graduationDate": null,
-          "applyUrl": "https://jobs.8vc.com/companies/flexport#content",
-          "firstSeen": "2026-05-10",
-          "source": "scraper"
-        },
-        {
-          "title": "Flexport Atlanta, GA, USA Today Air Freight Analytics Business And Industrial Business/Productivity Software Capital Car",
+          "title": "Flexport Atlanta, GA, USA 1 day Air Freight Analytics Business And Industrial Business/Productivity Software Capital Car",
           "description": "go Insurance Cloud Software Customs Brokerage Data Enterprise Software Freight Forwarding Freight Service Global Trade International Shipping Logistics Logistics and Supply Chain Ocean Freight Platform SaaS Shipping Software Supply Chain Management Technology Transportation Transportation, Logistics, Supply Chain and Storage",
           "graduationDate": null,
           "applyUrl": "https://jobs.8vc.com/companies/flexport#content",
-          "firstSeen": "2026-05-10",
+          "firstSeen": "2026-05-11",
           "source": "scraper"
         },
         {
-          "title": "Flexport Chicago, IL, USA Today Air Freight Analytics Business And Industrial Business/Productivity Software Capital Car",
+          "title": "Flexport Chicago, IL, USA 1 day Air Freight Analytics Business And Industrial Business/Productivity Software Capital Car",
           "description": "go Insurance Cloud Software Customs Brokerage Data Enterprise Software Freight Forwarding Freight Service Global Trade International Shipping Logistics Logistics and Supply Chain Ocean Freight Platform SaaS Shipping Software Supply Chain Management Technology Transportation Transportation, Logistics, Supply Chain and Storage",
           "graduationDate": null,
           "applyUrl": "https://jobs.8vc.com/companies/flexport#content",
-          "firstSeen": "2026-05-10",
+          "firstSeen": "2026-05-11",
           "source": "scraper"
         },
         {
           "title": "Founding Account Manager",
-          "description": "Flexport Paris, France Today Air Freight Analytics Business And Industrial Business/Productivity Software Capital Cargo Insurance Cloud Software Customs Brokerage Data Enterprise Software Freight Forwarding Freight Service Global Trade International Shipping Logistics Logistics and Supply Chain Ocean Freight Platform SaaS Shipping Software Supply Chain Management Technology Transportation Transportation, Logistics, Supply Chain and Storage Read more about Founding Account Manager at Flexport",
+          "description": "Flexport Paris, France 1 day Air Freight Analytics Business And Industrial Business/Productivity Software Capital Cargo Insurance Cloud Software Customs Brokerage Data Enterprise Software Freight Forwarding Freight Service Global Trade International Shipping Logistics Logistics and Supply Chain Ocean Freight Platform SaaS Shipping Software Supply Chain Management Technology Transportation Transportation, Logistics, Supply Chain and Storage Read more about Founding Account Manager at Flexport",
           "graduationDate": null,
           "applyUrl": "https://jobs.8vc.com/companies/flexport#content",
           "firstSeen": "2026-05-10",
           "source": "scraper"
         },
         {
-          "title": "Flexport Paris, France Today Air Freight Analytics Business And Industrial Business/Productivity Software Capital Cargo",
+          "title": "Flexport Paris, France 1 day Air Freight Analytics Business And Industrial Business/Productivity Software Capital Cargo",
           "description": "Insurance Cloud Software Customs Brokerage Data Enterprise Software Freight Forwarding Freight Service Global Trade International Shipping Logistics Logistics and Supply Chain Ocean Freight Platform SaaS Shipping Software Supply Chain Management Technology Transportation Transportation, Logistics, Supply Chain and Storage",
           "graduationDate": null,
           "applyUrl": "https://jobs.8vc.com/companies/flexport#content",
-          "firstSeen": "2026-05-10",
+          "firstSeen": "2026-05-11",
           "source": "scraper"
         },
         {
-          "title": "Flexport Bellevue, WA, USA Today Air Freight Analytics Business And Industrial Business/Productivity Software Capital Ca",
-          "description": "rgo Insurance Cloud Software Customs Brokerage Data Enterprise Software Freight Forwarding Freight Service Global Trade International Shipping Logistics Logistics and Supply Chain Ocean Freight Platform SaaS Shipping Software Supply Chain Management Technology Transportation Transportation, Logistics, Supply Chain and Storage",
+          "title": "Flexport Dallas, TX, USA 1 day Air Freight Analytics Business And Industrial Business/Productivity Software Capital Carg",
+          "description": "o Insurance Cloud Software Customs Brokerage Data Enterprise Software Freight Forwarding Freight Service Global Trade International Shipping Logistics Logistics and Supply Chain Ocean Freight Platform SaaS Shipping Software Supply Chain Management Technology Transportation Transportation, Logistics, Supply Chain and Storage Entry Level",
           "graduationDate": null,
           "applyUrl": "https://jobs.8vc.com/companies/flexport#content",
-          "firstSeen": "2026-05-10",
-          "source": "scraper"
-        },
-        {
-          "title": "Operations Specialist - Join Our Talent Community",
-          "description": "Flexport Chicago, IL, USA Today Air Freight Analytics Business And Industrial Business/Productivity Software Capital Cargo Insurance Cloud Software Customs Brokerage Data Enterprise Software Freight Forwarding Freight Service Global Trade International Shipping Logistics Logistics and Supply Chain Ocean Freight Platform SaaS Shipping Software Supply Chain Management Technology Transportation Transportation, Logistics, Supply Chain and Storage Read more about Operations Specialist - Join Our Tale",
-          "graduationDate": null,
-          "applyUrl": "https://jobs.8vc.com/companies/flexport#content",
-          "firstSeen": "2026-05-10",
-          "source": "scraper"
-        },
-        {
-          "title": "Flexport San Francisco, CA, USA Today Air Freight Analytics Business And Industrial Business/Productivity Software Capit",
-          "description": "al Cargo Insurance Cloud Software Customs Brokerage Data Enterprise Software Freight Forwarding Freight Service Global Trade International Shipping Logistics Logistics and Supply Chain Ocean Freight Platform SaaS Shipping Software Supply Chain Management Technology Transportation Transportation, Logistics, Supply Chain and Storage",
-          "graduationDate": null,
-          "applyUrl": "https://jobs.8vc.com/companies/flexport#content",
-          "firstSeen": "2026-05-10",
-          "source": "scraper"
-        },
-        {
-          "title": "Flexport Denver, CO, USA Today Air Freight Analytics Business And Industrial Business/Productivity Software Capital Carg",
-          "description": "o Insurance Cloud Software Customs Brokerage Data Enterprise Software Freight Forwarding Freight Service Global Trade International Shipping Logistics Logistics and Supply Chain Ocean Freight Platform SaaS Shipping Software Supply Chain Management Technology Transportation Transportation, Logistics, Supply Chain and Storage",
-          "graduationDate": null,
-          "applyUrl": "https://jobs.8vc.com/companies/flexport#content",
-          "firstSeen": "2026-05-10",
-          "source": "scraper"
-        },
-        {
-          "title": "Assistant Manager - Ocean Operations, Mumbai",
-          "description": "Flexport Mumbai, Maharashtra, India Today Air Freight Analytics Business And Industrial Business/Productivity Software Capital Cargo Insurance Cloud Software Customs Brokerage Data Enterprise Software Freight Forwarding Freight Service Global Trade International Shipping Logistics Logistics and Supply Chain Ocean Freight Platform SaaS Shipping Software Supply Chain Management Technology Transportation Transportation, Logistics, Supply Chain and Storage Read more about Assistant Manager - Ocean O",
-          "graduationDate": null,
-          "applyUrl": "https://jobs.8vc.com/companies/flexport#content",
-          "firstSeen": "2026-05-10",
-          "source": "scraper"
-        },
-        {
-          "title": "Flexport Mumbai, Maharashtra, India Today Air Freight Analytics Business And Industrial Business/Productivity Software C",
-          "description": "apital Cargo Insurance Cloud Software Customs Brokerage Data Enterprise Software Freight Forwarding Freight Service Global Trade International Shipping Logistics Logistics and Supply Chain Ocean Freight Platform SaaS Shipping Software Supply Chain Management Technology Transportation Transportation, Logistics, Supply Chain and Storage",
-          "graduationDate": null,
-          "applyUrl": "https://jobs.8vc.com/companies/flexport#content",
-          "firstSeen": "2026-05-10",
+          "firstSeen": "2026-05-11",
           "source": "scraper"
         }
       ]
@@ -731,21 +700,21 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-10T10:45:15.525600+00:00",
+      "lastChecked": "2026-05-11T12:39:56.666528+00:00",
       "jobs": []
     },
     "Accel London Management Limited": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-10T10:45:22.414569+00:00",
+      "lastChecked": "2026-05-11T12:40:04.032346+00:00",
       "jobs": []
     },
     "Balderton Capital": {
       "hasInternPosting": true,
       "careerUrl": "https://www.balderton.com/company/careers",
       "status": "ok",
-      "lastChecked": "2026-05-10T10:45:40.236076+00:00",
+      "lastChecked": "2026-05-11T12:40:32.563986+00:00",
       "jobs": [
         {
           "title": "Matt Cooper",
@@ -809,42 +778,42 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-10T10:45:49.548436+00:00",
+      "lastChecked": "2026-05-11T12:40:42.424310+00:00",
       "jobs": []
     },
     "Altos Ventures Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-10T10:45:58.859328+00:00",
+      "lastChecked": "2026-05-11T12:41:00.706943+00:00",
       "jobs": []
     },
     "Bond": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-10T10:46:06.672196+00:00",
+      "lastChecked": "2026-05-11T12:41:09.261131+00:00",
       "jobs": []
     },
     "Addition": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-10T10:46:27.340642+00:00",
+      "lastChecked": "2026-05-11T12:41:31.393588+00:00",
       "jobs": []
     },
     "Redpoint Ventures": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-10T10:46:34.730331+00:00",
+      "lastChecked": "2026-05-11T12:41:39.556117+00:00",
       "jobs": []
     },
     "B Capital Group": {
       "hasInternPosting": true,
       "careerUrl": "https://www.bcapgroup.com/about/careers",
       "status": "ok",
-      "lastChecked": "2026-05-10T10:46:48.472851+00:00",
+      "lastChecked": "2026-05-11T12:41:54.314501+00:00",
       "jobs": [
         {
           "title": "Accacia 10 jobs Artificial Intelligence Business/Productivity Software Carbon Accounting Climate Change Environmental Services Environmental Services (B2B) Greentech Platform Real Estate SaaS Software",
@@ -956,84 +925,84 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-10T10:46:57.743503+00:00",
+      "lastChecked": "2026-05-11T12:42:04.226136+00:00",
       "jobs": []
     },
     "Columbia Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-10T10:47:12.690805+00:00",
+      "lastChecked": "2026-05-11T12:42:21.109487+00:00",
       "jobs": []
     },
     "Kaszek Management S.A.": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-10T10:47:22.993021+00:00",
+      "lastChecked": "2026-05-11T12:42:32.004648+00:00",
       "jobs": []
     },
     "Craft Ventures Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-10T10:47:32.707214+00:00",
+      "lastChecked": "2026-05-11T12:42:42.071855+00:00",
       "jobs": []
     },
     "Canaan Partners": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-10T10:47:39.572935+00:00",
+      "lastChecked": "2026-05-11T12:42:50.275262+00:00",
       "jobs": []
     },
     "Matrix Partners": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-10T10:47:49.754150+00:00",
+      "lastChecked": "2026-05-11T12:43:00.947609+00:00",
       "jobs": []
     },
     "Indigo Partners": {
       "hasInternPosting": false,
       "careerUrl": "https://www.indigopartners.com/careers",
       "status": "ok",
-      "lastChecked": "2026-05-10T10:47:51.582992+00:00",
+      "lastChecked": "2026-05-11T12:43:03.970796+00:00",
       "jobs": []
     },
     "Eclipse Ventures": {
       "hasInternPosting": false,
       "careerUrl": "https://www.eclipse.vc/careers",
       "status": "ok",
-      "lastChecked": "2026-05-10T10:48:00.149073+00:00",
+      "lastChecked": "2026-05-11T12:43:11.138424+00:00",
       "jobs": []
     },
     "Hedosophia Advisor Limited": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-10T10:48:43.737805+00:00",
+      "lastChecked": "2026-05-11T12:43:56.481439+00:00",
       "jobs": []
     },
     "DFJ Growth": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-10T10:48:51.170592+00:00",
+      "lastChecked": "2026-05-11T12:44:04.522326+00:00",
       "jobs": []
     },
     "VR Management": {
       "hasInternPosting": false,
       "careerUrl": "https://www.vrmanagement.com/careers",
       "status": "ok",
-      "lastChecked": "2026-05-10T10:49:09.162589+00:00",
+      "lastChecked": "2026-05-11T12:44:07.994789+00:00",
       "jobs": []
     },
     "Qiming Venture Partners": {
       "hasInternPosting": true,
       "careerUrl": "https://www.qimingvc.com/careers",
       "status": "ok",
-      "lastChecked": "2026-05-10T10:49:17.481669+00:00",
+      "lastChecked": "2026-05-11T12:44:16.014919+00:00",
       "jobs": [
         {
           "title": "QIMING VENTURE PARTNERS 2022 SUMMER INTERNSHIP——Summer Associate – T&C, Remote",
@@ -1137,77 +1106,134 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-10T10:49:26.816015+00:00",
+      "lastChecked": "2026-05-11T12:44:25.766574+00:00",
       "jobs": []
     },
     "Felicis Ventures": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-10T10:49:35.268124+00:00",
+      "lastChecked": "2026-05-11T12:44:34.580991+00:00",
       "jobs": []
     },
     "Menlo Ventures": {
-      "hasInternPosting": false,
+      "hasInternPosting": true,
       "careerUrl": "https://www.menlovc.com/join",
       "status": "ok",
-      "lastChecked": "2026-05-10T10:49:45.838438+00:00",
-      "jobs": []
+      "lastChecked": "2026-05-11T12:44:47.850987+00:00",
+      "jobs": [
+        {
+          "title": "Head of Legal",
+          "description": "Prime Intellect San Francisco, CA, USA USD 275k-330k / year + Equity Today Artificial Intelligence (AI) Business/Productivity Software Cloud Computing Data & Analytics Internet Services Science and Engineering Software Software Software Development Applications Seed Director Read more about Head of Legal at Prime Intellect",
+          "graduationDate": null,
+          "applyUrl": "https://jobs.menlovc.com/companies/prime-intellect#content",
+          "firstSeen": "2026-05-11",
+          "source": "scraper"
+        },
+        {
+          "title": "Prime Intellect San Francisco, CA, USA USD 275k-330k / year + Equity Today Artificial Intelligence (AI) Business/Product",
+          "description": "ivity Software Cloud Computing Data & Analytics Internet Services Science and Engineering Software Software Software Development Applications Seed Director",
+          "graduationDate": null,
+          "applyUrl": "https://jobs.menlovc.com/companies/prime-intellect#content",
+          "firstSeen": "2026-05-11",
+          "source": "scraper"
+        },
+        {
+          "title": "Artificial Intelligence (AI) Business/Productivity Software Cloud Computing Data & Analytics Internet Services Science a",
+          "description": "nd Engineering Software Software Software Development Applications Seed Director",
+          "graduationDate": null,
+          "applyUrl": "https://jobs.menlovc.com/jobs",
+          "firstSeen": "2026-05-11",
+          "source": "scraper"
+        },
+        {
+          "title": "Member of Technical Staff - Training Platform",
+          "description": "Prime Intellect San Francisco, CA, USA USD 150k-300k / year + Equity Today Artificial Intelligence (AI) Business/Productivity Software Cloud Computing Data & Analytics Internet Services Science and Engineering Software Software Software Development Applications Seed Read more about Member of Technical Staff - Training Platform at Prime Intellect",
+          "graduationDate": null,
+          "applyUrl": "https://jobs.menlovc.com/companies/prime-intellect#content",
+          "firstSeen": "2026-05-11",
+          "source": "scraper"
+        },
+        {
+          "title": "Prime Intellect San Francisco, CA, USA USD 150k-300k / year + Equity Today Artificial Intelligence (AI) Business/Product",
+          "description": "ivity Software Cloud Computing Data & Analytics Internet Services Science and Engineering Software Software Software Development Applications Seed",
+          "graduationDate": null,
+          "applyUrl": "https://jobs.menlovc.com/companies/prime-intellect#content",
+          "firstSeen": "2026-05-11",
+          "source": "scraper"
+        },
+        {
+          "title": "Member of Technical Staff - Sandbox Platform",
+          "description": "Prime Intellect San Francisco, CA, USA USD 150k-300k / year + Equity 1 day Artificial Intelligence (AI) Business/Productivity Software Cloud Computing Data & Analytics Internet Services Science and Engineering Software Software Software Development Applications Seed Read more about Member of Technical Staff - Sandbox Platform at Prime Intellect",
+          "graduationDate": null,
+          "applyUrl": "https://jobs.menlovc.com/companies/prime-intellect#content",
+          "firstSeen": "2026-05-11",
+          "source": "scraper"
+        },
+        {
+          "title": "Prime Intellect San Francisco, CA, USA USD 150k-300k / year + Equity 1 day Artificial Intelligence (AI) Business/Product",
+          "description": "ivity Software Cloud Computing Data & Analytics Internet Services Science and Engineering Software Software Software Development Applications Seed",
+          "graduationDate": null,
+          "applyUrl": "https://jobs.menlovc.com/companies/prime-intellect#content",
+          "firstSeen": "2026-05-11",
+          "source": "scraper"
+        }
+      ]
     },
     "Benchmark Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-10T10:49:53.139815+00:00",
+      "lastChecked": "2026-05-11T12:44:55.998393+00:00",
       "jobs": []
     },
     "Greycroft": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-10T10:50:03.900788+00:00",
+      "lastChecked": "2026-05-11T12:45:07.239594+00:00",
       "jobs": []
     },
     "Momentum Capital Partners Alpha Advisor Limited": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-10T10:50:14.112727+00:00",
+      "lastChecked": "2026-05-11T12:45:19.237074+00:00",
       "jobs": []
     },
     "Polaris Growth Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-10T10:50:23.669224+00:00",
+      "lastChecked": "2026-05-11T12:45:29.108321+00:00",
       "jobs": []
     },
     "K5 Global Advisor": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-10T10:50:33.372636+00:00",
+      "lastChecked": "2026-05-11T12:45:39.358617+00:00",
       "jobs": []
     },
     "Firstmark Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-10T10:50:41.971117+00:00",
+      "lastChecked": "2026-05-11T12:45:47.605224+00:00",
       "jobs": []
     },
     "Atreides Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-10T10:50:48.943151+00:00",
+      "lastChecked": "2026-05-11T12:45:54.572080+00:00",
       "jobs": []
     },
     "Madrona Venture Group": {
       "hasInternPosting": true,
       "careerUrl": "https://www.madrona.com/careers",
       "status": "ok",
-      "lastChecked": "2026-05-10T10:50:58.935145+00:00",
+      "lastChecked": "2026-05-11T12:46:15.631785+00:00",
       "jobs": [
         {
           "title": "EdgeRunner AI EdgeRunner AI is on a mission to build generative AI for the edge that is safe, secure, and transparent. E",
@@ -1292,95 +1318,38 @@
       ]
     },
     "Fifth Wall Asset Management": {
-      "hasInternPosting": true,
+      "hasInternPosting": false,
       "careerUrl": "https://fifthwall.com/careers",
       "status": "ok",
-      "lastChecked": "2026-05-10T10:51:04.933345+00:00",
-      "jobs": [
-        {
-          "title": "Intern jobs 71,196 open jobs",
-          "description": "Analyst jobs 694,057 open jobs Associate jobs 1,091,945 open jobs Vice President jobs 235,270 open jobs Investment Analyst jobs 14,999 open jobs Manager jobs 1,880,925 open jobs Real Estate Analyst jobs 28,041 open jobs President jobs 92,709 open jobs Engineer jobs 555,845 open jobs Professional Development Manager jobs 36,882 open jobs Intern jobs 71,196 open jobs Director Acquisition jobs 11,348 open jobs Hardware Manager jobs 9,984 open jobs Project Manager jobs 253,048 open jobs Sustainabili",
-          "graduationDate": null,
-          "applyUrl": "https://www.linkedin.com/jobs/intern-jobs?trk=organization_guest-browse_jobs",
-          "firstSeen": "2026-05-10",
-          "source": "scraper"
-        },
-        {
-          "title": "Intern jobs",
-          "description": "Associate jobs Analyst jobs Investment Associate jobs Manager jobs Intern jobs Real Estate Analyst jobs Chief of Staff jobs Head of Real Estate jobs Financial Planning Specialist jobs Business Development Specialist jobs Chief Financial Officer jobs Project Manager jobs Summer Analyst jobs Director jobs Senior Vice President jobs Corporate Development Specialist jobs Compliance Associate jobs Vice President jobs Principal jobs Operations Analyst jobs",
-          "graduationDate": null,
-          "applyUrl": "https://www.linkedin.com/jobs/intern-jobs?trk=organization_guest_linkster_link",
-          "firstSeen": "2026-05-10",
-          "source": "scraper"
-        },
-        {
-          "title": "Summer Analyst jobs",
-          "description": "Associate jobs Analyst jobs Investment Associate jobs Manager jobs Intern jobs Real Estate Analyst jobs Chief of Staff jobs Head of Real Estate jobs Financial Planning Specialist jobs Business Development Specialist jobs Chief Financial Officer jobs Project Manager jobs Summer Analyst jobs Director jobs Senior Vice President jobs Corporate Development Specialist jobs Compliance Associate jobs Vice President jobs Principal jobs Operations Analyst jobs",
-          "graduationDate": null,
-          "applyUrl": "https://www.linkedin.com/jobs/summer-analyst-jobs?trk=organization_guest_linkster_link",
-          "firstSeen": "2026-05-10",
-          "source": "scraper"
-        },
-        {
-          "title": "Browse jobs",
-          "description": "Analyst jobs 694,057 open jobs Associate jobs 1,091,945 open jobs Vice President jobs 235,270 open jobs Investment Analyst jobs 14,999 open jobs Manager jobs 1,880,925 open jobs Real Estate Analyst jobs 28,041 open jobs President jobs 92,709 open jobs Engineer jobs 555,845 open jobs Professional Development Manager jobs 36,882 open jobs Intern jobs 71,196 open jobs Director Acquisition jobs 11,348 open jobs Hardware Manager jobs 9,984 open jobs Project Manager jobs 253,048 open jobs Sustainabili",
-          "graduationDate": null,
-          "applyUrl": "https://www.linkedin.com/jobs/analyst-jobs?trk=organization_guest-browse_jobs",
-          "firstSeen": "2026-05-10",
-          "source": "scraper"
-        },
-        {
-          "title": "Analyst jobs",
-          "description": "694,057 open jobs Associate jobs 1,091,945 open jobs Vice President jobs 235,270 open jobs Investment Analyst jobs 14,999 open jobs Manager jobs 1,880,925 open jobs Real Estate Analyst jobs 28,041 open jobs President jobs 92,709 open jobs Engineer jobs 555,845 open jobs Professional Development Manager jobs 36,882 open jobs Intern jobs 71,196 open jobs Director Acquisition jobs 11,348 open jobs Hardware Manager jobs 9,984 open jobs Project Manager jobs 253,048 open jobs Sustainability Manager jo",
-          "graduationDate": null,
-          "applyUrl": "https://www.linkedin.com/jobs/analyst-jobs?trk=organization_guest-browse_jobs",
-          "firstSeen": "2026-05-10",
-          "source": "scraper"
-        },
-        {
-          "title": "More searches More searches Associate jobs Analyst jobs Investment Associate jobs Manager jobs Intern jobs Real Estate A",
-          "description": "nalyst jobs Chief of Staff jobs Head of Real Estate jobs Financial Planning Specialist jobs Business Development Specialist jobs Chief Financial Officer jobs Project Manager jobs Summer Analyst jobs Director jobs Senior Vice President jobs Corporate Development Specialist jobs Compliance Associate jobs Vice President jobs Principal jobs Operations Analyst jobs Compliance Specialist jobs Government Affairs Specialist jobs Private Equity Specialist jobs Human Resources Analyst jobs Private Equity",
-          "graduationDate": null,
-          "applyUrl": "https://www.linkedin.com/jobs/associate-jobs?trk=organization_guest_linkster_link",
-          "firstSeen": "2026-05-10",
-          "source": "scraper"
-        },
-        {
-          "title": "Associate jobs Analyst jobs Investment Associate jobs Manager jobs Intern jobs Real Estate Analyst jobs Chief of Staff j",
-          "description": "obs Head of Real Estate jobs Financial Planning Specialist jobs Business Development Specialist jobs Chief Financial Officer jobs Project Manager jobs Summer Analyst jobs Director jobs Senior Vice President jobs Corporate Development Specialist jobs Compliance Associate jobs Vice President jobs Principal jobs Operations Analyst jobs Compliance Specialist jobs Government Affairs Specialist jobs Private Equity Specialist jobs Human Resources Analyst jobs Private Equity Associate jobs Investment Ba",
-          "graduationDate": null,
-          "applyUrl": "https://www.linkedin.com/jobs/associate-jobs?trk=organization_guest_linkster_link",
-          "firstSeen": "2026-05-10",
-          "source": "scraper"
-        }
-      ]
+      "lastChecked": "2026-05-11T12:46:19.520655+00:00",
+      "jobs": []
     },
     "Valar Ventures": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-10T10:51:13.663357+00:00",
+      "lastChecked": "2026-05-11T12:46:58.081852+00:00",
       "jobs": []
     },
     "Momentum Capital Partners Fund IV Advisor Limited": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-10T10:51:22.932140+00:00",
+      "lastChecked": "2026-05-11T12:47:09.552334+00:00",
       "jobs": []
     },
     "Elevation Capital Partners": {
       "hasInternPosting": false,
       "careerUrl": "https://www.elevationcapital.com/careers",
       "status": "ok",
-      "lastChecked": "2026-05-10T10:51:25.147061+00:00",
+      "lastChecked": "2026-05-11T12:47:12.125154+00:00",
       "jobs": []
     },
     "Column Group": {
       "hasInternPosting": true,
       "careerUrl": "https://www.thecolumngroup.com/join",
       "status": "ok",
-      "lastChecked": "2026-05-10T10:51:35.742407+00:00",
+      "lastChecked": "2026-05-11T12:47:22.804659+00:00",
       "jobs": [
         {
           "title": "Filter jobs by skills and more Roles Enter roles Skills Enter skills Location Enter locations Company stage Enter stages",
@@ -1412,63 +1381,63 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-10T10:51:45.437092+00:00",
+      "lastChecked": "2026-05-11T12:47:32.691931+00:00",
       "jobs": []
     },
     "Eight Roads GP": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-10T10:52:05.405335+00:00",
+      "lastChecked": "2026-05-11T12:47:53.889113+00:00",
       "jobs": []
     },
     "Nexus Ventures Advisors Private Limited": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-10T10:52:48.439800+00:00",
+      "lastChecked": "2026-05-11T12:48:37.372215+00:00",
       "jobs": []
     },
     "Foundation Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-10T10:56:40.123655+00:00",
+      "lastChecked": "2026-05-11T12:52:29.276829+00:00",
       "jobs": []
     },
     "5Y Capital Management Limited": {
       "hasInternPosting": false,
-      "careerUrl": "https://www.5ycap.com/about/careers",
+      "careerUrl": "https://www.5ycap.com/careers/internships",
       "status": "ok",
-      "lastChecked": "2026-05-10T10:56:54.657239+00:00",
+      "lastChecked": "2026-05-11T12:52:34.034251+00:00",
       "jobs": []
     },
     "Meritech Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-10T10:57:02.584622+00:00",
+      "lastChecked": "2026-05-11T12:52:43.161883+00:00",
       "jobs": []
     },
     "Versant Venture Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-10T10:57:10.024066+00:00",
+      "lastChecked": "2026-05-11T12:52:51.763707+00:00",
       "jobs": []
     },
     "Golden Sand River Digital": {
       "hasInternPosting": false,
       "careerUrl": "https://www.gsrventures.com/careers",
       "status": "ok",
-      "lastChecked": "2026-05-10T10:57:14.583660+00:00",
+      "lastChecked": "2026-05-11T12:52:56.511756+00:00",
       "jobs": []
     },
     "Qiming Global Management": {
       "hasInternPosting": true,
       "careerUrl": "https://www.qimingvc.com/careers",
       "status": "ok",
-      "lastChecked": "2026-05-10T10:57:21.817365+00:00",
+      "lastChecked": "2026-05-11T12:53:04.858158+00:00",
       "jobs": [
         {
           "title": "QIMING VENTURE PARTNERS 2022 SUMMER INTERNSHIP——Summer Associate – T&C, Remote",
@@ -1572,14 +1541,14 @@
       "hasInternPosting": true,
       "careerUrl": "https://www.goodwatercap.com/careers/students",
       "status": "ok",
-      "lastChecked": "2026-05-10T10:57:26.402334+00:00",
+      "lastChecked": "2026-05-11T12:53:11.243392+00:00",
       "jobs": [
         {
-          "title": "77 companies . 1,751 jobs . Build World-Changing Consumer Tech.",
-          "description": "Home About Genesis Capital Collective Portfolio Home About Genesis Capital Collective Portfolio 77 companies . 1,751 jobs . Build World-Changing Consumer Tech. Jobs Companies Filter jobs by skills and more Roles Enter roles Skills Enter skills Location Enter locations Company stage Enter stages Industry Enter industries Salary Select... Internships only Remote options All jobs Posted Anytime Powered by Consider Powered by Consider Privacy Terms Consumer Tech Investors Contact Us 240 Lorton Ave B",
+          "title": "77 companies . 1,747 jobs . Build World-Changing Consumer Tech.",
+          "description": "Home About Genesis Capital Collective Portfolio Home About Genesis Capital Collective Portfolio 77 companies . 1,747 jobs . Build World-Changing Consumer Tech. Jobs Companies Filter jobs by skills and more Roles Enter roles Skills Enter skills Location Enter locations Company stage Enter stages Industry Enter industries Salary Select... Internships only Remote options All jobs Posted Anytime Powered by Consider Powered by Consider Privacy Terms Consumer Tech Investors Contact Us 240 Lorton Ave B",
           "graduationDate": null,
           "applyUrl": "https://www.goodwatercap.com/",
-          "firstSeen": "2026-05-10",
+          "firstSeen": "2026-05-11",
           "source": "scraper"
         },
         {
@@ -1612,42 +1581,42 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-10T10:57:37.225116+00:00",
+      "lastChecked": "2026-05-11T12:53:23.002939+00:00",
       "jobs": []
     },
     "BRV Lotus Holdings Limited": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-10T10:57:48.787825+00:00",
+      "lastChecked": "2026-05-11T12:53:34.200530+00:00",
       "jobs": []
     },
     "Breakthrough Energy Ventures": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-10T10:57:55.380946+00:00",
+      "lastChecked": "2026-05-11T12:53:40.854415+00:00",
       "jobs": []
     },
     "Next Legacy Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-10T10:58:08.741691+00:00",
+      "lastChecked": "2026-05-11T12:53:53.708834+00:00",
       "jobs": []
     },
     "Union Square Ventures": {
       "hasInternPosting": true,
       "careerUrl": "https://www.usv.com/jobs",
       "status": "ok",
-      "lastChecked": "2026-05-10T10:58:14.673602+00:00",
+      "lastChecked": "2026-05-11T12:53:59.994707+00:00",
       "jobs": [
         {
-          "title": "154 companies . 1,124 jobs . Re-shape your career.",
-          "description": "About People Investments Jobs Writing 154 companies . 1,124 jobs . Re-shape your career. Jobs Companies Talent Network Filter jobs by skills and more Sign in Roles Enter roles Skills Enter skills Location Enter locations Company stage Enter stages Industry Enter industries Salary Select... Internships only Remote options All jobs Posted Anytime Powered by Consider Powered by Consider Privacy Terms",
+          "title": "154 companies . 1,122 jobs . Re-shape your career.",
+          "description": "About People Investments Jobs Writing 154 companies . 1,122 jobs . Re-shape your career. Jobs Companies Talent Network Filter jobs by skills and more Sign in Roles Enter roles Skills Enter skills Location Enter locations Company stage Enter stages Industry Enter industries Salary Select... Internships only Remote options All jobs Posted Anytime Powered by Consider Powered by Consider Privacy Terms",
           "graduationDate": null,
           "applyUrl": "https://www.usv.com/",
-          "firstSeen": "2026-05-10",
+          "firstSeen": "2026-05-11",
           "source": "scraper"
         },
         {
@@ -1680,68 +1649,35 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-10T10:58:27.416679+00:00",
+      "lastChecked": "2026-05-11T12:54:13.604909+00:00",
       "jobs": []
     },
     "HV Capital Manager GMBH": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-10T10:58:34.213967+00:00",
+      "lastChecked": "2026-05-11T12:54:21.144390+00:00",
       "jobs": []
     },
     "Highland Europe Geneva S.A.R.L.": {
-      "hasInternPosting": true,
+      "hasInternPosting": false,
       "careerUrl": "https://www.highlandeurope.com/careers",
-      "status": "ok",
-      "lastChecked": "2026-05-10T10:58:42.551441+00:00",
-      "jobs": [
-        {
-          "title": "Exciting roles in the Highland Europe portfolio",
-          "description": "Companies Highlights Team Companies Highlights Team About Careers LinkedIn Exciting roles in the Highland Europe portfolio Jobs Companies Filter jobs by skills and more Roles Enter roles Skills Enter skills Location Enter locations Company stage Enter stages Industry Enter industries Internships only Remote options All jobs Posted Anytime Powered by Consider Powered by Consider Privacy Terms london 30 Golden Square London W1F 9LD United Kingdom geneva 18, rue du Marché 1204 Geneva Switzerland Co",
-          "graduationDate": null,
-          "applyUrl": "https://www.highlandeurope.com/",
-          "firstSeen": "2026-05-09",
-          "source": "scraper"
-        },
-        {
-          "title": "Filter jobs by skills and more Roles Enter roles Skills Enter skills Location Enter locations Company stage Enter stages",
-          "description": "Industry Enter industries Internships only Remote options All jobs Posted Anytime Powered by Consider",
-          "graduationDate": null,
-          "applyUrl": "https://product.consider.com/ctc/talent-circle?utm_campaign=undefined",
-          "firstSeen": "2026-04-18",
-          "source": "scraper"
-        },
-        {
-          "title": "Internships only Remote options All jobs Posted Anytime Powered by Consider",
-          "description": "",
-          "graduationDate": null,
-          "applyUrl": "https://product.consider.com/ctc/talent-circle?utm_campaign=undefined",
-          "firstSeen": "2026-04-18",
-          "source": "scraper"
-        },
-        {
-          "title": "Internships only Remote options All jobs Posted Anytime",
-          "description": "",
-          "graduationDate": null,
-          "applyUrl": "https://www.highlandeurope.com/careers",
-          "firstSeen": "2026-05-09",
-          "source": "scraper"
-        }
-      ]
+      "status": "request_error",
+      "lastChecked": "2026-05-11T12:54:42.078940+00:00",
+      "jobs": []
     },
     "Foresite Capital": {
       "hasInternPosting": true,
       "careerUrl": "https://www.foresitecapital.com/careers",
       "status": "ok",
-      "lastChecked": "2026-05-10T10:58:46.389584+00:00",
+      "lastChecked": "2026-05-11T12:54:46.356353+00:00",
       "jobs": [
         {
-          "title": "Career Opportunities: 121 companies . 1,447 jobs .",
-          "description": "Strategy Portfolio People Careers News Blog Contact Us Home Strategy Portfolio People Careers News Blog Contact Us Foresite Labs Investor Login Terms Privacy Policy Career Opportunities: 121 companies . 1,447 jobs . Jobs Companies Filter jobs by skills and more Roles Enter roles Skills Enter skills Location Enter locations Company stage Enter stages Industry Enter industries Salary Select... Internships only Remote options All jobs Posted Anytime Powered by Consider Powered by Consider Privacy T",
+          "title": "Career Opportunities: 121 companies . 1,445 jobs .",
+          "description": "Strategy Portfolio People Careers News Blog Contact Us Home Strategy Portfolio People Careers News Blog Contact Us Foresite Labs Investor Login Terms Privacy Policy Career Opportunities: 121 companies . 1,445 jobs . Jobs Companies Filter jobs by skills and more Roles Enter roles Skills Enter skills Location Enter locations Company stage Enter stages Industry Enter industries Salary Select... Internships only Remote options All jobs Posted Anytime Powered by Consider Powered by Consider Privacy T",
           "graduationDate": null,
           "applyUrl": "https://www.foresitecapital.com/",
-          "firstSeen": "2026-05-10",
+          "firstSeen": "2026-05-11",
           "source": "scraper"
         },
         {
@@ -1774,70 +1710,70 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-10T10:58:54.693676+00:00",
+      "lastChecked": "2026-05-11T12:54:55.860028+00:00",
       "jobs": []
     },
     "Foundry Group": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-10T10:59:03.715376+00:00",
+      "lastChecked": "2026-05-11T12:55:04.808858+00:00",
       "jobs": []
     },
     "Signalfire": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-10T10:59:13.027743+00:00",
+      "lastChecked": "2026-05-11T12:55:14.684388+00:00",
       "jobs": []
     },
     "MPM Bioimpact": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-10T10:59:25.235852+00:00",
+      "lastChecked": "2026-05-11T12:55:30.533255+00:00",
       "jobs": []
     },
     "83north 2017": {
       "hasInternPosting": false,
       "careerUrl": "https://www.83north.com/open-positions",
       "status": "ok",
-      "lastChecked": "2026-05-10T10:59:43.902797+00:00",
+      "lastChecked": "2026-05-11T12:55:45.194227+00:00",
       "jobs": []
     },
     "Emergence Equity Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-10T10:59:53.388069+00:00",
+      "lastChecked": "2026-05-11T12:55:54.983034+00:00",
       "jobs": []
     },
     "DCM": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-10T11:00:04.128416+00:00",
+      "lastChecked": "2026-05-11T12:56:06.536227+00:00",
       "jobs": []
     },
     "Forerunner Ventures Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-10T11:00:10.839524+00:00",
+      "lastChecked": "2026-05-11T12:56:14.037035+00:00",
       "jobs": []
     },
     "Georgian Partners Growth": {
       "hasInternPosting": false,
       "careerUrl": "https://www.georgian.io/careers",
       "status": "ok",
-      "lastChecked": "2026-05-10T11:00:13.233409+00:00",
+      "lastChecked": "2026-05-11T12:56:18.004453+00:00",
       "jobs": []
     },
     "h Investment Management": {
       "hasInternPosting": false,
       "careerUrl": "https://www.hinvestment.com/careers",
       "status": "ok",
-      "lastChecked": "2026-05-10T11:00:15.967744+00:00",
+      "lastChecked": "2026-05-11T12:56:25.199020+00:00",
       "jobs": []
     }
   }
