@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-05-21T12:37:32.456129+00:00",
-  "internCount": 18,
+  "lastUpdated": "2026-05-22T13:00:19.459799+00:00",
+  "internCount": 24,
   "firms": {
     "Sequoia Capital Operations": {
       "hasInternPosting": true,
       "careerUrl": "https://www.sequoiacap.com/jobs",
       "status": "ok",
-      "lastChecked": "2026-05-21T12:15:49.006879+00:00",
+      "lastChecked": "2026-05-22T12:30:30.341651+00:00",
       "jobs": [
         {
           "title": "Make a dent in the world",
@@ -43,31 +43,64 @@
       ]
     },
     "Andreessen Horowitz": {
-      "hasInternPosting": false,
+      "hasInternPosting": true,
       "careerUrl": "https://a16z.com/jobs",
       "status": "ok",
-      "lastChecked": "2026-05-21T12:16:09.096040+00:00",
-      "jobs": []
+      "lastChecked": "2026-05-22T12:30:36.249879+00:00",
+      "jobs": [
+        {
+          "title": "766 companies . 15,220 jobs . It's time to build.",
+          "description": "All Portfolio Jobs Jobs by company a16z jobs A16Z TalentPlace Filter jobs by skills and more Roles Enter roles Skills Enter skills Location Enter locations Company stage Enter stages Industry Enter industries Salary Select... Internships only Remote options All jobs Posted Anytime Powered by Consider Powered by Consider Privacy Terms Software is Eating the World © 2026 Andreessen Horowitz © 2026 Andreessen Horowitz Terms of Use Privacy Policy Disclosures Sitemap",
+          "graduationDate": null,
+          "applyUrl": "https://a16z.com/jobs",
+          "firstSeen": "2026-05-22",
+          "source": "scraper"
+        },
+        {
+          "title": "Filter jobs by skills and more Roles Enter roles Skills Enter skills Location Enter locations Company stage Enter stages",
+          "description": "Industry Enter industries Salary Select... Internships only Remote options All jobs Posted Anytime Powered by Consider",
+          "graduationDate": null,
+          "applyUrl": "https://product.consider.com/ctc/talent-circle?utm_campaign=undefined",
+          "firstSeen": "2026-04-18",
+          "source": "scraper"
+        },
+        {
+          "title": "Internships only Remote options All jobs Posted Anytime Powered by Consider",
+          "description": "",
+          "graduationDate": null,
+          "applyUrl": "https://product.consider.com/ctc/talent-circle?utm_campaign=undefined",
+          "firstSeen": "2026-04-18",
+          "source": "scraper"
+        },
+        {
+          "title": "Internships only Remote options All jobs Posted Anytime",
+          "description": "",
+          "graduationDate": null,
+          "applyUrl": "https://a16z.com/jobs",
+          "firstSeen": "2026-05-22",
+          "source": "scraper"
+        }
+      ]
     },
     "General Catalyst": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-21T12:16:19.078785+00:00",
+      "lastChecked": "2026-05-22T12:30:44.901514+00:00",
       "jobs": []
     },
     "Encap Investments": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-21T12:16:32.670632+00:00",
+      "lastChecked": "2026-05-22T12:34:36.618716+00:00",
       "jobs": []
     },
     "Lightspeed Venture Partners": {
       "hasInternPosting": true,
       "careerUrl": "https://lsvp.com/work-with-us",
       "status": "ok",
-      "lastChecked": "2026-05-21T12:16:43.031240+00:00",
+      "lastChecked": "2026-05-22T12:34:47.434810+00:00",
       "jobs": [
         {
           "title": "Filter jobs by skills and more Roles Enter roles Skills Enter skills Location Enter locations Company stage Enter stages",
@@ -99,42 +132,115 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-21T12:16:56.253189+00:00",
+      "lastChecked": "2026-05-22T12:35:01.780231+00:00",
       "jobs": []
     },
     "Accel Management": {
-      "hasInternPosting": false,
-      "careerUrl": null,
-      "status": "no_url",
-      "lastChecked": "2026-05-21T12:17:06.176584+00:00",
-      "jobs": []
+      "hasInternPosting": true,
+      "careerUrl": "https://www.accel.com/careers",
+      "status": "ok",
+      "lastChecked": "2026-05-22T12:35:07.195867+00:00",
+      "jobs": [
+        {
+          "title": "Acalvio Technologies Active Directory Artificial Intelligence Business And Industrial Cloud Computing Cloud Security Computer Computer and Network Security Computer & Network Security Consumer Electro",
+          "description": "",
+          "graduationDate": null,
+          "applyUrl": "https://www.accel.com/companies/acalvio-technologies-2#content",
+          "firstSeen": "2026-05-22",
+          "source": "scraper"
+        },
+        {
+          "title": "Accacia 10 jobs Seed Artificial Intelligence Business/Productivity Software Carbon Accounting Climate Change Environmental Services Environmental Services (B2B) Greentech Platform Real Estate SaaS Sof",
+          "description": "Accacia 10 jobs Seed Artificial Intelligence Business/Productivity Software Carbon Accounting Climate Change Environmental Services Environmental Services (B2B) Greentech Platform Real Estate SaaS Software Sustainability Sustainability Technology Technology, Information and Internet Seed Artificial Intelligence Business/Productivity Software Carbon Accounting Climate Change Environmental Services Environmental Services (B2B) Greentech Platform Real Estate SaaS Software Sustainability Sustainabil",
+          "graduationDate": null,
+          "applyUrl": "https://www.accel.com/companies/accacia#content",
+          "firstSeen": "2026-05-22",
+          "source": "scraper"
+        },
+        {
+          "title": "AdRoll 1 jobs Ad Retargeting AdTech Advertising Analytics Artificial Intelligence Business And Industrial Commerce and Shopping Communication & Sales Data & Analytics Digital Advertising Digital Marke",
+          "description": "",
+          "graduationDate": null,
+          "applyUrl": "https://www.accel.com/companies/adroll#content",
+          "firstSeen": "2026-05-22",
+          "source": "scraper"
+        },
+        {
+          "title": "Active Directory Artificial Intelligence Business And Industrial Cloud Computing Cloud Security Computer Computer and Ne",
+          "description": "twork Security Computer & Network Security Consumer Electronics Cybersecurity Cyber Security Data & Analytics Enterprise Software Hardware Information Security Internet Services Machine Learning Network Management Software Network Security Privacy and Security SaaS Security Security Software Systems and Information Management Technology Threat Hunting Threat Intelligence Active Directory Artificial Intelligence Business And Industrial Cloud Computing Cloud Security Computer Computer and Network",
+          "graduationDate": null,
+          "applyUrl": "https://www.accel.com/careers",
+          "firstSeen": "2026-05-22",
+          "source": "scraper"
+        },
+        {
+          "title": "Accacia 10 jobs Seed Artificial Intelligence Business/Productivity Software Carbon Accounting Climate Change Environment",
+          "description": "al Services Environmental Services (B2B) Greentech Platform Real Estate SaaS Software Sustainability Sustainability Technology Technology, Information and Internet Seed Artificial Intelligence Business/Productivity Software Carbon Accounting Climate Change Environmental Services Environmental Services (B2B) Greentech Platform Real Estate SaaS Software Sustainability Sustainability Technology Technology, Information and Internet + 99 more Accacia is an AI-enabled real-estate decarbonization platf",
+          "graduationDate": null,
+          "applyUrl": "https://www.accel.com/companies/accacia#content",
+          "firstSeen": "2026-05-22",
+          "source": "scraper"
+        },
+        {
+          "title": "Seed Artificial Intelligence Business/Productivity Software Carbon Accounting Climate Change Environmental Services Envi",
+          "description": "ronmental Services (B2B) Greentech Platform Real Estate SaaS Software Sustainability Sustainability Technology Technology, Information and Internet Seed Artificial Intelligence Business/Productivity Software Carbon Accounting Climate Change Environmental Services Environmental Services (B2B) Greentech Platform Real Estate SaaS Software Sustainability Sustainability Technology Technology, Information and Internet + 99 more Accacia is an AI-enabled real-estate decarbonization platform that allows",
+          "graduationDate": null,
+          "applyUrl": "https://www.accel.com/careers",
+          "firstSeen": "2026-05-22",
+          "source": "scraper"
+        },
+        {
+          "title": "Technology, Information and Internet",
+          "description": "",
+          "graduationDate": null,
+          "applyUrl": "https://www.accel.com/careers",
+          "firstSeen": "2026-05-22",
+          "source": "scraper"
+        },
+        {
+          "title": "AdRoll 1 jobs Ad Retargeting AdTech Advertising Analytics Artificial Intelligence Business And Industrial Commerce and S",
+          "description": "hopping Communication & Sales Data & Analytics Digital Advertising Digital Marketing Direct Marketing Display Advertising E-Commerce E-Commerce Platforms Email Marketing Internet Services Machine Learning Marketing Marketing Analytics Marketing Attribution Omni-Channel Marketing Platform Predictive Analytics Programmatic Advertising SaaS Sales & Marketing Social Advertising Software Software Technology Ad Retargeting AdTech Advertising Analytics Artificial Intelligence Business And Industrial Co",
+          "graduationDate": null,
+          "applyUrl": "https://www.accel.com/companies/adroll#content",
+          "firstSeen": "2026-05-22",
+          "source": "scraper"
+        },
+        {
+          "title": "Ad Retargeting AdTech Advertising Analytics Artificial Intelligence Business And Industrial Commerce and Shopping Commun",
+          "description": "ication & Sales Data & Analytics Digital Advertising Digital Marketing Direct Marketing Display Advertising E-Commerce E-Commerce Platforms Email Marketing Internet Services Machine Learning Marketing Marketing Analytics Marketing Attribution Omni-Channel Marketing Platform Predictive Analytics Programmatic Advertising SaaS Sales & Marketing Social Advertising Software Software Technology Ad Retargeting AdTech Advertising Analytics Artificial Intelligence Business And Industrial Commerce and Sho",
+          "graduationDate": null,
+          "applyUrl": "https://www.accel.com/careers",
+          "firstSeen": "2026-05-22",
+          "source": "scraper"
+        }
+      ]
     },
     "Cobalt Investment Management": {
       "hasInternPosting": false,
       "careerUrl": "https://www.cobaltlp.com/careers",
       "status": "ok",
-      "lastChecked": "2026-05-21T12:17:11.151957+00:00",
+      "lastChecked": "2026-05-22T12:35:11.034702+00:00",
       "jobs": []
     },
     "Founders Fund": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-21T12:17:26.904768+00:00",
+      "lastChecked": "2026-05-22T12:35:25.758098+00:00",
       "jobs": []
     },
     "Index Ventures SA": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-21T12:17:41.115749+00:00",
+      "lastChecked": "2026-05-22T12:35:39.079561+00:00",
       "jobs": []
     },
     "Bessemer Venture Partners": {
       "hasInternPosting": true,
       "careerUrl": "https://www.bvp.com/jobs",
       "status": "ok",
-      "lastChecked": "2026-05-21T12:17:46.817592+00:00",
+      "lastChecked": "2026-05-22T12:35:44.409488+00:00",
       "jobs": [
         {
           "title": "Filter jobs by skills and more Roles Enter roles Skills Enter skills Location Enter locations Company stage Enter stages",
@@ -206,102 +312,79 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-21T12:17:55.793155+00:00",
+      "lastChecked": "2026-05-22T12:35:51.827631+00:00",
       "jobs": []
     },
     "Impresa Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-21T12:18:02.482925+00:00",
+      "lastChecked": "2026-05-22T12:35:58.687673+00:00",
       "jobs": []
     },
     "Khosla Ventures": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-21T12:18:14.611340+00:00",
+      "lastChecked": "2026-05-22T12:36:08.388240+00:00",
       "jobs": []
     },
     "Angellist Advisors": {
-      "hasInternPosting": false,
+      "hasInternPosting": true,
       "careerUrl": "https://www.angellist.com/careers",
       "status": "ok",
-      "lastChecked": "2026-05-21T12:18:21.357012+00:00",
-      "jobs": []
+      "lastChecked": "2026-05-22T12:36:14.332901+00:00",
+      "jobs": [
+        {
+          "title": "Nice to Have",
+          "description": "Experience with double-entry accounting systems or general ledger design Background in regulated financial products or fintech infrastructure Familiarity with event-driven architectures and distributed systems patterns Experience building developer-facing tooling, SDKs, or internal platforms",
+          "graduationDate": null,
+          "applyUrl": "https://www.angellist.com/careers/715b6b72-3ea8-40c5-afc0-3870a301b224",
+          "firstSeen": "2026-05-22",
+          "source": "scraper"
+        }
+      ]
     },
     "Flagship Pioneering": {
       "hasInternPosting": false,
       "careerUrl": "https://www.flagshippioneering.com/join",
       "status": "ok",
-      "lastChecked": "2026-05-21T12:18:33.519406+00:00",
+      "lastChecked": "2026-05-22T12:36:26.024905+00:00",
       "jobs": []
     },
     "Banyan Capital Partners": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-21T12:18:50.902901+00:00",
+      "lastChecked": "2026-05-22T12:36:40.514745+00:00",
       "jobs": []
     },
     "Spark Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-21T12:19:01.068314+00:00",
+      "lastChecked": "2026-05-22T12:36:48.910012+00:00",
       "jobs": []
     },
     "Ribbit Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-21T12:19:12.822809+00:00",
+      "lastChecked": "2026-05-22T12:36:58.869502+00:00",
       "jobs": []
     },
     "Y Combinator": {
       "hasInternPosting": true,
       "careerUrl": "https://www.ycombinator.com/careers",
       "status": "ok",
-      "lastChecked": "2026-05-21T12:19:17.229306+00:00",
+      "lastChecked": "2026-05-22T12:37:03.307906+00:00",
       "jobs": [
-        {
-          "title": "The Blaze \"No AI Summer\" Internship",
-          "description": "Text Blaze (W21) • Slash commands anywhere ( 10 days ago) Internship • Engineering • Full stack • $2K - $5K / monthly • Remote",
-          "graduationDate": null,
-          "applyUrl": "https://www.ycombinator.com/companies/text-blaze/jobs/P4CCN62-the-blaze-no-ai-summer-internship",
-          "firstSeen": "2026-05-21",
-          "source": "scraper"
-        },
         {
           "title": "Internships",
           "description": "Jobs Internships Events How it works Sign In",
           "graduationDate": null,
           "applyUrl": "https://www.workatastartup.com/internships",
           "firstSeen": "2026-04-18",
-          "source": "scraper"
-        },
-        {
-          "title": "Text Blaze (W21) Slash commands anywhere Text Blaze (W21) • Slash commands anywhere ( 10 days ago) The Blaze \"No AI Summ",
-          "description": "er\" Internship Internship • Engineering • Full stack • $2K - $5K / monthly • Remote Apply",
-          "graduationDate": null,
-          "applyUrl": "https://www.ycombinator.com/companies/text-blaze",
-          "firstSeen": "2026-05-21",
-          "source": "scraper"
-        },
-        {
-          "title": "Text Blaze (W21) • Slash commands anywhere ( 10 days ago) The Blaze \"No AI Summer\" Internship Internship • Engineering •",
-          "description": "Full stack • $2K - $5K / monthly • Remote",
-          "graduationDate": null,
-          "applyUrl": "https://www.ycombinator.com/companies/text-blaze",
-          "firstSeen": "2026-05-21",
-          "source": "scraper"
-        },
-        {
-          "title": "Internship • Engineering • Full stack • $2K - $5K / monthly • Remote",
-          "description": "",
-          "graduationDate": null,
-          "applyUrl": "https://www.ycombinator.com/jobs",
-          "firstSeen": "2026-05-21",
           "source": "scraper"
         },
         {
@@ -318,325 +401,101 @@
       "hasInternPosting": false,
       "careerUrl": "https://www.racap.com/join-us",
       "status": "ok",
-      "lastChecked": "2026-05-21T12:19:25.274041+00:00",
+      "lastChecked": "2026-05-22T12:37:09.729208+00:00",
       "jobs": []
     },
     "Sapphire Ventures": {
       "hasInternPosting": true,
       "careerUrl": "https://sapphireventures.com/careers",
       "status": "ok",
-      "lastChecked": "2026-05-21T12:19:33.738307+00:00",
+      "lastChecked": "2026-05-22T12:37:15.563118+00:00",
       "jobs": [
         {
-          "title": "Data Engineer (GTM)",
-          "description": "TRACTIAN BRL 1,035-1,035 / month + Equity Today Mid-Senior Level Artificial Intelligence (AI) B2B Energy Management Enterprise Software Hardware Industrial Internet Internet of Things Machine Learning Manufacturing SaaS Sensor Software Mid-Senior Level Artificial Intelligence (AI) B2B Energy Management Enterprise Software Hardware Industrial Internet Internet of Things Machine Learning Manufacturing SaaS Sensor Software + 99 more Read more about Data Engineer (GTM) at TRACTIAN",
+          "title": "Enterprise Account Executive - International",
+          "description": "Enterprise Account Executive - International Matillion Manchester, UK Today Analytics Business Intelligence Cloud Data Services Data Integration Enterprise Software Marketplace SaaS Software Software Development Analytics Business Intelligence Cloud Data Services Data Integration Enterprise Software Marketplace SaaS Software Software Development + 99 more",
           "graduationDate": null,
-          "applyUrl": "https://sapphireventures.com/companies/tractian#content",
-          "firstSeen": "2026-05-21",
+          "applyUrl": "https://sapphireventures.com/companies/matillion/jobs/79770409-enterprise-account-executive-international#content",
+          "firstSeen": "2026-05-22",
           "source": "scraper"
         },
         {
-          "title": "TRACTIAN BRL 1,035-1,035 / month + Equity Today Mid-Senior Level Artificial Intelligence (AI) B2B Energy Management Ente",
-          "description": "rprise Software Hardware Industrial Internet Internet of Things Machine Learning Manufacturing SaaS Sensor Software Mid-Senior Level Artificial Intelligence (AI) B2B Energy Management Enterprise Software Hardware Industrial Internet Internet of Things Machine Learning Manufacturing SaaS Sensor Software + 99 more",
+          "title": "Read more about Enterprise Account Executive - International at Matillion",
+          "description": "Enterprise Account Executive - International Matillion Manchester, UK Today Analytics Business Intelligence Cloud Data Services Data Integration Enterprise Software Marketplace SaaS Software Software Development Analytics Business Intelligence Cloud Data Services Data Integration Enterprise Software Marketplace SaaS Software Software Development + 99 more Read more about Enterprise Account Executive - International at Matillion",
           "graduationDate": null,
-          "applyUrl": "https://sapphireventures.com/companies/tractian#content",
-          "firstSeen": "2026-05-21",
+          "applyUrl": "https://sapphireventures.com/companies/matillion/jobs/79770409-enterprise-account-executive-international#content",
+          "firstSeen": "2026-05-22",
           "source": "scraper"
         },
         {
-          "title": "Mid-Senior Level Artificial Intelligence (AI) B2B Energy Management Enterprise Software Hardware Industrial Internet Int",
-          "description": "ernet of Things Machine Learning Manufacturing SaaS Sensor Software Mid-Senior Level Artificial Intelligence (AI) B2B Energy Management Enterprise Software Hardware Industrial Internet Internet of Things Machine Learning Manufacturing SaaS Sensor Software + 99 more",
+          "title": "Manager, AI Quality Evals",
+          "description": "Glean Mountain View, CA, USA Today Agentic AI Artificial Intelligence (AI) Big Data Business/Productivity Software Data & Analytics Database Software Enterprise Software Generative AI Internet Internet Services Machine Learning Platform Productivity Tools SaaS Science and Engineering Search Search Engine Software Software Development Technology Agentic AI Artificial Intelligence (AI) Big Data Business/Productivity Software Data & Analytics Database Software Enterprise Software Generative AI Inte",
+          "graduationDate": null,
+          "applyUrl": "https://sapphireventures.com/companies/glean#content",
+          "firstSeen": "2026-05-22",
+          "source": "scraper"
+        },
+        {
+          "title": "Glean Mountain View, CA, USA Today Agentic AI Artificial Intelligence (AI) Big Data Business/Productivity Software Data",
+          "description": "& Analytics Database Software Enterprise Software Generative AI Internet Internet Services Machine Learning Platform Productivity Tools SaaS Science and Engineering Search Search Engine Software Software Development Technology Agentic AI Artificial Intelligence (AI) Big Data Business/Productivity Software Data & Analytics Database Software Enterprise Software Generative AI Internet Internet Services Machine Learning Platform Productivity Tools SaaS Science and Engineering Search Search Engine So",
+          "graduationDate": null,
+          "applyUrl": "https://sapphireventures.com/companies/glean#content",
+          "firstSeen": "2026-05-22",
+          "source": "scraper"
+        },
+        {
+          "title": "Agentic AI Artificial Intelligence (AI) Big Data Business/Productivity Software Data & Analytics Database Software Enter",
+          "description": "prise Software Generative AI Internet Internet Services Machine Learning Platform Productivity Tools SaaS Science and Engineering Search Search Engine Software Software Development Technology Agentic AI Artificial Intelligence (AI) Big Data Business/Productivity Software Data & Analytics Database Software Enterprise Software Generative AI Internet Internet Services Machine Learning Platform Productivity Tools SaaS Science and Engineering Search Search Engine Software Software Development Technol",
           "graduationDate": null,
           "applyUrl": "https://sapphireventures.com/careers",
-          "firstSeen": "2026-05-21",
+          "firstSeen": "2026-05-22",
           "source": "scraper"
         },
         {
-          "title": "Senior Manager, Analytics & Insights | United States | Remote",
-          "description": "Grafana Labs United States ; Remote USD 202,244-242,693 / year + Equity Today Mid-Senior Level Analytics Automation/Workflow Software Big Data Business/Productivity Software Cloud Cloud Data Services Cloud Infrastructure Dashboards Data & Analytics Data Management Data Visualization Design Enterprise Software Hardware Infrastructure Internet Internet Services Media and Information Services (B2B) Monitoring Observability Open Source Platform Software Software Development Technology Technology And",
+          "title": "Pricing Strategic Lead",
+          "description": "Glean Mountain View, CA, USA Today Agentic AI Artificial Intelligence (AI) Big Data Business/Productivity Software Data & Analytics Database Software Enterprise Software Generative AI Internet Internet Services Machine Learning Platform Productivity Tools SaaS Science and Engineering Search Search Engine Software Software Development Technology Agentic AI Artificial Intelligence (AI) Big Data Business/Productivity Software Data & Analytics Database Software Enterprise Software Generative AI Inte",
+          "graduationDate": null,
+          "applyUrl": "https://sapphireventures.com/companies/glean#content",
+          "firstSeen": "2026-05-22",
+          "source": "scraper"
+        },
+        {
+          "title": "Senior Product Manager | US | Remote",
+          "description": "Grafana Labs United States ; Remote Today Analytics Automation/Workflow Software Big Data Business/Productivity Software Cloud Cloud Data Services Cloud Infrastructure Dashboards Data & Analytics Data Management Data Visualization Design Enterprise Software Hardware Infrastructure Internet Internet Services Media and Information Services (B2B) Monitoring Observability Open Source Platform Software Software Development Technology Technology And Computing Analytics Automation/Workflow Software Big",
           "graduationDate": null,
           "applyUrl": "https://sapphireventures.com/companies/grafana-labs#content",
-          "firstSeen": "2026-05-21",
+          "firstSeen": "2026-05-22",
           "source": "scraper"
         },
         {
-          "title": "Grafana Labs United States ; Remote USD 202,244-242,693 / year + Equity Today Mid-Senior Level Analytics Automation/Work",
-          "description": "flow Software Big Data Business/Productivity Software Cloud Cloud Data Services Cloud Infrastructure Dashboards Data & Analytics Data Management Data Visualization Design Enterprise Software Hardware Infrastructure Internet Internet Services Media and Information Services (B2B) Monitoring Observability Open Source Platform Software Software Development Technology Technology And Computing Mid-Senior Level Analytics Automation/Workflow Software Big Data Business/Productivity Software Cloud Cloud D",
+          "title": "Grafana Labs United States ; Remote Today Analytics Automation/Workflow Software Big Data Business/Productivity Software",
+          "description": "Cloud Cloud Data Services Cloud Infrastructure Dashboards Data & Analytics Data Management Data Visualization Design Enterprise Software Hardware Infrastructure Internet Internet Services Media and Information Services (B2B) Monitoring Observability Open Source Platform Software Software Development Technology Technology And Computing Analytics Automation/Workflow Software Big Data Business/Productivity Software Cloud Cloud Data Services Cloud Infrastructure Dashboards Data & Analytics Data Mana",
           "graduationDate": null,
           "applyUrl": "https://sapphireventures.com/companies/grafana-labs#content",
-          "firstSeen": "2026-05-21",
+          "firstSeen": "2026-05-22",
           "source": "scraper"
         },
         {
-          "title": "Mid-Senior Level Analytics Automation/Workflow Software Big Data Business/Productivity Software Cloud Cloud Data Service",
-          "description": "s Cloud Infrastructure Dashboards Data & Analytics Data Management Data Visualization Design Enterprise Software Hardware Infrastructure Internet Internet Services Media and Information Services (B2B) Monitoring Observability Open Source Platform Software Software Development Technology Technology And Computing Mid-Senior Level Analytics Automation/Workflow Software Big Data Business/Productivity Software Cloud Cloud Data Services Cloud Infrastructure Dashboards Data & Analytics Data Management",
+          "title": "Analytics Automation/Workflow Software Big Data Business/Productivity Software Cloud Cloud Data Services Cloud Infrastru",
+          "description": "cture Dashboards Data & Analytics Data Management Data Visualization Design Enterprise Software Hardware Infrastructure Internet Internet Services Media and Information Services (B2B) Monitoring Observability Open Source Platform Software Software Development Technology Technology And Computing Analytics Automation/Workflow Software Big Data Business/Productivity Software Cloud Cloud Data Services Cloud Infrastructure Dashboards Data & Analytics Data Management Data Visualization Design Enterpri",
           "graduationDate": null,
           "applyUrl": "https://sapphireventures.com/careers",
-          "firstSeen": "2026-05-21",
+          "firstSeen": "2026-05-22",
           "source": "scraper"
         },
         {
-          "title": "Senior Commercial Account Executive, Growth | CA | Remote",
-          "description": "Grafana Labs United States ; Remote USD 200k-220k / year + Equity Today Senior Analytics Automation/Workflow Software Big Data Business/Productivity Software Cloud Cloud Data Services Cloud Infrastructure Dashboards Data & Analytics Data Management Data Visualization Design Enterprise Software Hardware Infrastructure Internet Internet Services Media and Information Services (B2B) Monitoring Observability Open Source Platform Software Software Development Technology Technology And Computing Senio",
+          "title": "Senior Product Manager | Canada | Remote",
+          "description": "Grafana Labs Canada ; Remote Today Analytics Automation/Workflow Software Big Data Business/Productivity Software Cloud Cloud Data Services Cloud Infrastructure Dashboards Data & Analytics Data Management Data Visualization Design Enterprise Software Hardware Infrastructure Internet Internet Services Media and Information Services (B2B) Monitoring Observability Open Source Platform Software Software Development Technology Technology And Computing Analytics Automation/Workflow Software Big Data B",
           "graduationDate": null,
           "applyUrl": "https://sapphireventures.com/companies/grafana-labs#content",
-          "firstSeen": "2026-05-21",
+          "firstSeen": "2026-05-22",
           "source": "scraper"
         },
         {
-          "title": "Grafana Labs United States ; Remote USD 200k-220k / year + Equity Today Senior Analytics Automation/Workflow Software Bi",
-          "description": "g Data Business/Productivity Software Cloud Cloud Data Services Cloud Infrastructure Dashboards Data & Analytics Data Management Data Visualization Design Enterprise Software Hardware Infrastructure Internet Internet Services Media and Information Services (B2B) Monitoring Observability Open Source Platform Software Software Development Technology Technology And Computing Senior Analytics Automation/Workflow Software Big Data Business/Productivity Software Cloud Cloud Data Services Cloud Infrast",
+          "title": "Grafana Labs Canada ; Remote Today Analytics Automation/Workflow Software Big Data Business/Productivity Software Cloud",
+          "description": "Cloud Data Services Cloud Infrastructure Dashboards Data & Analytics Data Management Data Visualization Design Enterprise Software Hardware Infrastructure Internet Internet Services Media and Information Services (B2B) Monitoring Observability Open Source Platform Software Software Development Technology Technology And Computing Analytics Automation/Workflow Software Big Data Business/Productivity Software Cloud Cloud Data Services Cloud Infrastructure Dashboards Data & Analytics Data Management",
           "graduationDate": null,
           "applyUrl": "https://sapphireventures.com/companies/grafana-labs#content",
-          "firstSeen": "2026-05-21",
-          "source": "scraper"
-        },
-        {
-          "title": "Senior Analytics Automation/Workflow Software Big Data Business/Productivity Software Cloud Cloud Data Services Cloud In",
-          "description": "frastructure Dashboards Data & Analytics Data Management Data Visualization Design Enterprise Software Hardware Infrastructure Internet Internet Services Media and Information Services (B2B) Monitoring Observability Open Source Platform Software Software Development Technology Technology And Computing Senior Analytics Automation/Workflow Software Big Data Business/Productivity Software Cloud Cloud Data Services Cloud Infrastructure Dashboards Data & Analytics Data Management Data Visualization D",
-          "graduationDate": null,
-          "applyUrl": "https://sapphireventures.com/careers",
-          "firstSeen": "2026-05-21",
-          "source": "scraper"
-        },
-        {
-          "title": "Senior Manager, Web Technology | US | Remote",
-          "description": "Grafana Labs United States ; Remote USD 183,858-220,630 / year + Equity Today Director Analytics Automation/Workflow Software Big Data Business/Productivity Software Cloud Cloud Data Services Cloud Infrastructure Dashboards Data & Analytics Data Management Data Visualization Design Enterprise Software Hardware Infrastructure Internet Internet Services Media and Information Services (B2B) Monitoring Observability Open Source Platform Software Software Development Technology Technology And Computi",
-          "graduationDate": null,
-          "applyUrl": "https://sapphireventures.com/companies/grafana-labs#content",
-          "firstSeen": "2026-05-21",
-          "source": "scraper"
-        },
-        {
-          "title": "Grafana Labs United States ; Remote USD 183,858-220,630 / year + Equity Today Director Analytics Automation/Workflow Sof",
-          "description": "tware Big Data Business/Productivity Software Cloud Cloud Data Services Cloud Infrastructure Dashboards Data & Analytics Data Management Data Visualization Design Enterprise Software Hardware Infrastructure Internet Internet Services Media and Information Services (B2B) Monitoring Observability Open Source Platform Software Software Development Technology Technology And Computing Director Analytics Automation/Workflow Software Big Data Business/Productivity Software Cloud Cloud Data Services Clo",
-          "graduationDate": null,
-          "applyUrl": "https://sapphireventures.com/companies/grafana-labs#content",
-          "firstSeen": "2026-05-21",
-          "source": "scraper"
-        },
-        {
-          "title": "Director Analytics Automation/Workflow Software Big Data Business/Productivity Software Cloud Cloud Data Services Cloud",
-          "description": "Infrastructure Dashboards Data & Analytics Data Management Data Visualization Design Enterprise Software Hardware Infrastructure Internet Internet Services Media and Information Services (B2B) Monitoring Observability Open Source Platform Software Software Development Technology Technology And Computing Director Analytics Automation/Workflow Software Big Data Business/Productivity Software Cloud Cloud Data Services Cloud Infrastructure Dashboards Data & Analytics Data Management Data Visualizati",
-          "graduationDate": null,
-          "applyUrl": "https://sapphireventures.com/careers",
-          "firstSeen": "2026-05-21",
-          "source": "scraper"
-        },
-        {
-          "title": "Senior Manager, Web Technology | Canada | Remote",
-          "description": "Grafana Labs Canada ; Remote CAD 186,368-223,642 / year + Equity Today Director Analytics Automation/Workflow Software Big Data Business/Productivity Software Cloud Cloud Data Services Cloud Infrastructure Dashboards Data & Analytics Data Management Data Visualization Design Enterprise Software Hardware Infrastructure Internet Internet Services Media and Information Services (B2B) Monitoring Observability Open Source Platform Software Software Development Technology Technology And Computing Dire",
-          "graduationDate": null,
-          "applyUrl": "https://sapphireventures.com/companies/grafana-labs#content",
-          "firstSeen": "2026-05-21",
-          "source": "scraper"
-        },
-        {
-          "title": "Grafana Labs Canada ; Remote CAD 186,368-223,642 / year + Equity Today Director Analytics Automation/Workflow Software B",
-          "description": "ig Data Business/Productivity Software Cloud Cloud Data Services Cloud Infrastructure Dashboards Data & Analytics Data Management Data Visualization Design Enterprise Software Hardware Infrastructure Internet Internet Services Media and Information Services (B2B) Monitoring Observability Open Source Platform Software Software Development Technology Technology And Computing Director Analytics Automation/Workflow Software Big Data Business/Productivity Software Cloud Cloud Data Services Cloud Infr",
-          "graduationDate": null,
-          "applyUrl": "https://sapphireventures.com/companies/grafana-labs#content",
-          "firstSeen": "2026-05-21",
-          "source": "scraper"
-        },
-        {
-          "title": "Senior Channel Strategy & Operations Manager | United States | Remote",
-          "description": "Grafana Labs United States ; Remote USD 178,503-215k / year + Equity Today Senior Analytics Automation/Workflow Software Big Data Business/Productivity Software Cloud Cloud Data Services Cloud Infrastructure Dashboards Data & Analytics Data Management Data Visualization Design Enterprise Software Hardware Infrastructure Internet Internet Services Media and Information Services (B2B) Monitoring Observability Open Source Platform Software Software Development Technology Technology And Computing Se",
-          "graduationDate": null,
-          "applyUrl": "https://sapphireventures.com/companies/grafana-labs#content",
-          "firstSeen": "2026-05-21",
-          "source": "scraper"
-        },
-        {
-          "title": "Grafana Labs United States ; Remote USD 178,503-215k / year + Equity Today Senior Analytics Automation/Workflow Software",
-          "description": "Big Data Business/Productivity Software Cloud Cloud Data Services Cloud Infrastructure Dashboards Data & Analytics Data Management Data Visualization Design Enterprise Software Hardware Infrastructure Internet Internet Services Media and Information Services (B2B) Monitoring Observability Open Source Platform Software Software Development Technology Technology And Computing Senior Analytics Automation/Workflow Software Big Data Business/Productivity Software Cloud Cloud Data Services Cloud Infra",
-          "graduationDate": null,
-          "applyUrl": "https://sapphireventures.com/companies/grafana-labs#content",
-          "firstSeen": "2026-05-21",
-          "source": "scraper"
-        },
-        {
-          "title": "Senior Backend Engineer - Grafana Search & Storage | Spain | Remote",
-          "description": "Grafana Labs Spain ; Remote EUR 82k-103k / year + Equity Today Senior Analytics Automation/Workflow Software Big Data Business/Productivity Software Cloud Cloud Data Services Cloud Infrastructure Dashboards Data & Analytics Data Management Data Visualization Design Enterprise Software Hardware Infrastructure Internet Internet Services Media and Information Services (B2B) Monitoring Observability Open Source Platform Software Software Development Technology Technology And Computing Senior Analyti",
-          "graduationDate": null,
-          "applyUrl": "https://sapphireventures.com/companies/grafana-labs#content",
-          "firstSeen": "2026-05-21",
-          "source": "scraper"
-        },
-        {
-          "title": "Grafana Labs Spain ; Remote EUR 82k-103k / year + Equity Today Senior Analytics Automation/Workflow Software Big Data Bu",
-          "description": "siness/Productivity Software Cloud Cloud Data Services Cloud Infrastructure Dashboards Data & Analytics Data Management Data Visualization Design Enterprise Software Hardware Infrastructure Internet Internet Services Media and Information Services (B2B) Monitoring Observability Open Source Platform Software Software Development Technology Technology And Computing Senior Analytics Automation/Workflow Software Big Data Business/Productivity Software Cloud Cloud Data Services Cloud Infrastructure D",
-          "graduationDate": null,
-          "applyUrl": "https://sapphireventures.com/companies/grafana-labs#content",
-          "firstSeen": "2026-05-21",
-          "source": "scraper"
-        },
-        {
-          "title": "Senior Backend Engineer - Grafana Search & Storage | UK | Remote",
-          "description": "Grafana Labs United Kingdom ; Remote GBP 91k-114k / year + Equity Today Senior Analytics Automation/Workflow Software Big Data Business/Productivity Software Cloud Cloud Data Services Cloud Infrastructure Dashboards Data & Analytics Data Management Data Visualization Design Enterprise Software Hardware Infrastructure Internet Internet Services Media and Information Services (B2B) Monitoring Observability Open Source Platform Software Software Development Technology Technology And Computing Senio",
-          "graduationDate": null,
-          "applyUrl": "https://sapphireventures.com/companies/grafana-labs#content",
-          "firstSeen": "2026-05-21",
-          "source": "scraper"
-        },
-        {
-          "title": "Grafana Labs United Kingdom ; Remote GBP 91k-114k / year + Equity Today Senior Analytics Automation/Workflow Software Bi",
-          "description": "g Data Business/Productivity Software Cloud Cloud Data Services Cloud Infrastructure Dashboards Data & Analytics Data Management Data Visualization Design Enterprise Software Hardware Infrastructure Internet Internet Services Media and Information Services (B2B) Monitoring Observability Open Source Platform Software Software Development Technology Technology And Computing Senior Analytics Automation/Workflow Software Big Data Business/Productivity Software Cloud Cloud Data Services Cloud Infrast",
-          "graduationDate": null,
-          "applyUrl": "https://sapphireventures.com/companies/grafana-labs#content",
-          "firstSeen": "2026-05-21",
-          "source": "scraper"
-        },
-        {
-          "title": "Senior Backend Engineer - Grafana Search & Storage | Sweden | Remote",
-          "description": "Grafana Labs Sweden ; Remote Today Senior Analytics Automation/Workflow Software Big Data Business/Productivity Software Cloud Cloud Data Services Cloud Infrastructure Dashboards Data & Analytics Data Management Data Visualization Design Enterprise Software Hardware Infrastructure Internet Internet Services Media and Information Services (B2B) Monitoring Observability Open Source Platform Software Software Development Technology Technology And Computing Senior Analytics Automation/Workflow Softw",
-          "graduationDate": null,
-          "applyUrl": "https://sapphireventures.com/companies/grafana-labs#content",
-          "firstSeen": "2026-05-21",
-          "source": "scraper"
-        },
-        {
-          "title": "Grafana Labs Sweden ; Remote Today Senior Analytics Automation/Workflow Software Big Data Business/Productivity Software",
-          "description": "Cloud Cloud Data Services Cloud Infrastructure Dashboards Data & Analytics Data Management Data Visualization Design Enterprise Software Hardware Infrastructure Internet Internet Services Media and Information Services (B2B) Monitoring Observability Open Source Platform Software Software Development Technology Technology And Computing Senior Analytics Automation/Workflow Software Big Data Business/Productivity Software Cloud Cloud Data Services Cloud Infrastructure Dashboards Data & Analytics Da",
-          "graduationDate": null,
-          "applyUrl": "https://sapphireventures.com/companies/grafana-labs#content",
-          "firstSeen": "2026-05-21",
-          "source": "scraper"
-        },
-        {
-          "title": "Senior Backend Engineer - Grafana Search & Storage | Ireland | Remote",
-          "description": "Grafana Labs Ireland ; Remote EUR 104k-130k / year + Equity Today Senior Analytics Automation/Workflow Software Big Data Business/Productivity Software Cloud Cloud Data Services Cloud Infrastructure Dashboards Data & Analytics Data Management Data Visualization Design Enterprise Software Hardware Infrastructure Internet Internet Services Media and Information Services (B2B) Monitoring Observability Open Source Platform Software Software Development Technology Technology And Computing Senior Anal",
-          "graduationDate": null,
-          "applyUrl": "https://sapphireventures.com/companies/grafana-labs#content",
-          "firstSeen": "2026-05-21",
-          "source": "scraper"
-        },
-        {
-          "title": "Grafana Labs Ireland ; Remote EUR 104k-130k / year + Equity Today Senior Analytics Automation/Workflow Software Big Data",
-          "description": "Business/Productivity Software Cloud Cloud Data Services Cloud Infrastructure Dashboards Data & Analytics Data Management Data Visualization Design Enterprise Software Hardware Infrastructure Internet Internet Services Media and Information Services (B2B) Monitoring Observability Open Source Platform Software Software Development Technology Technology And Computing Senior Analytics Automation/Workflow Software Big Data Business/Productivity Software Cloud Cloud Data Services Cloud Infrastructure",
-          "graduationDate": null,
-          "applyUrl": "https://sapphireventures.com/companies/grafana-labs#content",
-          "firstSeen": "2026-05-21",
-          "source": "scraper"
-        },
-        {
-          "title": "Sales Development Representative | UK | Remote",
-          "description": "Grafana Labs United Kingdom ; Remote GBP 58,750-61,650 / year + Equity Today Entry Level Analytics Automation/Workflow Software Big Data Business/Productivity Software Cloud Cloud Data Services Cloud Infrastructure Dashboards Data & Analytics Data Management Data Visualization Design Enterprise Software Hardware Infrastructure Internet Internet Services Media and Information Services (B2B) Monitoring Observability Open Source Platform Software Software Development Technology Technology And Compu",
-          "graduationDate": null,
-          "applyUrl": "https://sapphireventures.com/companies/grafana-labs#content",
-          "firstSeen": "2026-05-21",
-          "source": "scraper"
-        },
-        {
-          "title": "Grafana Labs United Kingdom ; Remote GBP 58,750-61,650 / year + Equity Today Entry Level Analytics Automation/Workflow S",
-          "description": "oftware Big Data Business/Productivity Software Cloud Cloud Data Services Cloud Infrastructure Dashboards Data & Analytics Data Management Data Visualization Design Enterprise Software Hardware Infrastructure Internet Internet Services Media and Information Services (B2B) Monitoring Observability Open Source Platform Software Software Development Technology Technology And Computing Entry Level Analytics Automation/Workflow Software Big Data Business/Productivity Software Cloud Cloud Data Service",
-          "graduationDate": null,
-          "applyUrl": "https://sapphireventures.com/companies/grafana-labs#content",
-          "firstSeen": "2026-05-21",
-          "source": "scraper"
-        },
-        {
-          "title": "Entry Level Analytics Automation/Workflow Software Big Data Business/Productivity Software Cloud Cloud Data Services Clo",
-          "description": "ud Infrastructure Dashboards Data & Analytics Data Management Data Visualization Design Enterprise Software Hardware Infrastructure Internet Internet Services Media and Information Services (B2B) Monitoring Observability Open Source Platform Software Software Development Technology Technology And Computing Entry Level Analytics Automation/Workflow Software Big Data Business/Productivity Software Cloud Cloud Data Services Cloud Infrastructure Dashboards Data & Analytics Data Management Data Visua",
-          "graduationDate": null,
-          "applyUrl": "https://sapphireventures.com/careers",
-          "firstSeen": "2026-05-21",
-          "source": "scraper"
-        },
-        {
-          "title": "Senior Backend Engineer - Grafana Search & Storage | Germany | Remote",
-          "description": "Grafana Labs Germany ; Remote EUR 97k-121k / year + Equity Today Senior Analytics Automation/Workflow Software Big Data Business/Productivity Software Cloud Cloud Data Services Cloud Infrastructure Dashboards Data & Analytics Data Management Data Visualization Design Enterprise Software Hardware Infrastructure Internet Internet Services Media and Information Services (B2B) Monitoring Observability Open Source Platform Software Software Development Technology Technology And Computing Senior Analy",
-          "graduationDate": null,
-          "applyUrl": "https://sapphireventures.com/companies/grafana-labs#content",
-          "firstSeen": "2026-05-21",
-          "source": "scraper"
-        },
-        {
-          "title": "Grafana Labs Germany ; Remote EUR 97k-121k / year + Equity Today Senior Analytics Automation/Workflow Software Big Data",
-          "description": "Business/Productivity Software Cloud Cloud Data Services Cloud Infrastructure Dashboards Data & Analytics Data Management Data Visualization Design Enterprise Software Hardware Infrastructure Internet Internet Services Media and Information Services (B2B) Monitoring Observability Open Source Platform Software Software Development Technology Technology And Computing Senior Analytics Automation/Workflow Software Big Data Business/Productivity Software Cloud Cloud Data Services Cloud Infrastructure",
-          "graduationDate": null,
-          "applyUrl": "https://sapphireventures.com/companies/grafana-labs#content",
-          "firstSeen": "2026-05-21",
-          "source": "scraper"
-        },
-        {
-          "title": "Sales Development Representative | Sweden | Remote",
-          "description": "Grafana Labs Sweden ; Remote Today Entry Level Analytics Automation/Workflow Software Big Data Business/Productivity Software Cloud Cloud Data Services Cloud Infrastructure Dashboards Data & Analytics Data Management Data Visualization Design Enterprise Software Hardware Infrastructure Internet Internet Services Media and Information Services (B2B) Monitoring Observability Open Source Platform Software Software Development Technology Technology And Computing Entry Level Analytics Automation/Work",
-          "graduationDate": null,
-          "applyUrl": "https://sapphireventures.com/companies/grafana-labs#content",
-          "firstSeen": "2026-05-21",
-          "source": "scraper"
-        },
-        {
-          "title": "Grafana Labs Sweden ; Remote Today Entry Level Analytics Automation/Workflow Software Big Data Business/Productivity Sof",
-          "description": "tware Cloud Cloud Data Services Cloud Infrastructure Dashboards Data & Analytics Data Management Data Visualization Design Enterprise Software Hardware Infrastructure Internet Internet Services Media and Information Services (B2B) Monitoring Observability Open Source Platform Software Software Development Technology Technology And Computing Entry Level Analytics Automation/Workflow Software Big Data Business/Productivity Software Cloud Cloud Data Services Cloud Infrastructure Dashboards Data & A",
-          "graduationDate": null,
-          "applyUrl": "https://sapphireventures.com/companies/grafana-labs#content",
-          "firstSeen": "2026-05-21",
-          "source": "scraper"
-        },
-        {
-          "title": "Channel Account Manager | Remote | East Coast",
-          "description": "Grafana Labs United States ; Remote USD 260k-280k / year + Equity Today Senior Analytics Automation/Workflow Software Big Data Business/Productivity Software Cloud Cloud Data Services Cloud Infrastructure Dashboards Data & Analytics Data Management Data Visualization Design Enterprise Software Hardware Infrastructure Internet Internet Services Media and Information Services (B2B) Monitoring Observability Open Source Platform Software Software Development Technology Technology And Computing Senio",
-          "graduationDate": null,
-          "applyUrl": "https://sapphireventures.com/companies/grafana-labs#content",
-          "firstSeen": "2026-05-21",
-          "source": "scraper"
-        },
-        {
-          "title": "Grafana Labs United States ; Remote USD 260k-280k / year + Equity Today Senior Analytics Automation/Workflow Software Bi",
-          "description": "g Data Business/Productivity Software Cloud Cloud Data Services Cloud Infrastructure Dashboards Data & Analytics Data Management Data Visualization Design Enterprise Software Hardware Infrastructure Internet Internet Services Media and Information Services (B2B) Monitoring Observability Open Source Platform Software Software Development Technology Technology And Computing Senior Analytics Automation/Workflow Software Big Data Business/Productivity Software Cloud Cloud Data Services Cloud Infrast",
-          "graduationDate": null,
-          "applyUrl": "https://sapphireventures.com/companies/grafana-labs#content",
-          "firstSeen": "2026-05-21",
-          "source": "scraper"
-        },
-        {
-          "title": "Sales Development Representative | Netherlands | Remote",
-          "description": "Grafana Labs Netherlands ; Remote EUR 58,750-61,850 / year + Equity Today Entry Level Analytics Automation/Workflow Software Big Data Business/Productivity Software Cloud Cloud Data Services Cloud Infrastructure Dashboards Data & Analytics Data Management Data Visualization Design Enterprise Software Hardware Infrastructure Internet Internet Services Media and Information Services (B2B) Monitoring Observability Open Source Platform Software Software Development Technology Technology And Computin",
-          "graduationDate": null,
-          "applyUrl": "https://sapphireventures.com/companies/grafana-labs#content",
-          "firstSeen": "2026-05-21",
-          "source": "scraper"
-        },
-        {
-          "title": "Grafana Labs Netherlands ; Remote EUR 58,750-61,850 / year + Equity Today Entry Level Analytics Automation/Workflow Soft",
-          "description": "ware Big Data Business/Productivity Software Cloud Cloud Data Services Cloud Infrastructure Dashboards Data & Analytics Data Management Data Visualization Design Enterprise Software Hardware Infrastructure Internet Internet Services Media and Information Services (B2B) Monitoring Observability Open Source Platform Software Software Development Technology Technology And Computing Entry Level Analytics Automation/Workflow Software Big Data Business/Productivity Software Cloud Cloud Data Services C",
-          "graduationDate": null,
-          "applyUrl": "https://sapphireventures.com/companies/grafana-labs#content",
-          "firstSeen": "2026-05-21",
-          "source": "scraper"
-        },
-        {
-          "title": "Backend Engineer - Platform - Stacks | UK | Remote",
-          "description": "Grafana Labs United Kingdom ; Remote GBP 72k-90k / year + Equity Today Mid-Senior Level Analytics Automation/Workflow Software Big Data Business/Productivity Software Cloud Cloud Data Services Cloud Infrastructure Dashboards Data & Analytics Data Management Data Visualization Design Enterprise Software Hardware Infrastructure Internet Internet Services Media and Information Services (B2B) Monitoring Observability Open Source Platform Software Software Development Technology Technology And Comput",
-          "graduationDate": null,
-          "applyUrl": "https://sapphireventures.com/companies/grafana-labs#content",
-          "firstSeen": "2026-05-21",
-          "source": "scraper"
-        },
-        {
-          "title": "Grafana Labs United Kingdom ; Remote GBP 72k-90k / year + Equity Today Mid-Senior Level Analytics Automation/Workflow So",
-          "description": "ftware Big Data Business/Productivity Software Cloud Cloud Data Services Cloud Infrastructure Dashboards Data & Analytics Data Management Data Visualization Design Enterprise Software Hardware Infrastructure Internet Internet Services Media and Information Services (B2B) Monitoring Observability Open Source Platform Software Software Development Technology Technology And Computing Mid-Senior Level Analytics Automation/Workflow Software Big Data Business/Productivity Software Cloud Cloud Data Ser",
-          "graduationDate": null,
-          "applyUrl": "https://sapphireventures.com/companies/grafana-labs#content",
-          "firstSeen": "2026-05-21",
-          "source": "scraper"
-        },
-        {
-          "title": "Backend Engineer - Platform - Stacks | Spain | Remote",
-          "description": "Grafana Labs Spain ; Remote EUR 65k-81k / year + Equity Today Mid-Senior Level Analytics Automation/Workflow Software Big Data Business/Productivity Software Cloud Cloud Data Services Cloud Infrastructure Dashboards Data & Analytics Data Management Data Visualization Design Enterprise Software Hardware Infrastructure Internet Internet Services Media and Information Services (B2B) Monitoring Observability Open Source Platform Software Software Development Technology Technology And Computing Mid-S",
-          "graduationDate": null,
-          "applyUrl": "https://sapphireventures.com/companies/grafana-labs#content",
-          "firstSeen": "2026-05-21",
-          "source": "scraper"
-        },
-        {
-          "title": "Grafana Labs Spain ; Remote EUR 65k-81k / year + Equity Today Mid-Senior Level Analytics Automation/Workflow Software Bi",
-          "description": "g Data Business/Productivity Software Cloud Cloud Data Services Cloud Infrastructure Dashboards Data & Analytics Data Management Data Visualization Design Enterprise Software Hardware Infrastructure Internet Internet Services Media and Information Services (B2B) Monitoring Observability Open Source Platform Software Software Development Technology Technology And Computing Mid-Senior Level Analytics Automation/Workflow Software Big Data Business/Productivity Software Cloud Cloud Data Services Clo",
-          "graduationDate": null,
-          "applyUrl": "https://sapphireventures.com/companies/grafana-labs#content",
-          "firstSeen": "2026-05-21",
+          "firstSeen": "2026-05-22",
           "source": "scraper"
         }
       ]
@@ -645,56 +504,56 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-21T12:19:45.279060+00:00",
+      "lastChecked": "2026-05-22T12:37:26.831771+00:00",
       "jobs": []
     },
     "Altimeter Capital Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-21T12:19:52.225931+00:00",
+      "lastChecked": "2026-05-22T12:37:33.581319+00:00",
       "jobs": []
     },
     "Arch Venture Partners": {
       "hasInternPosting": false,
       "careerUrl": "https://www.archventure.com/company/careers",
       "status": "ok",
-      "lastChecked": "2026-05-21T12:20:03.494161+00:00",
+      "lastChecked": "2026-05-22T12:37:44.545385+00:00",
       "jobs": []
     },
     "IDG Capital Fund Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-21T12:20:21.930015+00:00",
+      "lastChecked": "2026-05-22T12:37:51.843467+00:00",
       "jobs": []
     },
     "Bain Capital Ventures": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-21T12:20:35.687504+00:00",
+      "lastChecked": "2026-05-22T12:38:02.542444+00:00",
       "jobs": []
     },
     "Greenoaks Capital": {
       "hasInternPosting": false,
       "careerUrl": "https://greenoakscap.com/careers",
       "status": "ok",
-      "lastChecked": "2026-05-21T12:20:38.447325+00:00",
+      "lastChecked": "2026-05-22T12:38:04.943974+00:00",
       "jobs": []
     },
     "Matrix Partners China Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-21T12:20:55.805869+00:00",
+      "lastChecked": "2026-05-22T12:38:23.982904+00:00",
       "jobs": []
     },
     "Greylock Partners": {
       "hasInternPosting": true,
       "careerUrl": "https://greylock.com/careers",
       "status": "ok",
-      "lastChecked": "2026-05-21T12:21:02.070907+00:00",
+      "lastChecked": "2026-05-22T12:38:31.092199+00:00",
       "jobs": [
         {
           "title": "Filter jobs by skills and more Roles Enter roles Skills Enter skills Location Enter locations Company stage Enter stages",
@@ -790,173 +649,286 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-21T12:21:17.939217+00:00",
+      "lastChecked": "2026-05-22T12:38:43.629896+00:00",
       "jobs": []
     },
     "Oak Hcft Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-21T12:21:30.410988+00:00",
+      "lastChecked": "2026-05-22T12:38:52.360782+00:00",
       "jobs": []
     },
     "FTV Capital": {
       "hasInternPosting": false,
       "careerUrl": "https://www.ftvcapital.com/careers/students",
       "status": "ok",
-      "lastChecked": "2026-05-21T12:21:35.417924+00:00",
+      "lastChecked": "2026-05-22T12:38:57.929297+00:00",
       "jobs": []
     },
     "Eight Partners VC": {
       "hasInternPosting": true,
       "careerUrl": "https://www.8vc.com/jobs",
       "status": "ok",
-      "lastChecked": "2026-05-21T12:21:41.878543+00:00",
+      "lastChecked": "2026-05-22T12:39:04.608606+00:00",
       "jobs": [
         {
-          "title": "Account Director - Europe",
-          "description": "Cognition Dachau, Germany Today Series C Director Artificial Intelligence (AI) Automation/Workflow Software Business/Productivity Software Construction & Engineering Data & Analytics Foundational AI Generative AI Internet Internet Services Science and Engineering Software Series C Director Artificial Intelligence (AI) Automation/Workflow Software Business/Productivity Software Construction & Engineering Data & Analytics Foundational AI Generative AI Internet Internet Services Science and Enginee",
+          "title": "Assistant Manager, Ocean Operations (Gurugram)",
+          "description": "Flexport New Delhi, Delhi, India Today Air Freight Analytics Business And Industrial Business/Productivity Software Capital Cargo Insurance Cloud Software Customs Brokerage Data Enterprise Software Freight Forwarding Freight Service Global Trade International Shipping Logistics Ocean Freight Platform SaaS Shipping Software Supply Chain Management Technology Transportation Transportation, Logistics, Supply Chain and Storage Air Freight Analytics Business And Industrial Business/Productivity Softw",
           "graduationDate": null,
-          "applyUrl": "https://jobs.8vc.com/companies/cognition-2-35df6b59-5a1c-4a14-b7a2-25d2cc9cde50#content",
-          "firstSeen": "2026-05-21",
+          "applyUrl": "https://jobs.8vc.com/companies/flexport#content",
+          "firstSeen": "2026-05-22",
           "source": "scraper"
         },
         {
-          "title": "Cognition Dachau, Germany Today Series C Director Artificial Intelligence (AI) Automation/Workflow Software Business/Pro",
-          "description": "ductivity Software Construction & Engineering Data & Analytics Foundational AI Generative AI Internet Internet Services Science and Engineering Software Series C Director Artificial Intelligence (AI) Automation/Workflow Software Business/Productivity Software Construction & Engineering Data & Analytics Foundational AI Generative AI Internet Internet Services Science and Engineering Software + 99 more",
+          "title": "Flexport New Delhi, Delhi, India Today Air Freight Analytics Business And Industrial Business/Productivity Software Capi",
+          "description": "tal Cargo Insurance Cloud Software Customs Brokerage Data Enterprise Software Freight Forwarding Freight Service Global Trade International Shipping Logistics Ocean Freight Platform SaaS Shipping Software Supply Chain Management Technology Transportation Transportation, Logistics, Supply Chain and Storage Air Freight Analytics Business And Industrial Business/Productivity Software Capital Cargo Insurance Cloud Software Customs Brokerage Data Enterprise Software Freight Forwarding Freight Service",
           "graduationDate": null,
-          "applyUrl": "https://jobs.8vc.com/companies/cognition-2-35df6b59-5a1c-4a14-b7a2-25d2cc9cde50#content",
-          "firstSeen": "2026-05-21",
+          "applyUrl": "https://jobs.8vc.com/companies/flexport#content",
+          "firstSeen": "2026-05-22",
           "source": "scraper"
         },
         {
-          "title": "Series C Director Artificial Intelligence (AI) Automation/Workflow Software Business/Productivity Software Construction",
-          "description": "& Engineering Data & Analytics Foundational AI Generative AI Internet Internet Services Science and Engineering Software Series C Director Artificial Intelligence (AI) Automation/Workflow Software Business/Productivity Software Construction & Engineering Data & Analytics Foundational AI Generative AI Internet Internet Services Science and Engineering Software + 99 more",
+          "title": "Air Freight Analytics Business And Industrial Business/Productivity Software Capital Cargo Insurance Cloud Software Cust",
+          "description": "oms Brokerage Data Enterprise Software Freight Forwarding Freight Service Global Trade International Shipping Logistics Ocean Freight Platform SaaS Shipping Software Supply Chain Management Technology Transportation Transportation, Logistics, Supply Chain and Storage Air Freight Analytics Business And Industrial Business/Productivity Software Capital Cargo Insurance Cloud Software Customs Brokerage Data Enterprise Software Freight Forwarding Freight Service Global Trade International Shipping Lo",
           "graduationDate": null,
           "applyUrl": "https://jobs.8vc.com/jobs",
-          "firstSeen": "2026-05-21",
+          "firstSeen": "2026-05-22",
+          "source": "scraper"
+        },
+        {
+          "title": "International Shipping",
+          "description": "",
+          "graduationDate": null,
+          "applyUrl": "https://jobs.8vc.com/jobs",
+          "firstSeen": "2026-05-22",
+          "source": "scraper"
+        },
+        {
+          "title": "Assistant Manager, Ocean Operations (Chennai)",
+          "description": "Flexport Chennai, Tamil Nadu, India Today Air Freight Analytics Business And Industrial Business/Productivity Software Capital Cargo Insurance Cloud Software Customs Brokerage Data Enterprise Software Freight Forwarding Freight Service Global Trade International Shipping Logistics Ocean Freight Platform SaaS Shipping Software Supply Chain Management Technology Transportation Transportation, Logistics, Supply Chain and Storage Air Freight Analytics Business And Industrial Business/Productivity So",
+          "graduationDate": null,
+          "applyUrl": "https://jobs.8vc.com/companies/flexport#content",
+          "firstSeen": "2026-05-22",
+          "source": "scraper"
+        },
+        {
+          "title": "Flexport Chennai, Tamil Nadu, India Today Air Freight Analytics Business And Industrial Business/Productivity Software C",
+          "description": "apital Cargo Insurance Cloud Software Customs Brokerage Data Enterprise Software Freight Forwarding Freight Service Global Trade International Shipping Logistics Ocean Freight Platform SaaS Shipping Software Supply Chain Management Technology Transportation Transportation, Logistics, Supply Chain and Storage Air Freight Analytics Business And Industrial Business/Productivity Software Capital Cargo Insurance Cloud Software Customs Brokerage Data Enterprise Software Freight Forwarding Freight Serv",
+          "graduationDate": null,
+          "applyUrl": "https://jobs.8vc.com/companies/flexport#content",
+          "firstSeen": "2026-05-22",
           "source": "scraper"
         }
       ]
     },
     "Accel Partners Management": {
-      "hasInternPosting": false,
-      "careerUrl": null,
-      "status": "no_url",
-      "lastChecked": "2026-05-21T12:21:50.081167+00:00",
-      "jobs": []
-    },
-    "Accel London Management Limited": {
-      "hasInternPosting": false,
-      "careerUrl": null,
-      "status": "no_url",
-      "lastChecked": "2026-05-21T12:21:57.853342+00:00",
-      "jobs": []
-    },
-    "Balderton Capital": {
       "hasInternPosting": true,
-      "careerUrl": "https://www.balderton.com/company/careers",
+      "careerUrl": "https://www.accel.com/careers",
       "status": "ok",
-      "lastChecked": "2026-05-21T12:22:16.296409+00:00",
+      "lastChecked": "2026-05-22T12:39:09.299441+00:00",
       "jobs": [
         {
-          "title": "Matt Cooper",
+          "title": "Acalvio Technologies Active Directory Artificial Intelligence Business And Industrial Cloud Computing Cloud Security Computer Computer and Network Security Computer & Network Security Consumer Electro",
           "description": "",
           "graduationDate": null,
-          "applyUrl": "https://www.balderton.com/company/careers",
-          "firstSeen": "2026-04-18",
+          "applyUrl": "https://www.accel.com/companies/acalvio-technologies-2#content",
+          "firstSeen": "2026-05-22",
           "source": "scraper"
         },
         {
-          "title": "Investing in companies and the people building them",
-          "description": "We care about and support founders as people — not just CEOs or business leaders. Because building a successful company requires more than performance at work. Wellbeing Platform Alex Kendall Co-founder and CEO, Wayve “Building a deep tech company means having to get thousands of decisions right, day after day, to drive compounding value. I’ve found being deliberate about your well-being is one of the greatest forms of leverage you can have for this as a leader.” Matt Cooper CEO of Crowdcube “It",
+          "title": "Accacia 10 jobs Seed Artificial Intelligence Business/Productivity Software Carbon Accounting Climate Change Environmental Services Environmental Services (B2B) Greentech Platform Real Estate SaaS Sof",
+          "description": "Accacia 10 jobs Seed Artificial Intelligence Business/Productivity Software Carbon Accounting Climate Change Environmental Services Environmental Services (B2B) Greentech Platform Real Estate SaaS Software Sustainability Sustainability Technology Technology, Information and Internet Seed Artificial Intelligence Business/Productivity Software Carbon Accounting Climate Change Environmental Services Environmental Services (B2B) Greentech Platform Real Estate SaaS Software Sustainability Sustainabil",
           "graduationDate": null,
-          "applyUrl": "https://www.balderton.com/founder-well-being/",
-          "firstSeen": "2026-04-18",
+          "applyUrl": "https://www.accel.com/companies/accacia#content",
+          "firstSeen": "2026-05-22",
           "source": "scraper"
         },
         {
-          "title": "Alex Kendall",
-          "description": "Co-founder and CEO, Wayve “Building a deep tech company means having to get thousands of decisions right, day after day, to drive compounding value. I’ve found being deliberate about your well-being is one of the greatest forms of leverage you can have for this as a leader.” Matt Cooper CEO of Crowdcube “It’s clear this programme is going to have a meaningful impact on how I live my life, manage stress and conflict and have a happy and harmonious family home. All of that makes me a better leader",
-          "graduationDate": null,
-          "applyUrl": "https://www.balderton.com/company/careers",
-          "firstSeen": "2026-04-18",
-          "source": "scraper"
-        },
-        {
-          "title": "Build the future from here",
-          "description": "about us our team companies resources news about us our team companies resources news Build the future from here Jobs Companies Talent Network Filter jobs by skills and more Sign in Roles Enter roles Skills Enter skills Location Enter locations Company stage Enter stages Industry Enter industries Internships only Remote options All jobs Posted Anytime Powered by Consider Powered by Consider Cookies Privacy Terms The Stables 28, Britannia street, London WC1X 9JF, UK +44 (0) 20 7016 6800 +44 (0) 2",
-          "graduationDate": null,
-          "applyUrl": "https://www.balderton.com/",
-          "firstSeen": "2026-04-18",
-          "source": "scraper"
-        },
-        {
-          "title": "Filter jobs by skills and more Sign in Roles Enter roles Skills Enter skills Location Enter locations Company stage Ente",
-          "description": "r stages Industry Enter industries Internships only Remote options All jobs Posted Anytime Powered by Consider",
-          "graduationDate": null,
-          "applyUrl": "https://careers.balderton.com/talent-network/login",
-          "firstSeen": "2026-04-18",
-          "source": "scraper"
-        },
-        {
-          "title": "Internships only Remote options All jobs Posted Anytime Powered by Consider",
+          "title": "AdRoll 1 jobs Ad Retargeting AdTech Advertising Analytics Artificial Intelligence Business And Industrial Commerce and Shopping Communication & Sales Data & Analytics Digital Advertising Digital Marke",
           "description": "",
           "graduationDate": null,
-          "applyUrl": "https://product.consider.com/ctc/talent-circle?utm_campaign=undefined",
-          "firstSeen": "2026-04-18",
+          "applyUrl": "https://www.accel.com/companies/adroll#content",
+          "firstSeen": "2026-05-22",
           "source": "scraper"
         },
         {
-          "title": "Internships only Remote options All jobs Posted Anytime",
+          "title": "Active Directory Artificial Intelligence Business And Industrial Cloud Computing Cloud Security Computer Computer and Ne",
+          "description": "twork Security Computer & Network Security Consumer Electronics Cybersecurity Cyber Security Data & Analytics Enterprise Software Hardware Information Security Internet Services Machine Learning Network Management Software Network Security Privacy and Security SaaS Security Security Software Systems and Information Management Technology Threat Hunting Threat Intelligence Active Directory Artificial Intelligence Business And Industrial Cloud Computing Cloud Security Computer Computer and Network",
+          "graduationDate": null,
+          "applyUrl": "https://www.accel.com/careers",
+          "firstSeen": "2026-05-22",
+          "source": "scraper"
+        },
+        {
+          "title": "Accacia 10 jobs Seed Artificial Intelligence Business/Productivity Software Carbon Accounting Climate Change Environment",
+          "description": "al Services Environmental Services (B2B) Greentech Platform Real Estate SaaS Software Sustainability Sustainability Technology Technology, Information and Internet Seed Artificial Intelligence Business/Productivity Software Carbon Accounting Climate Change Environmental Services Environmental Services (B2B) Greentech Platform Real Estate SaaS Software Sustainability Sustainability Technology Technology, Information and Internet + 99 more Accacia is an AI-enabled real-estate decarbonization platf",
+          "graduationDate": null,
+          "applyUrl": "https://www.accel.com/companies/accacia#content",
+          "firstSeen": "2026-05-22",
+          "source": "scraper"
+        },
+        {
+          "title": "Seed Artificial Intelligence Business/Productivity Software Carbon Accounting Climate Change Environmental Services Envi",
+          "description": "ronmental Services (B2B) Greentech Platform Real Estate SaaS Software Sustainability Sustainability Technology Technology, Information and Internet Seed Artificial Intelligence Business/Productivity Software Carbon Accounting Climate Change Environmental Services Environmental Services (B2B) Greentech Platform Real Estate SaaS Software Sustainability Sustainability Technology Technology, Information and Internet + 99 more Accacia is an AI-enabled real-estate decarbonization platform that allows",
+          "graduationDate": null,
+          "applyUrl": "https://www.accel.com/careers",
+          "firstSeen": "2026-05-22",
+          "source": "scraper"
+        },
+        {
+          "title": "Technology, Information and Internet",
           "description": "",
           "graduationDate": null,
-          "applyUrl": "https://careers.balderton.com/jobs",
-          "firstSeen": "2026-04-18",
+          "applyUrl": "https://www.accel.com/careers",
+          "firstSeen": "2026-05-22",
+          "source": "scraper"
+        },
+        {
+          "title": "AdRoll 1 jobs Ad Retargeting AdTech Advertising Analytics Artificial Intelligence Business And Industrial Commerce and S",
+          "description": "hopping Communication & Sales Data & Analytics Digital Advertising Digital Marketing Direct Marketing Display Advertising E-Commerce E-Commerce Platforms Email Marketing Internet Services Machine Learning Marketing Marketing Analytics Marketing Attribution Omni-Channel Marketing Platform Predictive Analytics Programmatic Advertising SaaS Sales & Marketing Social Advertising Software Software Technology Ad Retargeting AdTech Advertising Analytics Artificial Intelligence Business And Industrial Co",
+          "graduationDate": null,
+          "applyUrl": "https://www.accel.com/companies/adroll#content",
+          "firstSeen": "2026-05-22",
+          "source": "scraper"
+        },
+        {
+          "title": "Ad Retargeting AdTech Advertising Analytics Artificial Intelligence Business And Industrial Commerce and Shopping Commun",
+          "description": "ication & Sales Data & Analytics Digital Advertising Digital Marketing Direct Marketing Display Advertising E-Commerce E-Commerce Platforms Email Marketing Internet Services Machine Learning Marketing Marketing Analytics Marketing Attribution Omni-Channel Marketing Platform Predictive Analytics Programmatic Advertising SaaS Sales & Marketing Social Advertising Software Software Technology Ad Retargeting AdTech Advertising Analytics Artificial Intelligence Business And Industrial Commerce and Sho",
+          "graduationDate": null,
+          "applyUrl": "https://www.accel.com/careers",
+          "firstSeen": "2026-05-22",
           "source": "scraper"
         }
       ]
+    },
+    "Accel London Management Limited": {
+      "hasInternPosting": true,
+      "careerUrl": "https://www.accel.com/careers",
+      "status": "ok",
+      "lastChecked": "2026-05-22T12:39:12.847882+00:00",
+      "jobs": [
+        {
+          "title": "Acalvio Technologies Active Directory Artificial Intelligence Business And Industrial Cloud Computing Cloud Security Computer Computer and Network Security Computer & Network Security Consumer Electro",
+          "description": "",
+          "graduationDate": null,
+          "applyUrl": "https://www.accel.com/companies/acalvio-technologies-2#content",
+          "firstSeen": "2026-05-22",
+          "source": "scraper"
+        },
+        {
+          "title": "Accacia 10 jobs Seed Artificial Intelligence Business/Productivity Software Carbon Accounting Climate Change Environmental Services Environmental Services (B2B) Greentech Platform Real Estate SaaS Sof",
+          "description": "Accacia 10 jobs Seed Artificial Intelligence Business/Productivity Software Carbon Accounting Climate Change Environmental Services Environmental Services (B2B) Greentech Platform Real Estate SaaS Software Sustainability Sustainability Technology Technology, Information and Internet Seed Artificial Intelligence Business/Productivity Software Carbon Accounting Climate Change Environmental Services Environmental Services (B2B) Greentech Platform Real Estate SaaS Software Sustainability Sustainabil",
+          "graduationDate": null,
+          "applyUrl": "https://www.accel.com/companies/accacia#content",
+          "firstSeen": "2026-05-22",
+          "source": "scraper"
+        },
+        {
+          "title": "AdRoll 1 jobs Ad Retargeting AdTech Advertising Analytics Artificial Intelligence Business And Industrial Commerce and Shopping Communication & Sales Data & Analytics Digital Advertising Digital Marke",
+          "description": "",
+          "graduationDate": null,
+          "applyUrl": "https://www.accel.com/companies/adroll#content",
+          "firstSeen": "2026-05-22",
+          "source": "scraper"
+        },
+        {
+          "title": "Active Directory Artificial Intelligence Business And Industrial Cloud Computing Cloud Security Computer Computer and Ne",
+          "description": "twork Security Computer & Network Security Consumer Electronics Cybersecurity Cyber Security Data & Analytics Enterprise Software Hardware Information Security Internet Services Machine Learning Network Management Software Network Security Privacy and Security SaaS Security Security Software Systems and Information Management Technology Threat Hunting Threat Intelligence Active Directory Artificial Intelligence Business And Industrial Cloud Computing Cloud Security Computer Computer and Network",
+          "graduationDate": null,
+          "applyUrl": "https://www.accel.com/careers",
+          "firstSeen": "2026-05-22",
+          "source": "scraper"
+        },
+        {
+          "title": "Accacia 10 jobs Seed Artificial Intelligence Business/Productivity Software Carbon Accounting Climate Change Environment",
+          "description": "al Services Environmental Services (B2B) Greentech Platform Real Estate SaaS Software Sustainability Sustainability Technology Technology, Information and Internet Seed Artificial Intelligence Business/Productivity Software Carbon Accounting Climate Change Environmental Services Environmental Services (B2B) Greentech Platform Real Estate SaaS Software Sustainability Sustainability Technology Technology, Information and Internet + 99 more Accacia is an AI-enabled real-estate decarbonization platf",
+          "graduationDate": null,
+          "applyUrl": "https://www.accel.com/companies/accacia#content",
+          "firstSeen": "2026-05-22",
+          "source": "scraper"
+        },
+        {
+          "title": "Seed Artificial Intelligence Business/Productivity Software Carbon Accounting Climate Change Environmental Services Envi",
+          "description": "ronmental Services (B2B) Greentech Platform Real Estate SaaS Software Sustainability Sustainability Technology Technology, Information and Internet Seed Artificial Intelligence Business/Productivity Software Carbon Accounting Climate Change Environmental Services Environmental Services (B2B) Greentech Platform Real Estate SaaS Software Sustainability Sustainability Technology Technology, Information and Internet + 99 more Accacia is an AI-enabled real-estate decarbonization platform that allows",
+          "graduationDate": null,
+          "applyUrl": "https://www.accel.com/careers",
+          "firstSeen": "2026-05-22",
+          "source": "scraper"
+        },
+        {
+          "title": "Technology, Information and Internet",
+          "description": "",
+          "graduationDate": null,
+          "applyUrl": "https://www.accel.com/careers",
+          "firstSeen": "2026-05-22",
+          "source": "scraper"
+        },
+        {
+          "title": "AdRoll 1 jobs Ad Retargeting AdTech Advertising Analytics Artificial Intelligence Business And Industrial Commerce and S",
+          "description": "hopping Communication & Sales Data & Analytics Digital Advertising Digital Marketing Direct Marketing Display Advertising E-Commerce E-Commerce Platforms Email Marketing Internet Services Machine Learning Marketing Marketing Analytics Marketing Attribution Omni-Channel Marketing Platform Predictive Analytics Programmatic Advertising SaaS Sales & Marketing Social Advertising Software Software Technology Ad Retargeting AdTech Advertising Analytics Artificial Intelligence Business And Industrial Co",
+          "graduationDate": null,
+          "applyUrl": "https://www.accel.com/companies/adroll#content",
+          "firstSeen": "2026-05-22",
+          "source": "scraper"
+        },
+        {
+          "title": "Ad Retargeting AdTech Advertising Analytics Artificial Intelligence Business And Industrial Commerce and Shopping Commun",
+          "description": "ication & Sales Data & Analytics Digital Advertising Digital Marketing Direct Marketing Display Advertising E-Commerce E-Commerce Platforms Email Marketing Internet Services Machine Learning Marketing Marketing Analytics Marketing Attribution Omni-Channel Marketing Platform Predictive Analytics Programmatic Advertising SaaS Sales & Marketing Social Advertising Software Software Technology Ad Retargeting AdTech Advertising Analytics Artificial Intelligence Business And Industrial Commerce and Sho",
+          "graduationDate": null,
+          "applyUrl": "https://www.accel.com/careers",
+          "firstSeen": "2026-05-22",
+          "source": "scraper"
+        }
+      ]
+    },
+    "Balderton Capital": {
+      "hasInternPosting": false,
+      "careerUrl": "https://www.balderton.com/careers",
+      "status": "ok",
+      "lastChecked": "2026-05-22T12:39:15.654193+00:00",
+      "jobs": []
     },
     "LUX Capital Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-21T12:22:26.024399+00:00",
+      "lastChecked": "2026-05-22T12:39:24.177806+00:00",
       "jobs": []
     },
     "Altos Ventures Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-21T12:22:33.247022+00:00",
+      "lastChecked": "2026-05-22T12:39:31.015989+00:00",
       "jobs": []
     },
     "Bond": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-21T12:22:42.362974+00:00",
+      "lastChecked": "2026-05-22T12:39:38.903995+00:00",
       "jobs": []
     },
     "Addition": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-21T12:23:05.872747+00:00",
+      "lastChecked": "2026-05-22T12:40:02.455504+00:00",
       "jobs": []
     },
     "Redpoint Ventures": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-21T12:23:15.158677+00:00",
+      "lastChecked": "2026-05-22T12:40:10.745787+00:00",
       "jobs": []
     },
     "B Capital Group": {
       "hasInternPosting": true,
       "careerUrl": "https://www.bcapgroup.com/about/careers",
       "status": "ok",
-      "lastChecked": "2026-05-21T12:23:31.241327+00:00",
+      "lastChecked": "2026-05-22T12:40:29.413976+00:00",
       "jobs": [
         {
           "title": "Accacia 10 jobs Seed Artificial Intelligence Business/Productivity Software Carbon Accounting Climate Change Environmental Services Environmental Services (B2B) Greentech Platform Real Estate SaaS Sof",
@@ -1044,84 +1016,84 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-21T12:23:41.419469+00:00",
+      "lastChecked": "2026-05-22T12:40:37.884103+00:00",
       "jobs": []
     },
     "Columbia Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-21T12:23:57.016169+00:00",
+      "lastChecked": "2026-05-22T12:40:50.266945+00:00",
       "jobs": []
     },
     "Kaszek Management S.A.": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-21T12:24:07.603490+00:00",
+      "lastChecked": "2026-05-22T12:41:00.254459+00:00",
       "jobs": []
     },
     "Craft Ventures Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-21T12:24:17.777392+00:00",
+      "lastChecked": "2026-05-22T12:41:08.909246+00:00",
       "jobs": []
     },
     "Canaan Partners": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-21T12:24:28.113517+00:00",
+      "lastChecked": "2026-05-22T12:41:20.196211+00:00",
       "jobs": []
     },
     "Matrix Partners": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-21T12:24:39.994420+00:00",
+      "lastChecked": "2026-05-22T12:41:29.887029+00:00",
       "jobs": []
     },
     "Indigo Partners": {
       "hasInternPosting": false,
-      "careerUrl": "https://www.indigopartners.com/careers",
-      "status": "ok",
-      "lastChecked": "2026-05-21T12:24:42.110268+00:00",
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-05-22T12:41:36.754795+00:00",
       "jobs": []
     },
     "Eclipse Ventures": {
       "hasInternPosting": false,
       "careerUrl": "https://www.eclipse.vc/careers",
       "status": "ok",
-      "lastChecked": "2026-05-21T12:24:50.566507+00:00",
+      "lastChecked": "2026-05-22T12:41:42.693929+00:00",
       "jobs": []
     },
     "Hedosophia Advisor Limited": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-21T12:25:34.852954+00:00",
+      "lastChecked": "2026-05-22T12:45:34.504265+00:00",
       "jobs": []
     },
     "DFJ Growth": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-21T12:25:44.053610+00:00",
+      "lastChecked": "2026-05-22T12:45:43.718319+00:00",
       "jobs": []
     },
     "VR Management": {
       "hasInternPosting": false,
-      "careerUrl": "https://www.vrmanagement.com/careers/students",
+      "careerUrl": "https://www.vrmanagement.com/careers",
       "status": "ok",
-      "lastChecked": "2026-05-21T12:25:49.367388+00:00",
+      "lastChecked": "2026-05-22T12:45:46.802693+00:00",
       "jobs": []
     },
     "Qiming Venture Partners": {
       "hasInternPosting": true,
       "careerUrl": "https://www.qimingvc.com/careers",
       "status": "ok",
-      "lastChecked": "2026-05-21T12:25:58.021201+00:00",
+      "lastChecked": "2026-05-22T12:45:56.232132+00:00",
       "jobs": [
         {
           "title": "QIMING VENTURE PARTNERS 2022 SUMMER INTERNSHIP——Summer Associate – T&C, Remote",
@@ -1225,92 +1197,117 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-21T12:26:05.937746+00:00",
+      "lastChecked": "2026-05-22T12:46:03.573053+00:00",
       "jobs": []
     },
     "Felicis Ventures": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-21T12:26:16.204282+00:00",
+      "lastChecked": "2026-05-22T12:46:12.581305+00:00",
       "jobs": []
     },
     "Menlo Ventures": {
-      "hasInternPosting": false,
+      "hasInternPosting": true,
       "careerUrl": "https://www.menlovc.com/join",
       "status": "ok",
-      "lastChecked": "2026-05-21T12:26:28.895790+00:00",
-      "jobs": []
+      "lastChecked": "2026-05-22T12:46:28.698537+00:00",
+      "jobs": [
+        {
+          "title": "Senior Contracts Administrator",
+          "description": "Everlaw Washington, DC, USA Today Administrative Services Analytics Cloud Computing Document Management eDiscovery Internet Services Legal Legal Tech Productivity Tools Professional Services Software Administrative Services Analytics Cloud Computing Document Management eDiscovery Internet Services Legal Legal Tech Productivity Tools Professional Services Software + 99 more Read more about Senior Contracts Administrator at Everlaw",
+          "graduationDate": null,
+          "applyUrl": "https://jobs.menlovc.com/companies/everlaw#content",
+          "firstSeen": "2026-05-22",
+          "source": "scraper"
+        },
+        {
+          "title": "Everlaw Washington, DC, USA Today Administrative Services Analytics Cloud Computing Document Management eDiscovery Inter",
+          "description": "net Services Legal Legal Tech Productivity Tools Professional Services Software Administrative Services Analytics Cloud Computing Document Management eDiscovery Internet Services Legal Legal Tech Productivity Tools Professional Services Software + 99 more",
+          "graduationDate": null,
+          "applyUrl": "https://jobs.menlovc.com/companies/everlaw#content",
+          "firstSeen": "2026-05-22",
+          "source": "scraper"
+        },
+        {
+          "title": "Administrative Services Analytics Cloud Computing Document Management eDiscovery Internet Services Legal Legal Tech Prod",
+          "description": "uctivity Tools Professional Services Software Administrative Services Analytics Cloud Computing Document Management eDiscovery Internet Services Legal Legal Tech Productivity Tools Professional Services Software + 99 more",
+          "graduationDate": null,
+          "applyUrl": "https://jobs.menlovc.com/jobs",
+          "firstSeen": "2026-05-22",
+          "source": "scraper"
+        }
+      ]
     },
     "Benchmark Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-21T12:26:38.552780+00:00",
+      "lastChecked": "2026-05-22T12:46:39.153519+00:00",
       "jobs": []
     },
     "Greycroft": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-21T12:26:49.586890+00:00",
+      "lastChecked": "2026-05-22T12:46:49.778191+00:00",
       "jobs": []
     },
     "Momentum Capital Partners Alpha Advisor Limited": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-21T12:27:09.984418+00:00",
+      "lastChecked": "2026-05-22T12:47:02.843514+00:00",
       "jobs": []
     },
     "Polaris Growth Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-21T12:27:20.049443+00:00",
+      "lastChecked": "2026-05-22T12:47:11.431478+00:00",
       "jobs": []
     },
     "K5 Global Advisor": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-21T12:27:30.621010+00:00",
+      "lastChecked": "2026-05-22T12:47:19.969233+00:00",
       "jobs": []
     },
     "Firstmark Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-21T12:27:39.143697+00:00",
+      "lastChecked": "2026-05-22T12:47:27.436302+00:00",
       "jobs": []
     },
     "Atreides Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-21T12:27:46.606884+00:00",
+      "lastChecked": "2026-05-22T12:47:34.662180+00:00",
       "jobs": []
     },
     "Madrona Venture Group": {
       "hasInternPosting": true,
       "careerUrl": "https://www.madrona.com/careers",
       "status": "ok",
-      "lastChecked": "2026-05-21T12:27:54.515579+00:00",
+      "lastChecked": "2026-05-22T12:47:41.572481+00:00",
       "jobs": [
         {
           "title": "EdgeRunner AI EdgeRunner AI is on a mission to build generative AI for the edge that is safe, secure, and transparent. E",
           "description": "dgeRunner AI develops small, task-specific ultra-efficient language models (UELMs) that operate without needing internet access, improving data privacy, security, and compliance. By providing generative AI solutions that run locally on any device or hardware, EdgeRunner AI enables enterprises and organizations to leverage AI technology responsibly, without compromising performance or security. Initial Investment 2024 EdgeRunner AI is on a mission to build generative AI for the edge that is safe,",
           "graduationDate": null,
-          "applyUrl": "https://www.madrona.com/companies/a-alpha-bio#content",
-          "firstSeen": "2026-04-18",
+          "applyUrl": "https://www.madrona.com/companies/amperity#content",
+          "firstSeen": "2026-05-22",
           "source": "scraper"
         },
         {
           "title": "EdgeRunner AI is on a mission to build generative AI for the edge that is safe, secure, and transparent. EdgeRunner AI d",
           "description": "evelops small, task-specific ultra-efficient language models (UELMs) that operate without needing internet access, improving data privacy, security, and compliance. By providing generative AI solutions that run locally on any device or hardware, EdgeRunner AI enables enterprises and organizations to leverage AI technology responsibly, without compromising performance or security. Initial Investment 2024",
           "graduationDate": null,
-          "applyUrl": "https://www.madrona.com/companies/a-alpha-bio#content",
-          "firstSeen": "2026-04-18",
+          "applyUrl": "https://www.madrona.com/companies/amperity#content",
+          "firstSeen": "2026-05-22",
           "source": "scraper"
         },
         {
@@ -1325,24 +1322,24 @@
           "title": "Modulus Therapeutics is a seed-stage cell therapy design studio developing an internal pipeline of NK cell anti-solid tu",
           "description": "mor programs. Failures in cell therapy efficacy can be traced to poor conceptualization, design and integration of engineered components. Modulus is uniting whole-cell synthetic biology with machine learning into a cell therapy design solution to dramatically reduce pipeline risk and accelerate the path to the clinic. The team is a diverse group of cell therapy veterans along with bioengineering and machine learning experts laser focused on driving therapeutic efficacy by accessing the full cell",
           "graduationDate": null,
-          "applyUrl": "https://www.madrona.com/companies/a-alpha-bio#content",
-          "firstSeen": "2026-04-18",
+          "applyUrl": "https://www.madrona.com/companies/amperity#content",
+          "firstSeen": "2026-05-22",
           "source": "scraper"
         },
         {
           "title": "Nosis Bio Nosis Biosciences designs and develops cell-targeted RNA therapeutics, unleashing the full potential of precis",
           "description": "ion medicines in the treatment of chronic disease. Nosis’ platform, Connexa, combines a proprietary atlas of cell-specific internalizing receptor targets, physics-aware machine learning, generative AI drug design, and high throughput in vivo data characterization to rapidly advance cell-targeted medicines into therapeutic development. Initial Investment 2022 Nosis Biosciences designs and develops cell-targeted RNA therapeutics, unleashing the full potential of precision medicines in the treatmen",
           "graduationDate": null,
-          "applyUrl": "https://www.madrona.com/companies/a-alpha-bio#content",
-          "firstSeen": "2026-04-18",
+          "applyUrl": "https://www.madrona.com/companies/amperity#content",
+          "firstSeen": "2026-05-22",
           "source": "scraper"
         },
         {
           "title": "Nosis Biosciences designs and develops cell-targeted RNA therapeutics, unleashing the full potential of precision medici",
           "description": "nes in the treatment of chronic disease. Nosis’ platform, Connexa, combines a proprietary atlas of cell-specific internalizing receptor targets, physics-aware machine learning, generative AI drug design, and high throughput in vivo data characterization to rapidly advance cell-targeted medicines into therapeutic development. Initial Investment 2022",
           "graduationDate": null,
-          "applyUrl": "https://www.madrona.com/companies/a-alpha-bio#content",
-          "firstSeen": "2026-04-18",
+          "applyUrl": "https://www.madrona.com/companies/amperity#content",
+          "firstSeen": "2026-05-22",
           "source": "scraper"
         },
         {
@@ -1357,8 +1354,8 @@
           "title": "Ravenna is an AI-powered enterprise service management (ESM) solution designed to streamline internal support directly w",
           "description": "ithin collaboration platforms where work already takes place, such as Slack and Teams. By automating repetitive tasks and providing intelligent, proactive assistance, Ravenna empowers internal teams to deliver instant, effortless support. The future of internal support starts now. Initial Investment 2024",
           "graduationDate": null,
-          "applyUrl": "https://www.madrona.com/companies/a-alpha-bio#content",
-          "firstSeen": "2026-04-18",
+          "applyUrl": "https://www.madrona.com/companies/amperity#content",
+          "firstSeen": "2026-05-22",
           "source": "scraper"
         },
         {
@@ -1373,133 +1370,165 @@
           "title": "Rigado is a secure edge-as-a-service system for commercial Internet of Things applications, including an edge module, a",
           "description": "connectivity gateway and a software platform integrated with leading cloud providers. The company’s products are used for next-generation retail, hospitality services, logistics/supply chain, and building management systems. Initial Investment 2018",
           "graduationDate": null,
-          "applyUrl": "https://www.madrona.com/companies/a-alpha-bio#content",
-          "firstSeen": "2026-04-18",
+          "applyUrl": "https://www.madrona.com/companies/amperity#content",
+          "firstSeen": "2026-05-22",
           "source": "scraper"
         }
       ]
     },
     "Fifth Wall Asset Management": {
-      "hasInternPosting": false,
+      "hasInternPosting": true,
       "careerUrl": "https://fifthwall.com/careers",
       "status": "ok",
-      "lastChecked": "2026-05-21T12:27:58.426316+00:00",
-      "jobs": []
+      "lastChecked": "2026-05-22T12:47:45.887029+00:00",
+      "jobs": [
+        {
+          "title": "Intern jobs 71,196 open jobs",
+          "description": "Analyst jobs 694,057 open jobs Associate jobs 1,091,945 open jobs Vice President jobs 235,270 open jobs Investment Analyst jobs 14,999 open jobs Manager jobs 1,880,925 open jobs Real Estate Analyst jobs 28,041 open jobs President jobs 92,709 open jobs Engineer jobs 555,845 open jobs Professional Development Manager jobs 36,882 open jobs Intern jobs 71,196 open jobs Director Acquisition jobs 11,348 open jobs Hardware Manager jobs 9,984 open jobs Project Manager jobs 253,048 open jobs Sustainabili",
+          "graduationDate": null,
+          "applyUrl": "https://www.linkedin.com/jobs/intern-jobs?trk=organization_guest-browse_jobs",
+          "firstSeen": "2026-05-22",
+          "source": "scraper"
+        },
+        {
+          "title": "Intern jobs",
+          "description": "Associate jobs Analyst jobs Investment Associate jobs Manager jobs Intern jobs Real Estate Analyst jobs Chief of Staff jobs Head of Real Estate jobs Financial Planning Specialist jobs Business Development Specialist jobs Chief Financial Officer jobs Project Manager jobs Summer Analyst jobs Director jobs Senior Vice President jobs Corporate Development Specialist jobs Compliance Associate jobs Vice President jobs Principal jobs Operations Analyst jobs",
+          "graduationDate": null,
+          "applyUrl": "https://www.linkedin.com/jobs/intern-jobs?trk=organization_guest_linkster_link",
+          "firstSeen": "2026-05-22",
+          "source": "scraper"
+        },
+        {
+          "title": "Summer Analyst jobs",
+          "description": "Associate jobs Analyst jobs Investment Associate jobs Manager jobs Intern jobs Real Estate Analyst jobs Chief of Staff jobs Head of Real Estate jobs Financial Planning Specialist jobs Business Development Specialist jobs Chief Financial Officer jobs Project Manager jobs Summer Analyst jobs Director jobs Senior Vice President jobs Corporate Development Specialist jobs Compliance Associate jobs Vice President jobs Principal jobs Operations Analyst jobs",
+          "graduationDate": null,
+          "applyUrl": "https://www.linkedin.com/jobs/summer-analyst-jobs?trk=organization_guest_linkster_link",
+          "firstSeen": "2026-05-22",
+          "source": "scraper"
+        },
+        {
+          "title": "Browse jobs",
+          "description": "Analyst jobs 694,057 open jobs Associate jobs 1,091,945 open jobs Vice President jobs 235,270 open jobs Investment Analyst jobs 14,999 open jobs Manager jobs 1,880,925 open jobs Real Estate Analyst jobs 28,041 open jobs President jobs 92,709 open jobs Engineer jobs 555,845 open jobs Professional Development Manager jobs 36,882 open jobs Intern jobs 71,196 open jobs Director Acquisition jobs 11,348 open jobs Hardware Manager jobs 9,984 open jobs Project Manager jobs 253,048 open jobs Sustainabili",
+          "graduationDate": null,
+          "applyUrl": "https://www.linkedin.com/jobs/analyst-jobs?trk=organization_guest-browse_jobs",
+          "firstSeen": "2026-05-22",
+          "source": "scraper"
+        },
+        {
+          "title": "Analyst jobs",
+          "description": "694,057 open jobs Associate jobs 1,091,945 open jobs Vice President jobs 235,270 open jobs Investment Analyst jobs 14,999 open jobs Manager jobs 1,880,925 open jobs Real Estate Analyst jobs 28,041 open jobs President jobs 92,709 open jobs Engineer jobs 555,845 open jobs Professional Development Manager jobs 36,882 open jobs Intern jobs 71,196 open jobs Director Acquisition jobs 11,348 open jobs Hardware Manager jobs 9,984 open jobs Project Manager jobs 253,048 open jobs Sustainability Manager jo",
+          "graduationDate": null,
+          "applyUrl": "https://www.linkedin.com/jobs/analyst-jobs?trk=organization_guest-browse_jobs",
+          "firstSeen": "2026-05-22",
+          "source": "scraper"
+        },
+        {
+          "title": "More searches More searches Associate jobs Analyst jobs Investment Associate jobs Manager jobs Intern jobs Real Estate A",
+          "description": "nalyst jobs Chief of Staff jobs Head of Real Estate jobs Financial Planning Specialist jobs Business Development Specialist jobs Chief Financial Officer jobs Project Manager jobs Summer Analyst jobs Director jobs Senior Vice President jobs Corporate Development Specialist jobs Compliance Associate jobs Vice President jobs Principal jobs Operations Analyst jobs Compliance Specialist jobs Government Affairs Specialist jobs Private Equity Specialist jobs Human Resources Analyst jobs Private Equity",
+          "graduationDate": null,
+          "applyUrl": "https://www.linkedin.com/jobs/associate-jobs?trk=organization_guest_linkster_link",
+          "firstSeen": "2026-05-22",
+          "source": "scraper"
+        },
+        {
+          "title": "Associate jobs Analyst jobs Investment Associate jobs Manager jobs Intern jobs Real Estate Analyst jobs Chief of Staff j",
+          "description": "obs Head of Real Estate jobs Financial Planning Specialist jobs Business Development Specialist jobs Chief Financial Officer jobs Project Manager jobs Summer Analyst jobs Director jobs Senior Vice President jobs Corporate Development Specialist jobs Compliance Associate jobs Vice President jobs Principal jobs Operations Analyst jobs Compliance Specialist jobs Government Affairs Specialist jobs Private Equity Specialist jobs Human Resources Analyst jobs Private Equity Associate jobs Investment Ba",
+          "graduationDate": null,
+          "applyUrl": "https://www.linkedin.com/jobs/associate-jobs?trk=organization_guest_linkster_link",
+          "firstSeen": "2026-05-22",
+          "source": "scraper"
+        }
+      ]
     },
     "Valar Ventures": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-21T12:28:07.471189+00:00",
+      "lastChecked": "2026-05-22T12:47:53.468718+00:00",
       "jobs": []
     },
     "Momentum Capital Partners Fund IV Advisor Limited": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-21T12:28:21.513569+00:00",
+      "lastChecked": "2026-05-22T12:48:05.889386+00:00",
       "jobs": []
     },
     "Elevation Capital Partners": {
       "hasInternPosting": false,
       "careerUrl": "https://www.elevationcapital.com/careers",
       "status": "ok",
-      "lastChecked": "2026-05-21T12:28:24.304005+00:00",
+      "lastChecked": "2026-05-22T12:48:08.324547+00:00",
       "jobs": []
     },
     "Column Group": {
-      "hasInternPosting": true,
-      "careerUrl": "https://www.thecolumngroup.com/join",
-      "status": "ok",
-      "lastChecked": "2026-05-21T12:28:35.290002+00:00",
-      "jobs": [
-        {
-          "title": "Filter jobs by skills and more Roles Enter roles Skills Enter skills Location Enter locations Company stage Enter stages",
-          "description": "Industry Enter industries Salary Select... Internships only Remote options All jobs Posted Anytime Powered by Consider",
-          "graduationDate": null,
-          "applyUrl": "https://product.consider.com/ctc/talent-circle?utm_campaign=undefined",
-          "firstSeen": "2026-04-18",
-          "source": "scraper"
-        },
-        {
-          "title": "Internships only Remote options All jobs Posted Anytime Powered by Consider",
-          "description": "",
-          "graduationDate": null,
-          "applyUrl": "https://product.consider.com/ctc/talent-circle?utm_campaign=undefined",
-          "firstSeen": "2026-04-18",
-          "source": "scraper"
-        },
-        {
-          "title": "Internships only Remote options All jobs Posted Anytime",
-          "description": "",
-          "graduationDate": null,
-          "applyUrl": "https://jobs.thecolumngroup.com/jobs",
-          "firstSeen": "2026-04-29",
-          "source": "scraper"
-        }
-      ]
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-05-22T12:52:00.460916+00:00",
+      "jobs": []
     },
     "QED Investors": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-21T12:28:45.227033+00:00",
+      "lastChecked": "2026-05-22T12:52:08.993323+00:00",
       "jobs": []
     },
     "Eight Roads GP": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-21T12:29:02.220463+00:00",
+      "lastChecked": "2026-05-22T12:52:24.963529+00:00",
       "jobs": []
     },
     "Nexus Ventures Advisors Private Limited": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-21T12:29:46.450892+00:00",
+      "lastChecked": "2026-05-22T12:53:05.367458+00:00",
       "jobs": []
     },
     "Foundation Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-21T12:33:38.548377+00:00",
+      "lastChecked": "2026-05-22T12:56:57.192516+00:00",
       "jobs": []
     },
     "5Y Capital Management Limited": {
       "hasInternPosting": false,
       "careerUrl": "https://www.5ycap.com/about/careers",
       "status": "ok",
-      "lastChecked": "2026-05-21T12:33:55.392886+00:00",
+      "lastChecked": "2026-05-22T12:57:15.262909+00:00",
       "jobs": []
     },
     "Meritech Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-21T12:34:04.524530+00:00",
+      "lastChecked": "2026-05-22T12:57:22.636166+00:00",
       "jobs": []
     },
     "Versant Venture Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-21T12:34:14.707113+00:00",
+      "lastChecked": "2026-05-22T12:57:33.192008+00:00",
       "jobs": []
     },
     "Golden Sand River Digital": {
       "hasInternPosting": false,
       "careerUrl": "https://www.gsrventures.com/careers",
       "status": "ok",
-      "lastChecked": "2026-05-21T12:34:19.971906+00:00",
+      "lastChecked": "2026-05-22T12:57:38.911407+00:00",
       "jobs": []
     },
     "Qiming Global Management": {
       "hasInternPosting": true,
       "careerUrl": "https://www.qimingvc.com/careers",
       "status": "ok",
-      "lastChecked": "2026-05-21T12:34:27.955540+00:00",
+      "lastChecked": "2026-05-22T12:57:47.764552+00:00",
       "jobs": [
         {
           "title": "QIMING VENTURE PARTNERS 2022 SUMMER INTERNSHIP——Summer Associate – T&C, Remote",
@@ -1603,14 +1632,14 @@
       "hasInternPosting": true,
       "careerUrl": "https://www.goodwatercap.com/careers/students",
       "status": "ok",
-      "lastChecked": "2026-05-21T12:34:33.089710+00:00",
+      "lastChecked": "2026-05-22T12:57:53.767385+00:00",
       "jobs": [
         {
-          "title": "77 companies . 1,752 jobs . Build World-Changing Consumer Tech.",
-          "description": "Home About Genesis Capital Collective Portfolio Home About Genesis Capital Collective Portfolio 77 companies . 1,752 jobs . Build World-Changing Consumer Tech. Jobs Companies Filter jobs by skills and more Roles Enter roles Skills Enter skills Location Enter locations Company stage Enter stages Industry Enter industries Salary Select... Internships only Remote options All jobs Posted Anytime Powered by Consider Powered by Consider Privacy Terms Consumer Tech Investors Contact Us 240 Lorton Ave B",
+          "title": "77 companies . 1,746 jobs . Build World-Changing Consumer Tech.",
+          "description": "Home About Genesis Capital Collective Portfolio Home About Genesis Capital Collective Portfolio 77 companies . 1,746 jobs . Build World-Changing Consumer Tech. Jobs Companies Filter jobs by skills and more Roles Enter roles Skills Enter skills Location Enter locations Company stage Enter stages Industry Enter industries Salary Select... Internships only Remote options All jobs Posted Anytime Powered by Consider Powered by Consider Privacy Terms Consumer Tech Investors Contact Us 240 Lorton Ave B",
           "graduationDate": null,
           "applyUrl": "https://www.goodwatercap.com/",
-          "firstSeen": "2026-05-21",
+          "firstSeen": "2026-05-22",
           "source": "scraper"
         },
         {
@@ -1643,42 +1672,42 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-21T12:34:48.805105+00:00",
+      "lastChecked": "2026-05-22T12:58:07.041137+00:00",
       "jobs": []
     },
     "BRV Lotus Holdings Limited": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-21T12:34:59.125665+00:00",
+      "lastChecked": "2026-05-22T12:58:16.098429+00:00",
       "jobs": []
     },
     "Breakthrough Energy Ventures": {
       "hasInternPosting": false,
       "careerUrl": "https://www.breakthroughenergy.org/careers",
       "status": "ok",
-      "lastChecked": "2026-05-21T12:35:01.507895+00:00",
+      "lastChecked": "2026-05-22T12:58:19.005284+00:00",
       "jobs": []
     },
     "Next Legacy Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-21T12:35:16.051654+00:00",
+      "lastChecked": "2026-05-22T12:58:29.859535+00:00",
       "jobs": []
     },
     "Union Square Ventures": {
       "hasInternPosting": true,
       "careerUrl": "https://www.usv.com/jobs",
       "status": "ok",
-      "lastChecked": "2026-05-21T12:35:22.351371+00:00",
+      "lastChecked": "2026-05-22T12:58:36.491684+00:00",
       "jobs": [
         {
-          "title": "154 companies . 1,060 jobs . Re-shape your career.",
-          "description": "About People Investments Jobs Writing 154 companies . 1,060 jobs . Re-shape your career. Jobs Companies Talent Network Filter jobs by skills and more Sign in Roles Enter roles Skills Enter skills Location Enter locations Company stage Enter stages Industry Enter industries Salary Select... Internships only Remote options All jobs Posted Anytime Powered by Consider Powered by Consider Privacy Terms",
+          "title": "154 companies . 1,073 jobs . Re-shape your career.",
+          "description": "About People Investments Jobs Writing 154 companies . 1,073 jobs . Re-shape your career. Jobs Companies Talent Network Filter jobs by skills and more Sign in Roles Enter roles Skills Enter skills Location Enter locations Company stage Enter stages Industry Enter industries Salary Select... Internships only Remote options All jobs Posted Anytime Powered by Consider Powered by Consider Privacy Terms",
           "graduationDate": null,
           "applyUrl": "https://www.usv.com/",
-          "firstSeen": "2026-05-21",
+          "firstSeen": "2026-05-22",
           "source": "scraper"
         },
         {
@@ -1711,21 +1740,21 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-21T12:35:37.753545+00:00",
+      "lastChecked": "2026-05-22T12:58:43.663654+00:00",
       "jobs": []
     },
     "HV Capital Manager GMBH": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-21T12:35:45.491282+00:00",
+      "lastChecked": "2026-05-22T12:58:50.884018+00:00",
       "jobs": []
     },
     "Highland Europe Geneva S.A.R.L.": {
       "hasInternPosting": true,
       "careerUrl": "https://www.highlandeurope.com/careers",
       "status": "ok",
-      "lastChecked": "2026-05-21T12:35:54.791108+00:00",
+      "lastChecked": "2026-05-22T12:58:59.208516+00:00",
       "jobs": [
         {
           "title": "Exciting roles in the Highland Europe portfolio",
@@ -1765,14 +1794,14 @@
       "hasInternPosting": true,
       "careerUrl": "https://www.foresitecapital.com/careers",
       "status": "ok",
-      "lastChecked": "2026-05-21T12:35:58.553349+00:00",
+      "lastChecked": "2026-05-22T12:59:03.096536+00:00",
       "jobs": [
         {
-          "title": "Career Opportunities: 121 companies . 1,488 jobs .",
-          "description": "Strategy Portfolio People Careers News Blog Contact Us Home Strategy Portfolio People Careers News Blog Contact Us Foresite Labs Investor Login Terms Privacy Policy Career Opportunities: 121 companies . 1,488 jobs . Jobs Companies Filter jobs by skills and more Roles Enter roles Skills Enter skills Location Enter locations Company stage Enter stages Industry Enter industries Salary Select... Internships only Remote options All jobs Posted Anytime Powered by Consider Powered by Consider Privacy T",
+          "title": "Career Opportunities: 121 companies . 1,499 jobs .",
+          "description": "Strategy Portfolio People Careers News Blog Contact Us Home Strategy Portfolio People Careers News Blog Contact Us Foresite Labs Investor Login Terms Privacy Policy Career Opportunities: 121 companies . 1,499 jobs . Jobs Companies Filter jobs by skills and more Roles Enter roles Skills Enter skills Location Enter locations Company stage Enter stages Industry Enter industries Salary Select... Internships only Remote options All jobs Posted Anytime Powered by Consider Powered by Consider Privacy T",
           "graduationDate": null,
           "applyUrl": "https://www.foresitecapital.com/",
-          "firstSeen": "2026-05-21",
+          "firstSeen": "2026-05-22",
           "source": "scraper"
         },
         {
@@ -1805,7 +1834,7 @@
       "hasInternPosting": true,
       "careerUrl": "https://trueventures.com/careers",
       "status": "ok",
-      "lastChecked": "2026-05-21T12:36:04.681634+00:00",
+      "lastChecked": "2026-05-22T12:59:13.097414+00:00",
       "jobs": [
         {
           "title": "Academia.edu 2 jobs Analytics Career / Job Search Data & Analytics EdTech Education Higher Education Information Services (B2C) Internet Internet Services Media & Entertainment Other Services (B2C Non",
@@ -1866,66 +1895,211 @@
       ]
     },
     "Foundry Group": {
-      "hasInternPosting": false,
-      "careerUrl": null,
-      "status": "no_url",
-      "lastChecked": "2026-05-21T12:36:13.893861+00:00",
-      "jobs": []
+      "hasInternPosting": true,
+      "careerUrl": "https://www.foundrygroup.com/careers",
+      "status": "ok",
+      "lastChecked": "2026-05-22T12:59:20.464797+00:00",
+      "jobs": [
+        {
+          "title": "International Customer Support Specialist",
+          "description": "",
+          "graduationDate": null,
+          "applyUrl": "https://jobs.foundry.vc/companies/vendasta-technologies/jobs/79804375-international-customer-support-specialist#content",
+          "firstSeen": "2026-05-22",
+          "source": "scraper"
+        },
+        {
+          "title": "Read more about International Customer Support Specialist at Vendasta Technologies",
+          "description": "",
+          "graduationDate": null,
+          "applyUrl": "https://jobs.foundry.vc/companies/vendasta-technologies/jobs/79804375-international-customer-support-specialist#content",
+          "firstSeen": "2026-05-22",
+          "source": "scraper"
+        },
+        {
+          "title": "Senior Software Developer",
+          "description": "AppDirect Montreal, QC, Canada Today Apps Business And Industrial Business/Productivity Software Business Services Cloud Cloud Data Services Cloud services(SaaS) Data Storage Digital Economy Ecommerce Enterprise Software Fintech IaaS Information Security Internet Internet Services IT Services and IT Consulting Marketing Marketplace Media and Information Services (B2B) Mobile App PaaS Platform SaaS Security Software Software Development Storage Technology Apps Business And Industrial Business/Pro",
+          "graduationDate": null,
+          "applyUrl": "https://jobs.foundry.vc/companies/appdirect#content",
+          "firstSeen": "2026-05-22",
+          "source": "scraper"
+        },
+        {
+          "title": "AppDirect Montreal, QC, Canada Today Apps Business And Industrial Business/Productivity Software Business Services Cloud",
+          "description": "Cloud Data Services Cloud services(SaaS) Data Storage Digital Economy Ecommerce Enterprise Software Fintech IaaS Information Security Internet Internet Services IT Services and IT Consulting Marketing Marketplace Media and Information Services (B2B) Mobile App PaaS Platform SaaS Security Software Software Development Storage Technology Apps Business And Industrial Business/Productivity Software Business Services Cloud Cloud Data Services Cloud services(SaaS) Data Storage Digital Economy Ecommerc",
+          "graduationDate": null,
+          "applyUrl": "https://jobs.foundry.vc/companies/appdirect#content",
+          "firstSeen": "2026-05-22",
+          "source": "scraper"
+        },
+        {
+          "title": "Apps Business And Industrial Business/Productivity Software Business Services Cloud Cloud Data Services Cloud services(S",
+          "description": "aaS) Data Storage Digital Economy Ecommerce Enterprise Software Fintech IaaS Information Security Internet Internet Services IT Services and IT Consulting Marketing Marketplace Media and Information Services (B2B) Mobile App PaaS Platform SaaS Security Software Software Development Storage Technology Apps Business And Industrial Business/Productivity Software Business Services Cloud Cloud Data Services Cloud services(SaaS) Data Storage Digital Economy Ecommerce Enterprise Software Fintech IaaS I",
+          "graduationDate": null,
+          "applyUrl": "https://jobs.foundry.vc/jobs",
+          "firstSeen": "2026-05-22",
+          "source": "scraper"
+        },
+        {
+          "title": "Vendasta Technologies Chennai, Tamil Nadu, India Today Private Equity Administrative Services Advertising Analytics Auto",
+          "description": "mation Automations B2B Business And Industrial Business/Productivity Software Cloud services(SaaS) Commerce and Shopping Computer Consumer Electronics CRM Digital Advertising Digital Marketing E-Commerce E-Commerce Platforms Enterprise Software Hardware Internet Services Marketing Marketing Analytics Marketing Automation Marketplace Media and Information Services (B2B) Platform Project Management Project Management Software Reputation Management SaaS Sales Automation Sales CRM Sales & Marketing",
+          "graduationDate": null,
+          "applyUrl": "https://jobs.foundry.vc/companies/vendasta-technologies#content",
+          "firstSeen": "2026-05-22",
+          "source": "scraper"
+        },
+        {
+          "title": "Private Equity Administrative Services Advertising Analytics Automation Automations B2B Business And Industrial Business",
+          "description": "/Productivity Software Cloud services(SaaS) Commerce and Shopping Computer Consumer Electronics CRM Digital Advertising Digital Marketing E-Commerce E-Commerce Platforms Enterprise Software Hardware Internet Services Marketing Marketing Analytics Marketing Automation Marketplace Media and Information Services (B2B) Platform Project Management Project Management Software Reputation Management SaaS Sales Automation Sales CRM Sales & Marketing Small and Medium Businesses Social Marketing Software S",
+          "graduationDate": null,
+          "applyUrl": "https://jobs.foundry.vc/jobs",
+          "firstSeen": "2026-05-22",
+          "source": "scraper"
+        },
+        {
+          "title": "Senior Technical Program Manager - Enterprise Initiatives",
+          "description": "Pantheon Canada ; Remote Today Series C+ Cloud Infrastructure Content Enterprise Software Infrastructure Internet Internet Services SaaS Software Software Development Technology and Computing Web Design Web Development Web Hosting Series C+ Cloud Infrastructure Content Enterprise Software Infrastructure Internet Internet Services SaaS Software Software Development Technology and Computing Web Design Web Development Web Hosting + 99 more Read more about Senior Technical Program Manager - Enterpri",
+          "graduationDate": null,
+          "applyUrl": "https://jobs.foundry.vc/companies/pantheon-2#content",
+          "firstSeen": "2026-05-22",
+          "source": "scraper"
+        },
+        {
+          "title": "Pantheon Canada ; Remote Today Series C+ Cloud Infrastructure Content Enterprise Software Infrastructure Internet Intern",
+          "description": "et Services SaaS Software Software Development Technology and Computing Web Design Web Development Web Hosting Series C+ Cloud Infrastructure Content Enterprise Software Infrastructure Internet Internet Services SaaS Software Software Development Technology and Computing Web Design Web Development Web Hosting + 99 more",
+          "graduationDate": null,
+          "applyUrl": "https://jobs.foundry.vc/companies/pantheon-2#content",
+          "firstSeen": "2026-05-22",
+          "source": "scraper"
+        },
+        {
+          "title": "Series C+ Cloud Infrastructure Content Enterprise Software Infrastructure Internet Internet Services SaaS Software Softw",
+          "description": "are Development Technology and Computing Web Design Web Development Web Hosting Series C+ Cloud Infrastructure Content Enterprise Software Infrastructure Internet Internet Services SaaS Software Software Development Technology and Computing Web Design Web Development Web Hosting + 99 more",
+          "graduationDate": null,
+          "applyUrl": "https://jobs.foundry.vc/jobs",
+          "firstSeen": "2026-05-22",
+          "source": "scraper"
+        },
+        {
+          "title": "Senior Technical Program Manager - Enterprise",
+          "description": "Pantheon United States ; Remote Today Series C+ Cloud Infrastructure Content Enterprise Software Infrastructure Internet Internet Services SaaS Software Software Development Technology and Computing Web Design Web Development Web Hosting Series C+ Cloud Infrastructure Content Enterprise Software Infrastructure Internet Internet Services SaaS Software Software Development Technology and Computing Web Design Web Development Web Hosting + 99 more Read more about Senior Technical Program Manager - E",
+          "graduationDate": null,
+          "applyUrl": "https://jobs.foundry.vc/companies/pantheon-2#content",
+          "firstSeen": "2026-05-22",
+          "source": "scraper"
+        },
+        {
+          "title": "Pantheon United States ; Remote Today Series C+ Cloud Infrastructure Content Enterprise Software Infrastructure Internet",
+          "description": "Internet Services SaaS Software Software Development Technology and Computing Web Design Web Development Web Hosting Series C+ Cloud Infrastructure Content Enterprise Software Infrastructure Internet Internet Services SaaS Software Software Development Technology and Computing Web Design Web Development Web Hosting + 99 more",
+          "graduationDate": null,
+          "applyUrl": "https://jobs.foundry.vc/companies/pantheon-2#content",
+          "firstSeen": "2026-05-22",
+          "source": "scraper"
+        },
+        {
+          "title": "Software Development Engineer II, Data Platform",
+          "description": "Mapbox United Kingdom USD 160,650-217,350 / year 1 day Mid-Senior Level Analytics Artificial Intelligence Automotive Business And Industrial Business Intelligence Cloud Computing Data Data & Analytics Data Visualization Design Enterprise Software Fleet Management Geolocation Internet Services Location Based Services Logistics Mapping Services Maps Marketing Navigation Navigation and Mapping Open Source Platform SaaS Software Software Development Software Development Applications Technology Trans",
+          "graduationDate": null,
+          "applyUrl": "https://jobs.foundry.vc/companies/mapbox#content",
+          "firstSeen": "2026-05-22",
+          "source": "scraper"
+        },
+        {
+          "title": "Mapbox United Kingdom USD 160,650-217,350 / year 1 day Mid-Senior Level Analytics Artificial Intelligence Automotive Bus",
+          "description": "iness And Industrial Business Intelligence Cloud Computing Data Data & Analytics Data Visualization Design Enterprise Software Fleet Management Geolocation Internet Services Location Based Services Logistics Mapping Services Maps Marketing Navigation Navigation and Mapping Open Source Platform SaaS Software Software Development Software Development Applications Technology Transportation Mid-Senior Level Analytics Artificial Intelligence Automotive Business And Industrial Business Intelligence Cl",
+          "graduationDate": null,
+          "applyUrl": "https://jobs.foundry.vc/companies/mapbox#content",
+          "firstSeen": "2026-05-22",
+          "source": "scraper"
+        },
+        {
+          "title": "Mid-Senior Level Analytics Artificial Intelligence Automotive Business And Industrial Business Intelligence Cloud Comput",
+          "description": "ing Data Data & Analytics Data Visualization Design Enterprise Software Fleet Management Geolocation Internet Services Location Based Services Logistics Mapping Services Maps Marketing Navigation Navigation and Mapping Open Source Platform SaaS Software Software Development Software Development Applications Technology Transportation Mid-Senior Level Analytics Artificial Intelligence Automotive Business And Industrial Business Intelligence Cloud Computing Data Data & Analytics Data Visualization",
+          "graduationDate": null,
+          "applyUrl": "https://jobs.foundry.vc/jobs",
+          "firstSeen": "2026-05-22",
+          "source": "scraper"
+        },
+        {
+          "title": "Senior Staff Executive Recruiter",
+          "description": "Mapbox United States USD 167k-220k / year + Equity 1 day Vice President Analytics Artificial Intelligence Automotive Business And Industrial Business Intelligence Cloud Computing Data Data & Analytics Data Visualization Design Enterprise Software Fleet Management Geolocation Internet Services Location Based Services Logistics Mapping Services Maps Marketing Navigation Navigation and Mapping Open Source Platform SaaS Software Software Development Software Development Applications Technology Trans",
+          "graduationDate": null,
+          "applyUrl": "https://jobs.foundry.vc/companies/mapbox#content",
+          "firstSeen": "2026-05-22",
+          "source": "scraper"
+        },
+        {
+          "title": "Mapbox United States USD 167k-220k / year + Equity 1 day Vice President Analytics Artificial Intelligence Automotive Bus",
+          "description": "iness And Industrial Business Intelligence Cloud Computing Data Data & Analytics Data Visualization Design Enterprise Software Fleet Management Geolocation Internet Services Location Based Services Logistics Mapping Services Maps Marketing Navigation Navigation and Mapping Open Source Platform SaaS Software Software Development Software Development Applications Technology Transportation Vice President Analytics Artificial Intelligence Automotive Business And Industrial Business Intelligence Clou",
+          "graduationDate": null,
+          "applyUrl": "https://jobs.foundry.vc/companies/mapbox#content",
+          "firstSeen": "2026-05-22",
+          "source": "scraper"
+        },
+        {
+          "title": "Vice President Analytics Artificial Intelligence Automotive Business And Industrial Business Intelligence Cloud Computin",
+          "description": "g Data Data & Analytics Data Visualization Design Enterprise Software Fleet Management Geolocation Internet Services Location Based Services Logistics Mapping Services Maps Marketing Navigation Navigation and Mapping Open Source Platform SaaS Software Software Development Software Development Applications Technology Transportation Vice President Analytics Artificial Intelligence Automotive Business And Industrial Business Intelligence Cloud Computing Data Data & Analytics Data Visualization Desi",
+          "graduationDate": null,
+          "applyUrl": "https://jobs.foundry.vc/jobs",
+          "firstSeen": "2026-05-22",
+          "source": "scraper"
+        }
+      ]
     },
     "Signalfire": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-21T12:36:25.747585+00:00",
+      "lastChecked": "2026-05-22T12:59:29.000087+00:00",
       "jobs": []
     },
     "MPM Bioimpact": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-21T12:36:39.154282+00:00",
+      "lastChecked": "2026-05-22T12:59:42.490425+00:00",
       "jobs": []
     },
     "83north 2017": {
       "hasInternPosting": false,
-      "careerUrl": "https://www.83north.com/open-positions",
+      "careerUrl": "https://www.83north.com/careers",
       "status": "ok",
-      "lastChecked": "2026-05-21T12:36:56.427744+00:00",
+      "lastChecked": "2026-05-22T12:59:45.982061+00:00",
       "jobs": []
     },
     "Emergence Equity Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-21T12:37:06.724020+00:00",
+      "lastChecked": "2026-05-22T12:59:54.458935+00:00",
       "jobs": []
     },
     "DCM": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-21T12:37:17.198180+00:00",
+      "lastChecked": "2026-05-22T13:00:03.757852+00:00",
       "jobs": []
     },
     "Forerunner Ventures Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-05-21T12:37:24.976888+00:00",
+      "lastChecked": "2026-05-22T13:00:11.182520+00:00",
       "jobs": []
     },
     "Georgian Partners Growth": {
       "hasInternPosting": false,
       "careerUrl": "https://www.georgian.io/careers",
       "status": "ok",
-      "lastChecked": "2026-05-21T12:37:28.210333+00:00",
+      "lastChecked": "2026-05-22T13:00:14.030762+00:00",
       "jobs": []
     },
     "h Investment Management": {
       "hasInternPosting": false,
       "careerUrl": "https://www.hinvestment.com/careers",
       "status": "ok",
-      "lastChecked": "2026-05-21T12:37:30.954127+00:00",
+      "lastChecked": "2026-05-22T13:00:17.957799+00:00",
       "jobs": []
     }
   }
