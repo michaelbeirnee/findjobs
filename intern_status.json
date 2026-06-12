@@ -1,155 +1,138 @@
 {
-  "lastUpdated": "2026-06-11T12:19:09.885971+00:00",
-  "internCount": 25,
+  "lastUpdated": "2026-06-12T12:00:58.939607+00:00",
+  "internCount": 27,
   "firms": {
     "Vermilion Rock Advisors": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T11:21:21.936744+00:00",
+      "lastChecked": "2026-06-12T10:59:44.058447+00:00",
       "jobs": []
     },
     "Excalibur Investment Banking": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T11:21:30.452178+00:00",
+      "lastChecked": "2026-06-12T10:59:51.195180+00:00",
       "jobs": []
     },
     "InvestBank Corporation": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T11:21:31.952383+00:00",
+      "lastChecked": "2026-06-12T10:59:52.695399+00:00",
       "jobs": []
     },
     "Versailles Group, Ltd.": {
       "hasInternPosting": false,
       "careerUrl": "https://www.versaillesgroup.com/about/careers",
       "status": "ok",
-      "lastChecked": "2026-06-11T11:21:45.841830+00:00",
+      "lastChecked": "2026-06-12T11:00:04.811790+00:00",
       "jobs": []
     },
     "MD Global Partners, LLC": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T11:21:52.571215+00:00",
+      "lastChecked": "2026-06-12T11:00:11.474399+00:00",
       "jobs": []
     },
     "George + Company IB": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T11:21:54.071440+00:00",
+      "lastChecked": "2026-06-12T11:00:12.974578+00:00",
       "jobs": []
     },
     "Aureate Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T11:22:05.775786+00:00",
+      "lastChecked": "2026-06-12T11:00:23.470590+00:00",
       "jobs": []
     },
     "52 Capital Partners": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T11:22:15.967712+00:00",
+      "lastChecked": "2026-06-12T11:00:32.052672+00:00",
       "jobs": []
     },
     "Harbor Ridge Capital": {
       "hasInternPosting": false,
       "careerUrl": "https://www.harborridgecapital.com/careers",
       "status": "ok",
-      "lastChecked": "2026-06-11T11:22:18.144389+00:00",
+      "lastChecked": "2026-06-12T11:00:33.964595+00:00",
       "jobs": []
     },
     "The Opes Group": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T11:22:28.626100+00:00",
+      "lastChecked": "2026-06-12T11:00:42.685005+00:00",
       "jobs": []
     },
     "41 North LLC": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T11:23:47.898761+00:00",
+      "lastChecked": "2026-06-12T11:01:21.690524+00:00",
       "jobs": []
     },
     "Takenaka Partners LLC": {
-      "hasInternPosting": true,
-      "careerUrl": "https://www.takenakapartners.com/careers",
-      "status": "ok",
-      "lastChecked": "2026-06-11T11:23:53.099423+00:00",
-      "jobs": [
-        {
-          "title": "Direct Impact:",
-          "description": "Work on significant cross-border deals and contribute meaningfully from day one. Navigating multiple jurisdictions and bridging communication gaps between different business practices presents unique challenges that require a sophisticated blend of financial acumen, strategic insight, and deep cross-cultural understanding. Working on these deals offers unparalleled exposure to complex international business dynamics and provides an exceptional opportunity to develop specialized skills in a truly",
-          "graduationDate": null,
-          "applyUrl": "https://www.takenakapartners.com/careers",
-          "firstSeen": "2026-06-11",
-          "source": "scraper"
-        },
-        {
-          "title": "Direct Impact:",
-          "description": "Work on significant cross-border deals and contribute meaningfully from day one. Navigating multiple jurisdictions and bridging communication gaps between different business practices presents unique challenges that require a sophisticated blend of financial acumen, strategic insight, and deep cross-cultural understanding. Working on these deals offers unparalleled exposure to complex international business dynamics and provides an exceptional opportunity to develop specialized skills in a truly",
-          "graduationDate": null,
-          "applyUrl": "https://www.takenakapartners.com/careers/",
-          "firstSeen": "2026-06-11",
-          "source": "scraper"
-        }
-      ]
+      "hasInternPosting": false,
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-06-12T11:01:32.127903+00:00",
+      "jobs": []
     },
     "The Amazing Group, LLC": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T11:23:54.600579+00:00",
+      "lastChecked": "2026-06-12T11:01:33.628095+00:00",
       "jobs": []
     },
     "Wellesley Hills Financial": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T11:24:16.582886+00:00",
+      "lastChecked": "2026-06-12T11:01:57.699093+00:00",
       "jobs": []
     },
     "Renewable Advisors": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T11:24:28.259991+00:00",
+      "lastChecked": "2026-06-12T11:02:07.687756+00:00",
       "jobs": []
     },
     "Springer Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T11:24:35.352115+00:00",
+      "lastChecked": "2026-06-12T11:02:15.148804+00:00",
       "jobs": []
     },
     "Herculean Group": {
       "hasInternPosting": false,
       "careerUrl": "https://www.herculeangroup.com/careers",
       "status": "ok",
-      "lastChecked": "2026-06-11T11:24:38.066166+00:00",
+      "lastChecked": "2026-06-12T11:02:17.565077+00:00",
       "jobs": []
     },
     "Esposito Intellectual Enterprises": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T11:24:39.567349+00:00",
+      "lastChecked": "2026-06-12T11:02:19.066455+00:00",
       "jobs": []
     },
     "Halifax West": {
       "hasInternPosting": true,
       "careerUrl": "https://www.halifaxwest.com/careers",
       "status": "ok",
-      "lastChecked": "2026-06-11T11:24:45.771969+00:00",
+      "lastChecked": "2026-06-12T11:02:24.428299+00:00",
       "jobs": [
         {
           "title": "Student Analyst / Intern",
@@ -173,28 +156,28 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T11:24:54.055585+00:00",
+      "lastChecked": "2026-06-12T11:02:32.345635+00:00",
       "jobs": []
     },
     "Concordia Capital": {
       "hasInternPosting": false,
       "careerUrl": "https://www.concordiacapital.com/about/careers",
       "status": "ok",
-      "lastChecked": "2026-06-11T11:25:03.263445+00:00",
+      "lastChecked": "2026-06-12T11:02:39.215652+00:00",
       "jobs": []
     },
     "Integrus Partners": {
       "hasInternPosting": false,
       "careerUrl": "https://www.integruspartners.com/careers",
       "status": "ok",
-      "lastChecked": "2026-06-11T11:25:06.161550+00:00",
+      "lastChecked": "2026-06-12T11:02:42.203316+00:00",
       "jobs": []
     },
     "Roadmap Advisors": {
       "hasInternPosting": true,
       "careerUrl": "https://www.roadmapadvisors.com/careers",
       "status": "ok",
-      "lastChecked": "2026-06-11T11:25:10.586641+00:00",
+      "lastChecked": "2026-06-12T11:02:46.880953+00:00",
       "jobs": [
         {
           "title": "Interested in Intern and Externships?",
@@ -290,91 +273,91 @@
       "hasInternPosting": false,
       "careerUrl": "https://www.icarusfund.com/careers",
       "status": "ok",
-      "lastChecked": "2026-06-11T11:25:12.815197+00:00",
+      "lastChecked": "2026-06-12T11:02:48.720798+00:00",
       "jobs": []
     },
     "Cedar Street Capital": {
       "hasInternPosting": false,
       "careerUrl": "https://www.cedarstreetcapital.com/careers",
       "status": "ok",
-      "lastChecked": "2026-06-11T11:25:14.812952+00:00",
+      "lastChecked": "2026-06-12T11:02:50.550382+00:00",
       "jobs": []
     },
     "S.C.E. Partners": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T11:25:42.375122+00:00",
+      "lastChecked": "2026-06-12T11:02:59.248590+00:00",
       "jobs": []
     },
     "AugCap": {
       "hasInternPosting": false,
       "careerUrl": "https://www.augcap.com/careers",
       "status": "ok",
-      "lastChecked": "2026-06-11T11:25:44.535741+00:00",
+      "lastChecked": "2026-06-12T11:03:01.695848+00:00",
       "jobs": []
     },
     "Baird Augustine": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T11:25:53.515239+00:00",
+      "lastChecked": "2026-06-12T11:03:09.490654+00:00",
       "jobs": []
     },
     "KCC Capital Partners": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T11:26:04.781212+00:00",
+      "lastChecked": "2026-06-12T11:03:21.108084+00:00",
       "jobs": []
     },
     "Waterbrook Advisors": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T11:26:14.688133+00:00",
+      "lastChecked": "2026-06-12T11:03:29.606486+00:00",
       "jobs": []
     },
     "Independent Investment Bankers Corp.": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T11:26:21.628209+00:00",
+      "lastChecked": "2026-06-12T11:03:36.208356+00:00",
       "jobs": []
     },
     "Brooks, Houghton & Co": {
       "hasInternPosting": false,
       "careerUrl": "https://www.brookshoughton.com/careers",
       "status": "http_404",
-      "lastChecked": "2026-06-11T11:26:23.441842+00:00",
+      "lastChecked": "2026-06-12T11:03:37.926299+00:00",
       "jobs": []
     },
     "Innovus Advisors": {
       "hasInternPosting": false,
-      "careerUrl": "https://www.innovusadvisors.com/careers",
-      "status": "ok",
-      "lastChecked": "2026-06-11T11:26:26.400490+00:00",
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-06-12T11:03:49.268408+00:00",
       "jobs": []
     },
     "Calabasas Capital": {
       "hasInternPosting": false,
-      "careerUrl": "https://www.calabasascapital.com/careers",
-      "status": "ok",
-      "lastChecked": "2026-06-11T11:26:28.803872+00:00",
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-06-12T11:04:14.976171+00:00",
       "jobs": []
     },
     "Westlake Securities": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T11:27:17.060388+00:00",
+      "lastChecked": "2026-06-12T11:05:22.554619+00:00",
       "jobs": []
     },
     "Bardi Co.": {
       "hasInternPosting": true,
       "careerUrl": "https://www.bardico.com/careers",
       "status": "ok",
-      "lastChecked": "2026-06-11T11:27:22.345641+00:00",
+      "lastChecked": "2026-06-12T11:05:26.227303+00:00",
       "jobs": [
         {
           "title": "Summer 2026 Internship Program (Remote)",
@@ -414,7 +397,7 @@
       "hasInternPosting": true,
       "careerUrl": "https://www.xnergy.com/join",
       "status": "ok",
-      "lastChecked": "2026-06-11T11:27:41.348482+00:00",
+      "lastChecked": "2026-06-12T11:05:43.654106+00:00",
       "jobs": [
         {
           "title": "From the Newsroom",
@@ -438,28 +421,28 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T11:27:48.472696+00:00",
+      "lastChecked": "2026-06-12T11:05:50.417678+00:00",
       "jobs": []
     },
     "New York Bay Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T11:28:02.461607+00:00",
+      "lastChecked": "2026-06-12T11:06:02.681138+00:00",
       "jobs": []
     },
     "American Discovery Capital": {
       "hasInternPosting": false,
       "careerUrl": "https://www.americandiscoverycapital.com/careers",
       "status": "ok",
-      "lastChecked": "2026-06-11T11:28:04.675861+00:00",
+      "lastChecked": "2026-06-12T11:06:04.828765+00:00",
       "jobs": []
     },
     "Harbor View Advisors": {
       "hasInternPosting": true,
       "careerUrl": "https://www.harborviewadvisors.com/careers",
       "status": "ok",
-      "lastChecked": "2026-06-11T11:28:08.793357+00:00",
+      "lastChecked": "2026-06-12T11:06:08.546100+00:00",
       "jobs": [
         {
           "title": "Interning With Us",
@@ -680,45 +663,54 @@
       ]
     },
     "Cambridge Wilkinson": {
-      "hasInternPosting": false,
+      "hasInternPosting": true,
       "careerUrl": "https://www.cambridgewilkinson.com/careers",
       "status": "ok",
-      "lastChecked": "2026-06-11T11:28:11.619739+00:00",
-      "jobs": []
+      "lastChecked": "2026-06-12T11:06:21.357440+00:00",
+      "jobs": [
+        {
+          "title": "Explore our Internships",
+          "description": "If you are currently pursuing an MBA or an undergraduate degree in Business, Finance or Accounting, we invite you to apply for an unpaid internship at Cambridge Wilkinson. Our program is open-ended, designed to provide participants with a comprehensive overview of a career in investment banking. The program is delivered in a highly virtual setting with occasional New York City Metro and San Francisco Bay Area day events. Our program is ideal for the student that is seeking a deeply enriching opp",
+          "graduationDate": null,
+          "applyUrl": "https://www.cambridgewilkinson.com/careers-students",
+          "firstSeen": "2026-06-12",
+          "source": "scraper"
+        }
+      ]
     },
     "Montminy & Co.": {
       "hasInternPosting": false,
       "careerUrl": "https://www.montminy.com/careers",
       "status": "request_error",
-      "lastChecked": "2026-06-11T11:28:13.435614+00:00",
+      "lastChecked": "2026-06-12T11:06:23.022914+00:00",
       "jobs": []
     },
     "Alta Capital Partners": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T11:28:27.086805+00:00",
+      "lastChecked": "2026-06-12T11:06:37.379478+00:00",
       "jobs": []
     },
     "Alderman & Company": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T11:28:49.755613+00:00",
+      "lastChecked": "2026-06-12T11:06:56.643421+00:00",
       "jobs": []
     },
     "Impact Capital Group": {
       "hasInternPosting": false,
       "careerUrl": "https://www.impactcg.com/careers",
       "status": "ok",
-      "lastChecked": "2026-06-11T11:28:52.308610+00:00",
+      "lastChecked": "2026-06-12T11:06:59.363494+00:00",
       "jobs": []
     },
     "Berkery, Noyes & Co., LLC": {
       "hasInternPosting": true,
       "careerUrl": "https://www.berkerynoyes.com/careers",
       "status": "ok",
-      "lastChecked": "2026-06-11T11:29:00.526871+00:00",
+      "lastChecked": "2026-06-12T11:07:07.068310+00:00",
       "jobs": [
         {
           "title": "Internship Program",
@@ -758,14 +750,14 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T11:29:07.246444+00:00",
+      "lastChecked": "2026-06-12T11:07:13.603298+00:00",
       "jobs": []
     },
     "Progress Partners": {
       "hasInternPosting": true,
       "careerUrl": "https://www.progresspartners.com/careers",
       "status": "ok",
-      "lastChecked": "2026-06-11T11:29:13.022006+00:00",
+      "lastChecked": "2026-06-12T11:07:21.782027+00:00",
       "jobs": [
         {
           "title": "Explore our opportunities for interns We offer full-time and part-time internship opportunities. Find out more about our intern programs.",
@@ -813,28 +805,28 @@
       "hasInternPosting": false,
       "careerUrl": "https://www.cappellogroup.com/careers",
       "status": "ok",
-      "lastChecked": "2026-06-11T11:29:15.525069+00:00",
+      "lastChecked": "2026-06-12T11:07:24.146352+00:00",
       "jobs": []
     },
     "Diamond Capital Advisors": {
       "hasInternPosting": false,
       "careerUrl": "https://www.diamondcapitaladvisors.com/careers",
       "status": "ok",
-      "lastChecked": "2026-06-11T11:29:18.050964+00:00",
+      "lastChecked": "2026-06-12T11:07:26.606738+00:00",
       "jobs": []
     },
     "Black Legend Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T11:29:52.858593+00:00",
+      "lastChecked": "2026-06-12T11:08:00.519136+00:00",
       "jobs": []
     },
     "InvestmentBank.com": {
       "hasInternPosting": true,
       "careerUrl": "https://www.investmentbank.com/careers",
       "status": "ok",
-      "lastChecked": "2026-06-11T11:29:59.054919+00:00",
+      "lastChecked": "2026-06-12T11:08:04.400848+00:00",
       "jobs": [
         {
           "title": "Internships:",
@@ -874,14 +866,14 @@
       "hasInternPosting": false,
       "careerUrl": "https://www.coltonalexander.com/careers",
       "status": "ok",
-      "lastChecked": "2026-06-11T11:30:02.673086+00:00",
+      "lastChecked": "2026-06-12T11:08:07.733870+00:00",
       "jobs": []
     },
     "Horizon Partners": {
       "hasInternPosting": true,
       "careerUrl": "https://www.horizonpartners.com/careers",
       "status": "ok",
-      "lastChecked": "2026-06-11T11:30:07.839460+00:00",
+      "lastChecked": "2026-06-12T11:08:13.372265+00:00",
       "jobs": [
         {
           "title": "Horizon Partners Wins 2025 Information Technology Deal of the Year (Under $100MM) at the M&A Advisor’s International M&A Awards",
@@ -905,91 +897,132 @@
       "hasInternPosting": false,
       "careerUrl": "https://www.aqtechnology.com/careers",
       "status": "ok",
-      "lastChecked": "2026-06-11T11:30:10.162187+00:00",
+      "lastChecked": "2026-06-12T11:08:16.055432+00:00",
       "jobs": []
     },
     "Horatius Group": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T11:30:35.087344+00:00",
+      "lastChecked": "2026-06-12T11:08:38.749359+00:00",
       "jobs": []
     },
     "New Century Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T11:30:46.906329+00:00",
+      "lastChecked": "2026-06-12T11:08:50.181365+00:00",
       "jobs": []
     },
     "Solganick & Co.": {
       "hasInternPosting": false,
       "careerUrl": "https://www.solganick.com/careers",
       "status": "http_404",
-      "lastChecked": "2026-06-11T11:30:54.217788+00:00",
+      "lastChecked": "2026-06-12T11:08:54.181507+00:00",
       "jobs": []
     },
     "Castle Placement": {
-      "hasInternPosting": false,
+      "hasInternPosting": true,
       "careerUrl": "https://www.castleplacement.com/careers",
       "status": "ok",
-      "lastChecked": "2026-06-11T11:30:56.587239+00:00",
-      "jobs": []
+      "lastChecked": "2026-06-12T11:08:57.731167+00:00",
+      "jobs": [
+        {
+          "title": "Global Green International — Waste to Energy",
+          "description": "North American distributor for Global Green International (GGII) is seeking $25 million ($400 million for all projects) to convert waste to green energy without incineration. Patented technology that is efficient, modular, and scalable. Learn More",
+          "graduationDate": null,
+          "applyUrl": "https://www.castleplacement.com/careers",
+          "firstSeen": "2026-06-12",
+          "source": "scraper"
+        },
+        {
+          "title": "Top 10 Internet Of Things Capital Raises and Investors in the U.S. – April 1st – May 31st, 2026",
+          "description": "Learn more",
+          "graduationDate": null,
+          "applyUrl": "https://www.castleplacement.com/careers",
+          "firstSeen": "2026-06-12",
+          "source": "scraper"
+        },
+        {
+          "title": "Top 10 Internet Of Things Capital Raises and Investors in the U.S. – January 1st to March 31st, 2026",
+          "description": "Learn more",
+          "graduationDate": null,
+          "applyUrl": "https://www.castleplacement.com/careers",
+          "firstSeen": "2026-06-12",
+          "source": "scraper"
+        },
+        {
+          "title": "\"We hired Castle Placement as our exclusive placement agent to help us build our pioneering online gaming marketplace in",
+          "description": "telligence platform. We were pleased to complete the sale of our company to Gaming Compliance International, and are extremely grateful to Castle for their professionalism, responsiveness, diligence and great client service throughout the engagement.\" Ismail Vali - Client CEO, Yield Sec Global, Inc.",
+          "graduationDate": null,
+          "applyUrl": "https://www.yieldsec.com/",
+          "firstSeen": "2026-06-12",
+          "source": "scraper"
+        },
+        {
+          "title": "Featured Transaction",
+          "description": "Global Green International — Waste to Energy North American distributor for Global Green International (GGII) is seeking $25 million ($400 million for all projects) to convert waste to green energy without incineration. Patented technology that is efficient, modular, and scalable. Learn More",
+          "graduationDate": null,
+          "applyUrl": "https://castleplacement.com/portfolio/gg-ii-waste-to-energy-technology/",
+          "firstSeen": "2026-06-12",
+          "source": "scraper"
+        }
+      ]
     },
     "Colebrooke Capital, LLC.": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T11:31:05.797616+00:00",
+      "lastChecked": "2026-06-12T11:09:05.405227+00:00",
       "jobs": []
     },
     "CB Capital Partners": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T11:38:42.333738+00:00",
+      "lastChecked": "2026-06-12T11:16:41.886041+00:00",
       "jobs": []
     },
     "The Shaughnessy Group": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T11:38:49.170791+00:00",
+      "lastChecked": "2026-06-12T11:16:48.512049+00:00",
       "jobs": []
     },
     "Bridge Street Advisors": {
       "hasInternPosting": false,
       "careerUrl": "https://www.bridgestreetadvisors.com/careers",
       "status": "http_404",
-      "lastChecked": "2026-06-11T11:38:51.200260+00:00",
+      "lastChecked": "2026-06-12T11:16:50.311474+00:00",
       "jobs": []
     },
     "Madison Park Group": {
       "hasInternPosting": false,
       "careerUrl": "https://www.madisonparkgroup.com/careers",
-      "status": "request_error",
-      "lastChecked": "2026-06-11T11:38:57.493463+00:00",
+      "status": "ok",
+      "lastChecked": "2026-06-12T11:16:57.804708+00:00",
       "jobs": []
     },
     "ReVera Capital": {
       "hasInternPosting": false,
       "careerUrl": "https://www.reveracapital.com/careers",
       "status": "ok",
-      "lastChecked": "2026-06-11T11:38:59.851716+00:00",
+      "lastChecked": "2026-06-12T11:17:00.110045+00:00",
       "jobs": []
     },
     "Mirus Capital Advisors": {
       "hasInternPosting": false,
       "careerUrl": "https://www.miruscapital.com/careers",
       "status": "request_error",
-      "lastChecked": "2026-06-11T11:39:01.612372+00:00",
+      "lastChecked": "2026-06-12T11:17:01.850529+00:00",
       "jobs": []
     },
     "Asia Renaissance IB": {
       "hasInternPosting": true,
       "careerUrl": "https://www.asiarenaissance.com/careers",
       "status": "ok",
-      "lastChecked": "2026-06-11T11:39:03.834969+00:00",
+      "lastChecked": "2026-06-12T11:17:04.780688+00:00",
       "jobs": [
         {
           "title": "Preparation of memoranda for internal and external use",
@@ -1005,168 +1038,168 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T11:39:12.636249+00:00",
+      "lastChecked": "2026-06-12T11:17:12.418174+00:00",
       "jobs": []
     },
     "Coady Diemar Partners": {
       "hasInternPosting": false,
       "careerUrl": "https://www.coadydiemar.com/careers",
       "status": "http_404",
-      "lastChecked": "2026-06-11T11:39:14.439640+00:00",
+      "lastChecked": "2026-06-12T11:17:14.094360+00:00",
       "jobs": []
     },
     "Asgaard Capital, LLC": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T11:39:23.283087+00:00",
+      "lastChecked": "2026-06-12T11:17:21.904077+00:00",
       "jobs": []
     },
     "STEP Strategy Advisors": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T11:39:30.571812+00:00",
+      "lastChecked": "2026-06-12T11:17:29.061704+00:00",
       "jobs": []
     },
     "Fortitude Advisors": {
       "hasInternPosting": false,
       "careerUrl": "https://www.fortitudeadvisors.com/careers",
       "status": "http_404",
-      "lastChecked": "2026-06-11T11:39:34.941259+00:00",
+      "lastChecked": "2026-06-12T11:17:33.525203+00:00",
       "jobs": []
     },
     "Columbia West Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T11:39:44.271851+00:00",
+      "lastChecked": "2026-06-12T11:17:46.125290+00:00",
       "jobs": []
     },
     "Crotalus Advisors": {
       "hasInternPosting": false,
       "careerUrl": "https://www.crotalusadvisors.com/careers",
       "status": "ok",
-      "lastChecked": "2026-06-11T11:39:46.411643+00:00",
+      "lastChecked": "2026-06-12T11:17:48.161483+00:00",
       "jobs": []
     },
     "ComCap": {
       "hasInternPosting": false,
       "careerUrl": "https://www.comcap.com/careers",
       "status": "ok",
-      "lastChecked": "2026-06-11T11:39:52.094497+00:00",
+      "lastChecked": "2026-06-12T11:17:50.404607+00:00",
       "jobs": []
     },
     "Raymond Leigh & Partners": {
       "hasInternPosting": false,
       "careerUrl": "https://www.raymondleigh.com/careers",
       "status": "ok",
-      "lastChecked": "2026-06-11T11:39:55.779663+00:00",
+      "lastChecked": "2026-06-12T11:17:53.654986+00:00",
       "jobs": []
     },
     "Centerstone Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T11:40:06.152401+00:00",
+      "lastChecked": "2026-06-12T11:18:02.136688+00:00",
       "jobs": []
     },
     "David N. Deutsch & Co": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T11:40:15.515541+00:00",
+      "lastChecked": "2026-06-12T11:18:10.126020+00:00",
       "jobs": []
     },
     "Seahorn Capital Group": {
       "hasInternPosting": false,
       "careerUrl": "https://www.seahorncapital.com/careers",
       "status": "ok",
-      "lastChecked": "2026-06-11T11:40:17.709020+00:00",
+      "lastChecked": "2026-06-12T11:18:11.979273+00:00",
       "jobs": []
     },
     "King's Ransom Group": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T11:40:26.394436+00:00",
+      "lastChecked": "2026-06-12T11:18:20.245573+00:00",
       "jobs": []
     },
     "Genoa Partners LLC": {
       "hasInternPosting": false,
       "careerUrl": "https://www.genoapartners.com/careers",
       "status": "ok",
-      "lastChecked": "2026-06-11T11:40:52.944739+00:00",
+      "lastChecked": "2026-06-12T11:18:22.178278+00:00",
       "jobs": []
     },
     "Reynolds Advisory": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T11:48:30.526030+00:00",
+      "lastChecked": "2026-06-12T11:25:59.507257+00:00",
       "jobs": []
     },
     "Palm Tree LLC": {
       "hasInternPosting": false,
       "careerUrl": "https://www.palmtreellc.com/careers",
       "status": "ok",
-      "lastChecked": "2026-06-11T11:48:34.523168+00:00",
+      "lastChecked": "2026-06-12T11:26:03.468701+00:00",
       "jobs": []
     },
     "Pharus": {
       "hasInternPosting": false,
       "careerUrl": "https://www.pharus.com/careers",
       "status": "ok",
-      "lastChecked": "2026-06-11T11:48:38.747660+00:00",
+      "lastChecked": "2026-06-12T11:26:06.959061+00:00",
       "jobs": []
     },
     "Watertower Advisors": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T11:48:48.708787+00:00",
+      "lastChecked": "2026-06-12T11:26:15.346377+00:00",
       "jobs": []
     },
     "Viant Group": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T11:52:40.860660+00:00",
+      "lastChecked": "2026-06-12T11:30:07.356151+00:00",
       "jobs": []
     },
     "Fallbrook Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T11:52:50.939890+00:00",
+      "lastChecked": "2026-06-12T11:30:15.950484+00:00",
       "jobs": []
     },
     "Shea & Company": {
       "hasInternPosting": false,
       "careerUrl": "https://www.sheacompany.com/careers",
       "status": "ok",
-      "lastChecked": "2026-06-11T11:52:53.344338+00:00",
+      "lastChecked": "2026-06-12T11:30:18.120565+00:00",
       "jobs": []
     },
     "Independence Point": {
       "hasInternPosting": false,
       "careerUrl": "https://www.independencepoint.com/join-us",
       "status": "ok",
-      "lastChecked": "2026-06-11T11:53:04.814574+00:00",
+      "lastChecked": "2026-06-12T11:30:30.583947+00:00",
       "jobs": []
     },
     "Rush Street Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T11:53:18.812949+00:00",
+      "lastChecked": "2026-06-12T11:30:41.595669+00:00",
       "jobs": []
     },
     "Landmark Ventures": {
       "hasInternPosting": true,
       "careerUrl": "https://www.landmarkventures.com/careers",
       "status": "ok",
-      "lastChecked": "2026-06-11T11:53:21.558478+00:00",
+      "lastChecked": "2026-06-12T11:30:44.794851+00:00",
       "jobs": [
         {
           "title": "Name * FIRST NAME * LAST NAME * Title Company * Reason for Contact Internship Business Development Investment Banking Ge",
@@ -1198,14 +1231,14 @@
       "hasInternPosting": false,
       "careerUrl": "https://www.delmorgan.com/careers",
       "status": "request_error",
-      "lastChecked": "2026-06-11T11:53:38.233757+00:00",
+      "lastChecked": "2026-06-12T11:31:01.447526+00:00",
       "jobs": []
     },
     "Silverwood Partners": {
       "hasInternPosting": true,
       "careerUrl": "https://www.silverwoodpartners.com/careers",
       "status": "ok",
-      "lastChecked": "2026-06-11T11:53:43.231916+00:00",
+      "lastChecked": "2026-06-12T11:31:06.549614+00:00",
       "jobs": [
         {
           "title": "Internships",
@@ -1229,175 +1262,175 @@
       "hasInternPosting": false,
       "careerUrl": "https://www.bryantparkcapital.com/careers",
       "status": "ok",
-      "lastChecked": "2026-06-11T11:53:45.918470+00:00",
+      "lastChecked": "2026-06-12T11:31:09.263390+00:00",
       "jobs": []
     },
     "Park Lane": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T11:56:09.988854+00:00",
+      "lastChecked": "2026-06-12T11:33:32.641719+00:00",
       "jobs": []
     },
     "TM Capital Corp.": {
       "hasInternPosting": false,
       "careerUrl": "https://www.tmcapital.com/careers",
       "status": "http_404",
-      "lastChecked": "2026-06-11T11:56:11.812360+00:00",
+      "lastChecked": "2026-06-12T11:33:34.404915+00:00",
       "jobs": []
     },
     "Navidar": {
       "hasInternPosting": false,
       "careerUrl": "https://www.navidar.com/careers",
-      "status": "ok",
-      "lastChecked": "2026-06-11T11:56:14.121254+00:00",
+      "status": "http_404",
+      "lastChecked": "2026-06-12T11:33:36.856075+00:00",
       "jobs": []
     },
     "Arrowroot Advisors": {
       "hasInternPosting": false,
-      "careerUrl": "https://www.arrowrootadvisors.com/careers",
-      "status": "ok",
-      "lastChecked": "2026-06-11T11:56:16.660606+00:00",
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-06-12T11:33:58.373345+00:00",
       "jobs": []
     },
     "AGRA Capital": {
       "hasInternPosting": false,
-      "careerUrl": "https://www.agracapital.com/careers",
-      "status": "ok",
-      "lastChecked": "2026-06-11T11:56:19.003662+00:00",
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-06-12T11:34:09.080318+00:00",
       "jobs": []
     },
     "martinwolf": {
       "hasInternPosting": false,
       "careerUrl": "https://www.martinwolf.com/careers",
-      "status": "http_404",
-      "lastChecked": "2026-06-11T11:56:22.149902+00:00",
+      "status": "http_202",
+      "lastChecked": "2026-06-12T11:34:10.924311+00:00",
       "jobs": []
     },
     "Young America Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T11:56:29.927029+00:00",
+      "lastChecked": "2026-06-12T11:34:24.113617+00:00",
       "jobs": []
     },
     "BDO Capital Advisors, LLC": {
       "hasInternPosting": false,
       "careerUrl": "https://www.bdocapitaladvisors.com/careers",
       "status": "request_error",
-      "lastChecked": "2026-06-11T11:56:31.487935+00:00",
+      "lastChecked": "2026-06-12T11:34:25.636402+00:00",
       "jobs": []
     },
     "Jett Capital Advisors": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T11:56:41.801221+00:00",
+      "lastChecked": "2026-06-12T11:34:34.584647+00:00",
       "jobs": []
     },
     "Woodside Capital Partners": {
       "hasInternPosting": false,
       "careerUrl": "https://www.woodsidecap.com/careers",
       "status": "http_404",
-      "lastChecked": "2026-06-11T11:56:44.329637+00:00",
+      "lastChecked": "2026-06-12T11:34:37.205639+00:00",
       "jobs": []
     },
     "The Peakstone Group": {
       "hasInternPosting": false,
       "careerUrl": "https://www.thepeakstonegroup.com/careers",
       "status": "request_error",
-      "lastChecked": "2026-06-11T11:56:45.942180+00:00",
+      "lastChecked": "2026-06-12T11:34:38.721385+00:00",
       "jobs": []
     },
     "Oaklins DeSilva+Phillips": {
       "hasInternPosting": false,
       "careerUrl": "https://www.desilvaphillips.com/careers",
       "status": "request_error",
-      "lastChecked": "2026-06-11T11:56:47.650712+00:00",
+      "lastChecked": "2026-06-12T11:34:41.072144+00:00",
       "jobs": []
     },
     "Mid-Market Securities": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T11:57:17.359428+00:00",
+      "lastChecked": "2026-06-12T11:36:23.248886+00:00",
       "jobs": []
     },
     "JEGI CLARITY": {
       "hasInternPosting": false,
       "careerUrl": "https://www.jegiclarity.com/careers",
       "status": "request_error",
-      "lastChecked": "2026-06-11T11:57:19.715238+00:00",
+      "lastChecked": "2026-06-12T11:36:25.300160+00:00",
       "jobs": []
     },
     "733Park": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T11:57:27.550100+00:00",
+      "lastChecked": "2026-06-12T11:36:32.856331+00:00",
       "jobs": []
     },
     "Calder Capital": {
       "hasInternPosting": false,
       "careerUrl": "https://www.caldercapital.com/careers",
       "status": "ok",
-      "lastChecked": "2026-06-11T11:57:29.586796+00:00",
+      "lastChecked": "2026-06-12T11:36:34.604741+00:00",
       "jobs": []
     },
     "PTB": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T11:57:36.326613+00:00",
+      "lastChecked": "2026-06-12T11:36:41.284239+00:00",
       "jobs": []
     },
     "Meritage Partners": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T11:59:05.075516+00:00",
+      "lastChecked": "2026-06-12T11:37:44.760631+00:00",
       "jobs": []
     },
     "Trafalgar Capital Partners": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T11:59:14.338925+00:00",
+      "lastChecked": "2026-06-12T11:37:52.504000+00:00",
       "jobs": []
     },
     "Software Equity Group": {
       "hasInternPosting": false,
       "careerUrl": "https://www.softwareequitygroup.com/careers",
       "status": "http_404",
-      "lastChecked": "2026-06-11T11:59:16.258664+00:00",
+      "lastChecked": "2026-06-12T11:37:54.209249+00:00",
       "jobs": []
     },
     "Nfluence Partners": {
       "hasInternPosting": false,
       "careerUrl": "https://www.nfluence.com/careers",
       "status": "request_error",
-      "lastChecked": "2026-06-11T11:59:17.880176+00:00",
+      "lastChecked": "2026-06-12T11:37:55.739147+00:00",
       "jobs": []
     },
     "Gabriel Horn Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T11:59:25.782983+00:00",
+      "lastChecked": "2026-06-12T11:38:03.614031+00:00",
       "jobs": []
     },
     "Sycamore Canyon Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T11:59:34.564247+00:00",
+      "lastChecked": "2026-06-12T11:38:11.225197+00:00",
       "jobs": []
     },
     "BlackRose Group": {
       "hasInternPosting": true,
       "careerUrl": "https://www.blackrosegroup.com/careers",
       "status": "ok",
-      "lastChecked": "2026-06-11T11:59:54.601718+00:00",
+      "lastChecked": "2026-06-12T11:38:28.318595+00:00",
       "jobs": [
         {
           "title": "International investigations",
@@ -1661,392 +1694,392 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T12:00:03.446330+00:00",
+      "lastChecked": "2026-06-12T11:38:37.583052+00:00",
       "jobs": []
     },
     "PEAK Technology Partners": {
       "hasInternPosting": false,
       "careerUrl": "https://www.peaktechpartners.com/careers",
       "status": "ok",
-      "lastChecked": "2026-06-11T12:00:09.018086+00:00",
+      "lastChecked": "2026-06-12T11:38:41.081905+00:00",
       "jobs": []
     },
     "Cohen & Company": {
       "hasInternPosting": false,
       "careerUrl": "https://www.cohencompany.com/careers",
       "status": "request_error",
-      "lastChecked": "2026-06-11T12:00:10.668085+00:00",
+      "lastChecked": "2026-06-12T11:38:42.609197+00:00",
       "jobs": []
     },
     "Watertower Group": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T12:00:21.017271+00:00",
+      "lastChecked": "2026-06-12T11:38:51.469193+00:00",
       "jobs": []
     },
     "Grand Avenue Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T12:00:29.923801+00:00",
+      "lastChecked": "2026-06-12T11:39:01.424962+00:00",
       "jobs": []
     },
     "Boustead Securities": {
       "hasInternPosting": false,
       "careerUrl": "https://www.boustead1828.com/careers",
       "status": "http_404",
-      "lastChecked": "2026-06-11T12:00:31.657119+00:00",
+      "lastChecked": "2026-06-12T11:39:03.084371+00:00",
       "jobs": []
     },
     "ROTH Capital Partners": {
       "hasInternPosting": false,
       "careerUrl": "https://www.rothcapital.com/careers",
-      "status": "ok",
-      "lastChecked": "2026-06-11T12:00:35.055283+00:00",
+      "status": "http_202",
+      "lastChecked": "2026-06-12T11:39:04.673773+00:00",
       "jobs": []
     },
     "LockeBridge Capital": {
       "hasInternPosting": false,
-      "careerUrl": "https://www.lockebridge.com/careers",
-      "status": "ok",
-      "lastChecked": "2026-06-11T12:00:37.442695+00:00",
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-06-12T11:39:18.476847+00:00",
       "jobs": []
     },
     "Drake Star": {
       "hasInternPosting": false,
       "careerUrl": "https://www.drakestar.com/careers",
       "status": "http_404",
-      "lastChecked": "2026-06-11T12:00:39.961245+00:00",
+      "lastChecked": "2026-06-12T11:39:20.332154+00:00",
       "jobs": []
     },
     "SilverMile Capital": {
       "hasInternPosting": false,
-      "careerUrl": "https://www.silvermilecapital.com/careers",
-      "status": "ok",
-      "lastChecked": "2026-06-11T12:00:42.770076+00:00",
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-06-12T11:39:35.536001+00:00",
       "jobs": []
     },
     "Madison Street Capital": {
       "hasInternPosting": false,
       "careerUrl": "https://www.madisonstreetcapital.com/careers",
       "status": "http_404",
-      "lastChecked": "2026-06-11T12:00:45.146083+00:00",
+      "lastChecked": "2026-06-12T11:39:38.199222+00:00",
       "jobs": []
     },
     "Edgemont Partners": {
       "hasInternPosting": false,
       "careerUrl": "https://www.edgemontpartners.com/careers",
       "status": "http_404",
-      "lastChecked": "2026-06-11T12:00:46.904653+00:00",
+      "lastChecked": "2026-06-12T11:39:39.857018+00:00",
       "jobs": []
     },
     "Hum Capital": {
       "hasInternPosting": false,
       "careerUrl": "https://www.humcapital.com/careers",
       "status": "ok",
-      "lastChecked": "2026-06-11T12:00:50.582093+00:00",
+      "lastChecked": "2026-06-12T11:39:43.436747+00:00",
       "jobs": []
     },
     "GTK Partners": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T12:01:03.841082+00:00",
+      "lastChecked": "2026-06-12T11:39:54.277457+00:00",
       "jobs": []
     },
     "Westcove Partners": {
       "hasInternPosting": false,
       "careerUrl": "https://www.westcovepartners.com/careers",
       "status": "ok",
-      "lastChecked": "2026-06-11T12:01:06.794318+00:00",
+      "lastChecked": "2026-06-12T11:39:58.828274+00:00",
       "jobs": []
     },
     "Salem Partners LLC": {
       "hasInternPosting": false,
       "careerUrl": "https://www.salempartners.com/careers",
       "status": "ok",
-      "lastChecked": "2026-06-11T12:01:08.779979+00:00",
+      "lastChecked": "2026-06-12T11:40:01.309995+00:00",
       "jobs": []
     },
     "WestPark Capital, Inc.": {
       "hasInternPosting": false,
       "careerUrl": "https://www.westparkcapital.com/careers",
       "status": "request_error",
-      "lastChecked": "2026-06-11T12:01:25.392448+00:00",
+      "lastChecked": "2026-06-12T11:40:17.904488+00:00",
       "jobs": []
     },
     "Northern Edge Advisors": {
       "hasInternPosting": false,
       "careerUrl": "https://www.northernedgeadvisors.com/careers",
       "status": "ok",
-      "lastChecked": "2026-06-11T12:01:29.202735+00:00",
+      "lastChecked": "2026-06-12T11:40:21.241322+00:00",
       "jobs": []
     },
     "Greif & Co.": {
       "hasInternPosting": false,
       "careerUrl": "https://www.greifco.com/careers",
       "status": "http_404",
-      "lastChecked": "2026-06-11T12:01:31.169248+00:00",
+      "lastChecked": "2026-06-12T11:40:23.027531+00:00",
       "jobs": []
     },
     "England & Company": {
       "hasInternPosting": false,
       "careerUrl": "https://www.englandco.com/careers",
       "status": "ok",
-      "lastChecked": "2026-06-11T12:01:36.130570+00:00",
+      "lastChecked": "2026-06-12T11:40:28.133464+00:00",
       "jobs": []
     },
     "BDA Partners": {
       "hasInternPosting": false,
       "careerUrl": "https://www.bdapartners.com/careers",
       "status": "ok",
-      "lastChecked": "2026-06-11T12:01:40.185374+00:00",
+      "lastChecked": "2026-06-12T11:40:31.706990+00:00",
       "jobs": []
     },
     "Parcrest Advisors": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T12:01:47.171554+00:00",
+      "lastChecked": "2026-06-12T11:40:38.686776+00:00",
       "jobs": []
     },
     "Brock Capital Group": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T12:01:54.530608+00:00",
+      "lastChecked": "2026-06-12T11:40:45.401665+00:00",
       "jobs": []
     },
     "Aleutian Capital Group": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T12:02:19.249354+00:00",
+      "lastChecked": "2026-06-12T11:41:04.474639+00:00",
       "jobs": []
     },
     "Alantra": {
       "hasInternPosting": false,
       "careerUrl": "https://www.alantra.com/en/careers",
       "status": "http_403",
-      "lastChecked": "2026-06-11T12:02:20.941656+00:00",
+      "lastChecked": "2026-06-12T11:41:06.112532+00:00",
       "jobs": []
     },
     "Janney Montgomery Scott": {
       "hasInternPosting": false,
       "careerUrl": "https://www.janney.com/careers",
       "status": "http_403",
-      "lastChecked": "2026-06-11T12:02:22.641030+00:00",
+      "lastChecked": "2026-06-12T11:41:07.757938+00:00",
       "jobs": []
     },
     "Layer 7 Capital": {
       "hasInternPosting": false,
       "careerUrl": "https://www.layer7capital.com/careers",
       "status": "http_404",
-      "lastChecked": "2026-06-11T12:02:24.527621+00:00",
+      "lastChecked": "2026-06-12T11:41:09.551930+00:00",
       "jobs": []
     },
     "QInvest LLC": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T12:02:35.437114+00:00",
+      "lastChecked": "2026-06-12T11:41:19.054571+00:00",
       "jobs": []
     },
     "Redmount Mergers & Acquisitions": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T12:02:42.088102+00:00",
+      "lastChecked": "2026-06-12T11:41:25.902493+00:00",
       "jobs": []
     },
     "CapM Advisors": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T12:02:49.994468+00:00",
+      "lastChecked": "2026-06-12T11:41:34.212470+00:00",
       "jobs": []
     },
     "Frisch Capital Partners": {
       "hasInternPosting": false,
       "careerUrl": "https://www.frischcapital.com/work-with-us",
       "status": "ok",
-      "lastChecked": "2026-06-11T12:02:59.710810+00:00",
+      "lastChecked": "2026-06-12T11:41:42.904493+00:00",
       "jobs": []
     },
     "Agile Equity": {
       "hasInternPosting": false,
-      "careerUrl": "https://www.agileequity.com/careers",
-      "status": "ok",
-      "lastChecked": "2026-06-11T12:03:04.788991+00:00",
+      "careerUrl": null,
+      "status": "no_url",
+      "lastChecked": "2026-06-12T11:41:50.468520+00:00",
       "jobs": []
     },
     "Sigma Capital Group": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T12:10:42.496691+00:00",
+      "lastChecked": "2026-06-12T11:49:27.769201+00:00",
       "jobs": []
     },
     "Scura Partners": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T12:10:57.968030+00:00",
+      "lastChecked": "2026-06-12T11:49:41.034008+00:00",
       "jobs": []
     },
     "Newport Valuations": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T12:11:12.315480+00:00",
+      "lastChecked": "2026-06-12T11:49:56.893633+00:00",
       "jobs": []
     },
     "Big Path Capital": {
       "hasInternPosting": false,
       "careerUrl": "https://www.bigpathcapital.com/careers",
       "status": "ok",
-      "lastChecked": "2026-06-11T12:11:16.523818+00:00",
+      "lastChecked": "2026-06-12T11:49:59.886283+00:00",
       "jobs": []
     },
     "Methuselah Advisors": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T12:11:26.790025+00:00",
+      "lastChecked": "2026-06-12T11:50:08.477992+00:00",
       "jobs": []
     },
     "CEC Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T12:11:39.165816+00:00",
+      "lastChecked": "2026-06-12T11:50:20.144973+00:00",
       "jobs": []
     },
     "Pars Capital Partners": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T12:11:55.481836+00:00",
+      "lastChecked": "2026-06-12T11:50:37.518591+00:00",
       "jobs": []
     },
     "R.L. Hulett": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T12:12:17.341161+00:00",
+      "lastChecked": "2026-06-12T11:54:29.421418+00:00",
       "jobs": []
     },
     "LSH Partners": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T12:12:28.006976+00:00",
+      "lastChecked": "2026-06-12T11:54:37.947051+00:00",
       "jobs": []
     },
     "Kinected Advisors": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T12:12:35.574521+00:00",
+      "lastChecked": "2026-06-12T11:54:45.104437+00:00",
       "jobs": []
     },
     "BroadSpan Capital LLC": {
       "hasInternPosting": false,
       "careerUrl": "https://www.broadspancapital.com/careers",
       "status": "ok",
-      "lastChecked": "2026-06-11T12:12:37.475103+00:00",
+      "lastChecked": "2026-06-12T11:54:46.734752+00:00",
       "jobs": []
     },
     "M+A Squared, LLC": {
       "hasInternPosting": false,
       "careerUrl": "https://www.masquared.com/careers",
       "status": "ok",
-      "lastChecked": "2026-06-11T12:12:40.002497+00:00",
+      "lastChecked": "2026-06-12T11:54:49.014613+00:00",
       "jobs": []
     },
     "TAG FIG": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T12:12:46.995681+00:00",
+      "lastChecked": "2026-06-12T11:54:55.684253+00:00",
       "jobs": []
     },
     "Emory & Co., LLC": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T12:12:59.591814+00:00",
+      "lastChecked": "2026-06-12T11:55:04.998600+00:00",
       "jobs": []
     },
     "Park Avenue Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T12:13:08.425083+00:00",
+      "lastChecked": "2026-06-12T11:55:12.682014+00:00",
       "jobs": []
     },
     "Broad Street Capital Group": {
       "hasInternPosting": false,
       "careerUrl": "https://www.broadstreetcapital.com/careers",
       "status": "ok",
-      "lastChecked": "2026-06-11T12:13:10.995022+00:00",
+      "lastChecked": "2026-06-12T11:55:15.005352+00:00",
       "jobs": []
     },
     "Freedom Capital Markets": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T12:13:19.968885+00:00",
+      "lastChecked": "2026-06-12T11:55:22.573341+00:00",
       "jobs": []
     },
     "Robinson & Co Banking": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T12:13:26.940762+00:00",
+      "lastChecked": "2026-06-12T11:55:29.249652+00:00",
       "jobs": []
     },
     "REV Global": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T12:17:19.022697+00:00",
+      "lastChecked": "2026-06-12T11:59:20.919228+00:00",
       "jobs": []
     },
     "WaveEdge Capital": {
       "hasInternPosting": false,
       "careerUrl": "https://www.waveedgecapital.com/careers",
       "status": "ok",
-      "lastChecked": "2026-06-11T12:17:23.663661+00:00",
+      "lastChecked": "2026-06-12T11:59:22.804884+00:00",
       "jobs": []
     },
     "Stump & Company": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-11T12:17:32.458600+00:00",
+      "lastChecked": "2026-06-12T11:59:30.781245+00:00",
       "jobs": []
     },
     "Vista Point Advisors": {
       "hasInternPosting": false,
       "careerUrl": "https://www.vistapointadvisors.com/careers",
       "status": "http_404",
-      "lastChecked": "2026-06-11T12:17:34.914394+00:00",
+      "lastChecked": "2026-06-12T11:59:33.421062+00:00",
       "jobs": []
     },
     "Merritt Healthcare Advisors": {
       "hasInternPosting": false,
       "careerUrl": "https://www.merritthealthcareadvisors.com/careers",
       "status": "ok",
-      "lastChecked": "2026-06-11T12:17:42.400406+00:00",
+      "lastChecked": "2026-06-12T11:59:35.419704+00:00",
       "jobs": []
     },
     "Goldman Sachs": {
       "hasInternPosting": true,
       "careerUrl": "https://www.goldmansachs.com/careers/students",
       "status": "ok",
-      "lastChecked": "2026-06-11T12:17:46.579216+00:00",
+      "lastChecked": "2026-06-12T11:59:39.414827+00:00",
       "jobs": [
         {
           "title": "Explore Internships",
@@ -2174,7 +2207,7 @@
       "hasInternPosting": true,
       "careerUrl": "https://careers.jpmorgan.com/us/en/students/programs",
       "status": "ok",
-      "lastChecked": "2026-06-11T12:17:53.236731+00:00",
+      "lastChecked": "2026-06-12T11:59:49.406399+00:00",
       "jobs": [
         {
           "title": "Programs",
@@ -2246,42 +2279,51 @@
       "hasInternPosting": false,
       "careerUrl": "https://www.morganstanley.com/careers/students-graduates",
       "status": "http_404",
-      "lastChecked": "2026-06-11T12:17:54.982260+00:00",
+      "lastChecked": "2026-06-12T11:59:51.112311+00:00",
       "jobs": []
     },
     "Bank of America": {
-      "hasInternPosting": false,
+      "hasInternPosting": true,
       "careerUrl": "https://careers.bankofamerica.com/en-us/students/job-search?ref=search&start=0&rows=10&search=getAllJobs",
       "status": "ok",
-      "lastChecked": "2026-06-11T12:18:00.642475+00:00",
-      "jobs": []
+      "lastChecked": "2026-06-12T11:59:56.551246+00:00",
+      "jobs": [
+        {
+          "title": "Vice President, Business Analyst, International Technology and Global Payments Solutions Technology",
+          "description": "Vice President, Business Analyst, International Technology and Global Payments Solutions Technology Global Technology Technology",
+          "graduationDate": null,
+          "applyUrl": "https://careers.bankofamerica.com/en-us/job-detail/26019912/vice-president-business-analyst-international-technology-and-global-payments-solutions-technology-tokyo-japan",
+          "firstSeen": "2026-06-12",
+          "source": "scraper"
+        }
+      ]
     },
     "Citigroup": {
       "hasInternPosting": false,
       "careerUrl": "https://jobs.citi.com/students",
       "status": "http_404",
-      "lastChecked": "2026-06-11T12:18:02.680915+00:00",
+      "lastChecked": "2026-06-12T11:59:58.138108+00:00",
       "jobs": []
     },
     "Barclays": {
       "hasInternPosting": false,
       "careerUrl": "https://search.jobs.barclays/students-and-graduates",
       "status": "http_404",
-      "lastChecked": "2026-06-11T12:18:04.743744+00:00",
+      "lastChecked": "2026-06-12T12:00:00.321775+00:00",
       "jobs": []
     },
     "UBS": {
       "hasInternPosting": false,
       "careerUrl": "https://www.ubs.com/global/en/careers/graduates-and-interns.html",
       "status": "http_403",
-      "lastChecked": "2026-06-11T12:18:06.346161+00:00",
+      "lastChecked": "2026-06-12T12:00:01.890501+00:00",
       "jobs": []
     },
     "Deutsche Bank": {
       "hasInternPosting": true,
       "careerUrl": "https://careers.db.com/students-graduates",
       "status": "ok",
-      "lastChecked": "2026-06-11T12:18:12.325225+00:00",
+      "lastChecked": "2026-06-12T12:00:07.264721+00:00",
       "jobs": [
         {
           "title": "Internship Programme",
@@ -2345,14 +2387,14 @@
       "hasInternPosting": false,
       "careerUrl": "https://www.wellsfargojobs.com/en/internships",
       "status": "http_404",
-      "lastChecked": "2026-06-11T12:18:14.023529+00:00",
+      "lastChecked": "2026-06-12T12:00:09.112850+00:00",
       "jobs": []
     },
     "Jefferies": {
       "hasInternPosting": true,
       "careerUrl": "https://www.jefferies.com/careers",
       "status": "ok",
-      "lastChecked": "2026-06-11T12:18:18.177588+00:00",
+      "lastChecked": "2026-06-12T12:00:12.728691+00:00",
       "jobs": [
         {
           "title": "Intern and Entry-Level Programs",
@@ -2400,14 +2442,14 @@
       "hasInternPosting": false,
       "careerUrl": "https://www.rbc.com/careers/early-talent.html",
       "status": "http_404",
-      "lastChecked": "2026-06-11T12:18:20.010264+00:00",
+      "lastChecked": "2026-06-12T12:00:14.393183+00:00",
       "jobs": []
     },
     "BMO Capital Markets": {
       "hasInternPosting": true,
       "careerUrl": "https://jobs.bmo.com/ca/en/students",
       "status": "ok",
-      "lastChecked": "2026-06-11T12:18:26.301577+00:00",
+      "lastChecked": "2026-06-12T12:00:19.399003+00:00",
       "jobs": [
         {
           "title": "Interns and Co-ops",
@@ -2447,7 +2489,7 @@
       "hasInternPosting": true,
       "careerUrl": "https://www.stifel.com/careers",
       "status": "ok",
-      "lastChecked": "2026-06-11T12:18:30.565329+00:00",
+      "lastChecked": "2026-06-12T12:00:23.095320+00:00",
       "jobs": [
         {
           "title": "Internships and Campus Connection",
@@ -2511,7 +2553,7 @@
       "hasInternPosting": true,
       "careerUrl": "https://www.pipersandler.com/careers",
       "status": "ok",
-      "lastChecked": "2026-06-11T12:18:40.230963+00:00",
+      "lastChecked": "2026-06-12T12:00:31.500526+00:00",
       "jobs": [
         {
           "title": "60+ global offices",
@@ -2583,7 +2625,7 @@
       "hasInternPosting": true,
       "careerUrl": "https://www.williamblair.com/careers",
       "status": "ok",
-      "lastChecked": "2026-06-11T12:18:44.683999+00:00",
+      "lastChecked": "2026-06-12T12:00:35.301379+00:00",
       "jobs": [
         {
           "title": "Are you sure you want to leave?",
@@ -2607,14 +2649,14 @@
       "hasInternPosting": false,
       "careerUrl": "https://www.raymondjames.com/careers",
       "status": "http_403",
-      "lastChecked": "2026-06-11T12:18:46.464871+00:00",
+      "lastChecked": "2026-06-12T12:00:36.907406+00:00",
       "jobs": []
     },
     "Lincoln International": {
       "hasInternPosting": true,
       "careerUrl": "https://www.lincolninternational.com/careers",
       "status": "ok",
-      "lastChecked": "2026-06-11T12:18:51.149943+00:00",
+      "lastChecked": "2026-06-12T12:00:41.393709+00:00",
       "jobs": [
         {
           "title": "By Service",
@@ -2806,14 +2848,14 @@
       "hasInternPosting": false,
       "careerUrl": "https://www.harriswilliams.com/careers",
       "status": "ok",
-      "lastChecked": "2026-06-11T12:18:53.850105+00:00",
+      "lastChecked": "2026-06-12T12:00:44.065439+00:00",
       "jobs": []
     },
     "Houlihan Lokey": {
       "hasInternPosting": true,
       "careerUrl": "https://www.hl.com/careers",
       "status": "ok",
-      "lastChecked": "2026-06-11T12:19:02.810769+00:00",
+      "lastChecked": "2026-06-12T12:00:52.259255+00:00",
       "jobs": [
         {
           "title": "Unparalleled Early Career Opportunities",
@@ -2841,7 +2883,7 @@
         },
         {
           "title": "2027 Corporate Finance Internship (4–6 Months) – Zurich",
-          "description": "Zurich, Switzerland | Posted: Posted 2 Days Ago | R3320",
+          "description": "Zurich, Switzerland | Posted: Posted 3 Days Ago | R3320",
           "graduationDate": null,
           "applyUrl": "https://hl.wd1.myworkdayjobs.com/job/Zurich-Switzerland/XMLNAME-2027-Corporate-Finance-Internship--4-6-Months----Zurich_R3320",
           "firstSeen": "2026-06-09",
@@ -2849,7 +2891,7 @@
         },
         {
           "title": "Off-Cycle Intern, Real Estate Capital Solutions, Q4 Munich",
-          "description": "Munich, Germany | Posted: Posted 29 Days Ago | R3262",
+          "description": "Munich, Germany | Posted: Posted 30 Days Ago | R3262",
           "graduationDate": null,
           "applyUrl": "https://hl.wd1.myworkdayjobs.com/job/Munich-Germany/Off-Cycle-Intern--Real-Estate-Capital-Solutions--Q4-Munich_R3262",
           "firstSeen": "2026-05-17",
@@ -2857,7 +2899,7 @@
         },
         {
           "title": "6-Month Off-Cycle Internship (September start)  - Capital Solutions - Debt Advisory",
-          "description": "Paris, France | Posted: Posted 29 Days Ago | R3146",
+          "description": "Paris, France | Posted: Posted 30 Days Ago | R3146",
           "graduationDate": null,
           "applyUrl": "https://hl.wd1.myworkdayjobs.com/job/Paris-France/XMLNAME-6-Month-Off-Cycle-Internship--July-2026-----Capital-Solutions---Debt-Advisory_R3146",
           "firstSeen": "2026-05-17",
@@ -2865,7 +2907,7 @@
         },
         {
           "title": "6 Month Off-Cycle Intern, Real Estate Capital Solutions, London",
-          "description": "London, UK | Posted: Posted 30 Days Ago | R3047",
+          "description": "London, UK | Posted: Posted 30+ Days Ago | R3047",
           "graduationDate": null,
           "applyUrl": "https://hl.wd1.myworkdayjobs.com/job/London-UK/XMLNAME-6-Month-Off-Cycle-Intern--Real-Estate-Capital-Solutions--London_R3047",
           "firstSeen": "2026-05-17",
@@ -2897,7 +2939,7 @@
         },
         {
           "title": "Off-Cycle Intern - Financial Restructuring, Hong Kong",
-          "description": "Hong Kong, China | Posted: Posted 3 Days Ago | R3197",
+          "description": "Hong Kong, China | Posted: Posted 4 Days Ago | R3197",
           "graduationDate": null,
           "applyUrl": "https://hl.wd1.myworkdayjobs.com/job/Hong-Kong-China/Off-Cycle-Intern---Financial-Restructuring--Hong-Kong_R3197",
           "firstSeen": "2026-06-08",
@@ -2909,14 +2951,14 @@
       "hasInternPosting": false,
       "careerUrl": "https://keybank.wd5.myworkdayjobs.com",
       "status": "http_406",
-      "lastChecked": "2026-06-11T12:19:04.572904+00:00",
+      "lastChecked": "2026-06-12T12:00:53.947999+00:00",
       "jobs": []
     },
     "Citizens JMP": {
       "hasInternPosting": true,
       "careerUrl": "https://jobs.citizensbank.com/students-and-grads",
       "status": "ok",
-      "lastChecked": "2026-06-11T12:19:08.384744+00:00",
+      "lastChecked": "2026-06-12T12:00:57.438466+00:00",
       "jobs": [
         {
           "title": "Learn More about Early Career Development Programs & Internships",
