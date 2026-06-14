@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-06-13T12:23:53.464372+00:00",
-  "internCount": 23,
+  "lastUpdated": "2026-06-14T12:28:18.271796+00:00",
+  "internCount": 22,
   "firms": {
     "Sequoia Capital Operations": {
       "hasInternPosting": true,
       "careerUrl": "https://www.sequoiacap.com/jobs",
       "status": "ok",
-      "lastChecked": "2026-06-13T11:56:12.982299+00:00",
+      "lastChecked": "2026-06-14T12:07:01.126640+00:00",
       "jobs": [
         {
           "title": "Make a dent in the world",
@@ -43,31 +43,64 @@
       ]
     },
     "Andreessen Horowitz": {
-      "hasInternPosting": false,
+      "hasInternPosting": true,
       "careerUrl": "https://a16z.com/jobs",
       "status": "ok",
-      "lastChecked": "2026-06-13T11:56:32.729221+00:00",
-      "jobs": []
+      "lastChecked": "2026-06-14T12:07:06.514008+00:00",
+      "jobs": [
+        {
+          "title": "771 companies . 15,541 jobs . It's time to build.",
+          "description": "All Portfolio Jobs Jobs by company a16z jobs A16Z TalentPlace Filter jobs by skills and more Roles Enter roles Skills Enter skills Location Enter locations Company stage Enter stages Industry Enter industries Salary Select... Internships only Remote options All jobs Posted Anytime Powered by Consider Powered by Consider Privacy Terms Software is Eating the World © 2026 Andreessen Horowitz © 2026 Andreessen Horowitz Terms of Use Privacy Policy Disclosures Sitemap",
+          "graduationDate": null,
+          "applyUrl": "https://a16z.com/jobs",
+          "firstSeen": "2026-06-14",
+          "source": "scraper"
+        },
+        {
+          "title": "Filter jobs by skills and more Roles Enter roles Skills Enter skills Location Enter locations Company stage Enter stages",
+          "description": "Industry Enter industries Salary Select... Internships only Remote options All jobs Posted Anytime Powered by Consider",
+          "graduationDate": null,
+          "applyUrl": "https://product.consider.com/ctc/talent-circle?utm_campaign=undefined",
+          "firstSeen": "2026-04-18",
+          "source": "scraper"
+        },
+        {
+          "title": "Internships only Remote options All jobs Posted Anytime Powered by Consider",
+          "description": "",
+          "graduationDate": null,
+          "applyUrl": "https://product.consider.com/ctc/talent-circle?utm_campaign=undefined",
+          "firstSeen": "2026-04-18",
+          "source": "scraper"
+        },
+        {
+          "title": "Internships only Remote options All jobs Posted Anytime",
+          "description": "",
+          "graduationDate": null,
+          "applyUrl": "https://a16z.com/jobs",
+          "firstSeen": "2026-06-14",
+          "source": "scraper"
+        }
+      ]
     },
     "General Catalyst": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-13T11:56:42.722857+00:00",
+      "lastChecked": "2026-06-14T12:07:14.975827+00:00",
       "jobs": []
     },
     "Encap Investments": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-13T11:56:54.546630+00:00",
+      "lastChecked": "2026-06-14T12:07:28.559812+00:00",
       "jobs": []
     },
     "Lightspeed Venture Partners": {
       "hasInternPosting": true,
       "careerUrl": "https://lsvp.com/work-with-us",
       "status": "ok",
-      "lastChecked": "2026-06-13T11:57:05.537733+00:00",
+      "lastChecked": "2026-06-14T12:07:37.965715+00:00",
       "jobs": [
         {
           "title": "Filter jobs by skills and more Roles Enter roles Skills Enter skills Location Enter locations Company stage Enter stages",
@@ -99,14 +132,14 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-13T11:57:25.764421+00:00",
+      "lastChecked": "2026-06-14T12:07:50.100435+00:00",
       "jobs": []
     },
     "Accel Management": {
       "hasInternPosting": true,
       "careerUrl": "https://www.accel.com/careers",
       "status": "ok",
-      "lastChecked": "2026-06-13T11:57:32.789131+00:00",
+      "lastChecked": "2026-06-14T12:07:54.462236+00:00",
       "jobs": [
         {
           "title": "Accacia 10 job s Seed Artificial Intelligence Business/Productivity Software Carbon Accounting Climate Change Environmental Services Environmental Services (B2B) Greentech Platform Real Estate SaaS So",
@@ -170,28 +203,28 @@
       "hasInternPosting": false,
       "careerUrl": "https://www.cobaltlp.com/careers",
       "status": "ok",
-      "lastChecked": "2026-06-13T11:57:38.153127+00:00",
+      "lastChecked": "2026-06-14T12:07:58.810600+00:00",
       "jobs": []
     },
     "Founders Fund": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-13T11:57:50.168277+00:00",
+      "lastChecked": "2026-06-14T12:08:13.950904+00:00",
       "jobs": []
     },
     "Index Ventures SA": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-13T11:58:05.470869+00:00",
+      "lastChecked": "2026-06-14T12:08:27.234870+00:00",
       "jobs": []
     },
     "Bessemer Venture Partners": {
       "hasInternPosting": true,
       "careerUrl": "https://www.bvp.com/jobs",
       "status": "ok",
-      "lastChecked": "2026-06-13T11:58:10.577554+00:00",
+      "lastChecked": "2026-06-14T12:08:32.006036+00:00",
       "jobs": [
         {
           "title": "Filter jobs by skills and more Roles Enter roles Skills Enter skills Location Enter locations Company stage Enter stages",
@@ -263,63 +296,63 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-13T11:58:19.838798+00:00",
+      "lastChecked": "2026-06-14T12:08:39.397254+00:00",
       "jobs": []
     },
     "Impresa Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-13T11:58:26.171298+00:00",
+      "lastChecked": "2026-06-14T12:08:46.019476+00:00",
       "jobs": []
     },
     "Khosla Ventures": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-13T11:58:36.728524+00:00",
+      "lastChecked": "2026-06-14T12:08:55.419600+00:00",
       "jobs": []
     },
     "Angellist Advisors": {
       "hasInternPosting": false,
       "careerUrl": "https://www.angellist.com/careers",
       "status": "ok",
-      "lastChecked": "2026-06-13T11:58:41.634771+00:00",
+      "lastChecked": "2026-06-14T12:08:59.631865+00:00",
       "jobs": []
     },
     "Flagship Pioneering": {
       "hasInternPosting": false,
       "careerUrl": "https://www.flagshippioneering.com/join",
       "status": "ok",
-      "lastChecked": "2026-06-13T11:58:54.147745+00:00",
+      "lastChecked": "2026-06-14T12:09:11.749962+00:00",
       "jobs": []
     },
     "Banyan Capital Partners": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-13T11:59:11.790573+00:00",
+      "lastChecked": "2026-06-14T12:09:26.932719+00:00",
       "jobs": []
     },
     "Spark Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-13T11:59:21.913622+00:00",
+      "lastChecked": "2026-06-14T12:09:35.710392+00:00",
       "jobs": []
     },
     "Ribbit Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-13T11:59:32.747474+00:00",
+      "lastChecked": "2026-06-14T12:09:45.327113+00:00",
       "jobs": []
     },
     "Y Combinator": {
       "hasInternPosting": true,
       "careerUrl": "https://www.ycombinator.com/careers",
       "status": "ok",
-      "lastChecked": "2026-06-13T11:59:37.308129+00:00",
+      "lastChecked": "2026-06-14T12:09:49.665768+00:00",
       "jobs": [
         {
           "title": "Internships",
@@ -343,111 +376,70 @@
       "hasInternPosting": false,
       "careerUrl": "https://www.racap.com/join-us",
       "status": "ok",
-      "lastChecked": "2026-06-13T11:59:46.612793+00:00",
+      "lastChecked": "2026-06-14T12:09:56.499517+00:00",
       "jobs": []
     },
     "Sapphire Ventures": {
-      "hasInternPosting": true,
+      "hasInternPosting": false,
       "careerUrl": "https://sapphireventures.com/careers",
       "status": "ok",
-      "lastChecked": "2026-06-13T11:59:55.699317+00:00",
-      "jobs": [
-        {
-          "title": "Enterprise Customer Success Manager",
-          "description": "Intercom Location: San Francisco, CA, USA Compensation: USD 186,300-222,550 / year + Equity Posted: 3 days Senior AI Apps Artificial Intelligence Business And Industrial Business/Productivity Software Chat Bots Communication Software CRM Customer Engagement Customer Experience Customer Feedback Customer Relationship Management Customer Service Customer Support CX Enterprise Software Helpdesk Internet Services Live Chat Marketing Marketing Analytics Marketing Automation Media and Information Serv",
-          "graduationDate": null,
-          "applyUrl": "https://sapphireventures.com/companies/intercom/jobs/82258707-enterprise-customer-success-manager#content",
-          "firstSeen": "2026-06-13",
-          "source": "scraper"
-        },
-        {
-          "title": "Intercom Location: San Francisco, CA, USA Compensation: USD 186,300-222,550 / year + Equity Posted: 3 days Senior AI App",
-          "description": "s Artificial Intelligence Business And Industrial Business/Productivity Software Chat Bots Communication Software CRM Customer Engagement Customer Experience Customer Feedback Customer Relationship Management Customer Service Customer Support CX Enterprise Software Helpdesk Internet Services Live Chat Marketing Marketing Analytics Marketing Automation Media and Information Services (B2B) Messaging Messaging and Telecommunications Mobile Platform Professional Services SaaS Sales & Marketing Sales",
-          "graduationDate": null,
-          "applyUrl": "https://sapphireventures.com/companies/intercom#content",
-          "firstSeen": "2026-06-13",
-          "source": "scraper"
-        },
-        {
-          "title": "Senior AI Apps Artificial Intelligence Business And Industrial Business/Productivity Software Chat Bots Communication So",
-          "description": "ftware CRM Customer Engagement Customer Experience Customer Feedback Customer Relationship Management Customer Service Customer Support CX Enterprise Software Helpdesk Internet Services Live Chat Marketing Marketing Analytics Marketing Automation Media and Information Services (B2B) Messaging Messaging and Telecommunications Mobile Platform Professional Services SaaS Sales & Marketing Sales Automation Software Software Development Technology Senior AI Apps Artificial Intelligence Business And In",
-          "graduationDate": null,
-          "applyUrl": "https://sapphireventures.com/careers",
-          "firstSeen": "2026-06-13",
-          "source": "scraper"
-        },
-        {
-          "title": "Intercom Location: London, UK Posted: 3 days Senior AI Apps Artificial Intelligence Business And Industrial Business/Pro",
-          "description": "ductivity Software Chat Bots Communication Software CRM Customer Engagement Customer Experience Customer Feedback Customer Relationship Management Customer Service Customer Support CX Enterprise Software Helpdesk Internet Services Live Chat Marketing Marketing Analytics Marketing Automation Media and Information Services (B2B) Messaging Messaging and Telecommunications Mobile Platform Professional Services SaaS Sales & Marketing Sales Automation Software Software Development Technology Senior AI",
-          "graduationDate": null,
-          "applyUrl": "https://sapphireventures.com/companies/intercom#content",
-          "firstSeen": "2026-06-13",
-          "source": "scraper"
-        },
-        {
-          "title": "Intercom Location: Dublin, Ireland Posted: 3 days Senior AI Apps Artificial Intelligence Business And Industrial Busines",
-          "description": "s/Productivity Software Chat Bots Communication Software CRM Customer Engagement Customer Experience Customer Feedback Customer Relationship Management Customer Service Customer Support CX Enterprise Software Helpdesk Internet Services Live Chat Marketing Marketing Analytics Marketing Automation Media and Information Services (B2B) Messaging Messaging and Telecommunications Mobile Platform Professional Services SaaS Sales & Marketing Sales Automation Software Software Development Technology Seni",
-          "graduationDate": null,
-          "applyUrl": "https://sapphireventures.com/companies/intercom#content",
-          "firstSeen": "2026-06-13",
-          "source": "scraper"
-        }
-      ]
+      "lastChecked": "2026-06-14T12:10:01.639925+00:00",
+      "jobs": []
     },
     "Kleiner Perkins": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-13T12:00:05.401889+00:00",
+      "lastChecked": "2026-06-14T12:10:12.346239+00:00",
       "jobs": []
     },
     "Altimeter Capital Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-13T12:00:11.762844+00:00",
+      "lastChecked": "2026-06-14T12:10:19.335542+00:00",
       "jobs": []
     },
     "Arch Venture Partners": {
       "hasInternPosting": false,
       "careerUrl": "https://www.archventure.com/company/careers",
       "status": "ok",
-      "lastChecked": "2026-06-13T12:00:23.786026+00:00",
+      "lastChecked": "2026-06-14T12:10:30.585901+00:00",
       "jobs": []
     },
     "IDG Capital Fund Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-13T12:00:42.376150+00:00",
+      "lastChecked": "2026-06-14T12:10:46.554177+00:00",
       "jobs": []
     },
     "Bain Capital Ventures": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-13T12:00:57.847392+00:00",
+      "lastChecked": "2026-06-14T12:10:56.332088+00:00",
       "jobs": []
     },
     "Greenoaks Capital": {
       "hasInternPosting": false,
       "careerUrl": "https://greenoakscap.com/careers",
       "status": "ok",
-      "lastChecked": "2026-06-13T12:01:05.426555+00:00",
+      "lastChecked": "2026-06-14T12:10:58.516796+00:00",
       "jobs": []
     },
     "Matrix Partners China Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-13T12:03:15.580050+00:00",
+      "lastChecked": "2026-06-14T12:13:10.266170+00:00",
       "jobs": []
     },
     "Greylock Partners": {
       "hasInternPosting": true,
       "careerUrl": "https://greylock.com/careers",
       "status": "ok",
-      "lastChecked": "2026-06-13T12:03:21.282439+00:00",
+      "lastChecked": "2026-06-14T12:13:17.201175+00:00",
       "jobs": [
         {
           "title": "Filter jobs by skills and more Roles Enter roles Skills Enter skills Location Enter locations Company stage Enter stages",
@@ -543,147 +535,35 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-13T12:03:34.957812+00:00",
+      "lastChecked": "2026-06-14T12:13:29.479950+00:00",
       "jobs": []
     },
     "Oak Hcft Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-13T12:03:46.154249+00:00",
+      "lastChecked": "2026-06-14T12:13:37.940868+00:00",
       "jobs": []
     },
     "FTV Capital": {
       "hasInternPosting": false,
       "careerUrl": "https://www.ftvcapital.com/careers/students",
       "status": "ok",
-      "lastChecked": "2026-06-13T12:03:50.087534+00:00",
+      "lastChecked": "2026-06-14T12:13:41.672633+00:00",
       "jobs": []
     },
     "Eight Partners VC": {
       "hasInternPosting": true,
       "careerUrl": "https://www.8vc.com/jobs",
       "status": "ok",
-      "lastChecked": "2026-06-13T12:03:58.076923+00:00",
+      "lastChecked": "2026-06-14T12:13:48.288901+00:00",
       "jobs": [
         {
-          "title": "QC Manager, Home Textiles (India)",
-          "description": "Quince Location: India Posted: 3 days Mid-Senior Level Accessories Apparel Clothing Clothing and Apparel Commerce and Shopping E-Commerce E-Commerce Platforms Ecommerce Hardware Internet Services Logistics Luxury Retail Retail Technology Software Specialty Retail Textiles Transportation Value Mid-Senior Level Accessories Apparel Clothing Clothing and Apparel Commerce and Shopping E-Commerce E-Commerce Platforms Ecommerce Hardware Internet Services Logistics Luxury Retail Retail Technology Softwa",
+          "title": "International Financial Accountant",
+          "description": "International Financial Accountant Prepared Location: Bucharest, Romania Posted: 2 days Senior Application Software Artificial Intelligence (AI) Communication Software Data & Analytics Enterprise Software Government Government and Military Public Safety Safety Science and Engineering Software Technology Video Technology Senior Application Software Artificial Intelligence (AI) Communication Software Data & Analytics Enterprise Software Government Government and Military Public Safety Safety Scien",
           "graduationDate": null,
-          "applyUrl": "https://jobs.8vc.com/companies/quince-2-b94a0b0f-7360-40bc-9cc8-2ff4a634a847/jobs/82257229-qc-manager-home-textiles-india#content",
-          "firstSeen": "2026-06-13",
-          "source": "scraper"
-        },
-        {
-          "title": "Quince Location: India Posted: 3 days Mid-Senior Level Accessories Apparel Clothing Clothing and Apparel Commerce and Sh",
-          "description": "opping E-Commerce E-Commerce Platforms Ecommerce Hardware Internet Services Logistics Luxury Retail Retail Technology Software Specialty Retail Textiles Transportation Value Mid-Senior Level Accessories Apparel Clothing Clothing and Apparel Commerce and Shopping E-Commerce E-Commerce Platforms Ecommerce Hardware Internet Services Logistics Luxury Retail Retail Technology Software Specialty Retail Textiles Transportation Value + 99 more",
-          "graduationDate": null,
-          "applyUrl": "https://jobs.8vc.com/companies/quince-2-b94a0b0f-7360-40bc-9cc8-2ff4a634a847#content",
-          "firstSeen": "2026-06-13",
-          "source": "scraper"
-        },
-        {
-          "title": "Mid-Senior Level Accessories Apparel Clothing Clothing and Apparel Commerce and Shopping E-Commerce E-Commerce Platforms",
-          "description": "Ecommerce Hardware Internet Services Logistics Luxury Retail Retail Technology Software Specialty Retail Textiles Transportation Value Mid-Senior Level Accessories Apparel Clothing Clothing and Apparel Commerce and Shopping E-Commerce E-Commerce Platforms Ecommerce Hardware Internet Services Logistics Luxury Retail Retail Technology Software Specialty Retail Textiles Transportation Value + 99 more",
-          "graduationDate": null,
-          "applyUrl": "https://jobs.8vc.com/jobs",
-          "firstSeen": "2026-06-13",
-          "source": "scraper"
-        },
-        {
-          "title": "FP&A Analyst",
-          "description": "Nylas Location: Ontario, Canada ; Toronto, ON, Canada ; Vancouver, BC, Canada ; British Columbia, Canada ; Remote Compensation: CAD 75k-100k / year Posted: 3 days Series C Mid-Senior Level API Business And Industrial Business/Productivity Software Cloud Infrastructure Cloud platforms(PaaS) Communications Infrastructure Data Storage Developer APIs Developer Tools DevOps Email Enterprise Software Hardware Information Security Infrastructure Internet Services Messaging Messaging and Telecommunicati",
-          "graduationDate": null,
-          "applyUrl": "https://jobs.8vc.com/companies/nylas/jobs/82255626-fp-a-analyst#content",
-          "firstSeen": "2026-06-12",
-          "source": "scraper"
-        },
-        {
-          "title": "Nylas Location: Ontario, Canada ; Toronto, ON, Canada ; Vancouver, BC, Canada ; British Columbia, Canada ; Remote Compen",
-          "description": "sation: CAD 75k-100k / year Posted: 3 days Series C Mid-Senior Level API Business And Industrial Business/Productivity Software Cloud Infrastructure Cloud platforms(PaaS) Communications Infrastructure Data Storage Developer APIs Developer Tools DevOps Email Enterprise Software Hardware Information Security Infrastructure Internet Services Messaging Messaging and Telecommunications SaaS Scheduling Security Software Software Development Software Development Applications Storage Technology Series C",
-          "graduationDate": null,
-          "applyUrl": "https://jobs.8vc.com/companies/nylas#content",
-          "firstSeen": "2026-06-12",
-          "source": "scraper"
-        },
-        {
-          "title": "Series C Mid-Senior Level API Business And Industrial Business/Productivity Software Cloud Infrastructure Cloud platform",
-          "description": "s(PaaS) Communications Infrastructure Data Storage Developer APIs Developer Tools DevOps Email Enterprise Software Hardware Information Security Infrastructure Internet Services Messaging Messaging and Telecommunications SaaS Scheduling Security Software Software Development Software Development Applications Storage Technology Series C Mid-Senior Level API Business And Industrial Business/Productivity Software Cloud Infrastructure Cloud platforms(PaaS) Communications Infrastructure Data Storage",
-          "graduationDate": null,
-          "applyUrl": "https://jobs.8vc.com/jobs",
-          "firstSeen": "2026-06-12",
-          "source": "scraper"
-        },
-        {
-          "title": "HR Operations",
-          "description": "Cognition Location: San Francisco, CA, USA Posted: 3 days Series C Mid-Senior Level Artificial Intelligence (AI) Automation/Workflow Software Business/Productivity Software Construction & Engineering Data & Analytics Foundational AI Generative AI Internet Internet Services Science and Engineering Software Series C Mid-Senior Level Artificial Intelligence (AI) Automation/Workflow Software Business/Productivity Software Construction & Engineering Data & Analytics Foundational AI Generative AI Inte",
-          "graduationDate": null,
-          "applyUrl": "https://jobs.8vc.com/companies/cognition-2-35df6b59-5a1c-4a14-b7a2-25d2cc9cde50/jobs/82249574-hr-operations#content",
-          "firstSeen": "2026-06-12",
-          "source": "scraper"
-        },
-        {
-          "title": "Cognition Location: San Francisco, CA, USA Posted: 3 days Series C Mid-Senior Level Artificial Intelligence (AI) Automat",
-          "description": "ion/Workflow Software Business/Productivity Software Construction & Engineering Data & Analytics Foundational AI Generative AI Internet Internet Services Science and Engineering Software Series C Mid-Senior Level Artificial Intelligence (AI) Automation/Workflow Software Business/Productivity Software Construction & Engineering Data & Analytics Foundational AI Generative AI Internet Internet Services Science and Engineering Software + 99 more",
-          "graduationDate": null,
-          "applyUrl": "https://jobs.8vc.com/companies/cognition-2-35df6b59-5a1c-4a14-b7a2-25d2cc9cde50#content",
-          "firstSeen": "2026-06-13",
-          "source": "scraper"
-        },
-        {
-          "title": "Series C Mid-Senior Level Artificial Intelligence (AI) Automation/Workflow Software Business/Productivity Software Const",
-          "description": "ruction & Engineering Data & Analytics Foundational AI Generative AI Internet Internet Services Science and Engineering Software Series C Mid-Senior Level Artificial Intelligence (AI) Automation/Workflow Software Business/Productivity Software Construction & Engineering Data & Analytics Foundational AI Generative AI Internet Internet Services Science and Engineering Software + 99 more",
-          "graduationDate": null,
-          "applyUrl": "https://jobs.8vc.com/jobs",
-          "firstSeen": "2026-06-12",
-          "source": "scraper"
-        },
-        {
-          "title": "Project Manager III",
-          "description": "OpenGov Location: United States ; Illinois, USA ; Chicago, IL, USA Compensation: USD 105k-120k / year Posted: 3 days Mid-Senior Level Accounting AI Analytics Budgeting Business And Industrial Business/Productivity Software Capital Planning Chart of Accounts Citizen Engagement Cloud Contract Management Data & Analytics Data Visualization Design Enterprise Software ERP Financials Financial Software Government Government and Military Government Procurement GovTech Internet Licensing Local Governmen",
-          "graduationDate": null,
-          "applyUrl": "https://jobs.8vc.com/companies/opengov-2/jobs/82247408-project-manager-iii#content",
-          "firstSeen": "2026-06-11",
-          "source": "scraper"
-        },
-        {
-          "title": "OpenGov Location: United States ; Illinois, USA ; Chicago, IL, USA Compensation: USD 105k-120k / year Posted: 3 days Mid",
-          "description": "-Senior Level Accounting AI Analytics Budgeting Business And Industrial Business/Productivity Software Capital Planning Chart of Accounts Citizen Engagement Cloud Contract Management Data & Analytics Data Visualization Design Enterprise Software ERP Financials Financial Software Government Government and Military Government Procurement GovTech Internet Licensing Local Government Management Reporting Open Data Permitting Procurement Reporting SaaS Software Software Development State Government Te",
-          "graduationDate": null,
-          "applyUrl": "https://jobs.8vc.com/companies/opengov-2#content",
-          "firstSeen": "2026-06-13",
-          "source": "scraper"
-        },
-        {
-          "title": "Mid-Senior Level Accounting AI Analytics Budgeting Business And Industrial Business/Productivity Software Capital Planni",
-          "description": "ng Chart of Accounts Citizen Engagement Cloud Contract Management Data & Analytics Data Visualization Design Enterprise Software ERP Financials Financial Software Government Government and Military Government Procurement GovTech Internet Licensing Local Government Management Reporting Open Data Permitting Procurement Reporting SaaS Software Software Development State Government Technology Transparency Mid-Senior Level Accounting AI Analytics Budgeting Business And Industrial Business/Productivit",
-          "graduationDate": null,
-          "applyUrl": "https://jobs.8vc.com/jobs",
-          "firstSeen": "2026-06-11",
-          "source": "scraper"
-        },
-        {
-          "title": "Solution Engineer I - Government Finance",
-          "description": "OpenGov Location: United States ; Texas, USA ; Dallas, TX, USA Compensation: USD 100k-115k / year Posted: 3 days Associate Accounting AI Analytics Budgeting Business And Industrial Business/Productivity Software Capital Planning Chart of Accounts Citizen Engagement Cloud Contract Management Data & Analytics Data Visualization Design Enterprise Software ERP Financials Financial Software Government Government and Military Government Procurement GovTech Internet Licensing Local Government Managemen",
-          "graduationDate": null,
-          "applyUrl": "https://jobs.8vc.com/companies/opengov-2/jobs/82247407-solution-engineer-i-government-finance#content",
-          "firstSeen": "2026-06-11",
-          "source": "scraper"
-        },
-        {
-          "title": "OpenGov Location: United States ; Texas, USA ; Dallas, TX, USA Compensation: USD 100k-115k / year Posted: 3 days Associa",
-          "description": "te Accounting AI Analytics Budgeting Business And Industrial Business/Productivity Software Capital Planning Chart of Accounts Citizen Engagement Cloud Contract Management Data & Analytics Data Visualization Design Enterprise Software ERP Financials Financial Software Government Government and Military Government Procurement GovTech Internet Licensing Local Government Management Reporting Open Data Permitting Procurement Reporting SaaS Software Software Development State Government Technology Tr",
-          "graduationDate": null,
-          "applyUrl": "https://jobs.8vc.com/companies/opengov-2#content",
-          "firstSeen": "2026-06-13",
-          "source": "scraper"
-        },
-        {
-          "title": "Associate Accounting AI Analytics Budgeting Business And Industrial Business/Productivity Software Capital Planning Char",
-          "description": "t of Accounts Citizen Engagement Cloud Contract Management Data & Analytics Data Visualization Design Enterprise Software ERP Financials Financial Software Government Government and Military Government Procurement GovTech Internet Licensing Local Government Management Reporting Open Data Permitting Procurement Reporting SaaS Software Software Development State Government Technology Transparency Associate Accounting AI Analytics Budgeting Business And Industrial Business/Productivity Software Cap",
-          "graduationDate": null,
-          "applyUrl": "https://jobs.8vc.com/jobs",
-          "firstSeen": "2026-06-11",
+          "applyUrl": "https://jobs.8vc.com/companies/prepared-2/jobs/82485428-international-financial-accountant#content",
+          "firstSeen": "2026-06-14",
           "source": "scraper"
         }
       ]
@@ -692,7 +572,7 @@
       "hasInternPosting": true,
       "careerUrl": "https://www.accel.com/careers",
       "status": "ok",
-      "lastChecked": "2026-06-13T12:04:03.041300+00:00",
+      "lastChecked": "2026-06-14T12:13:51.882265+00:00",
       "jobs": [
         {
           "title": "Accacia 10 job s Seed Artificial Intelligence Business/Productivity Software Carbon Accounting Climate Change Environmental Services Environmental Services (B2B) Greentech Platform Real Estate SaaS So",
@@ -756,7 +636,7 @@
       "hasInternPosting": true,
       "careerUrl": "https://www.accel.com/careers",
       "status": "ok",
-      "lastChecked": "2026-06-13T12:04:07.333308+00:00",
+      "lastChecked": "2026-06-14T12:13:55.625233+00:00",
       "jobs": [
         {
           "title": "Accacia 10 job s Seed Artificial Intelligence Business/Productivity Software Carbon Accounting Climate Change Environmental Services Environmental Services (B2B) Greentech Platform Real Estate SaaS So",
@@ -820,7 +700,7 @@
       "hasInternPosting": true,
       "careerUrl": "https://www.balderton.com/company/careers",
       "status": "ok",
-      "lastChecked": "2026-06-13T12:04:26.079561+00:00",
+      "lastChecked": "2026-06-14T12:14:13.367475+00:00",
       "jobs": [
         {
           "title": "Matt Cooper",
@@ -884,42 +764,42 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-13T12:04:35.761318+00:00",
+      "lastChecked": "2026-06-14T12:14:21.543345+00:00",
       "jobs": []
     },
     "Altos Ventures Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-13T12:04:45.909005+00:00",
+      "lastChecked": "2026-06-14T12:14:32.695603+00:00",
       "jobs": []
     },
     "Bond": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-13T12:04:54.678222+00:00",
+      "lastChecked": "2026-06-14T12:14:40.100711+00:00",
       "jobs": []
     },
     "Addition": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-13T12:05:17.148188+00:00",
+      "lastChecked": "2026-06-14T12:15:03.107885+00:00",
       "jobs": []
     },
     "Redpoint Ventures": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-13T12:05:25.602090+00:00",
+      "lastChecked": "2026-06-14T12:15:10.725084+00:00",
       "jobs": []
     },
     "B Capital Group": {
       "hasInternPosting": true,
       "careerUrl": "https://www.bcapgroup.com/about/careers",
       "status": "ok",
-      "lastChecked": "2026-06-13T12:05:39.326798+00:00",
+      "lastChecked": "2026-06-14T12:15:31.155697+00:00",
       "jobs": [
         {
           "title": "Accacia 10 job s Seed Artificial Intelligence Business/Productivity Software Carbon Accounting Climate Change Environmental Services Environmental Services (B2B) Greentech Platform Real Estate SaaS So",
@@ -983,84 +863,84 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-13T12:05:49.224807+00:00",
+      "lastChecked": "2026-06-14T12:15:39.512351+00:00",
       "jobs": []
     },
     "Columbia Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-13T12:06:06.319950+00:00",
+      "lastChecked": "2026-06-14T12:15:51.210208+00:00",
       "jobs": []
     },
     "Kaszek Management S.A.": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-13T12:06:17.377498+00:00",
+      "lastChecked": "2026-06-14T12:16:00.155547+00:00",
       "jobs": []
     },
     "Craft Ventures Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-13T12:06:29.370176+00:00",
+      "lastChecked": "2026-06-14T12:16:08.554963+00:00",
       "jobs": []
     },
     "Canaan Partners": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-13T12:06:37.671954+00:00",
+      "lastChecked": "2026-06-14T12:16:19.874045+00:00",
       "jobs": []
     },
     "Matrix Partners": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-13T12:06:49.101386+00:00",
+      "lastChecked": "2026-06-14T12:16:29.222350+00:00",
       "jobs": []
     },
     "Indigo Partners": {
       "hasInternPosting": false,
       "careerUrl": "https://www.indigopartners.com/careers",
       "status": "ok",
-      "lastChecked": "2026-06-13T12:06:51.199338+00:00",
+      "lastChecked": "2026-06-14T12:16:31.157306+00:00",
       "jobs": []
     },
     "Eclipse Ventures": {
       "hasInternPosting": false,
       "careerUrl": "https://www.eclipse.vc/careers",
       "status": "ok",
-      "lastChecked": "2026-06-13T12:07:00.187604+00:00",
+      "lastChecked": "2026-06-14T12:16:38.768929+00:00",
       "jobs": []
     },
     "Hedosophia Advisor Limited": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-13T12:07:42.838058+00:00",
+      "lastChecked": "2026-06-14T12:17:16.122223+00:00",
       "jobs": []
     },
     "DFJ Growth": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-13T12:07:50.891909+00:00",
+      "lastChecked": "2026-06-14T12:17:24.860160+00:00",
       "jobs": []
     },
     "VR Management": {
       "hasInternPosting": false,
-      "careerUrl": "https://www.vrmanagement.com/careers/students",
+      "careerUrl": "https://www.vrmanagement.com/careers/internships",
       "status": "ok",
-      "lastChecked": "2026-06-13T12:07:55.219551+00:00",
+      "lastChecked": "2026-06-14T12:17:29.143754+00:00",
       "jobs": []
     },
     "Qiming Venture Partners": {
       "hasInternPosting": true,
       "careerUrl": "https://www.qimingvc.com/careers",
       "status": "ok",
-      "lastChecked": "2026-06-13T12:08:02.953902+00:00",
+      "lastChecked": "2026-06-14T12:17:37.683907+00:00",
       "jobs": [
         {
           "title": "QIMING VENTURE PARTNERS 2022 SUMMER INTERNSHIP——Summer Associate – T&C, Remote",
@@ -1164,204 +1044,44 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-13T12:08:12.662797+00:00",
+      "lastChecked": "2026-06-14T12:17:44.690395+00:00",
       "jobs": []
     },
     "Felicis Ventures": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-13T12:08:22.544087+00:00",
+      "lastChecked": "2026-06-14T12:17:52.347008+00:00",
       "jobs": []
     },
     "Menlo Ventures": {
       "hasInternPosting": true,
       "careerUrl": "https://www.menlovc.com/join",
       "status": "ok",
-      "lastChecked": "2026-06-13T12:08:38.438088+00:00",
+      "lastChecked": "2026-06-14T12:18:03.804869+00:00",
       "jobs": [
         {
-          "title": "Senior Platform Engineer",
-          "description": "Platform9 Location: Remote Compensation: USD 150k-180k / year Posted: 3 days Senior Business And Industrial Business/Productivity Software Cloud Computing Cloud services(SaaS) Container Orchestration Data Storage DevOps Distributed Clouds Docker Orchestration Enterprise Software FinOps Hybrid Cloud Information Security Infrastructure Infrastructure Automation Internet Services IT Infrastructure Kuberenetes Kubernetes KVM Management Software OpenStack Management Platform Private Cloud SaaS Securi",
+          "title": "Senior Data Platform Engineer",
+          "description": "Pinecone Location: New York, NY, USA Posted: 3 days Senior AI Infrastructure Application Software Artificial Intelligence (AI) Cloud Data & Analytics Database Database Software Generative AI Hardware Internet Services Machine Learning Product Search Productivity Tools Science and Engineering Semantic Search Software Software Development Software Development Applications Technology Vertical Search Visual Search Senior AI Infrastructure Application Software Artificial Intelligence (AI) Cloud Data",
           "graduationDate": null,
-          "applyUrl": "https://jobs.menlovc.com/companies/platform9/jobs/82270512-senior-platform-engineer#content",
-          "firstSeen": "2026-06-13",
+          "applyUrl": "https://jobs.menlovc.com/companies/pinecone/jobs/82392170-senior-data-platform-engineer#content",
+          "firstSeen": "2026-06-14",
           "source": "scraper"
         },
         {
-          "title": "Platform9 Location: Remote Compensation: USD 150k-180k / year Posted: 3 days Senior Business And Industrial Business/Pro",
-          "description": "ductivity Software Cloud Computing Cloud services(SaaS) Container Orchestration Data Storage DevOps Distributed Clouds Docker Orchestration Enterprise Software FinOps Hybrid Cloud Information Security Infrastructure Infrastructure Automation Internet Services IT Infrastructure Kuberenetes Kubernetes KVM Management Software OpenStack Management Platform Private Cloud SaaS Security Software Software Development Storage Systems and Information Management Technology Virtualization Senior Business An",
+          "title": "Pinecone Location: New York, NY, USA Posted: 3 days Senior AI Infrastructure Application Software Artificial Intelligenc",
+          "description": "e (AI) Cloud Data & Analytics Database Database Software Generative AI Hardware Internet Services Machine Learning Product Search Productivity Tools Science and Engineering Semantic Search Software Software Development Software Development Applications Technology Vertical Search Visual Search Senior AI Infrastructure Application Software Artificial Intelligence (AI) Cloud Data & Analytics Database Database Software Generative AI Hardware Internet Services Machine Learning Product Search Producti",
           "graduationDate": null,
-          "applyUrl": "https://jobs.menlovc.com/companies/platform9#content",
-          "firstSeen": "2026-06-13",
+          "applyUrl": "https://jobs.menlovc.com/companies/pinecone#content",
+          "firstSeen": "2026-06-14",
           "source": "scraper"
         },
         {
-          "title": "Senior Business And Industrial Business/Productivity Software Cloud Computing Cloud services(SaaS) Container Orchestrati",
-          "description": "on Data Storage DevOps Distributed Clouds Docker Orchestration Enterprise Software FinOps Hybrid Cloud Information Security Infrastructure Infrastructure Automation Internet Services IT Infrastructure Kuberenetes Kubernetes KVM Management Software OpenStack Management Platform Private Cloud SaaS Security Software Software Development Storage Systems and Information Management Technology Virtualization Senior Business And Industrial Business/Productivity Software Cloud Computing Cloud services(Sa",
+          "title": "Senior AI Infrastructure Application Software Artificial Intelligence (AI) Cloud Data & Analytics Database Database Soft",
+          "description": "ware Generative AI Hardware Internet Services Machine Learning Product Search Productivity Tools Science and Engineering Semantic Search Software Software Development Software Development Applications Technology Vertical Search Visual Search Senior AI Infrastructure Application Software Artificial Intelligence (AI) Cloud Data & Analytics Database Database Software Generative AI Hardware Internet Services Machine Learning Product Search Productivity Tools Science and Engineering Semantic Search S",
           "graduationDate": null,
           "applyUrl": "https://jobs.menlovc.com/jobs",
-          "firstSeen": "2026-06-13",
-          "source": "scraper"
-        },
-        {
-          "title": "Candidate Experience Coordinator",
-          "description": "Neon Location: Bellevue, WA, USA Compensation: USD 70k-80k / year + Equity Posted: 3 days Entry Level Cloud Cloud Computing Cloud services(SaaS) Data & Analytics Database Databases Database Software Developer Tools Internet Services Open Source Partnering Platform Postgres PostgreSQL Serverless Software Software Development Software Development Applications Technology Entry Level Cloud Cloud Computing Cloud services(SaaS) Data & Analytics Database Databases Database Software Developer Tools Inte",
-          "graduationDate": null,
-          "applyUrl": "https://jobs.menlovc.com/companies/neon-2-fafc7050-f6c0-4a38-9c9c-e8dc0b61e31c/jobs/82247438-candidate-experience-coordinator#content",
-          "firstSeen": "2026-06-11",
-          "source": "scraper"
-        },
-        {
-          "title": "Neon Location: Bellevue, WA, USA Compensation: USD 70k-80k / year + Equity Posted: 3 days Entry Level Cloud Cloud Comput",
-          "description": "ing Cloud services(SaaS) Data & Analytics Database Databases Database Software Developer Tools Internet Services Open Source Partnering Platform Postgres PostgreSQL Serverless Software Software Development Software Development Applications Technology Entry Level Cloud Cloud Computing Cloud services(SaaS) Data & Analytics Database Databases Database Software Developer Tools Internet Services Open Source Partnering Platform Postgres PostgreSQL Serverless Software Software Development Software Deve",
-          "graduationDate": null,
-          "applyUrl": "https://jobs.menlovc.com/companies/neon-2-fafc7050-f6c0-4a38-9c9c-e8dc0b61e31c#content",
-          "firstSeen": "2026-06-13",
-          "source": "scraper"
-        },
-        {
-          "title": "Entry Level Cloud Cloud Computing Cloud services(SaaS) Data & Analytics Database Databases Database Software Developer T",
-          "description": "ools Internet Services Open Source Partnering Platform Postgres PostgreSQL Serverless Software Software Development Software Development Applications Technology Entry Level Cloud Cloud Computing Cloud services(SaaS) Data & Analytics Database Databases Database Software Developer Tools Internet Services Open Source Partnering Platform Postgres PostgreSQL Serverless Software Software Development Software Development Applications Technology + 99 more",
-          "graduationDate": null,
-          "applyUrl": "https://jobs.menlovc.com/jobs",
-          "firstSeen": "2026-06-11",
-          "source": "scraper"
-        },
-        {
-          "title": "Director, Lakebase Sales Specialists",
-          "description": "Neon Location: Bengaluru, Karnataka, India Posted: 3 days Director Cloud Cloud Computing Cloud services(SaaS) Data & Analytics Database Databases Database Software Developer Tools Internet Services Open Source Partnering Platform Postgres PostgreSQL Serverless Software Software Development Software Development Applications Technology Director Cloud Cloud Computing Cloud services(SaaS) Data & Analytics Database Databases Database Software Developer Tools Internet Services Open Source Partnering P",
-          "graduationDate": null,
-          "applyUrl": "https://jobs.menlovc.com/companies/neon-2-fafc7050-f6c0-4a38-9c9c-e8dc0b61e31c/jobs/82247435-director-lakebase-sales-specialists#content",
-          "firstSeen": "2026-06-11",
-          "source": "scraper"
-        },
-        {
-          "title": "Neon Location: Bengaluru, Karnataka, India Posted: 3 days Director Cloud Cloud Computing Cloud services(SaaS) Data & Ana",
-          "description": "lytics Database Databases Database Software Developer Tools Internet Services Open Source Partnering Platform Postgres PostgreSQL Serverless Software Software Development Software Development Applications Technology Director Cloud Cloud Computing Cloud services(SaaS) Data & Analytics Database Databases Database Software Developer Tools Internet Services Open Source Partnering Platform Postgres PostgreSQL Serverless Software Software Development Software Development Applications Technology + 99 m",
-          "graduationDate": null,
-          "applyUrl": "https://jobs.menlovc.com/companies/neon-2-fafc7050-f6c0-4a38-9c9c-e8dc0b61e31c#content",
-          "firstSeen": "2026-06-13",
-          "source": "scraper"
-        },
-        {
-          "title": "Director Cloud Cloud Computing Cloud services(SaaS) Data & Analytics Database Databases Database Software Developer Tool",
-          "description": "s Internet Services Open Source Partnering Platform Postgres PostgreSQL Serverless Software Software Development Software Development Applications Technology Director Cloud Cloud Computing Cloud services(SaaS) Data & Analytics Database Databases Database Software Developer Tools Internet Services Open Source Partnering Platform Postgres PostgreSQL Serverless Software Software Development Software Development Applications Technology + 99 more",
-          "graduationDate": null,
-          "applyUrl": "https://jobs.menlovc.com/jobs",
-          "firstSeen": "2026-06-11",
-          "source": "scraper"
-        },
-        {
-          "title": "Neon Location: Sydney, NSW, Australia Posted: 3 days Director Cloud Cloud Computing Cloud services(SaaS) Data & Analytic",
-          "description": "s Database Databases Database Software Developer Tools Internet Services Open Source Partnering Platform Postgres PostgreSQL Serverless Software Software Development Software Development Applications Technology Director Cloud Cloud Computing Cloud services(SaaS) Data & Analytics Database Databases Database Software Developer Tools Internet Services Open Source Partnering Platform Postgres PostgreSQL Serverless Software Software Development Software Development Applications Technology + 99 more",
-          "graduationDate": null,
-          "applyUrl": "https://jobs.menlovc.com/companies/neon-2-fafc7050-f6c0-4a38-9c9c-e8dc0b61e31c#content",
-          "firstSeen": "2026-06-13",
-          "source": "scraper"
-        },
-        {
-          "title": "RVP, Retail",
-          "description": "Neon Location: United States Posted: 3 days Vice President Cloud Cloud Computing Cloud services(SaaS) Data & Analytics Database Databases Database Software Developer Tools Internet Services Open Source Partnering Platform Postgres PostgreSQL Serverless Software Software Development Software Development Applications Technology Vice President Cloud Cloud Computing Cloud services(SaaS) Data & Analytics Database Databases Database Software Developer Tools Internet Services Open Source Partnering Pla",
-          "graduationDate": null,
-          "applyUrl": "https://jobs.menlovc.com/companies/neon-2-fafc7050-f6c0-4a38-9c9c-e8dc0b61e31c/jobs/82247437-rvp-retail#content",
-          "firstSeen": "2026-06-11",
-          "source": "scraper"
-        },
-        {
-          "title": "Neon Location: United States Posted: 3 days Vice President Cloud Cloud Computing Cloud services(SaaS) Data & Analytics D",
-          "description": "atabase Databases Database Software Developer Tools Internet Services Open Source Partnering Platform Postgres PostgreSQL Serverless Software Software Development Software Development Applications Technology Vice President Cloud Cloud Computing Cloud services(SaaS) Data & Analytics Database Databases Database Software Developer Tools Internet Services Open Source Partnering Platform Postgres PostgreSQL Serverless Software Software Development Software Development Applications Technology + 99 mor",
-          "graduationDate": null,
-          "applyUrl": "https://jobs.menlovc.com/companies/neon-2-fafc7050-f6c0-4a38-9c9c-e8dc0b61e31c#content",
-          "firstSeen": "2026-06-13",
-          "source": "scraper"
-        },
-        {
-          "title": "Vice President Cloud Cloud Computing Cloud services(SaaS) Data & Analytics Database Databases Database Software Develope",
-          "description": "r Tools Internet Services Open Source Partnering Platform Postgres PostgreSQL Serverless Software Software Development Software Development Applications Technology Vice President Cloud Cloud Computing Cloud services(SaaS) Data & Analytics Database Databases Database Software Developer Tools Internet Services Open Source Partnering Platform Postgres PostgreSQL Serverless Software Software Development Software Development Applications Technology + 99 more",
-          "graduationDate": null,
-          "applyUrl": "https://jobs.menlovc.com/jobs",
-          "firstSeen": "2026-06-11",
-          "source": "scraper"
-        },
-        {
-          "title": "Neon Location: Melbourne, VIC, Australia Posted: 3 days Director Cloud Cloud Computing Cloud services(SaaS) Data & Analy",
-          "description": "tics Database Databases Database Software Developer Tools Internet Services Open Source Partnering Platform Postgres PostgreSQL Serverless Software Software Development Software Development Applications Technology Director Cloud Cloud Computing Cloud services(SaaS) Data & Analytics Database Databases Database Software Developer Tools Internet Services Open Source Partnering Platform Postgres PostgreSQL Serverless Software Software Development Software Development Applications Technology + 99 mor",
-          "graduationDate": null,
-          "applyUrl": "https://jobs.menlovc.com/companies/neon-2-fafc7050-f6c0-4a38-9c9c-e8dc0b61e31c#content",
-          "firstSeen": "2026-06-13",
-          "source": "scraper"
-        },
-        {
-          "title": "Sr. Forward Deployed Engineer",
-          "description": "Neon Location: Singapore Posted: 3 days Senior Cloud Cloud Computing Cloud services(SaaS) Data & Analytics Database Databases Database Software Developer Tools Internet Services Open Source Partnering Platform Postgres PostgreSQL Serverless Software Software Development Software Development Applications Technology Senior Cloud Cloud Computing Cloud services(SaaS) Data & Analytics Database Databases Database Software Developer Tools Internet Services Open Source Partnering Platform Postgres Postg",
-          "graduationDate": null,
-          "applyUrl": "https://jobs.menlovc.com/companies/neon-2-fafc7050-f6c0-4a38-9c9c-e8dc0b61e31c/jobs/82247433-sr-forward-deployed-engineer#content",
-          "firstSeen": "2026-06-11",
-          "source": "scraper"
-        },
-        {
-          "title": "Neon Location: Singapore Posted: 3 days Senior Cloud Cloud Computing Cloud services(SaaS) Data & Analytics Database Data",
-          "description": "bases Database Software Developer Tools Internet Services Open Source Partnering Platform Postgres PostgreSQL Serverless Software Software Development Software Development Applications Technology Senior Cloud Cloud Computing Cloud services(SaaS) Data & Analytics Database Databases Database Software Developer Tools Internet Services Open Source Partnering Platform Postgres PostgreSQL Serverless Software Software Development Software Development Applications Technology + 99 more",
-          "graduationDate": null,
-          "applyUrl": "https://jobs.menlovc.com/companies/neon-2-fafc7050-f6c0-4a38-9c9c-e8dc0b61e31c#content",
-          "firstSeen": "2026-06-13",
-          "source": "scraper"
-        },
-        {
-          "title": "Senior Cloud Cloud Computing Cloud services(SaaS) Data & Analytics Database Databases Database Software Developer Tools",
-          "description": "Internet Services Open Source Partnering Platform Postgres PostgreSQL Serverless Software Software Development Software Development Applications Technology Senior Cloud Cloud Computing Cloud services(SaaS) Data & Analytics Database Databases Database Software Developer Tools Internet Services Open Source Partnering Platform Postgres PostgreSQL Serverless Software Software Development Software Development Applications Technology + 99 more",
-          "graduationDate": null,
-          "applyUrl": "https://jobs.menlovc.com/jobs",
-          "firstSeen": "2026-06-11",
-          "source": "scraper"
-        },
-        {
-          "title": "Delivery Solutions Architect",
-          "description": "Neon Location: Paris, France Posted: 3 days Mid-Senior Level Cloud Cloud Computing Cloud services(SaaS) Data & Analytics Database Databases Database Software Developer Tools Internet Services Open Source Partnering Platform Postgres PostgreSQL Serverless Software Software Development Software Development Applications Technology Mid-Senior Level Cloud Cloud Computing Cloud services(SaaS) Data & Analytics Database Databases Database Software Developer Tools Internet Services Open Source Partnering",
-          "graduationDate": null,
-          "applyUrl": "https://jobs.menlovc.com/companies/neon-2-fafc7050-f6c0-4a38-9c9c-e8dc0b61e31c/jobs/82247430-delivery-solutions-architect#content",
-          "firstSeen": "2026-06-11",
-          "source": "scraper"
-        },
-        {
-          "title": "Neon Location: Paris, France Posted: 3 days Mid-Senior Level Cloud Cloud Computing Cloud services(SaaS) Data & Analytics",
-          "description": "Database Databases Database Software Developer Tools Internet Services Open Source Partnering Platform Postgres PostgreSQL Serverless Software Software Development Software Development Applications Technology Mid-Senior Level Cloud Cloud Computing Cloud services(SaaS) Data & Analytics Database Databases Database Software Developer Tools Internet Services Open Source Partnering Platform Postgres PostgreSQL Serverless Software Software Development Software Development Applications Technology + 99",
-          "graduationDate": null,
-          "applyUrl": "https://jobs.menlovc.com/companies/neon-2-fafc7050-f6c0-4a38-9c9c-e8dc0b61e31c#content",
-          "firstSeen": "2026-06-13",
-          "source": "scraper"
-        },
-        {
-          "title": "Mid-Senior Level Cloud Cloud Computing Cloud services(SaaS) Data & Analytics Database Databases Database Software Develo",
-          "description": "per Tools Internet Services Open Source Partnering Platform Postgres PostgreSQL Serverless Software Software Development Software Development Applications Technology Mid-Senior Level Cloud Cloud Computing Cloud services(SaaS) Data & Analytics Database Databases Database Software Developer Tools Internet Services Open Source Partnering Platform Postgres PostgreSQL Serverless Software Software Development Software Development Applications Technology + 99 more",
-          "graduationDate": null,
-          "applyUrl": "https://jobs.menlovc.com/jobs",
-          "firstSeen": "2026-06-11",
-          "source": "scraper"
-        },
-        {
-          "title": "Director, Travel & Expense",
-          "description": "Neon Location: San Francisco, CA, USA Compensation: USD 167,600-288,100 / year + Equity Posted: 3 days Director Cloud Cloud Computing Cloud services(SaaS) Data & Analytics Database Databases Database Software Developer Tools Internet Services Open Source Partnering Platform Postgres PostgreSQL Serverless Software Software Development Software Development Applications Technology Director Cloud Cloud Computing Cloud services(SaaS) Data & Analytics Database Databases Database Software Developer Too",
-          "graduationDate": null,
-          "applyUrl": "https://jobs.menlovc.com/companies/neon-2-fafc7050-f6c0-4a38-9c9c-e8dc0b61e31c/jobs/82247432-director-travel-expense#content",
-          "firstSeen": "2026-06-11",
-          "source": "scraper"
-        },
-        {
-          "title": "Neon Location: San Francisco, CA, USA Compensation: USD 167,600-288,100 / year + Equity Posted: 3 days Director Cloud Cl",
-          "description": "oud Computing Cloud services(SaaS) Data & Analytics Database Databases Database Software Developer Tools Internet Services Open Source Partnering Platform Postgres PostgreSQL Serverless Software Software Development Software Development Applications Technology Director Cloud Cloud Computing Cloud services(SaaS) Data & Analytics Database Databases Database Software Developer Tools Internet Services Open Source Partnering Platform Postgres PostgreSQL Serverless Software Software Development Softwa",
-          "graduationDate": null,
-          "applyUrl": "https://jobs.menlovc.com/companies/neon-2-fafc7050-f6c0-4a38-9c9c-e8dc0b61e31c#content",
-          "firstSeen": "2026-06-13",
-          "source": "scraper"
-        },
-        {
-          "title": "Senior Manager, Global Premier Support",
-          "description": "Neon Location: Sydney, NSW, Australia Posted: 3 days Director Cloud Cloud Computing Cloud services(SaaS) Data & Analytics Database Databases Database Software Developer Tools Internet Services Open Source Partnering Platform Postgres PostgreSQL Serverless Software Software Development Software Development Applications Technology Director Cloud Cloud Computing Cloud services(SaaS) Data & Analytics Database Databases Database Software Developer Tools Internet Services Open Source Partnering Platfo",
-          "graduationDate": null,
-          "applyUrl": "https://jobs.menlovc.com/companies/neon-2-fafc7050-f6c0-4a38-9c9c-e8dc0b61e31c/jobs/82247429-senior-manager-global-premier-support#content",
-          "firstSeen": "2026-06-11",
+          "firstSeen": "2026-06-14",
           "source": "scraper"
         }
       ]
@@ -1370,56 +1090,56 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-13T12:08:46.408044+00:00",
+      "lastChecked": "2026-06-14T12:18:13.862525+00:00",
       "jobs": []
     },
     "Greycroft": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-13T12:08:56.698369+00:00",
+      "lastChecked": "2026-06-14T12:18:24.160874+00:00",
       "jobs": []
     },
     "Momentum Capital Partners Alpha Advisor Limited": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-13T12:11:32.992551+00:00",
+      "lastChecked": "2026-06-14T12:18:35.832276+00:00",
       "jobs": []
     },
     "Polaris Growth Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-13T12:11:42.789223+00:00",
+      "lastChecked": "2026-06-14T12:18:44.223128+00:00",
       "jobs": []
     },
     "K5 Global Advisor": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-13T12:11:52.694411+00:00",
+      "lastChecked": "2026-06-14T12:18:52.888583+00:00",
       "jobs": []
     },
     "Firstmark Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-13T12:12:00.952593+00:00",
+      "lastChecked": "2026-06-14T12:19:00.410292+00:00",
       "jobs": []
     },
     "Atreides Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-13T12:12:08.209374+00:00",
+      "lastChecked": "2026-06-14T12:19:07.464443+00:00",
       "jobs": []
     },
     "Madrona Venture Group": {
       "hasInternPosting": true,
       "careerUrl": "https://www.madrona.com/careers",
       "status": "ok",
-      "lastChecked": "2026-06-13T12:12:18.230599+00:00",
+      "lastChecked": "2026-06-14T12:19:14.058282+00:00",
       "jobs": [
         {
           "title": "EdgeRunner AI EdgeRunner AI is on a mission to build generative AI for the edge that is safe, secure, and transparent. E",
@@ -1504,95 +1224,38 @@
       ]
     },
     "Fifth Wall Asset Management": {
-      "hasInternPosting": true,
+      "hasInternPosting": false,
       "careerUrl": "https://fifthwall.com/careers",
       "status": "ok",
-      "lastChecked": "2026-06-13T12:12:25.360446+00:00",
-      "jobs": [
-        {
-          "title": "Intern jobs 71,196 open jobs",
-          "description": "Analyst jobs 694,057 open jobs Associate jobs 1,091,945 open jobs Vice President jobs 235,270 open jobs Investment Analyst jobs 14,999 open jobs Manager jobs 1,880,925 open jobs Real Estate Analyst jobs 28,041 open jobs President jobs 92,709 open jobs Engineer jobs 555,845 open jobs Professional Development Manager jobs 36,882 open jobs Intern jobs 71,196 open jobs Director Acquisition jobs 11,348 open jobs Hardware Manager jobs 9,984 open jobs Project Manager jobs 253,048 open jobs Sustainabili",
-          "graduationDate": null,
-          "applyUrl": "https://www.linkedin.com/jobs/intern-jobs?trk=organization_guest-browse_jobs",
-          "firstSeen": "2026-06-13",
-          "source": "scraper"
-        },
-        {
-          "title": "Intern jobs",
-          "description": "Associate jobs Analyst jobs Investment Associate jobs Manager jobs Intern jobs Real Estate Analyst jobs Chief of Staff jobs Head of Real Estate jobs Financial Planning Specialist jobs Business Development Specialist jobs Chief Financial Officer jobs Project Manager jobs Summer Analyst jobs Director jobs Senior Vice President jobs Corporate Development Specialist jobs Compliance Associate jobs Vice President jobs Principal jobs Operations Analyst jobs",
-          "graduationDate": null,
-          "applyUrl": "https://www.linkedin.com/jobs/intern-jobs?trk=organization_guest_linkster_link",
-          "firstSeen": "2026-06-13",
-          "source": "scraper"
-        },
-        {
-          "title": "Summer Analyst jobs",
-          "description": "Associate jobs Analyst jobs Investment Associate jobs Manager jobs Intern jobs Real Estate Analyst jobs Chief of Staff jobs Head of Real Estate jobs Financial Planning Specialist jobs Business Development Specialist jobs Chief Financial Officer jobs Project Manager jobs Summer Analyst jobs Director jobs Senior Vice President jobs Corporate Development Specialist jobs Compliance Associate jobs Vice President jobs Principal jobs Operations Analyst jobs",
-          "graduationDate": null,
-          "applyUrl": "https://www.linkedin.com/jobs/summer-analyst-jobs?trk=organization_guest_linkster_link",
-          "firstSeen": "2026-06-13",
-          "source": "scraper"
-        },
-        {
-          "title": "Browse jobs",
-          "description": "Analyst jobs 694,057 open jobs Associate jobs 1,091,945 open jobs Vice President jobs 235,270 open jobs Investment Analyst jobs 14,999 open jobs Manager jobs 1,880,925 open jobs Real Estate Analyst jobs 28,041 open jobs President jobs 92,709 open jobs Engineer jobs 555,845 open jobs Professional Development Manager jobs 36,882 open jobs Intern jobs 71,196 open jobs Director Acquisition jobs 11,348 open jobs Hardware Manager jobs 9,984 open jobs Project Manager jobs 253,048 open jobs Sustainabili",
-          "graduationDate": null,
-          "applyUrl": "https://www.linkedin.com/jobs/analyst-jobs?trk=organization_guest-browse_jobs",
-          "firstSeen": "2026-06-13",
-          "source": "scraper"
-        },
-        {
-          "title": "Analyst jobs",
-          "description": "694,057 open jobs Associate jobs 1,091,945 open jobs Vice President jobs 235,270 open jobs Investment Analyst jobs 14,999 open jobs Manager jobs 1,880,925 open jobs Real Estate Analyst jobs 28,041 open jobs President jobs 92,709 open jobs Engineer jobs 555,845 open jobs Professional Development Manager jobs 36,882 open jobs Intern jobs 71,196 open jobs Director Acquisition jobs 11,348 open jobs Hardware Manager jobs 9,984 open jobs Project Manager jobs 253,048 open jobs Sustainability Manager jo",
-          "graduationDate": null,
-          "applyUrl": "https://www.linkedin.com/jobs/analyst-jobs?trk=organization_guest-browse_jobs",
-          "firstSeen": "2026-06-13",
-          "source": "scraper"
-        },
-        {
-          "title": "More searches More searches Associate jobs Analyst jobs Investment Associate jobs Manager jobs Intern jobs Real Estate A",
-          "description": "nalyst jobs Chief of Staff jobs Head of Real Estate jobs Financial Planning Specialist jobs Business Development Specialist jobs Chief Financial Officer jobs Project Manager jobs Summer Analyst jobs Director jobs Senior Vice President jobs Corporate Development Specialist jobs Compliance Associate jobs Vice President jobs Principal jobs Operations Analyst jobs Compliance Specialist jobs Government Affairs Specialist jobs Private Equity Specialist jobs Human Resources Analyst jobs Private Equity",
-          "graduationDate": null,
-          "applyUrl": "https://www.linkedin.com/jobs/associate-jobs?trk=organization_guest_linkster_link",
-          "firstSeen": "2026-06-13",
-          "source": "scraper"
-        },
-        {
-          "title": "Associate jobs Analyst jobs Investment Associate jobs Manager jobs Intern jobs Real Estate Analyst jobs Chief of Staff j",
-          "description": "obs Head of Real Estate jobs Financial Planning Specialist jobs Business Development Specialist jobs Chief Financial Officer jobs Project Manager jobs Summer Analyst jobs Director jobs Senior Vice President jobs Corporate Development Specialist jobs Compliance Associate jobs Vice President jobs Principal jobs Operations Analyst jobs Compliance Specialist jobs Government Affairs Specialist jobs Private Equity Specialist jobs Human Resources Analyst jobs Private Equity Associate jobs Investment Ba",
-          "graduationDate": null,
-          "applyUrl": "https://www.linkedin.com/jobs/associate-jobs?trk=organization_guest_linkster_link",
-          "firstSeen": "2026-06-13",
-          "source": "scraper"
-        }
-      ]
+      "lastChecked": "2026-06-14T12:19:17.581062+00:00",
+      "jobs": []
     },
     "Valar Ventures": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-13T12:12:34.746784+00:00",
+      "lastChecked": "2026-06-14T12:19:34.391453+00:00",
       "jobs": []
     },
     "Momentum Capital Partners Fund IV Advisor Limited": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-13T12:15:11.073183+00:00",
+      "lastChecked": "2026-06-14T12:19:45.904728+00:00",
       "jobs": []
     },
     "Elevation Capital Partners": {
       "hasInternPosting": false,
       "careerUrl": "https://www.elevationcapital.com/careers",
       "status": "ok",
-      "lastChecked": "2026-06-13T12:15:13.429332+00:00",
+      "lastChecked": "2026-06-14T12:19:48.362905+00:00",
       "jobs": []
     },
     "Column Group": {
       "hasInternPosting": true,
       "careerUrl": "https://www.thecolumngroup.com/join",
       "status": "ok",
-      "lastChecked": "2026-06-13T12:15:23.511372+00:00",
+      "lastChecked": "2026-06-14T12:20:00.064708+00:00",
       "jobs": [
         {
           "title": "Filter jobs by skills and more Roles Enter roles Skills Enter skills Location Enter locations Company stage Enter stages",
@@ -1624,63 +1287,63 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-13T12:15:33.543760+00:00",
+      "lastChecked": "2026-06-14T12:20:08.656118+00:00",
       "jobs": []
     },
     "Eight Roads GP": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-13T12:15:54.723163+00:00",
+      "lastChecked": "2026-06-14T12:20:24.487967+00:00",
       "jobs": []
     },
     "Nexus Ventures Advisors Private Limited": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-13T12:16:37.302118+00:00",
+      "lastChecked": "2026-06-14T12:21:04.258069+00:00",
       "jobs": []
     },
     "Foundation Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-13T12:20:29.247005+00:00",
+      "lastChecked": "2026-06-14T12:24:55.972658+00:00",
       "jobs": []
     },
     "5Y Capital Management Limited": {
       "hasInternPosting": false,
-      "careerUrl": "https://www.5ycap.com/careers/students",
+      "careerUrl": "https://www.5ycap.com/about/careers",
       "status": "ok",
-      "lastChecked": "2026-06-13T12:20:33.728777+00:00",
+      "lastChecked": "2026-06-14T12:25:13.823556+00:00",
       "jobs": []
     },
     "Meritech Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-13T12:20:42.375885+00:00",
+      "lastChecked": "2026-06-14T12:25:21.057857+00:00",
       "jobs": []
     },
     "Versant Venture Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-13T12:20:51.131049+00:00",
+      "lastChecked": "2026-06-14T12:25:30.774572+00:00",
       "jobs": []
     },
     "Golden Sand River Digital": {
       "hasInternPosting": false,
       "careerUrl": "https://www.gsrventures.com/careers",
       "status": "ok",
-      "lastChecked": "2026-06-13T12:20:55.881517+00:00",
+      "lastChecked": "2026-06-14T12:25:36.527542+00:00",
       "jobs": []
     },
     "Qiming Global Management": {
       "hasInternPosting": true,
       "careerUrl": "https://www.qimingvc.com/careers",
       "status": "ok",
-      "lastChecked": "2026-06-13T12:21:03.746122+00:00",
+      "lastChecked": "2026-06-14T12:25:45.588035+00:00",
       "jobs": [
         {
           "title": "QIMING VENTURE PARTNERS 2022 SUMMER INTERNSHIP——Summer Associate – T&C, Remote",
@@ -1784,14 +1447,14 @@
       "hasInternPosting": true,
       "careerUrl": "https://www.goodwatercap.com/careers/students",
       "status": "ok",
-      "lastChecked": "2026-06-13T12:21:08.834870+00:00",
+      "lastChecked": "2026-06-14T12:25:50.548017+00:00",
       "jobs": [
         {
-          "title": "77 companies . 1,724 jobs . Build World-Changing Consumer Tech.",
-          "description": "Home About Genesis Capital Collective Portfolio Home About Genesis Capital Collective Portfolio 77 companies . 1,724 jobs . Build World-Changing Consumer Tech. Jobs Companies Filter jobs by skills and more Roles Enter roles Skills Enter skills Location Enter locations Company stage Enter stages Industry Enter industries Salary Select... Internships only Remote options All jobs Posted Anytime Powered by Consider Powered by Consider Privacy Terms Consumer Tech Investors Contact Us 240 Lorton Ave B",
+          "title": "77 companies . 1,723 jobs . Build World-Changing Consumer Tech.",
+          "description": "Home About Genesis Capital Collective Portfolio Home About Genesis Capital Collective Portfolio 77 companies . 1,723 jobs . Build World-Changing Consumer Tech. Jobs Companies Filter jobs by skills and more Roles Enter roles Skills Enter skills Location Enter locations Company stage Enter stages Industry Enter industries Salary Select... Internships only Remote options All jobs Posted Anytime Powered by Consider Powered by Consider Privacy Terms Consumer Tech Investors Contact Us 240 Lorton Ave B",
           "graduationDate": null,
           "applyUrl": "https://www.goodwatercap.com/",
-          "firstSeen": "2026-06-13",
+          "firstSeen": "2026-06-14",
           "source": "scraper"
         },
         {
@@ -1824,42 +1487,42 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-13T12:21:21.547517+00:00",
+      "lastChecked": "2026-06-14T12:26:03.941078+00:00",
       "jobs": []
     },
     "BRV Lotus Holdings Limited": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-13T12:21:32.650747+00:00",
+      "lastChecked": "2026-06-14T12:26:12.435957+00:00",
       "jobs": []
     },
     "Breakthrough Energy Ventures": {
       "hasInternPosting": false,
       "careerUrl": "https://www.breakthroughenergy.org/careers",
       "status": "ok",
-      "lastChecked": "2026-06-13T12:21:35.041384+00:00",
+      "lastChecked": "2026-06-14T12:26:15.180360+00:00",
       "jobs": []
     },
     "Next Legacy Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-13T12:21:47.838352+00:00",
+      "lastChecked": "2026-06-14T12:26:25.986957+00:00",
       "jobs": []
     },
     "Union Square Ventures": {
       "hasInternPosting": true,
       "careerUrl": "https://www.usv.com/jobs",
       "status": "ok",
-      "lastChecked": "2026-06-13T12:21:54.380235+00:00",
+      "lastChecked": "2026-06-14T12:26:32.247167+00:00",
       "jobs": [
         {
-          "title": "155 companies . 1,109 jobs . Re-shape your career.",
-          "description": "About People Investments Jobs Writing 155 companies . 1,109 jobs . Re-shape your career. Jobs Companies Talent Network Filter jobs by skills and more Sign in Roles Enter roles Skills Enter skills Location Enter locations Company stage Enter stages Industry Enter industries Salary Select... Internships only Remote options All jobs Posted Anytime Powered by Consider Powered by Consider Privacy Terms",
+          "title": "155 companies . 1,110 jobs . Re-shape your career.",
+          "description": "About People Investments Jobs Writing 155 companies . 1,110 jobs . Re-shape your career. Jobs Companies Talent Network Filter jobs by skills and more Sign in Roles Enter roles Skills Enter skills Location Enter locations Company stage Enter stages Industry Enter industries Salary Select... Internships only Remote options All jobs Posted Anytime Powered by Consider Powered by Consider Privacy Terms",
           "graduationDate": null,
           "applyUrl": "https://www.usv.com/",
-          "firstSeen": "2026-06-13",
+          "firstSeen": "2026-06-14",
           "source": "scraper"
         },
         {
@@ -1892,21 +1555,21 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-13T12:22:08.378431+00:00",
+      "lastChecked": "2026-06-14T12:26:44.734062+00:00",
       "jobs": []
     },
     "HV Capital Manager GMBH": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-13T12:22:15.964278+00:00",
+      "lastChecked": "2026-06-14T12:26:51.790315+00:00",
       "jobs": []
     },
     "Highland Europe Geneva S.A.R.L.": {
       "hasInternPosting": true,
       "careerUrl": "https://www.highlandeurope.com/careers",
       "status": "ok",
-      "lastChecked": "2026-06-13T12:22:24.305550+00:00",
+      "lastChecked": "2026-06-14T12:27:00.442773+00:00",
       "jobs": [
         {
           "title": "Exciting roles in the Highland Europe portfolio",
@@ -1946,14 +1609,14 @@
       "hasInternPosting": true,
       "careerUrl": "https://www.foresitecapital.com/careers",
       "status": "ok",
-      "lastChecked": "2026-06-13T12:22:29.137813+00:00",
+      "lastChecked": "2026-06-14T12:27:04.419776+00:00",
       "jobs": [
         {
-          "title": "Career Opportunities: 121 companies . 1,468 jobs .",
-          "description": "Strategy Portfolio People Careers News Blog Contact Us Home Strategy Portfolio People Careers News Blog Contact Us Foresite Labs Investor Login Terms Privacy Policy Career Opportunities: 121 companies . 1,468 jobs . Jobs Companies Filter jobs by skills and more Roles Enter roles Skills Enter skills Location Enter locations Company stage Enter stages Industry Enter industries Salary Select... Internships only Remote options All jobs Posted Anytime Powered by Consider Powered by Consider Privacy T",
+          "title": "Career Opportunities: 121 companies . 1,467 jobs .",
+          "description": "Strategy Portfolio People Careers News Blog Contact Us Home Strategy Portfolio People Careers News Blog Contact Us Foresite Labs Investor Login Terms Privacy Policy Career Opportunities: 121 companies . 1,467 jobs . Jobs Companies Filter jobs by skills and more Roles Enter roles Skills Enter skills Location Enter locations Company stage Enter stages Industry Enter industries Salary Select... Internships only Remote options All jobs Posted Anytime Powered by Consider Powered by Consider Privacy T",
           "graduationDate": null,
           "applyUrl": "https://www.foresitecapital.com/",
-          "firstSeen": "2026-06-13",
+          "firstSeen": "2026-06-14",
           "source": "scraper"
         },
         {
@@ -1986,7 +1649,7 @@
       "hasInternPosting": true,
       "careerUrl": "https://trueventures.com/careers",
       "status": "ok",
-      "lastChecked": "2026-06-13T12:22:33.736999+00:00",
+      "lastChecked": "2026-06-14T12:27:08.289357+00:00",
       "jobs": [
         {
           "title": "Academia.edu 2 job s Education Higher Education Internet Social Media Education Higher Education Internet Social Media + 99 more Academia.edu is the largest and fastest-growing platform in the world f",
@@ -2066,63 +1729,63 @@
       "hasInternPosting": false,
       "careerUrl": "https://www.foundrygroup.com/careers",
       "status": "ok",
-      "lastChecked": "2026-06-13T12:22:36.234714+00:00",
+      "lastChecked": "2026-06-14T12:27:10.323698+00:00",
       "jobs": []
     },
     "Signalfire": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-13T12:22:46.199310+00:00",
+      "lastChecked": "2026-06-14T12:27:18.613914+00:00",
       "jobs": []
     },
     "MPM Bioimpact": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-13T12:22:59.713453+00:00",
+      "lastChecked": "2026-06-14T12:27:31.581791+00:00",
       "jobs": []
     },
     "83north 2017": {
       "hasInternPosting": false,
       "careerUrl": "https://www.83north.com/open-positions",
       "status": "ok",
-      "lastChecked": "2026-06-13T12:23:16.470461+00:00",
+      "lastChecked": "2026-06-14T12:27:47.074317+00:00",
       "jobs": []
     },
     "Emergence Equity Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-13T12:23:26.294372+00:00",
+      "lastChecked": "2026-06-14T12:27:55.281400+00:00",
       "jobs": []
     },
     "DCM": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-13T12:23:38.095460+00:00",
+      "lastChecked": "2026-06-14T12:28:04.244132+00:00",
       "jobs": []
     },
     "Forerunner Ventures Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-06-13T12:23:46.017606+00:00",
+      "lastChecked": "2026-06-14T12:28:11.514767+00:00",
       "jobs": []
     },
     "Georgian Partners Growth": {
       "hasInternPosting": false,
       "careerUrl": "https://www.georgian.io/careers",
       "status": "ok",
-      "lastChecked": "2026-06-13T12:23:48.919413+00:00",
+      "lastChecked": "2026-06-14T12:28:14.542347+00:00",
       "jobs": []
     },
     "h Investment Management": {
       "hasInternPosting": false,
       "careerUrl": "https://www.hinvestment.com/careers",
       "status": "ok",
-      "lastChecked": "2026-06-13T12:23:51.962917+00:00",
+      "lastChecked": "2026-06-14T12:28:16.770113+00:00",
       "jobs": []
     }
   }
