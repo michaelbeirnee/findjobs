@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-07-13T12:13:06.051818+00:00",
-  "internCount": 23,
+  "lastUpdated": "2026-07-14T10:55:04.332914+00:00",
+  "internCount": 24,
   "firms": {
     "Sequoia Capital Operations": {
       "hasInternPosting": true,
       "careerUrl": "https://www.sequoiacap.com/jobs",
       "status": "ok",
-      "lastChecked": "2026-07-13T11:52:33.952428+00:00",
+      "lastChecked": "2026-07-14T10:34:35.891296+00:00",
       "jobs": [
         {
           "title": "Make a dent in the world",
@@ -43,64 +43,31 @@
       ]
     },
     "Andreessen Horowitz": {
-      "hasInternPosting": true,
+      "hasInternPosting": false,
       "careerUrl": "https://a16z.com/jobs",
       "status": "ok",
-      "lastChecked": "2026-07-13T11:52:39.650424+00:00",
-      "jobs": [
-        {
-          "title": "785 companies . 15,221 jobs . It's time to build.",
-          "description": "All Portfolio Jobs Jobs by company a16z jobs A16Z TalentPlace Filter jobs by skills and more Roles Enter roles Skills Enter skills Location Enter locations Company stage Enter stages Industry Enter industries Salary Select... Internships only Remote options All jobs Posted Anytime Powered by Consider Powered by Consider Privacy Terms Software is Eating the World © 2026 Andreessen Horowitz © 2026 Andreessen Horowitz Terms of Use Privacy Policy Disclosures Sitemap",
-          "graduationDate": null,
-          "applyUrl": "https://a16z.com/jobs",
-          "firstSeen": "2026-07-13",
-          "source": "scraper"
-        },
-        {
-          "title": "Filter jobs by skills and more Roles Enter roles Skills Enter skills Location Enter locations Company stage Enter stages",
-          "description": "Industry Enter industries Salary Select... Internships only Remote options All jobs Posted Anytime Powered by Consider",
-          "graduationDate": null,
-          "applyUrl": "https://product.consider.com/ctc/talent-circle?utm_campaign=undefined",
-          "firstSeen": "2026-04-18",
-          "source": "scraper"
-        },
-        {
-          "title": "Internships only Remote options All jobs Posted Anytime Powered by Consider",
-          "description": "",
-          "graduationDate": null,
-          "applyUrl": "https://product.consider.com/ctc/talent-circle?utm_campaign=undefined",
-          "firstSeen": "2026-04-18",
-          "source": "scraper"
-        },
-        {
-          "title": "Internships only Remote options All jobs Posted Anytime",
-          "description": "",
-          "graduationDate": null,
-          "applyUrl": "https://a16z.com/jobs",
-          "firstSeen": "2026-07-11",
-          "source": "scraper"
-        }
-      ]
+      "lastChecked": "2026-07-14T10:34:56.235239+00:00",
+      "jobs": []
     },
     "General Catalyst": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-07-13T11:52:48.105833+00:00",
+      "lastChecked": "2026-07-14T10:35:04.673794+00:00",
       "jobs": []
     },
     "Encap Investments": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-07-13T11:53:03.742829+00:00",
+      "lastChecked": "2026-07-14T10:35:19.102742+00:00",
       "jobs": []
     },
     "Lightspeed Venture Partners": {
       "hasInternPosting": true,
       "careerUrl": "https://lsvp.com/work-with-us",
       "status": "ok",
-      "lastChecked": "2026-07-13T11:53:18.382491+00:00",
+      "lastChecked": "2026-07-14T10:35:28.036543+00:00",
       "jobs": [
         {
           "title": "Filter jobs by skills and more Roles Enter roles Skills Enter skills Location Enter locations Company stage Enter stages",
@@ -132,14 +99,14 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-07-13T11:53:31.893201+00:00",
+      "lastChecked": "2026-07-14T10:35:43.194495+00:00",
       "jobs": []
     },
     "Accel Management": {
       "hasInternPosting": true,
       "careerUrl": "https://www.accel.com/careers",
       "status": "ok",
-      "lastChecked": "2026-07-13T11:53:36.185965+00:00",
+      "lastChecked": "2026-07-14T10:35:47.166133+00:00",
       "jobs": [
         {
           "title": "Accacia 10 job s Seed Artificial Intelligence Business/Productivity Software Carbon Accounting Climate Change Environmental Services Environmental Services (B2B) Greentech Platform Real Estate SaaS So",
@@ -179,28 +146,28 @@
       "hasInternPosting": false,
       "careerUrl": "https://www.cobaltlp.com/careers",
       "status": "ok",
-      "lastChecked": "2026-07-13T11:53:40.403238+00:00",
+      "lastChecked": "2026-07-14T10:35:50.982586+00:00",
       "jobs": []
     },
     "Founders Fund": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-07-13T11:53:55.889325+00:00",
+      "lastChecked": "2026-07-14T10:36:06.450791+00:00",
       "jobs": []
     },
     "Index Ventures SA": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-07-13T11:54:09.409452+00:00",
+      "lastChecked": "2026-07-14T10:36:18.525361+00:00",
       "jobs": []
     },
     "Bessemer Venture Partners": {
       "hasInternPosting": true,
       "careerUrl": "https://www.bvp.com/jobs",
       "status": "ok",
-      "lastChecked": "2026-07-13T11:54:14.712711+00:00",
+      "lastChecked": "2026-07-14T10:36:23.414935+00:00",
       "jobs": [
         {
           "title": "Filter jobs by skills and more Roles Enter roles Skills Enter skills Location Enter locations Company stage Enter stages",
@@ -272,28 +239,28 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-07-13T11:54:22.566960+00:00",
+      "lastChecked": "2026-07-14T10:36:30.904224+00:00",
       "jobs": []
     },
     "Impresa Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-07-13T11:54:29.164603+00:00",
+      "lastChecked": "2026-07-14T10:36:37.596306+00:00",
       "jobs": []
     },
     "Khosla Ventures": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-07-13T11:54:38.223726+00:00",
+      "lastChecked": "2026-07-14T10:36:48.034450+00:00",
       "jobs": []
     },
     "Angellist Advisors": {
       "hasInternPosting": true,
       "careerUrl": "https://www.angellist.com/careers",
       "status": "ok",
-      "lastChecked": "2026-07-13T11:54:43.431492+00:00",
+      "lastChecked": "2026-07-14T10:36:52.975280+00:00",
       "jobs": [
         {
           "title": "What we’re looking for:",
@@ -309,35 +276,35 @@
       "hasInternPosting": false,
       "careerUrl": "https://www.flagshippioneering.com/join",
       "status": "ok",
-      "lastChecked": "2026-07-13T11:54:51.773882+00:00",
+      "lastChecked": "2026-07-14T10:37:01.307801+00:00",
       "jobs": []
     },
     "Banyan Capital Partners": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-07-13T11:55:07.496785+00:00",
+      "lastChecked": "2026-07-14T10:37:16.409941+00:00",
       "jobs": []
     },
     "Spark Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-07-13T11:55:15.841372+00:00",
+      "lastChecked": "2026-07-14T10:37:24.527240+00:00",
       "jobs": []
     },
     "Ribbit Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-07-13T11:55:26.228554+00:00",
+      "lastChecked": "2026-07-14T10:37:33.985438+00:00",
       "jobs": []
     },
     "Y Combinator": {
       "hasInternPosting": true,
       "careerUrl": "https://www.ycombinator.com/careers",
       "status": "ok",
-      "lastChecked": "2026-07-13T11:55:30.506743+00:00",
+      "lastChecked": "2026-07-14T10:37:39.151444+00:00",
       "jobs": [
         {
           "title": "Internships",
@@ -361,117 +328,141 @@
       "hasInternPosting": false,
       "careerUrl": "https://www.racap.com/careers",
       "status": "ok",
-      "lastChecked": "2026-07-13T11:55:33.763676+00:00",
+      "lastChecked": "2026-07-14T10:37:42.240761+00:00",
       "jobs": []
     },
     "Sapphire Ventures": {
       "hasInternPosting": true,
       "careerUrl": "https://sapphireventures.com/careers",
       "status": "ok",
-      "lastChecked": "2026-07-13T11:55:44.104733+00:00",
+      "lastChecked": "2026-07-14T10:37:48.579620+00:00",
       "jobs": [
         {
-          "title": "Podium Location: Melbourne, VIC, Australia Posted: 1 day Mid-Senior Level Analytics Artificial Intelligence Business And",
-          "description": "Industrial Business/Productivity Software Collaboration Commerce and Shopping Communication & Sales Consumer Reviews Customer Engagement Enterprise Software Internet Services Lead Generation Local Business Marketing Marketing Analytics Media and Information Services (B2B) Messaging Messaging and Telecommunications Online Reviews Platform Reputation Reputation Management SaaS Sales & Marketing Small and Medium Businesses SMS Marketing Software Software Development Technology Text Marketing Mid-Se",
+          "title": "Technology Enablement Program Manager",
+          "description": "Intercom Location: Dublin, Ireland ; London, UK Posted: Today AI Apps Artificial Intelligence Business And Industrial Business/Productivity Software Chat Bots Communication Software CRM Customer Engagement Customer Experience Customer Feedback Customer Relationship Management Customer Service Customer Support CX Enterprise Software Helpdesk Internet Services Live Chat Marketing Marketing Analytics Marketing Automation Media and Information Services (B2B) Messaging Messaging and Telecommunication",
+          "graduationDate": null,
+          "applyUrl": "https://sapphireventures.com/companies/intercom/jobs/86170100-technology-enablement-program-manager#content",
+          "firstSeen": "2026-07-14",
+          "source": "scraper"
+        },
+        {
+          "title": "Intercom Location: Dublin, Ireland ; London, UK Posted: Today AI Apps Artificial Intelligence Business And Industrial Bu",
+          "description": "siness/Productivity Software Chat Bots Communication Software CRM Customer Engagement Customer Experience Customer Feedback Customer Relationship Management Customer Service Customer Support CX Enterprise Software Helpdesk Internet Services Live Chat Marketing Marketing Analytics Marketing Automation Media and Information Services (B2B) Messaging Messaging and Telecommunications Mobile Platform Professional Services SaaS Sales & Marketing Sales Automation Software Software Development Technology",
+          "graduationDate": null,
+          "applyUrl": "https://sapphireventures.com/companies/intercom#content",
+          "firstSeen": "2026-07-14",
+          "source": "scraper"
+        },
+        {
+          "title": "AI Apps Artificial Intelligence Business And Industrial Business/Productivity Software Chat Bots Communication Software",
+          "description": "CRM Customer Engagement Customer Experience Customer Feedback Customer Relationship Management Customer Service Customer Support CX Enterprise Software Helpdesk Internet Services Live Chat Marketing Marketing Analytics Marketing Automation Media and Information Services (B2B) Messaging Messaging and Telecommunications Mobile Platform Professional Services SaaS Sales & Marketing Sales Automation Software Software Development Technology AI Apps Artificial Intelligence Business And Industrial Busin",
+          "graduationDate": null,
+          "applyUrl": "https://sapphireventures.com/careers",
+          "firstSeen": "2026-07-14",
+          "source": "scraper"
+        },
+        {
+          "title": "Creatio Location: Park City, Bagmugaliya, Bhopal, Madhya Pradesh, India Posted: 1 day Private Equity Agentic AI Agile Ar",
+          "description": "tificial Intelligence (AI) Automation Automation/Workflow Software BPM Business Development Business Process Automation (BPA) Business Process Management Business/Productivity Software Cloud Cloud Computing Cloud Data Services Communication CRM Customer Experience Customer Relationship Management Customer Service Data & Analytics Data Storage Developer Tools Direct Sales Enterprise Software ERP Finance Financial Services Global Growth Hardware Industrial Automation Innovation Integration Interne",
+          "graduationDate": null,
+          "applyUrl": "https://sapphireventures.com/companies/creatio#content",
+          "firstSeen": "2026-07-14",
+          "source": "scraper"
+        },
+        {
+          "title": "Private Equity Agentic AI Agile Artificial Intelligence (AI) Automation Automation/Workflow Software BPM Business Develo",
+          "description": "pment Business Process Automation (BPA) Business Process Management Business/Productivity Software Cloud Cloud Computing Cloud Data Services Communication CRM Customer Experience Customer Relationship Management Customer Service Data & Analytics Data Storage Developer Tools Direct Sales Enterprise Software ERP Finance Financial Services Global Growth Hardware Industrial Automation Innovation Integration Internet Services ITIL Lean Six Sigma Manufacturing Marketing Marketing Automation Metrics Op",
+          "graduationDate": null,
+          "applyUrl": "https://sapphireventures.com/careers",
+          "firstSeen": "2026-07-14",
+          "source": "scraper"
+        },
+        {
+          "title": "Support Operations Manager, Technical Support",
+          "description": "Cyera Location: Tel Aviv-Yafo, Israel Posted: 1 day Artificial Intelligence (AI) Cloud Data Services Cloud Security Computer and Network Security Cyber Security Cybersecurity Data & Analytics Data Management Data Privacy Enterprise Software Internet Services IT Security Media and Information Services (B2B) Network Management Software Network Security Privacy and Security Science and Engineering Security Software Technology Artificial Intelligence (AI) Cloud Data Services Cloud Security Computer",
+          "graduationDate": null,
+          "applyUrl": "https://sapphireventures.com/companies/cyera-2-5f138ae4-3d15-429e-b95d-080ef873f498/jobs/86154298-support-operations-manager-technical-support#content",
+          "firstSeen": "2026-07-14",
+          "source": "scraper"
+        },
+        {
+          "title": "Cyera Location: Tel Aviv-Yafo, Israel Posted: 1 day Artificial Intelligence (AI) Cloud Data Services Cloud Security Comp",
+          "description": "uter and Network Security Cyber Security Cybersecurity Data & Analytics Data Management Data Privacy Enterprise Software Internet Services IT Security Media and Information Services (B2B) Network Management Software Network Security Privacy and Security Science and Engineering Security Software Technology Artificial Intelligence (AI) Cloud Data Services Cloud Security Computer and Network Security Cyber Security Cybersecurity Data & Analytics Data Management Data Privacy Enterprise Software Inte",
+          "graduationDate": null,
+          "applyUrl": "https://sapphireventures.com/companies/cyera-2-5f138ae4-3d15-429e-b95d-080ef873f498#content",
+          "firstSeen": "2026-07-14",
+          "source": "scraper"
+        },
+        {
+          "title": "Artificial Intelligence (AI) Cloud Data Services Cloud Security Computer and Network Security Cyber Security Cybersecuri",
+          "description": "ty Data & Analytics Data Management Data Privacy Enterprise Software Internet Services IT Security Media and Information Services (B2B) Network Management Software Network Security Privacy and Security Science and Engineering Security Software Technology Artificial Intelligence (AI) Cloud Data Services Cloud Security Computer and Network Security Cyber Security Cybersecurity Data & Analytics Data Management Data Privacy Enterprise Software Internet Services IT Security Media and Information Serv",
+          "graduationDate": null,
+          "applyUrl": "https://sapphireventures.com/careers",
+          "firstSeen": "2026-07-14",
+          "source": "scraper"
+        },
+        {
+          "title": "Learning and Development Manager, Technical Support",
+          "description": "Cyera Location: Tel Aviv-Yafo, Israel Posted: 1 day Artificial Intelligence (AI) Cloud Data Services Cloud Security Computer and Network Security Cyber Security Cybersecurity Data & Analytics Data Management Data Privacy Enterprise Software Internet Services IT Security Media and Information Services (B2B) Network Management Software Network Security Privacy and Security Science and Engineering Security Software Technology Artificial Intelligence (AI) Cloud Data Services Cloud Security Computer",
+          "graduationDate": null,
+          "applyUrl": "https://sapphireventures.com/companies/cyera-2-5f138ae4-3d15-429e-b95d-080ef873f498/jobs/86154295-learning-and-development-manager-technical-support#content",
+          "firstSeen": "2026-07-14",
+          "source": "scraper"
+        },
+        {
+          "title": "Program Manager, Channel Enablement",
+          "description": "Cyera Location: United States ; Remote Posted: 1 day Artificial Intelligence (AI) Cloud Data Services Cloud Security Computer and Network Security Cyber Security Cybersecurity Data & Analytics Data Management Data Privacy Enterprise Software Internet Services IT Security Media and Information Services (B2B) Network Management Software Network Security Privacy and Security Science and Engineering Security Software Technology Artificial Intelligence (AI) Cloud Data Services Cloud Security Computer",
+          "graduationDate": null,
+          "applyUrl": "https://sapphireventures.com/companies/cyera-2-5f138ae4-3d15-429e-b95d-080ef873f498/jobs/86154296-program-manager-channel-enablement#content",
+          "firstSeen": "2026-07-14",
+          "source": "scraper"
+        },
+        {
+          "title": "Cyera Location: United States ; Remote Posted: 1 day Artificial Intelligence (AI) Cloud Data Services Cloud Security Com",
+          "description": "puter and Network Security Cyber Security Cybersecurity Data & Analytics Data Management Data Privacy Enterprise Software Internet Services IT Security Media and Information Services (B2B) Network Management Software Network Security Privacy and Security Science and Engineering Security Software Technology Artificial Intelligence (AI) Cloud Data Services Cloud Security Computer and Network Security Cyber Security Cybersecurity Data & Analytics Data Management Data Privacy Enterprise Software Int",
+          "graduationDate": null,
+          "applyUrl": "https://sapphireventures.com/companies/cyera-2-5f138ae4-3d15-429e-b95d-080ef873f498#content",
+          "firstSeen": "2026-07-14",
+          "source": "scraper"
+        },
+        {
+          "title": "Senior Manager, Channel Operations",
+          "description": "Cyera Location: United States ; Remote Posted: 1 day Artificial Intelligence (AI) Cloud Data Services Cloud Security Computer and Network Security Cyber Security Cybersecurity Data & Analytics Data Management Data Privacy Enterprise Software Internet Services IT Security Media and Information Services (B2B) Network Management Software Network Security Privacy and Security Science and Engineering Security Software Technology Artificial Intelligence (AI) Cloud Data Services Cloud Security Computer",
+          "graduationDate": null,
+          "applyUrl": "https://sapphireventures.com/companies/cyera-2-5f138ae4-3d15-429e-b95d-080ef873f498/jobs/86154297-senior-manager-channel-operations#content",
+          "firstSeen": "2026-07-14",
+          "source": "scraper"
+        },
+        {
+          "title": "Head of SE Enablement",
+          "description": "Cyera Location: United States ; Remote Posted: 1 day Artificial Intelligence (AI) Cloud Data Services Cloud Security Computer and Network Security Cyber Security Cybersecurity Data & Analytics Data Management Data Privacy Enterprise Software Internet Services IT Security Media and Information Services (B2B) Network Management Software Network Security Privacy and Security Science and Engineering Security Software Technology Artificial Intelligence (AI) Cloud Data Services Cloud Security Computer",
+          "graduationDate": null,
+          "applyUrl": "https://sapphireventures.com/companies/cyera-2-5f138ae4-3d15-429e-b95d-080ef873f498/jobs/86154293-head-of-se-enablement#content",
+          "firstSeen": "2026-07-14",
+          "source": "scraper"
+        },
+        {
+          "title": "Growth/Expansion Account Manager",
+          "description": "Podium Location: Melbourne, VIC, Australia Posted: 1 day Analytics Artificial Intelligence Business And Industrial Business/Productivity Software Collaboration Commerce and Shopping Communication & Sales Consumer Reviews Customer Engagement Enterprise Software Internet Services Lead Generation Local Business Marketing Marketing Analytics Media and Information Services (B2B) Messaging Messaging and Telecommunications Online Reviews Platform Reputation Reputation Management SaaS Sales & Marketing",
+          "graduationDate": null,
+          "applyUrl": "https://sapphireventures.com/companies/podium/jobs/86153851-growth-expansion-account-manager#content",
+          "firstSeen": "2026-07-14",
+          "source": "scraper"
+        },
+        {
+          "title": "Podium Location: Melbourne, VIC, Australia Posted: 1 day Analytics Artificial Intelligence Business And Industrial Busin",
+          "description": "ess/Productivity Software Collaboration Commerce and Shopping Communication & Sales Consumer Reviews Customer Engagement Enterprise Software Internet Services Lead Generation Local Business Marketing Marketing Analytics Media and Information Services (B2B) Messaging Messaging and Telecommunications Online Reviews Platform Reputation Reputation Management SaaS Sales & Marketing Small and Medium Businesses SMS Marketing Software Software Development Technology Text Marketing Analytics Artificial I",
           "graduationDate": null,
           "applyUrl": "https://sapphireventures.com/companies/podium#content",
-          "firstSeen": "2026-07-13",
+          "firstSeen": "2026-07-14",
           "source": "scraper"
         },
         {
-          "title": "Mid-Senior Level Analytics Artificial Intelligence Business And Industrial Business/Productivity Software Collaboration",
-          "description": "Commerce and Shopping Communication & Sales Consumer Reviews Customer Engagement Enterprise Software Internet Services Lead Generation Local Business Marketing Marketing Analytics Media and Information Services (B2B) Messaging Messaging and Telecommunications Online Reviews Platform Reputation Reputation Management SaaS Sales & Marketing Small and Medium Businesses SMS Marketing Software Software Development Technology Text Marketing Mid-Senior Level Analytics Artificial Intelligence Business An",
+          "title": "Analytics Artificial Intelligence Business And Industrial Business/Productivity Software Collaboration Commerce and Shop",
+          "description": "ping Communication & Sales Consumer Reviews Customer Engagement Enterprise Software Internet Services Lead Generation Local Business Marketing Marketing Analytics Media and Information Services (B2B) Messaging Messaging and Telecommunications Online Reviews Platform Reputation Reputation Management SaaS Sales & Marketing Small and Medium Businesses SMS Marketing Software Software Development Technology Text Marketing Analytics Artificial Intelligence Business And Industrial Business/Productivity",
           "graduationDate": null,
           "applyUrl": "https://sapphireventures.com/careers",
-          "firstSeen": "2026-07-13",
-          "source": "scraper"
-        },
-        {
-          "title": "Staff Software Engineer - Databases, Tempo | United Kingdom | Remote",
-          "description": "Grafana Labs Location: United Kingdom ; Remote Compensation: GBP 103,958-124,750 / year + Equity Posted: 1 day Senior Analytics Automation/Workflow Software Big Data Business/Productivity Software Cloud Cloud Data Services Cloud Infrastructure Dashboards Data & Analytics Data Management Data Visualization Design Enterprise Software Hardware Infrastructure Internet Internet Services Media and Information Services (B2B) Monitoring Observability Open Source Platform Software Software Development Te",
-          "graduationDate": null,
-          "applyUrl": "https://sapphireventures.com/companies/grafana-labs/jobs/86062711-staff-software-engineer-databases-tempo-united-kingdom-remote#content",
-          "firstSeen": "2026-07-13",
-          "source": "scraper"
-        },
-        {
-          "title": "Grafana Labs Location: United Kingdom ; Remote Compensation: GBP 103,958-124,750 / year + Equity Posted: 1 day Senior An",
-          "description": "alytics Automation/Workflow Software Big Data Business/Productivity Software Cloud Cloud Data Services Cloud Infrastructure Dashboards Data & Analytics Data Management Data Visualization Design Enterprise Software Hardware Infrastructure Internet Internet Services Media and Information Services (B2B) Monitoring Observability Open Source Platform Software Software Development Technology Technology And Computing Senior Analytics Automation/Workflow Software Big Data Business/Productivity Software",
-          "graduationDate": null,
-          "applyUrl": "https://sapphireventures.com/companies/grafana-labs#content",
-          "firstSeen": "2026-07-13",
-          "source": "scraper"
-        },
-        {
-          "title": "Senior Analytics Automation/Workflow Software Big Data Business/Productivity Software Cloud Cloud Data Services Cloud In",
-          "description": "frastructure Dashboards Data & Analytics Data Management Data Visualization Design Enterprise Software Hardware Infrastructure Internet Internet Services Media and Information Services (B2B) Monitoring Observability Open Source Platform Software Software Development Technology Technology And Computing Senior Analytics Automation/Workflow Software Big Data Business/Productivity Software Cloud Cloud Data Services Cloud Infrastructure Dashboards Data & Analytics Data Management Data Visualization D",
-          "graduationDate": null,
-          "applyUrl": "https://sapphireventures.com/careers",
-          "firstSeen": "2026-07-13",
-          "source": "scraper"
-        },
-        {
-          "title": "Staff Software Engineer - Databases, Tempo | Spain | Remote",
-          "description": "Grafana Labs Location: Spain ; Remote Compensation: EUR 94,025-112,830 / year + Equity Posted: 1 day Senior Analytics Automation/Workflow Software Big Data Business/Productivity Software Cloud Cloud Data Services Cloud Infrastructure Dashboards Data & Analytics Data Management Data Visualization Design Enterprise Software Hardware Infrastructure Internet Internet Services Media and Information Services (B2B) Monitoring Observability Open Source Platform Software Software Development Technology T",
-          "graduationDate": null,
-          "applyUrl": "https://sapphireventures.com/companies/grafana-labs/jobs/86062686-staff-software-engineer-databases-tempo-spain-remote#content",
-          "firstSeen": "2026-07-13",
-          "source": "scraper"
-        },
-        {
-          "title": "Grafana Labs Location: Spain ; Remote Compensation: EUR 94,025-112,830 / year + Equity Posted: 1 day Senior Analytics Au",
-          "description": "tomation/Workflow Software Big Data Business/Productivity Software Cloud Cloud Data Services Cloud Infrastructure Dashboards Data & Analytics Data Management Data Visualization Design Enterprise Software Hardware Infrastructure Internet Internet Services Media and Information Services (B2B) Monitoring Observability Open Source Platform Software Software Development Technology Technology And Computing Senior Analytics Automation/Workflow Software Big Data Business/Productivity Software Cloud Clou",
-          "graduationDate": null,
-          "applyUrl": "https://sapphireventures.com/companies/grafana-labs#content",
-          "firstSeen": "2026-07-13",
-          "source": "scraper"
-        },
-        {
-          "title": "Staff Software Engineer - Databases, Tempo | Sweden | Remote",
-          "description": "Grafana Labs Location: Sweden ; Remote Posted: 1 day Senior Analytics Automation/Workflow Software Big Data Business/Productivity Software Cloud Cloud Data Services Cloud Infrastructure Dashboards Data & Analytics Data Management Data Visualization Design Enterprise Software Hardware Infrastructure Internet Internet Services Media and Information Services (B2B) Monitoring Observability Open Source Platform Software Software Development Technology Technology And Computing Senior Analytics Automat",
-          "graduationDate": null,
-          "applyUrl": "https://sapphireventures.com/companies/grafana-labs/jobs/86062690-staff-software-engineer-databases-tempo-sweden-remote#content",
-          "firstSeen": "2026-07-13",
-          "source": "scraper"
-        },
-        {
-          "title": "Grafana Labs Location: Sweden ; Remote Posted: 1 day Senior Analytics Automation/Workflow Software Big Data Business/Pro",
-          "description": "ductivity Software Cloud Cloud Data Services Cloud Infrastructure Dashboards Data & Analytics Data Management Data Visualization Design Enterprise Software Hardware Infrastructure Internet Internet Services Media and Information Services (B2B) Monitoring Observability Open Source Platform Software Software Development Technology Technology And Computing Senior Analytics Automation/Workflow Software Big Data Business/Productivity Software Cloud Cloud Data Services Cloud Infrastructure Dashboards",
-          "graduationDate": null,
-          "applyUrl": "https://sapphireventures.com/companies/grafana-labs#content",
-          "firstSeen": "2026-07-13",
-          "source": "scraper"
-        },
-        {
-          "title": "Staff Software Engineer - Databases, Tempo | Ireland | Remote",
-          "description": "Grafana Labs Location: Ireland ; Remote Compensation: EUR 117,600-141,120 / year + Equity Posted: 1 day Senior Analytics Automation/Workflow Software Big Data Business/Productivity Software Cloud Cloud Data Services Cloud Infrastructure Dashboards Data & Analytics Data Management Data Visualization Design Enterprise Software Hardware Infrastructure Internet Internet Services Media and Information Services (B2B) Monitoring Observability Open Source Platform Software Software Development Technolog",
-          "graduationDate": null,
-          "applyUrl": "https://sapphireventures.com/companies/grafana-labs/jobs/86062676-staff-software-engineer-databases-tempo-ireland-remote#content",
-          "firstSeen": "2026-07-13",
-          "source": "scraper"
-        },
-        {
-          "title": "Grafana Labs Location: Ireland ; Remote Compensation: EUR 117,600-141,120 / year + Equity Posted: 1 day Senior Analytics",
-          "description": "Automation/Workflow Software Big Data Business/Productivity Software Cloud Cloud Data Services Cloud Infrastructure Dashboards Data & Analytics Data Management Data Visualization Design Enterprise Software Hardware Infrastructure Internet Internet Services Media and Information Services (B2B) Monitoring Observability Open Source Platform Software Software Development Technology Technology And Computing Senior Analytics Automation/Workflow Software Big Data Business/Productivity Software Cloud Cl",
-          "graduationDate": null,
-          "applyUrl": "https://sapphireventures.com/companies/grafana-labs#content",
-          "firstSeen": "2026-07-13",
-          "source": "scraper"
-        },
-        {
-          "title": "Staff Software Engineer - Databases, Tempo | Germany | Remote",
-          "description": "Grafana Labs Location: Germany ; Remote Compensation: EUR 109,709-131,651 / year + Equity Posted: 1 day Senior Analytics Automation/Workflow Software Big Data Business/Productivity Software Cloud Cloud Data Services Cloud Infrastructure Dashboards Data & Analytics Data Management Data Visualization Design Enterprise Software Hardware Infrastructure Internet Internet Services Media and Information Services (B2B) Monitoring Observability Open Source Platform Software Software Development Technolog",
-          "graduationDate": null,
-          "applyUrl": "https://sapphireventures.com/companies/grafana-labs/jobs/86062664-staff-software-engineer-databases-tempo-germany-remote#content",
-          "firstSeen": "2026-07-13",
-          "source": "scraper"
-        },
-        {
-          "title": "Grafana Labs Location: Germany ; Remote Compensation: EUR 109,709-131,651 / year + Equity Posted: 1 day Senior Analytics",
-          "description": "Automation/Workflow Software Big Data Business/Productivity Software Cloud Cloud Data Services Cloud Infrastructure Dashboards Data & Analytics Data Management Data Visualization Design Enterprise Software Hardware Infrastructure Internet Internet Services Media and Information Services (B2B) Monitoring Observability Open Source Platform Software Software Development Technology Technology And Computing Senior Analytics Automation/Workflow Software Big Data Business/Productivity Software Cloud Cl",
-          "graduationDate": null,
-          "applyUrl": "https://sapphireventures.com/companies/grafana-labs#content",
-          "firstSeen": "2026-07-13",
+          "firstSeen": "2026-07-14",
           "source": "scraper"
         }
       ]
@@ -480,102 +471,86 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-07-13T11:55:55.387484+00:00",
+      "lastChecked": "2026-07-14T10:37:59.448683+00:00",
       "jobs": []
     },
     "Altimeter Capital Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-07-13T11:56:02.000016+00:00",
+      "lastChecked": "2026-07-14T10:38:05.993095+00:00",
       "jobs": []
     },
     "Arch Venture Partners": {
       "hasInternPosting": false,
       "careerUrl": "https://www.archventure.com/company/careers",
       "status": "ok",
-      "lastChecked": "2026-07-13T11:56:12.287697+00:00",
+      "lastChecked": "2026-07-14T10:38:16.355092+00:00",
       "jobs": []
     },
     "IDG Capital Fund Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-07-13T11:56:24.581910+00:00",
+      "lastChecked": "2026-07-14T10:38:32.066583+00:00",
       "jobs": []
     },
     "Bain Capital Ventures": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-07-13T11:56:35.605936+00:00",
+      "lastChecked": "2026-07-14T10:38:41.755369+00:00",
       "jobs": []
     },
     "Greenoaks Capital": {
       "hasInternPosting": false,
       "careerUrl": "https://greenoakscap.com/careers",
       "status": "ok",
-      "lastChecked": "2026-07-13T11:56:37.844506+00:00",
+      "lastChecked": "2026-07-14T10:38:44.404750+00:00",
       "jobs": []
     },
     "Matrix Partners China Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-07-13T11:56:57.919980+00:00",
+      "lastChecked": "2026-07-14T10:39:03.171936+00:00",
       "jobs": []
     },
     "Greylock Partners": {
       "hasInternPosting": true,
-      "careerUrl": "https://greylock.com/careers",
+      "careerUrl": "https://greylock.com/jobs",
       "status": "ok",
-      "lastChecked": "2026-07-13T11:57:06.179283+00:00",
+      "lastChecked": "2026-07-14T10:39:10.629809+00:00",
       "jobs": [
         {
-          "title": "Filter jobs by skills and more Roles Enter roles Skills Enter skills Location Enter locations Company stage Enter stages",
-          "description": "Industry Enter industries Salary Select... Internships only Remote options All jobs Posted Anytime Powered by Consider",
+          "title": "Get discovered by our portfolio companies for internships and full-time roles.",
+          "description": "Members are also considered for future Greylock events, and have direct access to our talent teams when interesting roles align.",
           "graduationDate": null,
-          "applyUrl": "https://product.consider.com/ctc/talent-circle?utm_campaign=undefined",
-          "firstSeen": "2026-04-18",
-          "source": "scraper"
-        },
-        {
-          "title": "Internships only Remote options All jobs Posted Anytime Powered by Consider",
-          "description": "",
-          "graduationDate": null,
-          "applyUrl": "https://product.consider.com/ctc/talent-circle?utm_campaign=undefined",
-          "firstSeen": "2026-04-18",
-          "source": "scraper"
-        },
-        {
-          "title": "Internships only Remote options All jobs Posted Anytime",
-          "description": "",
-          "graduationDate": null,
-          "applyUrl": "https://greylock.com/careers",
+          "applyUrl": "https://greylock.com/jobs",
           "firstSeen": "2026-06-05",
+          "source": "scraper"
+        },
+        {
+          "title": "Is there a membership fee for Greylock X? No, it is by invitation-only and membership to this fellowship is completely f",
+          "description": "ree. Do I need to intern with one of Greylock's portfolio companies to be approved for Greylock X? No, this is a standalone fellowship for entrepreneurial students who want to found a company now, or in the future. Will I be required to bring Greylock on as an investor when I start a company? Not at all. We support Greylock X fellows however we can, which may include an investment partnership at some point, although there’s no expectation. What's the time commitment for Greylock X? On average, w",
+          "graduationDate": null,
+          "applyUrl": "https://greylock.com/jobs",
+          "firstSeen": "2026-07-14",
+          "source": "scraper"
+        },
+        {
+          "title": "Do I need to intern with one of Greylock's portfolio companies to be approved for Greylock X? No, this is a standalone f",
+          "description": "ellowship for entrepreneurial students who want to found a company now, or in the future.",
+          "graduationDate": null,
+          "applyUrl": "https://greylock.com/jobs",
+          "firstSeen": "2026-07-14",
           "source": "scraper"
         },
         {
           "title": "Do I need to intern with one of Greylock's portfolio companies to be approved for Greylock X?",
           "description": "",
           "graduationDate": null,
-          "applyUrl": "https://greylock.com/jobs/#talent-network-tab",
-          "firstSeen": "2026-06-05",
-          "source": "scraper"
-        },
-        {
-          "title": "Get discovered by our portfolio companies for internships and full-time roles.",
-          "description": "Members are also considered for future Greylock events, and have direct access to our talent teams when interesting roles align. Apply Here",
-          "graduationDate": null,
-          "applyUrl": "https://greylock.com/jobs/#talent-network-tab",
-          "firstSeen": "2026-06-05",
-          "source": "scraper"
-        },
-        {
-          "title": "Is there a membership fee for Greylock X?",
-          "description": "No, it is by invitation-only and membership to this fellowship is completely free. Do I need to intern with one of Greylock's portfolio companies to be approved for Greylock X? No, this is a standalone fellowship for entrepreneurial students who want to found a company now, or in the future. Will I be required to bring Greylock on as an investor when I start a company? Not at all. We support Greylock X fellows however we can, which may include an investment partnership at some point, although th",
-          "graduationDate": null,
-          "applyUrl": "https://greylock.com/jobs/#talent-network-tab",
+          "applyUrl": "https://greylock.com/jobs",
           "firstSeen": "2026-06-05",
           "source": "scraper"
         },
@@ -596,27 +571,59 @@
           "source": "scraper"
         },
         {
+          "title": "Get discovered by our portfolio companies for internships and full-time roles.",
+          "description": "Members are also considered for future Greylock events, and have direct access to our talent teams when interesting roles align.",
+          "graduationDate": null,
+          "applyUrl": "https://greylock.com/jobs/",
+          "firstSeen": "2026-07-14",
+          "source": "scraper"
+        },
+        {
+          "title": "Is there a membership fee for Greylock X? No, it is by invitation-only and membership to this fellowship is completely f",
+          "description": "ree. Do I need to intern with one of Greylock's portfolio companies to be approved for Greylock X? No, this is a standalone fellowship for entrepreneurial students who want to found a company now, or in the future. Will I be required to bring Greylock on as an investor when I start a company? Not at all. We support Greylock X fellows however we can, which may include an investment partnership at some point, although there’s no expectation. What's the time commitment for Greylock X? On average, w",
+          "graduationDate": null,
+          "applyUrl": "https://greylock.com/jobs/",
+          "firstSeen": "2026-07-14",
+          "source": "scraper"
+        },
+        {
+          "title": "Do I need to intern with one of Greylock's portfolio companies to be approved for Greylock X? No, this is a standalone f",
+          "description": "ellowship for entrepreneurial students who want to found a company now, or in the future.",
+          "graduationDate": null,
+          "applyUrl": "https://greylock.com/jobs/",
+          "firstSeen": "2026-07-14",
+          "source": "scraper"
+        },
+        {
           "title": "Do I need to intern with one of Greylock's portfolio companies to be approved for Greylock X?",
           "description": "",
           "graduationDate": null,
-          "applyUrl": "https://greylock.com/jobs",
-          "firstSeen": "2026-06-05",
+          "applyUrl": "https://greylock.com/jobs/",
+          "firstSeen": "2026-07-14",
           "source": "scraper"
         },
         {
-          "title": "Get discovered by our portfolio companies for internships and full-time roles.",
-          "description": "Members are also considered for future Greylock events, and have direct access to our talent teams when interesting roles align. Apply Here",
+          "title": "Filter jobs by skills and more Roles Enter roles Skills Enter skills Location Enter locations Company stage Enter stages",
+          "description": "Industry Enter industries Salary Select... Internships only Remote options All jobs Posted Anytime Powered by Consider",
           "graduationDate": null,
-          "applyUrl": "https://greylock.com/jobs",
-          "firstSeen": "2026-06-05",
+          "applyUrl": "https://product.consider.com/ctc/talent-circle?utm_campaign=undefined",
+          "firstSeen": "2026-04-18",
           "source": "scraper"
         },
         {
-          "title": "Is there a membership fee for Greylock X?",
-          "description": "No, it is by invitation-only and membership to this fellowship is completely free. Do I need to intern with one of Greylock's portfolio companies to be approved for Greylock X? No, this is a standalone fellowship for entrepreneurial students who want to found a company now, or in the future. Will I be required to bring Greylock on as an investor when I start a company? Not at all. We support Greylock X fellows however we can, which may include an investment partnership at some point, although th",
+          "title": "Internships only Remote options All jobs Posted Anytime Powered by Consider",
+          "description": "",
           "graduationDate": null,
-          "applyUrl": "https://greylock.com/jobs",
-          "firstSeen": "2026-06-05",
+          "applyUrl": "https://product.consider.com/ctc/talent-circle?utm_campaign=undefined",
+          "firstSeen": "2026-04-18",
+          "source": "scraper"
+        },
+        {
+          "title": "Internships only Remote options All jobs Posted Anytime",
+          "description": "",
+          "graduationDate": null,
+          "applyUrl": "https://jobs.greylock.com/jobs",
+          "firstSeen": "2026-07-14",
           "source": "scraper"
         }
       ]
@@ -625,35 +632,35 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-07-13T11:57:20.511635+00:00",
+      "lastChecked": "2026-07-14T10:39:23.215888+00:00",
       "jobs": []
     },
     "Oak Hcft Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-07-13T11:57:29.250788+00:00",
+      "lastChecked": "2026-07-14T10:39:31.681077+00:00",
       "jobs": []
     },
     "FTV Capital": {
       "hasInternPosting": false,
       "careerUrl": "https://www.ftvcapital.com/careers/students",
       "status": "ok",
-      "lastChecked": "2026-07-13T11:57:33.432692+00:00",
+      "lastChecked": "2026-07-14T10:39:35.640617+00:00",
       "jobs": []
     },
     "Eight Partners VC": {
       "hasInternPosting": false,
       "careerUrl": "https://www.8vc.com/jobs",
       "status": "ok",
-      "lastChecked": "2026-07-13T11:57:40.772892+00:00",
+      "lastChecked": "2026-07-14T10:39:41.383216+00:00",
       "jobs": []
     },
     "Accel Partners Management": {
       "hasInternPosting": true,
       "careerUrl": "https://www.accel.com/careers",
       "status": "ok",
-      "lastChecked": "2026-07-13T11:57:45.102792+00:00",
+      "lastChecked": "2026-07-14T10:39:57.231729+00:00",
       "jobs": [
         {
           "title": "Accacia 10 job s Seed Artificial Intelligence Business/Productivity Software Carbon Accounting Climate Change Environmental Services Environmental Services (B2B) Greentech Platform Real Estate SaaS So",
@@ -693,7 +700,7 @@
       "hasInternPosting": true,
       "careerUrl": "https://www.accel.com/careers",
       "status": "ok",
-      "lastChecked": "2026-07-13T11:57:48.872549+00:00",
+      "lastChecked": "2026-07-14T10:40:01.237438+00:00",
       "jobs": [
         {
           "title": "Accacia 10 job s Seed Artificial Intelligence Business/Productivity Software Carbon Accounting Climate Change Environmental Services Environmental Services (B2B) Greentech Platform Real Estate SaaS So",
@@ -733,7 +740,7 @@
       "hasInternPosting": true,
       "careerUrl": "https://www.balderton.com/company/careers",
       "status": "ok",
-      "lastChecked": "2026-07-13T11:58:05.804977+00:00",
+      "lastChecked": "2026-07-14T10:40:20.921998+00:00",
       "jobs": [
         {
           "title": "Matt Cooper",
@@ -797,42 +804,42 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-07-13T11:58:14.153987+00:00",
+      "lastChecked": "2026-07-14T10:40:29.020268+00:00",
       "jobs": []
     },
     "Altos Ventures Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-07-13T11:58:22.136118+00:00",
+      "lastChecked": "2026-07-14T10:40:35.676203+00:00",
       "jobs": []
     },
     "Bond": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-07-13T11:58:29.875201+00:00",
+      "lastChecked": "2026-07-14T10:40:43.160601+00:00",
       "jobs": []
     },
     "Addition": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-07-13T11:58:52.567705+00:00",
+      "lastChecked": "2026-07-14T10:41:06.462444+00:00",
       "jobs": []
     },
     "Redpoint Ventures": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-07-13T11:59:00.546145+00:00",
+      "lastChecked": "2026-07-14T10:41:14.111473+00:00",
       "jobs": []
     },
     "B Capital Group": {
       "hasInternPosting": true,
       "careerUrl": "https://www.bcapgroup.com/about/careers",
       "status": "ok",
-      "lastChecked": "2026-07-13T11:59:21.020318+00:00",
+      "lastChecked": "2026-07-14T10:41:45.264480+00:00",
       "jobs": [
         {
           "title": "Accacia 10 job s Seed Artificial Intelligence Business/Productivity Software Carbon Accounting Climate Change Environmental Services Environmental Services (B2B) Greentech Platform Real Estate SaaS So",
@@ -896,84 +903,84 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-07-13T11:59:29.576219+00:00",
+      "lastChecked": "2026-07-14T10:41:54.196706+00:00",
       "jobs": []
     },
     "Columbia Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-07-13T11:59:41.192346+00:00",
+      "lastChecked": "2026-07-14T10:42:05.745047+00:00",
       "jobs": []
     },
     "Kaszek Management S.A.": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-07-13T11:59:50.387372+00:00",
+      "lastChecked": "2026-07-14T10:42:14.727512+00:00",
       "jobs": []
     },
     "Craft Ventures Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-07-13T11:59:58.894287+00:00",
+      "lastChecked": "2026-07-14T10:42:23.486955+00:00",
       "jobs": []
     },
     "Canaan Partners": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-07-13T12:00:10.696724+00:00",
+      "lastChecked": "2026-07-14T10:42:34.356082+00:00",
       "jobs": []
     },
     "Matrix Partners": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-07-13T12:00:20.302678+00:00",
+      "lastChecked": "2026-07-14T10:42:43.651659+00:00",
       "jobs": []
     },
     "Indigo Partners": {
       "hasInternPosting": false,
       "careerUrl": "https://www.indigopartners.com/careers",
       "status": "ok",
-      "lastChecked": "2026-07-13T12:00:22.212313+00:00",
+      "lastChecked": "2026-07-14T10:42:45.472465+00:00",
       "jobs": []
     },
     "Eclipse Ventures": {
       "hasInternPosting": false,
       "careerUrl": "https://www.eclipse.vc/careers",
       "status": "ok",
-      "lastChecked": "2026-07-13T12:00:29.327952+00:00",
+      "lastChecked": "2026-07-14T10:42:52.190969+00:00",
       "jobs": []
     },
     "Hedosophia Advisor Limited": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-07-13T12:01:07.831449+00:00",
+      "lastChecked": "2026-07-14T10:43:27.591658+00:00",
       "jobs": []
     },
     "DFJ Growth": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-07-13T12:01:16.370649+00:00",
+      "lastChecked": "2026-07-14T10:43:35.940500+00:00",
       "jobs": []
     },
     "VR Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-07-13T12:01:26.988063+00:00",
+      "lastChecked": "2026-07-14T10:43:46.169466+00:00",
       "jobs": []
     },
     "Qiming Venture Partners": {
       "hasInternPosting": true,
       "careerUrl": "https://www.qimingvc.com/careers",
       "status": "ok",
-      "lastChecked": "2026-07-13T12:01:36.079220+00:00",
+      "lastChecked": "2026-07-14T10:43:55.509104+00:00",
       "jobs": [
         {
           "title": "QIMING VENTURE PARTNERS 2022 SUMMER INTERNSHIP——Summer Associate – T&C, Remote",
@@ -1077,77 +1084,158 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-07-13T12:01:43.383561+00:00",
+      "lastChecked": "2026-07-14T10:44:02.535453+00:00",
       "jobs": []
     },
     "Felicis Ventures": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-07-13T12:01:52.541982+00:00",
+      "lastChecked": "2026-07-14T10:44:12.099392+00:00",
       "jobs": []
     },
     "Menlo Ventures": {
-      "hasInternPosting": false,
+      "hasInternPosting": true,
       "careerUrl": "https://www.menlovc.com/join",
       "status": "ok",
-      "lastChecked": "2026-07-13T12:02:03.557693+00:00",
-      "jobs": []
+      "lastChecked": "2026-07-14T10:44:23.023568+00:00",
+      "jobs": [
+        {
+          "title": "Manager, Forward Deployed Engineering - Public Sector",
+          "description": "Neon Location: Maryland, USA ; Virginia, USA ; Washington, DC, USA Posted: Today Cloud Cloud Computing Cloud services(SaaS) Data & Analytics Database Software Databases Developer Tools Internet Services Open Source Partnering Platform Postgres PostgreSQL Serverless Software Software Development Software Development Applications Technology Cloud Cloud Computing Cloud services(SaaS) Data & Analytics Database Software Databases Developer Tools Internet Services Open Source Partnering Platform Postg",
+          "graduationDate": null,
+          "applyUrl": "https://jobs.menlovc.com/companies/neon-2-fafc7050-f6c0-4a38-9c9c-e8dc0b61e31c/jobs/86172387-manager-forward-deployed-engineering-public-sector#content",
+          "firstSeen": "2026-07-14",
+          "source": "scraper"
+        },
+        {
+          "title": "Neon Location: Maryland, USA ; Virginia, USA ; Washington, DC, USA Posted: Today Cloud Cloud Computing Cloud services(Sa",
+          "description": "aS) Data & Analytics Database Software Databases Developer Tools Internet Services Open Source Partnering Platform Postgres PostgreSQL Serverless Software Software Development Software Development Applications Technology Cloud Cloud Computing Cloud services(SaaS) Data & Analytics Database Software Databases Developer Tools Internet Services Open Source Partnering Platform Postgres PostgreSQL Serverless Software Software Development Software Development Applications Technology + 99 more",
+          "graduationDate": null,
+          "applyUrl": "https://jobs.menlovc.com/companies/neon-2-fafc7050-f6c0-4a38-9c9c-e8dc0b61e31c#content",
+          "firstSeen": "2026-07-14",
+          "source": "scraper"
+        },
+        {
+          "title": "Cloud Cloud Computing Cloud services(SaaS) Data & Analytics Database Software Databases Developer Tools Internet Service",
+          "description": "s Open Source Partnering Platform Postgres PostgreSQL Serverless Software Software Development Software Development Applications Technology Cloud Cloud Computing Cloud services(SaaS) Data & Analytics Database Software Databases Developer Tools Internet Services Open Source Partnering Platform Postgres PostgreSQL Serverless Software Software Development Software Development Applications Technology + 99 more",
+          "graduationDate": null,
+          "applyUrl": "https://jobs.menlovc.com/jobs",
+          "firstSeen": "2026-07-14",
+          "source": "scraper"
+        },
+        {
+          "title": "Pre-sales Senior Technical Solutions Engineer (Data and AI)",
+          "description": "Neon Location: London, UK Posted: Today Cloud Cloud Computing Cloud services(SaaS) Data & Analytics Database Software Databases Developer Tools Internet Services Open Source Partnering Platform Postgres PostgreSQL Serverless Software Software Development Software Development Applications Technology Cloud Cloud Computing Cloud services(SaaS) Data & Analytics Database Software Databases Developer Tools Internet Services Open Source Partnering Platform Postgres PostgreSQL Serverless Software Softwa",
+          "graduationDate": null,
+          "applyUrl": "https://jobs.menlovc.com/companies/neon-2-fafc7050-f6c0-4a38-9c9c-e8dc0b61e31c/jobs/86172380-pre-sales-senior-technical-solutions-engineer-data-and-ai#content",
+          "firstSeen": "2026-07-14",
+          "source": "scraper"
+        },
+        {
+          "title": "Neon Location: London, UK Posted: Today Cloud Cloud Computing Cloud services(SaaS) Data & Analytics Database Software Da",
+          "description": "tabases Developer Tools Internet Services Open Source Partnering Platform Postgres PostgreSQL Serverless Software Software Development Software Development Applications Technology Cloud Cloud Computing Cloud services(SaaS) Data & Analytics Database Software Databases Developer Tools Internet Services Open Source Partnering Platform Postgres PostgreSQL Serverless Software Software Development Software Development Applications Technology + 99 more",
+          "graduationDate": null,
+          "applyUrl": "https://jobs.menlovc.com/companies/neon-2-fafc7050-f6c0-4a38-9c9c-e8dc0b61e31c#content",
+          "firstSeen": "2026-07-14",
+          "source": "scraper"
+        },
+        {
+          "title": "AI Engineer - FDE (Forward Deployed Engineer)",
+          "description": "Neon Location: United Kingdom ; Remote Posted: Today Cloud Cloud Computing Cloud services(SaaS) Data & Analytics Database Software Databases Developer Tools Internet Services Open Source Partnering Platform Postgres PostgreSQL Serverless Software Software Development Software Development Applications Technology Cloud Cloud Computing Cloud services(SaaS) Data & Analytics Database Software Databases Developer Tools Internet Services Open Source Partnering Platform Postgres PostgreSQL Serverless So",
+          "graduationDate": null,
+          "applyUrl": "https://jobs.menlovc.com/companies/neon-2-fafc7050-f6c0-4a38-9c9c-e8dc0b61e31c/jobs/86172384-ai-engineer-fde-forward-deployed-engineer#content",
+          "firstSeen": "2026-07-14",
+          "source": "scraper"
+        },
+        {
+          "title": "Neon Location: United Kingdom ; Remote Posted: Today Cloud Cloud Computing Cloud services(SaaS) Data & Analytics Databas",
+          "description": "e Software Databases Developer Tools Internet Services Open Source Partnering Platform Postgres PostgreSQL Serverless Software Software Development Software Development Applications Technology Cloud Cloud Computing Cloud services(SaaS) Data & Analytics Database Software Databases Developer Tools Internet Services Open Source Partnering Platform Postgres PostgreSQL Serverless Software Software Development Software Development Applications Technology + 99 more",
+          "graduationDate": null,
+          "applyUrl": "https://jobs.menlovc.com/companies/neon-2-fafc7050-f6c0-4a38-9c9c-e8dc0b61e31c#content",
+          "firstSeen": "2026-07-14",
+          "source": "scraper"
+        },
+        {
+          "title": "Neon Location: Tokyo, Japan Posted: Today Cloud Cloud Computing Cloud services(SaaS) Data & Analytics Database Software",
+          "description": "Databases Developer Tools Internet Services Open Source Partnering Platform Postgres PostgreSQL Serverless Software Software Development Software Development Applications Technology Cloud Cloud Computing Cloud services(SaaS) Data & Analytics Database Software Databases Developer Tools Internet Services Open Source Partnering Platform Postgres PostgreSQL Serverless Software Software Development Software Development Applications Technology + 99 more",
+          "graduationDate": null,
+          "applyUrl": "https://jobs.menlovc.com/companies/neon-2-fafc7050-f6c0-4a38-9c9c-e8dc0b61e31c#content",
+          "firstSeen": "2026-07-14",
+          "source": "scraper"
+        },
+        {
+          "title": "Sr. Manager, Field Engineering",
+          "description": "Neon Location: Singapore Posted: Today Cloud Cloud Computing Cloud services(SaaS) Data & Analytics Database Software Databases Developer Tools Internet Services Open Source Partnering Platform Postgres PostgreSQL Serverless Software Software Development Software Development Applications Technology Cloud Cloud Computing Cloud services(SaaS) Data & Analytics Database Software Databases Developer Tools Internet Services Open Source Partnering Platform Postgres PostgreSQL Serverless Software Softwar",
+          "graduationDate": null,
+          "applyUrl": "https://jobs.menlovc.com/companies/neon-2-fafc7050-f6c0-4a38-9c9c-e8dc0b61e31c/jobs/86172381-sr-manager-field-engineering#content",
+          "firstSeen": "2026-07-14",
+          "source": "scraper"
+        },
+        {
+          "title": "Neon Location: Singapore Posted: Today Cloud Cloud Computing Cloud services(SaaS) Data & Analytics Database Software Dat",
+          "description": "abases Developer Tools Internet Services Open Source Partnering Platform Postgres PostgreSQL Serverless Software Software Development Software Development Applications Technology Cloud Cloud Computing Cloud services(SaaS) Data & Analytics Database Software Databases Developer Tools Internet Services Open Source Partnering Platform Postgres PostgreSQL Serverless Software Software Development Software Development Applications Technology + 99 more",
+          "graduationDate": null,
+          "applyUrl": "https://jobs.menlovc.com/companies/neon-2-fafc7050-f6c0-4a38-9c9c-e8dc0b61e31c#content",
+          "firstSeen": "2026-07-14",
+          "source": "scraper"
+        }
+      ]
     },
     "Benchmark Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-07-13T12:02:14.195989+00:00",
+      "lastChecked": "2026-07-14T10:44:33.326850+00:00",
       "jobs": []
     },
     "Greycroft": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-07-13T12:02:25.055404+00:00",
+      "lastChecked": "2026-07-14T10:44:43.775133+00:00",
       "jobs": []
     },
     "Momentum Capital Partners Alpha Advisor Limited": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-07-13T12:02:37.412624+00:00",
+      "lastChecked": "2026-07-14T10:44:55.624714+00:00",
       "jobs": []
     },
     "Polaris Growth Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-07-13T12:02:45.820936+00:00",
+      "lastChecked": "2026-07-14T10:45:03.166549+00:00",
       "jobs": []
     },
     "K5 Global Advisor": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-07-13T12:02:54.330788+00:00",
+      "lastChecked": "2026-07-14T10:45:11.394497+00:00",
       "jobs": []
     },
     "Firstmark Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-07-13T12:03:02.338269+00:00",
+      "lastChecked": "2026-07-14T10:45:19.271490+00:00",
       "jobs": []
     },
     "Atreides Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-07-13T12:03:09.716189+00:00",
+      "lastChecked": "2026-07-14T10:45:26.552072+00:00",
       "jobs": []
     },
     "Madrona Venture Group": {
       "hasInternPosting": true,
       "careerUrl": "https://www.madrona.com/careers",
       "status": "ok",
-      "lastChecked": "2026-07-13T12:03:18.825951+00:00",
+      "lastChecked": "2026-07-14T10:45:32.935385+00:00",
       "jobs": [
         {
           "title": "EdgeRunner AI EdgeRunner AI is on a mission to build generative AI for the edge that is safe, secure, and transparent. E",
@@ -1232,38 +1320,95 @@
       ]
     },
     "Fifth Wall Asset Management": {
-      "hasInternPosting": false,
+      "hasInternPosting": true,
       "careerUrl": "https://fifthwall.com/careers",
       "status": "ok",
-      "lastChecked": "2026-07-13T12:03:37.190347+00:00",
-      "jobs": []
+      "lastChecked": "2026-07-14T10:45:52.213195+00:00",
+      "jobs": [
+        {
+          "title": "Intern jobs 71,196 open jobs",
+          "description": "Analyst jobs 694,057 open jobs Associate jobs 1,091,945 open jobs Vice President jobs 235,270 open jobs Investment Analyst jobs 14,999 open jobs Manager jobs 1,880,925 open jobs Real Estate Analyst jobs 28,041 open jobs President jobs 92,709 open jobs Engineer jobs 555,845 open jobs Professional Development Manager jobs 36,882 open jobs Intern jobs 71,196 open jobs Director Acquisition jobs 11,348 open jobs Hardware Manager jobs 9,984 open jobs Project Manager jobs 253,048 open jobs Sustainabili",
+          "graduationDate": null,
+          "applyUrl": "https://www.linkedin.com/jobs/intern-jobs?trk=organization_guest-browse_jobs",
+          "firstSeen": "2026-07-14",
+          "source": "scraper"
+        },
+        {
+          "title": "Intern jobs",
+          "description": "Associate jobs Analyst jobs Investment Associate jobs Manager jobs Intern jobs Real Estate Analyst jobs Chief of Staff jobs Head of Real Estate jobs Financial Planning Specialist jobs Business Development Specialist jobs Chief Financial Officer jobs Project Manager jobs Summer Analyst jobs Director jobs Senior Vice President jobs Corporate Development Specialist jobs Compliance Associate jobs Vice President jobs Principal jobs Operations Analyst jobs",
+          "graduationDate": null,
+          "applyUrl": "https://www.linkedin.com/jobs/intern-jobs?trk=organization_guest_linkster_link",
+          "firstSeen": "2026-07-14",
+          "source": "scraper"
+        },
+        {
+          "title": "Summer Analyst jobs",
+          "description": "Associate jobs Analyst jobs Investment Associate jobs Manager jobs Intern jobs Real Estate Analyst jobs Chief of Staff jobs Head of Real Estate jobs Financial Planning Specialist jobs Business Development Specialist jobs Chief Financial Officer jobs Project Manager jobs Summer Analyst jobs Director jobs Senior Vice President jobs Corporate Development Specialist jobs Compliance Associate jobs Vice President jobs Principal jobs Operations Analyst jobs",
+          "graduationDate": null,
+          "applyUrl": "https://www.linkedin.com/jobs/summer-analyst-jobs?trk=organization_guest_linkster_link",
+          "firstSeen": "2026-07-14",
+          "source": "scraper"
+        },
+        {
+          "title": "Browse jobs",
+          "description": "Analyst jobs 694,057 open jobs Associate jobs 1,091,945 open jobs Vice President jobs 235,270 open jobs Investment Analyst jobs 14,999 open jobs Manager jobs 1,880,925 open jobs Real Estate Analyst jobs 28,041 open jobs President jobs 92,709 open jobs Engineer jobs 555,845 open jobs Professional Development Manager jobs 36,882 open jobs Intern jobs 71,196 open jobs Director Acquisition jobs 11,348 open jobs Hardware Manager jobs 9,984 open jobs Project Manager jobs 253,048 open jobs Sustainabili",
+          "graduationDate": null,
+          "applyUrl": "https://www.linkedin.com/jobs/analyst-jobs?trk=organization_guest-browse_jobs",
+          "firstSeen": "2026-07-14",
+          "source": "scraper"
+        },
+        {
+          "title": "Analyst jobs",
+          "description": "694,057 open jobs Associate jobs 1,091,945 open jobs Vice President jobs 235,270 open jobs Investment Analyst jobs 14,999 open jobs Manager jobs 1,880,925 open jobs Real Estate Analyst jobs 28,041 open jobs President jobs 92,709 open jobs Engineer jobs 555,845 open jobs Professional Development Manager jobs 36,882 open jobs Intern jobs 71,196 open jobs Director Acquisition jobs 11,348 open jobs Hardware Manager jobs 9,984 open jobs Project Manager jobs 253,048 open jobs Sustainability Manager jo",
+          "graduationDate": null,
+          "applyUrl": "https://www.linkedin.com/jobs/analyst-jobs?trk=organization_guest-browse_jobs",
+          "firstSeen": "2026-07-14",
+          "source": "scraper"
+        },
+        {
+          "title": "More searches More searches Associate jobs Analyst jobs Investment Associate jobs Manager jobs Intern jobs Real Estate A",
+          "description": "nalyst jobs Chief of Staff jobs Head of Real Estate jobs Financial Planning Specialist jobs Business Development Specialist jobs Chief Financial Officer jobs Project Manager jobs Summer Analyst jobs Director jobs Senior Vice President jobs Corporate Development Specialist jobs Compliance Associate jobs Vice President jobs Principal jobs Operations Analyst jobs Compliance Specialist jobs Government Affairs Specialist jobs Private Equity Specialist jobs Human Resources Analyst jobs Private Equity",
+          "graduationDate": null,
+          "applyUrl": "https://www.linkedin.com/jobs/associate-jobs?trk=organization_guest_linkster_link",
+          "firstSeen": "2026-07-14",
+          "source": "scraper"
+        },
+        {
+          "title": "Associate jobs Analyst jobs Investment Associate jobs Manager jobs Intern jobs Real Estate Analyst jobs Chief of Staff j",
+          "description": "obs Head of Real Estate jobs Financial Planning Specialist jobs Business Development Specialist jobs Chief Financial Officer jobs Project Manager jobs Summer Analyst jobs Director jobs Senior Vice President jobs Corporate Development Specialist jobs Compliance Associate jobs Vice President jobs Principal jobs Operations Analyst jobs Compliance Specialist jobs Government Affairs Specialist jobs Private Equity Specialist jobs Human Resources Analyst jobs Private Equity Associate jobs Investment Ba",
+          "graduationDate": null,
+          "applyUrl": "https://www.linkedin.com/jobs/associate-jobs?trk=organization_guest_linkster_link",
+          "firstSeen": "2026-07-14",
+          "source": "scraper"
+        }
+      ]
     },
     "Valar Ventures": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-07-13T12:03:52.299649+00:00",
+      "lastChecked": "2026-07-14T10:46:15.601682+00:00",
       "jobs": []
     },
     "Momentum Capital Partners Fund IV Advisor Limited": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-07-13T12:04:04.610773+00:00",
+      "lastChecked": "2026-07-14T10:46:26.827674+00:00",
       "jobs": []
     },
     "Elevation Capital Partners": {
       "hasInternPosting": false,
       "careerUrl": "https://www.elevationcapital.com/careers",
       "status": "ok",
-      "lastChecked": "2026-07-13T12:04:06.874989+00:00",
+      "lastChecked": "2026-07-14T10:46:29.512232+00:00",
       "jobs": []
     },
     "Column Group": {
       "hasInternPosting": true,
       "careerUrl": "https://www.thecolumngroup.com/join",
       "status": "ok",
-      "lastChecked": "2026-07-13T12:04:20.252558+00:00",
+      "lastChecked": "2026-07-14T10:46:41.239591+00:00",
       "jobs": [
         {
           "title": "Filter jobs by skills and more Roles Enter roles Skills Enter skills Location Enter locations Company stage Enter stages",
@@ -1295,63 +1440,63 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-07-13T12:04:28.741362+00:00",
+      "lastChecked": "2026-07-14T10:46:49.460089+00:00",
       "jobs": []
     },
     "Eight Roads GP": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-07-13T12:04:44.973639+00:00",
+      "lastChecked": "2026-07-14T10:47:05.060325+00:00",
       "jobs": []
     },
     "Nexus Ventures Advisors Private Limited": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-07-13T12:05:27.911519+00:00",
+      "lastChecked": "2026-07-14T10:47:46.527115+00:00",
       "jobs": []
     },
     "Foundation Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-07-13T12:09:19.743982+00:00",
+      "lastChecked": "2026-07-14T10:51:38.295571+00:00",
       "jobs": []
     },
     "5Y Capital Management Limited": {
       "hasInternPosting": false,
-      "careerUrl": null,
-      "status": "no_url",
-      "lastChecked": "2026-07-13T12:09:30.626706+00:00",
+      "careerUrl": "https://www.5ycap.com/about/careers",
+      "status": "ok",
+      "lastChecked": "2026-07-14T10:51:56.169633+00:00",
       "jobs": []
     },
     "Meritech Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-07-13T12:09:38.003533+00:00",
+      "lastChecked": "2026-07-14T10:52:03.293851+00:00",
       "jobs": []
     },
     "Versant Venture Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-07-13T12:09:48.153010+00:00",
+      "lastChecked": "2026-07-14T10:52:12.906032+00:00",
       "jobs": []
     },
     "Golden Sand River Digital": {
       "hasInternPosting": false,
       "careerUrl": "https://www.gsrventures.com/careers",
       "status": "ok",
-      "lastChecked": "2026-07-13T12:09:53.938119+00:00",
+      "lastChecked": "2026-07-14T10:52:18.789845+00:00",
       "jobs": []
     },
     "Qiming Global Management": {
       "hasInternPosting": true,
       "careerUrl": "https://www.qimingvc.com/careers",
       "status": "ok",
-      "lastChecked": "2026-07-13T12:10:03.488332+00:00",
+      "lastChecked": "2026-07-14T10:52:27.888988+00:00",
       "jobs": [
         {
           "title": "QIMING VENTURE PARTNERS 2022 SUMMER INTERNSHIP——Summer Associate – T&C, Remote",
@@ -1455,14 +1600,14 @@
       "hasInternPosting": true,
       "careerUrl": "https://www.goodwatercap.com/careers/students",
       "status": "ok",
-      "lastChecked": "2026-07-13T12:10:08.595511+00:00",
+      "lastChecked": "2026-07-14T10:52:33.454278+00:00",
       "jobs": [
         {
-          "title": "76 companies . 1,720 jobs . Build World-Changing Consumer Tech.",
-          "description": "Home About Genesis Capital Collective Portfolio Home About Genesis Capital Collective Portfolio 76 companies . 1,720 jobs . Build World-Changing Consumer Tech. Jobs Companies Filter jobs by skills and more Roles Enter roles Skills Enter skills Location Enter locations Company stage Enter stages Industry Enter industries Salary Select... Internships only Remote options All jobs Posted Anytime Powered by Consider Powered by Consider Privacy Terms Consumer Tech Investors Contact Us 240 Lorton Ave B",
+          "title": "76 companies . 1,718 jobs . Build World-Changing Consumer Tech.",
+          "description": "Home About Genesis Capital Collective Portfolio Home About Genesis Capital Collective Portfolio 76 companies . 1,718 jobs . Build World-Changing Consumer Tech. Jobs Companies Filter jobs by skills and more Roles Enter roles Skills Enter skills Location Enter locations Company stage Enter stages Industry Enter industries Salary Select... Internships only Remote options All jobs Posted Anytime Powered by Consider Powered by Consider Privacy Terms Consumer Tech Investors Contact Us 240 Lorton Ave B",
           "graduationDate": null,
           "applyUrl": "https://www.goodwatercap.com/",
-          "firstSeen": "2026-07-13",
+          "firstSeen": "2026-07-14",
           "source": "scraper"
         },
         {
@@ -1495,42 +1640,42 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-07-13T12:10:22.099633+00:00",
+      "lastChecked": "2026-07-14T10:52:46.725857+00:00",
       "jobs": []
     },
     "BRV Lotus Holdings Limited": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-07-13T12:10:30.909512+00:00",
+      "lastChecked": "2026-07-14T10:52:55.150209+00:00",
       "jobs": []
     },
     "Breakthrough Energy Ventures": {
       "hasInternPosting": false,
       "careerUrl": "https://www.breakthroughenergy.org/careers",
       "status": "ok",
-      "lastChecked": "2026-07-13T12:10:32.939606+00:00",
+      "lastChecked": "2026-07-14T10:52:57.802837+00:00",
       "jobs": []
     },
     "Next Legacy Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-07-13T12:10:44.649762+00:00",
+      "lastChecked": "2026-07-14T10:53:10.332303+00:00",
       "jobs": []
     },
     "Union Square Ventures": {
       "hasInternPosting": true,
       "careerUrl": "https://www.usv.com/jobs",
       "status": "ok",
-      "lastChecked": "2026-07-13T12:10:51.167999+00:00",
+      "lastChecked": "2026-07-14T10:53:16.671292+00:00",
       "jobs": [
         {
-          "title": "159 companies . 1,131 jobs . Re-shape your career.",
-          "description": "About People Investments Jobs Writing 159 companies . 1,131 jobs . Re-shape your career. Jobs Companies Talent Network Filter jobs by skills and more Sign in Roles Enter roles Skills Enter skills Location Enter locations Company stage Enter stages Industry Enter industries Salary Select... Internships only Remote options All jobs Posted Anytime Powered by Consider Powered by Consider Privacy Terms",
+          "title": "159 companies . 1,126 jobs . Re-shape your career.",
+          "description": "About People Investments Jobs Writing 159 companies . 1,126 jobs . Re-shape your career. Jobs Companies Talent Network Filter jobs by skills and more Sign in Roles Enter roles Skills Enter skills Location Enter locations Company stage Enter stages Industry Enter industries Salary Select... Internships only Remote options All jobs Posted Anytime Powered by Consider Powered by Consider Privacy Terms",
           "graduationDate": null,
           "applyUrl": "https://www.usv.com/",
-          "firstSeen": "2026-07-13",
+          "firstSeen": "2026-07-14",
           "source": "scraper"
         },
         {
@@ -1563,37 +1708,69 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-07-13T12:11:04.041869+00:00",
+      "lastChecked": "2026-07-14T10:53:29.384052+00:00",
       "jobs": []
     },
     "HV Capital Manager GMBH": {
       "hasInternPosting": true,
       "careerUrl": "https://www.hvcapital.com/careers",
       "status": "ok",
-      "lastChecked": "2026-07-13T12:11:15.789515+00:00",
+      "lastChecked": "2026-07-14T10:53:36.614129+00:00",
       "jobs": [
         {
+          "title": "Internship Investment Operations (m/f/x) - from September 2026",
+          "description": "Internship Investment Operations (m/f/x) - from September 2026 Scalable Capital Location: Munich, Germany Posted: 1 day Analytics Finance Investment Services Analytics Finance Investment Services + 99 more",
+          "graduationDate": null,
+          "applyUrl": "https://jobs.hvcapital.com/companies/scalable-capital/jobs/86154231-internship-investment-operations-m-f-x-from-september-2026#content",
+          "firstSeen": "2026-07-14",
+          "source": "scraper"
+        },
+        {
           "title": "Internship Inhouse UGC Creator & Video Editor (m/w/d)",
-          "description": "Internship Inhouse UGC Creator & Video Editor (m/w/d) Everdrop Location: Munich, Germany Posted: Today Series B Commerce and Shopping Consumer Goods Consumer Products & Services E-Commerce Ecommerce Household Products Manufacturing Manufacturing & Industrial Other Consumer Non-Durables Personal Products Series B Commerce and Shopping Consumer Goods Consumer Products & Services E-Commerce Ecommerce Household Products Manufacturing Manufacturing & Industrial Other Consumer Non-Durables Personal Pr",
+          "description": "Internship Inhouse UGC Creator & Video Editor (m/w/d) Everdrop Location: Munich, Germany Posted: 1 day Series B Commerce and Shopping Consumer Goods Consumer Products & Services E-Commerce Ecommerce Household Products Manufacturing Manufacturing & Industrial Other Consumer Non-Durables Personal Products Series B Commerce and Shopping Consumer Goods Consumer Products & Services E-Commerce Ecommerce Household Products Manufacturing Manufacturing & Industrial Other Consumer Non-Durables Personal Pr",
           "graduationDate": null,
           "applyUrl": "https://jobs.hvcapital.com/companies/everdrop/jobs/86144005-internship-inhouse-ugc-creator-video-editor-m-w-d#content",
           "firstSeen": "2026-07-13",
           "source": "scraper"
         },
         {
+          "title": "Junior Sales Manager North Sea (w/m/d)",
+          "description": "Holidu Location: Hamburg, Germany Posted: 1 day Application Software Ecommerce Entertainment & Travel Holiday Homes Hospitality Hotels Information Services (B2C) Internet Services IT Services and IT Consulting Leisure Other Restaurants, Hotels and Leisure Platform Price Comparison Real Estate Search Engine Startup Tech Travel Travel & Leisure Travel & Tourism Travel Accommodations Vacation Rentals Venture Capital Application Software Ecommerce Entertainment & Travel Holiday Homes Hospitality Hot",
+          "graduationDate": null,
+          "applyUrl": "https://jobs.hvcapital.com/companies/holidu/jobs/86150331-junior-sales-manager-north-sea-w-m-d#content",
+          "firstSeen": "2026-07-14",
+          "source": "scraper"
+        },
+        {
+          "title": "Holidu Location: Hamburg, Germany Posted: 1 day Application Software Ecommerce Entertainment & Travel Holiday Homes Hosp",
+          "description": "itality Hotels Information Services (B2C) Internet Services IT Services and IT Consulting Leisure Other Restaurants, Hotels and Leisure Platform Price Comparison Real Estate Search Engine Startup Tech Travel Travel & Leisure Travel & Tourism Travel Accommodations Vacation Rentals Venture Capital Application Software Ecommerce Entertainment & Travel Holiday Homes Hospitality Hotels Information Services (B2C) Internet Services IT Services and IT Consulting Leisure Other Restaurants, Hotels and Lei",
+          "graduationDate": null,
+          "applyUrl": "https://jobs.hvcapital.com/companies/holidu#content",
+          "firstSeen": "2026-07-14",
+          "source": "scraper"
+        },
+        {
+          "title": "Application Software Ecommerce Entertainment & Travel Holiday Homes Hospitality Hotels Information Services (B2C) Intern",
+          "description": "et Services IT Services and IT Consulting Leisure Other Restaurants, Hotels and Leisure Platform Price Comparison Real Estate Search Engine Startup Tech Travel Travel & Leisure Travel & Tourism Travel Accommodations Vacation Rentals Venture Capital Application Software Ecommerce Entertainment & Travel Holiday Homes Hospitality Hotels Information Services (B2C) Internet Services IT Services and IT Consulting Leisure Other Restaurants, Hotels and Leisure Platform Price Comparison Real Estate Searc",
+          "graduationDate": null,
+          "applyUrl": "https://jobs.hvcapital.com",
+          "firstSeen": "2026-07-14",
+          "source": "scraper"
+        },
+        {
           "title": "Inside Sales Manager (m/w/d)",
-          "description": "Caronsale Location: Berlin, Germany Posted: Today Series C Automotive Commerce and Shopping Customer Service Information Services (B2C) Internet Publishing Marketplace Mobile App Professional Services Technology Transportation Vehicles Wholesale Series C Automotive Commerce and Shopping Customer Service Information Services (B2C) Internet Publishing Marketplace Mobile App Professional Services Technology Transportation Vehicles Wholesale + 99 more View job",
+          "description": "Caronsale Location: Berlin, Germany Posted: 1 day Series C Automotive Commerce and Shopping Customer Service Information Services (B2C) Internet Publishing Marketplace Mobile App Professional Services Technology Transportation Vehicles Wholesale Series C Automotive Commerce and Shopping Customer Service Information Services (B2C) Internet Publishing Marketplace Mobile App Professional Services Technology Transportation Vehicles Wholesale + 99 more View job",
           "graduationDate": null,
           "applyUrl": "https://jobs.hvcapital.com/companies/caronsale/jobs/86144641-inside-sales-manager-m-w-d#content",
           "firstSeen": "2026-07-13",
           "source": "scraper"
         },
         {
-          "title": "Caronsale Location: Berlin, Germany Posted: Today Series C Automotive Commerce and Shopping Customer Service Information",
+          "title": "Caronsale Location: Berlin, Germany Posted: 1 day Series C Automotive Commerce and Shopping Customer Service Information",
           "description": "Services (B2C) Internet Publishing Marketplace Mobile App Professional Services Technology Transportation Vehicles Wholesale Series C Automotive Commerce and Shopping Customer Service Information Services (B2C) Internet Publishing Marketplace Mobile App Professional Services Technology Transportation Vehicles Wholesale + 99 more",
           "graduationDate": null,
           "applyUrl": "https://jobs.hvcapital.com/companies/caronsale#content",
-          "firstSeen": "2026-07-13",
+          "firstSeen": "2026-07-14",
           "source": "scraper"
         },
         {
@@ -1610,7 +1787,7 @@
       "hasInternPosting": true,
       "careerUrl": "https://www.highlandeurope.com/careers",
       "status": "ok",
-      "lastChecked": "2026-07-13T12:11:40.322185+00:00",
+      "lastChecked": "2026-07-14T10:53:44.094207+00:00",
       "jobs": [
         {
           "title": "Exciting roles in the Highland Europe portfolio",
@@ -1650,14 +1827,14 @@
       "hasInternPosting": true,
       "careerUrl": "https://www.foresitecapital.com/careers",
       "status": "ok",
-      "lastChecked": "2026-07-13T12:11:44.940113+00:00",
+      "lastChecked": "2026-07-14T10:53:47.916936+00:00",
       "jobs": [
         {
-          "title": "Career Opportunities: 121 companies . 1,483 jobs .",
-          "description": "Strategy Portfolio People Careers News Blog Contact Us Home Strategy Portfolio People Careers News Blog Contact Us Foresite Labs Investor Login Terms Privacy Policy Career Opportunities: 121 companies . 1,483 jobs . Jobs Companies Filter jobs by skills and more Roles Enter roles Skills Enter skills Location Enter locations Company stage Enter stages Industry Enter industries Salary Select... Internships only Remote options All jobs Posted Anytime Powered by Consider Powered by Consider Privacy T",
+          "title": "Career Opportunities: 121 companies . 1,477 jobs .",
+          "description": "Strategy Portfolio People Careers News Blog Contact Us Home Strategy Portfolio People Careers News Blog Contact Us Foresite Labs Investor Login Terms Privacy Policy Career Opportunities: 121 companies . 1,477 jobs . Jobs Companies Filter jobs by skills and more Roles Enter roles Skills Enter skills Location Enter locations Company stage Enter stages Industry Enter industries Salary Select... Internships only Remote options All jobs Posted Anytime Powered by Consider Powered by Consider Privacy T",
           "graduationDate": null,
           "applyUrl": "https://www.foresitecapital.com/",
-          "firstSeen": "2026-07-13",
+          "firstSeen": "2026-07-14",
           "source": "scraper"
         },
         {
@@ -1690,7 +1867,7 @@
       "hasInternPosting": true,
       "careerUrl": "https://trueventures.com/careers",
       "status": "ok",
-      "lastChecked": "2026-07-13T12:11:51.317388+00:00",
+      "lastChecked": "2026-07-14T10:53:51.549279+00:00",
       "jobs": [
         {
           "title": "Academia.edu Education Higher Education Internet Social Media Education Higher Education Internet Social Media + 99 more Academia.edu is the largest and fastest-growing platform in the world for shari",
@@ -1770,63 +1947,63 @@
       "hasInternPosting": false,
       "careerUrl": "https://www.foundrygroup.com/careers",
       "status": "ok",
-      "lastChecked": "2026-07-13T12:11:53.884187+00:00",
+      "lastChecked": "2026-07-14T10:53:53.924821+00:00",
       "jobs": []
     },
     "Signalfire": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-07-13T12:12:02.313808+00:00",
+      "lastChecked": "2026-07-14T10:54:02.567528+00:00",
       "jobs": []
     },
     "MPM Bioimpact": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-07-13T12:12:17.814117+00:00",
+      "lastChecked": "2026-07-14T10:54:17.132025+00:00",
       "jobs": []
     },
     "83north 2017": {
       "hasInternPosting": false,
       "careerUrl": "https://www.83north.com/open-positions",
       "status": "ok",
-      "lastChecked": "2026-07-13T12:12:33.783571+00:00",
+      "lastChecked": "2026-07-14T10:54:32.748552+00:00",
       "jobs": []
     },
     "Emergence Equity Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-07-13T12:12:42.090309+00:00",
+      "lastChecked": "2026-07-14T10:54:40.881064+00:00",
       "jobs": []
     },
     "DCM": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-07-13T12:12:51.738126+00:00",
+      "lastChecked": "2026-07-14T10:54:49.621003+00:00",
       "jobs": []
     },
     "Forerunner Ventures Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-07-13T12:12:58.970014+00:00",
+      "lastChecked": "2026-07-14T10:54:56.842746+00:00",
       "jobs": []
     },
     "Georgian Partners Growth": {
       "hasInternPosting": false,
       "careerUrl": "https://www.georgian.io/careers",
       "status": "ok",
-      "lastChecked": "2026-07-13T12:13:02.294688+00:00",
+      "lastChecked": "2026-07-14T10:55:00.403895+00:00",
       "jobs": []
     },
     "h Investment Management": {
       "hasInternPosting": false,
       "careerUrl": "https://www.hinvestment.com/careers",
       "status": "ok",
-      "lastChecked": "2026-07-13T12:13:04.549607+00:00",
+      "lastChecked": "2026-07-14T10:55:02.831052+00:00",
       "jobs": []
     }
   }
