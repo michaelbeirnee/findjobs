@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-09-10T16:43:16.253078+00:00",
+  "lastUpdated": "2026-09-11T16:39:04.736418+00:00",
   "internCount": 56,
   "firms": {
     "Millennium Management": {
       "hasInternPosting": true,
       "careerUrl": "https://www.mlp.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:12:33.351574+00:00",
+      "lastChecked": "2026-09-11T15:09:40.689553+00:00",
       "jobs": [
         {
           "title": "Millennium Interns Participate in AI Hackathon",
@@ -150,56 +150,56 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:12:40.374881+00:00",
+      "lastChecked": "2026-09-11T15:09:48.132766+00:00",
       "jobs": []
     },
     "Qube Research & Technologies Limited": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:12:55.264834+00:00",
+      "lastChecked": "2026-09-11T15:10:04.218930+00:00",
       "jobs": []
     },
     "Capula Investment Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:13:05.050953+00:00",
+      "lastChecked": "2026-09-11T15:10:14.652316+00:00",
       "jobs": []
     },
     "Symmetry Investments": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:13:17.233382+00:00",
+      "lastChecked": "2026-09-11T15:10:26.648534+00:00",
       "jobs": []
     },
     "Balyasny Asset Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:13:24.654325+00:00",
+      "lastChecked": "2026-09-11T15:10:33.109505+00:00",
       "jobs": []
     },
     "Pacific Investment Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:13:41.700070+00:00",
+      "lastChecked": "2026-09-11T15:10:48.699855+00:00",
       "jobs": []
     },
     "Rokos Capital Management": {
       "hasInternPosting": false,
       "careerUrl": "https://www.rokoscapital.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:13:43.754744+00:00",
+      "lastChecked": "2026-09-11T15:10:51.055136+00:00",
       "jobs": []
     },
     "Brevan Howard Capital Management": {
       "hasInternPosting": true,
       "careerUrl": "https://www.brevanhoward.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:13:50.567038+00:00",
+      "lastChecked": "2026-09-11T15:10:58.869487+00:00",
       "jobs": [
         {
           "title": "What types of internships are available?",
@@ -255,7 +255,7 @@
       "hasInternPosting": true,
       "careerUrl": "https://www.bridgewater.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:13:54.958820+00:00",
+      "lastChecked": "2026-09-11T15:11:03.954495+00:00",
       "jobs": [
         {
           "title": "Internet Explorer is not supported by this website.",
@@ -311,21 +311,21 @@
       "hasInternPosting": false,
       "careerUrl": "https://www.gardacapital.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:13:57.280765+00:00",
+      "lastChecked": "2026-09-11T15:11:06.136356+00:00",
       "jobs": []
     },
     "Marshall Wace": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:14:12.078817+00:00",
+      "lastChecked": "2026-09-11T15:11:18.354247+00:00",
       "jobs": []
     },
     "Schonfeld Strategic Advisors": {
       "hasInternPosting": true,
       "careerUrl": "https://www.schonfeld.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:14:16.278544+00:00",
+      "lastChecked": "2026-09-11T15:11:22.775345+00:00",
       "jobs": [
         {
           "title": "Quantitative Research / Developer - Intern",
@@ -337,6 +337,14 @@
         },
         {
           "title": "2027 Risk Analyst (DMFI) Intern",
+          "description": "",
+          "graduationDate": null,
+          "applyUrl": "https://www.schonfeld.com/careers",
+          "firstSeen": "2026-09-05",
+          "source": "scraper"
+        },
+        {
+          "title": "2027 Equity Middle Office Intern",
           "description": "",
           "graduationDate": null,
           "applyUrl": "https://www.schonfeld.com/careers",
@@ -392,6 +400,14 @@
           "source": "scraper"
         },
         {
+          "title": "2027 Platform Engineering Intern",
+          "description": "",
+          "graduationDate": null,
+          "applyUrl": "https://www.schonfeld.com/careers",
+          "firstSeen": "2026-09-11",
+          "source": "scraper"
+        },
+        {
           "title": "2027 Business Analytics Intern",
           "description": "",
           "graduationDate": null,
@@ -417,14 +433,6 @@
         },
         {
           "title": "2027 Systematic COO Intern",
-          "description": "",
-          "graduationDate": null,
-          "applyUrl": "https://www.schonfeld.com/careers",
-          "firstSeen": "2026-09-05",
-          "source": "scraper"
-        },
-        {
-          "title": "2027 Equity Middle Office Intern",
           "description": "",
           "graduationDate": null,
           "applyUrl": "https://www.schonfeld.com/careers",
@@ -520,6 +528,14 @@
           "source": "scraper"
         },
         {
+          "title": "2027 Equity Middle Office Intern",
+          "description": "",
+          "graduationDate": null,
+          "applyUrl": "https://www.schonfeld.com/careers/",
+          "firstSeen": "2026-09-05",
+          "source": "scraper"
+        },
+        {
           "title": "2027 DMFI Quant Research Intern",
           "description": "",
           "graduationDate": null,
@@ -568,6 +584,14 @@
           "source": "scraper"
         },
         {
+          "title": "2027 Platform Engineering Intern",
+          "description": "",
+          "graduationDate": null,
+          "applyUrl": "https://www.schonfeld.com/careers/",
+          "firstSeen": "2026-09-11",
+          "source": "scraper"
+        },
+        {
           "title": "2027 Business Analytics Intern",
           "description": "",
           "graduationDate": null,
@@ -593,14 +617,6 @@
         },
         {
           "title": "2027 Systematic COO Intern",
-          "description": "",
-          "graduationDate": null,
-          "applyUrl": "https://www.schonfeld.com/careers/",
-          "firstSeen": "2026-09-05",
-          "source": "scraper"
-        },
-        {
-          "title": "2027 Equity Middle Office Intern",
           "description": "",
           "graduationDate": null,
           "applyUrl": "https://www.schonfeld.com/careers/",
@@ -781,7 +797,7 @@
       "hasInternPosting": true,
       "careerUrl": "https://www.deshaw.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:14:22.186551+00:00",
+      "lastChecked": "2026-09-11T15:11:29.727722+00:00",
       "jobs": [
         {
           "title": "Internships",
@@ -1477,28 +1493,28 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:14:31.033881+00:00",
+      "lastChecked": "2026-09-11T15:11:39.508044+00:00",
       "jobs": []
     },
     "Alphadyne Asset Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:14:39.513255+00:00",
+      "lastChecked": "2026-09-11T15:11:48.661242+00:00",
       "jobs": []
     },
     "Exoduspoint Capital Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:14:47.418370+00:00",
+      "lastChecked": "2026-09-11T15:11:56.154221+00:00",
       "jobs": []
     },
     "Verition Fund Management": {
       "hasInternPosting": true,
       "careerUrl": "https://www.verition.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:14:52.559419+00:00",
+      "lastChecked": "2026-09-11T15:12:01.157383+00:00",
       "jobs": [
         {
           "title": "2027 Summer Investment Internship (US)",
@@ -1546,7 +1562,7 @@
       "hasInternPosting": true,
       "careerUrl": "https://www.oaktreecapital.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:14:56.934419+00:00",
+      "lastChecked": "2026-09-11T15:12:05.778460+00:00",
       "jobs": [
         {
           "title": "Our Communities Matter",
@@ -1566,7 +1582,7 @@
         },
         {
           "title": "Manager, Internal Controls",
-          "description": "Hyderabad | Posted: Posted 3 Days Ago | India | 2026-368",
+          "description": "Hyderabad | Posted: Posted 4 Days Ago | India | 2026-368",
           "graduationDate": null,
           "applyUrl": "https://oaktree.wd1.myworkdayjobs.com/job/Hyderabad/Manager--Internal-Controls_2026-368",
           "firstSeen": "2026-07-23",
@@ -1574,7 +1590,7 @@
         },
         {
           "title": "2027 Summer Internships: Investment",
-          "description": "2 Locations | Posted: Posted Yesterday | United States of America | 2026-467",
+          "description": "2 Locations | Posted: Posted 2 Days Ago | United States of America | 2026-467",
           "graduationDate": null,
           "applyUrl": "https://oaktree.wd1.myworkdayjobs.com/job/Los-Angeles-California/XMLNAME-2027-Summer-Internships--Investment_2026-467",
           "firstSeen": "2026-09-10",
@@ -1582,7 +1598,7 @@
         },
         {
           "title": "2027 Summer Internships: Enterprise Solutions",
-          "description": "Los Angeles, California | Posted: Posted Yesterday | United States of America | 2026-466",
+          "description": "Los Angeles, California | Posted: Posted 2 Days Ago | United States of America | 2026-466",
           "graduationDate": null,
           "applyUrl": "https://oaktree.wd1.myworkdayjobs.com/job/Los-Angeles-California/XMLNAME-2027-Summer-Internships--Enterprise-Solutions_2026-466-1",
           "firstSeen": "2026-09-10",
@@ -1594,14 +1610,14 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:15:03.468226+00:00",
+      "lastChecked": "2026-09-11T15:12:14.200917+00:00",
       "jobs": []
     },
     "Two Sigma Investments": {
       "hasInternPosting": true,
       "careerUrl": "https://www.twosigma.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:15:07.656191+00:00",
+      "lastChecked": "2026-09-11T15:12:19.042462+00:00",
       "jobs": [
         {
           "title": "Internships",
@@ -2137,14 +2153,14 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:15:20.854225+00:00",
+      "lastChecked": "2026-09-11T15:12:33.604027+00:00",
       "jobs": []
     },
     "Two Sigma Advisers": {
       "hasInternPosting": true,
       "careerUrl": "https://www.twosigma.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:15:24.536011+00:00",
+      "lastChecked": "2026-09-11T15:12:37.718759+00:00",
       "jobs": [
         {
           "title": "Internships",
@@ -2680,14 +2696,14 @@
       "hasInternPosting": false,
       "careerUrl": "https://www.fortress.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:15:29.449225+00:00",
+      "lastChecked": "2026-09-11T15:12:42.491851+00:00",
       "jobs": []
     },
     "Blackrock Capital Management": {
       "hasInternPosting": true,
       "careerUrl": "https://www.blackrock.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:15:33.951212+00:00",
+      "lastChecked": "2026-09-11T15:12:46.211341+00:00",
       "jobs": [
         {
           "title": "Navigating Internal Mobility? Here’s What Worked for These BlackRock Leaders You may not always be sure when – or how – to make your next career move, whether that means switching to a different team,",
@@ -2727,21 +2743,21 @@
       "hasInternPosting": false,
       "careerUrl": "https://www.rentec.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:15:38.467777+00:00",
+      "lastChecked": "2026-09-11T15:12:50.043308+00:00",
       "jobs": []
     },
     "Cerberus Capital Management": {
       "hasInternPosting": false,
       "careerUrl": "https://www.cerberus.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:15:42.902267+00:00",
+      "lastChecked": "2026-09-11T15:12:55.434022+00:00",
       "jobs": []
     },
     "Arrowstreet Capital": {
       "hasInternPosting": true,
       "careerUrl": "https://www.arrowstreetcapital.com/join-us",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:15:52.637781+00:00",
+      "lastChecked": "2026-09-11T15:13:04.932255+00:00",
       "jobs": [
         {
           "title": "Summer Internship Program",
@@ -2765,7 +2781,7 @@
       "hasInternPosting": true,
       "careerUrl": "https://www.bracebridgecapital.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:15:56.479612+00:00",
+      "lastChecked": "2026-09-11T15:13:08.254287+00:00",
       "jobs": [
         {
           "title": "Bracebridge has sought to cultivate an environment in which intellectual curiosity and collaboration drive better investment outcomes. We believe the experience and talents of our people and the rigor",
@@ -2821,14 +2837,14 @@
       "hasInternPosting": false,
       "careerUrl": "https://www.elancapitalmanagement.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:16:00.261941+00:00",
+      "lastChecked": "2026-09-11T15:13:12.043027+00:00",
       "jobs": []
     },
     "TPG Angelo Gordon": {
       "hasInternPosting": true,
       "careerUrl": "https://www.angelogordon.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:16:03.318027+00:00",
+      "lastChecked": "2026-09-11T15:13:15.081807+00:00",
       "jobs": [
         {
           "title": "IDMC (Internet, Digital Media & Communications)",
@@ -2876,21 +2892,21 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:16:11.343412+00:00",
+      "lastChecked": "2026-09-11T15:13:22.717239+00:00",
       "jobs": []
     },
     "Capstone Investment Advisors": {
       "hasInternPosting": false,
       "careerUrl": "https://www.capstoneco.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:16:15.919572+00:00",
+      "lastChecked": "2026-09-11T15:13:27.427706+00:00",
       "jobs": []
     },
     "IFM Investors PTY": {
       "hasInternPosting": true,
       "careerUrl": "https://www.ifminvestors.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:16:22.957395+00:00",
+      "lastChecked": "2026-09-11T15:13:34.890609+00:00",
       "jobs": [
         {
           "title": "Informal development opportunities",
@@ -2954,14 +2970,14 @@
       "hasInternPosting": false,
       "careerUrl": "https://www.davidsonkempner.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:16:27.640928+00:00",
+      "lastChecked": "2026-09-11T15:13:39.849920+00:00",
       "jobs": []
     },
     "AQR Capital Management": {
       "hasInternPosting": true,
       "careerUrl": "https://www.aqr.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:16:33.434984+00:00",
+      "lastChecked": "2026-09-11T15:13:46.310400+00:00",
       "jobs": [
         {
           "title": "Internships",
@@ -3009,14 +3025,14 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:18:46.907398+00:00",
+      "lastChecked": "2026-09-11T15:16:18.492381+00:00",
       "jobs": []
     },
     "TA Associates": {
       "hasInternPosting": true,
       "careerUrl": "https://www.ta.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:18:54.517999+00:00",
+      "lastChecked": "2026-09-11T15:16:25.200293+00:00",
       "jobs": [
         {
           "title": "ACT (Atria Convergence Technologies Pvt. Ltd.) 5 job s Digital Entertainment Digital Marketing Internet Software Development Digital Entertainment Digital Marketing Internet Software Development + 99 ",
@@ -3112,35 +3128,35 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:19:03.535459+00:00",
+      "lastChecked": "2026-09-11T15:16:34.013883+00:00",
       "jobs": []
     },
     "Farallon Capital Management": {
       "hasInternPosting": false,
       "careerUrl": "https://www.faralloncapital.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:19:06.260232+00:00",
+      "lastChecked": "2026-09-11T15:16:36.783530+00:00",
       "jobs": []
     },
     "Adage Capital Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:19:14.754200+00:00",
+      "lastChecked": "2026-09-11T15:16:44.550633+00:00",
       "jobs": []
     },
     "Kedalion Capital Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:19:30.383995+00:00",
+      "lastChecked": "2026-09-11T15:16:57.387232+00:00",
       "jobs": []
     },
     "Blackstone Infrastructure Advisors": {
       "hasInternPosting": true,
       "careerUrl": "https://www.blackstone.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:19:36.127761+00:00",
+      "lastChecked": "2026-09-11T15:17:03.732639+00:00",
       "jobs": [
         {
           "title": "news & INSIGHTS",
@@ -3180,14 +3196,14 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:19:50.975140+00:00",
+      "lastChecked": "2026-09-11T15:17:14.629473+00:00",
       "jobs": []
     },
     "AHL Partners": {
       "hasInternPosting": true,
       "careerUrl": "https://www.man.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:19:56.946859+00:00",
+      "lastChecked": "2026-09-11T15:17:20.945558+00:00",
       "jobs": [
         {
           "title": "Internships",
@@ -3385,14 +3401,6 @@
           "title": "Quantitative Researcher",
           "description": "<div class=\"content-intro\"><p><strong>About Man Group</strong></p> <p>Man Group is a global alternative investment management firm focused on pursuing outperformance for sophisticated clients via our Systematic, Discretionary and Solutions offerings. Powered by talent and advanced technology, our single and multi-manager investment strategies are underpinned by deep research and span public and private markets, across all major asset classes, with a significant focus on alternatives. Man Group t",
           "graduationDate": null,
-          "applyUrl": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4737145101",
-          "firstSeen": "2026-04-18",
-          "source": "scraper"
-        },
-        {
-          "title": "Quantitative Researcher",
-          "description": "<div class=\"content-intro\"><p><strong>About Man Group</strong></p> <p>Man Group is a global alternative investment management firm focused on pursuing outperformance for sophisticated clients via our Systematic, Discretionary and Solutions offerings. Powered by talent and advanced technology, our single and multi-manager investment strategies are underpinned by deep research and span public and private markets, across all major asset classes, with a significant focus on alternatives. Man Group t",
-          "graduationDate": null,
           "applyUrl": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4882442101",
           "firstSeen": "2026-06-26",
           "source": "scraper"
@@ -3406,11 +3414,27 @@
           "source": "scraper"
         },
         {
+          "title": "Quantitative Researcher",
+          "description": "<div class=\"content-intro\"><p><strong>About Man Group</strong></p> <p>Man Group is a global alternative investment management firm focused on pursuing outperformance for sophisticated clients via our Systematic, Discretionary and Solutions offerings. Powered by talent and advanced technology, our single and multi-manager investment strategies are underpinned by deep research and span public and private markets, across all major asset classes, with a significant focus on alternatives. Man Group t",
+          "graduationDate": null,
+          "applyUrl": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4737145101",
+          "firstSeen": "2026-04-18",
+          "source": "scraper"
+        },
+        {
           "title": "Quantitative Researcher - AI/ML",
           "description": "<div class=\"content-intro\"><p><strong>About Man Group</strong></p> <p>Man Group is a global alternative investment management firm focused on pursuing outperformance for sophisticated clients via our Systematic, Discretionary and Solutions offerings. Powered by talent and advanced technology, our single and multi-manager investment strategies are underpinned by deep research and span public and private markets, across all major asset classes, with a significant focus on alternatives. Man Group t",
           "graduationDate": null,
           "applyUrl": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4882441101",
           "firstSeen": "2026-06-26",
+          "source": "scraper"
+        },
+        {
+          "title": "Quant Researcher",
+          "description": "<div class=\"content-intro\"><p><strong>About Man Group</strong></p> <p>Man Group is a global alternative investment management firm focused on pursuing outperformance for sophisticated clients via our Systematic, Discretionary and Solutions offerings. Powered by talent and advanced technology, our single and multi-manager investment strategies are underpinned by deep research and span public and private markets, across all major asset classes, with a significant focus on alternatives. Man Group t",
+          "graduationDate": null,
+          "applyUrl": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4960826101",
+          "firstSeen": "2026-09-11",
           "source": "scraper"
         },
         {
@@ -3457,6 +3481,14 @@
           "title": "Risk & Performance Analyst",
           "description": "<div class=\"content-intro\"><p><strong>About Man Group</strong></p> <p>Man Group is a global alternative investment management firm focused on pursuing outperformance for sophisticated clients via our Systematic, Discretionary and Solutions offerings. Powered by talent and advanced technology, our single and multi-manager investment strategies are underpinned by deep research and span public and private markets, across all major asset classes, with a significant focus on alternatives. Man Group t",
           "graduationDate": null,
+          "applyUrl": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4958874101",
+          "firstSeen": "2026-08-27",
+          "source": "scraper"
+        },
+        {
+          "title": "Risk & Performance Analyst",
+          "description": "<div class=\"content-intro\"><p><strong>About Man Group</strong></p> <p>Man Group is a global alternative investment management firm focused on pursuing outperformance for sophisticated clients via our Systematic, Discretionary and Solutions offerings. Powered by talent and advanced technology, our single and multi-manager investment strategies are underpinned by deep research and span public and private markets, across all major asset classes, with a significant focus on alternatives. Man Group t",
+          "graduationDate": null,
           "applyUrl": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4957895101",
           "firstSeen": "2026-08-25",
           "source": "scraper"
@@ -3467,14 +3499,6 @@
           "graduationDate": null,
           "applyUrl": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4930572101",
           "firstSeen": "2026-07-18",
-          "source": "scraper"
-        },
-        {
-          "title": "Risk & Performance Analyst",
-          "description": "<div class=\"content-intro\"><p><strong>About Man Group</strong></p> <p>Man Group is a global alternative investment management firm focused on pursuing outperformance for sophisticated clients via our Systematic, Discretionary and Solutions offerings. Powered by talent and advanced technology, our single and multi-manager investment strategies are underpinned by deep research and span public and private markets, across all major asset classes, with a significant focus on alternatives. Man Group t",
-          "graduationDate": null,
-          "applyUrl": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4958874101",
-          "firstSeen": "2026-08-27",
           "source": "scraper"
         },
         {
@@ -3499,6 +3523,14 @@
           "graduationDate": null,
           "applyUrl": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4839427101",
           "firstSeen": "2026-04-18",
+          "source": "scraper"
+        },
+        {
+          "title": "Senior Java Engineer",
+          "description": "<div class=\"content-intro\"><p><strong>About Man Group</strong></p> <p>Man Group is a global alternative investment management firm focused on pursuing outperformance for sophisticated clients via our Systematic, Discretionary and Solutions offerings. Powered by talent and advanced technology, our single and multi-manager investment strategies are underpinned by deep research and span public and private markets, across all major asset classes, with a significant focus on alternatives. Man Group t",
+          "graduationDate": null,
+          "applyUrl": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4936363101",
+          "firstSeen": "2026-09-11",
           "source": "scraper"
         },
         {
@@ -3579,14 +3611,14 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:22:31.727007+00:00",
+      "lastChecked": "2026-09-11T15:19:51.288137+00:00",
       "jobs": []
     },
     "Blackstone Tactical Opportunities Advisors": {
       "hasInternPosting": true,
       "careerUrl": "https://www.blackstone.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:22:37.461429+00:00",
+      "lastChecked": "2026-09-11T15:19:57.361017+00:00",
       "jobs": [
         {
           "title": "news & INSIGHTS",
@@ -3626,7 +3658,7 @@
       "hasInternPosting": true,
       "careerUrl": "https://www.holoceneadvisors.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:22:40.491465+00:00",
+      "lastChecked": "2026-09-11T15:20:00.498689+00:00",
       "jobs": [
         {
           "title": "Internship Program",
@@ -3682,28 +3714,28 @@
       "hasInternPosting": false,
       "careerUrl": "https://www.hudsonbaycapital.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:22:42.568839+00:00",
+      "lastChecked": "2026-09-11T15:20:02.620759+00:00",
       "jobs": []
     },
     "Ssga Funds Management": {
       "hasInternPosting": false,
       "careerUrl": "https://www.ssga.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:22:45.492291+00:00",
+      "lastChecked": "2026-09-11T15:20:05.812231+00:00",
       "jobs": []
     },
     "Tenaron Capital Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:22:55.995165+00:00",
+      "lastChecked": "2026-09-11T15:20:16.989310+00:00",
       "jobs": []
     },
     "Grosvenor Capital Management": {
       "hasInternPosting": true,
       "careerUrl": "https://www.gcmgrosvenor.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:23:06.560703+00:00",
+      "lastChecked": "2026-09-11T15:20:22.475816+00:00",
       "jobs": [
         {
           "title": "www.internet-signalement.gouv.fr",
@@ -3807,21 +3839,21 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:23:15.617699+00:00",
+      "lastChecked": "2026-09-11T15:20:31.601495+00:00",
       "jobs": []
     },
     "Paloma Partners Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:23:23.030974+00:00",
+      "lastChecked": "2026-09-11T15:20:37.932980+00:00",
       "jobs": []
     },
     "Walleye Capital": {
       "hasInternPosting": true,
       "careerUrl": "https://www.walleyecapital.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:23:27.281574+00:00",
+      "lastChecked": "2026-09-11T15:20:42.680280+00:00",
       "jobs": [
         {
           "title": "Meet Us On Campus!",
@@ -3901,7 +3933,7 @@
       "hasInternPosting": true,
       "careerUrl": "https://www.blackstone.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:23:32.375368+00:00",
+      "lastChecked": "2026-09-11T15:20:48.505426+00:00",
       "jobs": [
         {
           "title": "news & INSIGHTS",
@@ -3941,7 +3973,7 @@
       "hasInternPosting": true,
       "careerUrl": "https://www.silverpointcapital.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:23:38.813675+00:00",
+      "lastChecked": "2026-09-11T15:20:53.887922+00:00",
       "jobs": [
         {
           "title": "Client Service Associate The Client Service Associate role handles a variety of customer service responsibilities related to investor onboarding, capital activity and information distribution. As a me",
@@ -3957,42 +3989,42 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:23:46.187627+00:00",
+      "lastChecked": "2026-09-11T15:21:01.551931+00:00",
       "jobs": []
     },
     "Polar Asset Management Partners": {
       "hasInternPosting": false,
       "careerUrl": "https://www.polaramp.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:23:50.451432+00:00",
+      "lastChecked": "2026-09-11T15:21:06.019224+00:00",
       "jobs": []
     },
     "Select Equity Group": {
       "hasInternPosting": false,
       "careerUrl": "https://www.selectequity.com/work-with-us",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:24:00.775783+00:00",
+      "lastChecked": "2026-09-11T15:21:14.295461+00:00",
       "jobs": []
     },
     "White Oak Capital Management Consultants": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:24:19.791554+00:00",
+      "lastChecked": "2026-09-11T15:21:28.993488+00:00",
       "jobs": []
     },
     "HHLR Advisors": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:28:13.643616+00:00",
+      "lastChecked": "2026-09-11T15:25:20.995997+00:00",
       "jobs": []
     },
     "Caxton Associates": {
       "hasInternPosting": true,
       "careerUrl": "https://www.caxton.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:28:17.087688+00:00",
+      "lastChecked": "2026-09-11T15:25:24.315580+00:00",
       "jobs": [
         {
           "title": "Why work at Caxton Join a world-class hedge fund where a commitment to learning, collaboration, and intellectual curiosi",
@@ -4056,84 +4088,84 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:28:31.410340+00:00",
+      "lastChecked": "2026-09-11T15:25:38.189216+00:00",
       "jobs": []
     },
     "Monarch": {
       "hasInternPosting": false,
       "careerUrl": "https://www.monarchlp.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:28:36.470854+00:00",
+      "lastChecked": "2026-09-11T15:25:43.394803+00:00",
       "jobs": []
     },
     "Baupost Group": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:29:00.891478+00:00",
+      "lastChecked": "2026-09-11T15:26:07.760182+00:00",
       "jobs": []
     },
     "Alkeon Capital Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:29:09.825118+00:00",
+      "lastChecked": "2026-09-11T15:26:17.029382+00:00",
       "jobs": []
     },
     "Global Endowment Management": {
       "hasInternPosting": false,
       "careerUrl": "https://www.globalendowment.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:29:14.899425+00:00",
+      "lastChecked": "2026-09-11T15:26:22.203465+00:00",
       "jobs": []
     },
     "Lone Pine Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:29:30.025104+00:00",
+      "lastChecked": "2026-09-11T15:26:38.710421+00:00",
       "jobs": []
     },
     "Marathon Asset Management": {
       "hasInternPosting": false,
       "careerUrl": "https://www.marathonfund.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:29:33.986437+00:00",
+      "lastChecked": "2026-09-11T15:26:43.066156+00:00",
       "jobs": []
     },
     "Alyeska Investment Group": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:29:40.989365+00:00",
+      "lastChecked": "2026-09-11T15:26:49.279933+00:00",
       "jobs": []
     },
     "Universa Investments": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:29:50.385452+00:00",
+      "lastChecked": "2026-09-11T15:26:58.648081+00:00",
       "jobs": []
     },
     "Baker Brothers Investments": {
       "hasInternPosting": false,
       "careerUrl": "https://www.bakerbros.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:29:52.774580+00:00",
+      "lastChecked": "2026-09-11T15:27:01.032084+00:00",
       "jobs": []
     },
     "GC Advisors": {
       "hasInternPosting": false,
       "careerUrl": "https://www.golubcapital.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:29:57.500298+00:00",
+      "lastChecked": "2026-09-11T15:27:05.744792+00:00",
       "jobs": []
     },
     "Magnetar Financial": {
       "hasInternPosting": true,
       "careerUrl": "https://www.magnetar.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:30:01.592815+00:00",
+      "lastChecked": "2026-09-11T15:27:09.253055+00:00",
       "jobs": [
         {
           "title": "Internships",
@@ -4157,35 +4189,35 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:30:11.399991+00:00",
+      "lastChecked": "2026-09-11T15:27:18.474478+00:00",
       "jobs": []
     },
     "Soroban Capital Partners": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:30:24.663027+00:00",
+      "lastChecked": "2026-09-11T15:27:31.317613+00:00",
       "jobs": []
     },
     "HBK Capital Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:30:32.720501+00:00",
+      "lastChecked": "2026-09-11T15:27:39.487130+00:00",
       "jobs": []
     },
     "Meritage Group": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:30:43.151627+00:00",
+      "lastChecked": "2026-09-11T15:27:49.642094+00:00",
       "jobs": []
     },
     "Capital Fund Management S.A.": {
       "hasInternPosting": true,
       "careerUrl": "https://www.cfm.fr/join-us",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:30:57.399086+00:00",
+      "lastChecked": "2026-09-11T15:28:04.684738+00:00",
       "jobs": [
         {
           "title": "Students & interns",
@@ -4289,42 +4321,42 @@
       "hasInternPosting": false,
       "careerUrl": "https://www.miopartners.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:31:00.388964+00:00",
+      "lastChecked": "2026-09-11T15:28:07.509608+00:00",
       "jobs": []
     },
     "AB Carval Investors": {
       "hasInternPosting": false,
       "careerUrl": "https://www.carval.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:31:04.377835+00:00",
+      "lastChecked": "2026-09-11T15:28:11.650673+00:00",
       "jobs": []
     },
     "Systematica Investments Limited": {
       "hasInternPosting": false,
       "careerUrl": "https://www.systematica.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:31:09.997561+00:00",
+      "lastChecked": "2026-09-11T15:28:17.258529+00:00",
       "jobs": []
     },
     "Centiva Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:31:30.950713+00:00",
+      "lastChecked": "2026-09-11T15:28:35.178785+00:00",
       "jobs": []
     },
     "Pershing Square Capital Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:31:40.457064+00:00",
+      "lastChecked": "2026-09-11T15:28:44.815240+00:00",
       "jobs": []
     },
     "Graham Capital Management": {
       "hasInternPosting": true,
       "careerUrl": "https://www.grahamcapital.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:31:43.821629+00:00",
+      "lastChecked": "2026-09-11T15:28:48.310682+00:00",
       "jobs": [
         {
           "title": "Leverage our \nInternal Network",
@@ -4370,16 +4402,16 @@
           "title": "Why do we do it?",
           "description": "The firm recognizes and is committed to the importance of educating and preparing students for their next steps as professionals post-graduation. With this in mind, Graham welcomes a group of talented undergraduate and graduate interns every summer across various departments at the firm. We value the dynamic energy our interns bring to the team, enriching our work environment with their fresh perspectives and diverse experiences. Apply Here What are we looking for? Intern candidates participate",
           "graduationDate": null,
-          "applyUrl": "https://www.grahamcapital.com/cdn-cgi/l/email-protection#94dcc6d4f3e6f5fcf5f9f7f5e4fde0f5f8baf7fbf9",
-          "firstSeen": "2026-09-10",
+          "applyUrl": "https://www.grahamcapital.com/cdn-cgi/l/email-protection#2c647e6c4b5e4d444d414f4d5c45584d40024f4341",
+          "firstSeen": "2026-09-11",
           "source": "scraper"
         },
         {
           "title": "What are we looking for?",
           "description": "Intern candidates participate in a rigorous interview process that typically involves discussions with various department heads and/or senior members of each team. Interns are selected based on skillset and current demand by respective departments. We are looking for intellectually curious individuals committed to collaboration, innovation and excellence, who bring a strong work ethic and energy to every challenge they undertake. Apply Here",
           "graduationDate": null,
-          "applyUrl": "https://www.grahamcapital.com/cdn-cgi/l/email-protection#3f776d7f584d5e575e525c5e4f564b5e53115c5052",
-          "firstSeen": "2026-09-10",
+          "applyUrl": "https://www.grahamcapital.com/cdn-cgi/l/email-protection#84ccd6c4e3f6e5ece5e9e7e5f4edf0e5e8aae7ebe9",
+          "firstSeen": "2026-09-11",
           "source": "scraper"
         },
         {
@@ -4426,16 +4458,16 @@
           "title": "Why do we do it?",
           "description": "The firm recognizes and is committed to the importance of educating and preparing students for their next steps as professionals post-graduation. With this in mind, Graham welcomes a group of talented undergraduate and graduate interns every summer across various departments at the firm. We value the dynamic energy our interns bring to the team, enriching our work environment with their fresh perspectives and diverse experiences. Apply Here What are we looking for? Intern candidates participate",
           "graduationDate": null,
-          "applyUrl": "https://www.grahamcapital.com/cdn-cgi/l/email-protection#6028322007120108010d0301100914010c4e030f0d",
-          "firstSeen": "2026-09-10",
+          "applyUrl": "https://www.grahamcapital.com/cdn-cgi/l/email-protection#7038223017021118111d1311001904111c5e131f1d",
+          "firstSeen": "2026-09-11",
           "source": "scraper"
         },
         {
           "title": "What are we looking for?",
           "description": "Intern candidates participate in a rigorous interview process that typically involves discussions with various department heads and/or senior members of each team. Interns are selected based on skillset and current demand by respective departments. We are looking for intellectually curious individuals committed to collaboration, innovation and excellence, who bring a strong work ethic and energy to every challenge they undertake. Apply Here",
           "graduationDate": null,
-          "applyUrl": "https://www.grahamcapital.com/cdn-cgi/l/email-protection#6028322007120108010d0301100914010c4e030f0d",
-          "firstSeen": "2026-09-10",
+          "applyUrl": "https://www.grahamcapital.com/cdn-cgi/l/email-protection#470f15072035262f262a2426372e33262b6924282a",
+          "firstSeen": "2026-09-11",
           "source": "scraper"
         }
       ]
@@ -4444,49 +4476,49 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:31:52.698245+00:00",
+      "lastChecked": "2026-09-11T15:28:56.750237+00:00",
       "jobs": []
     },
     "Laurion Capital Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:32:18.363615+00:00",
+      "lastChecked": "2026-09-11T15:29:29.824322+00:00",
       "jobs": []
     },
     "Linden Advisors": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:36:13.251806+00:00",
+      "lastChecked": "2026-09-11T15:33:22.225579+00:00",
       "jobs": []
     },
     "Investure": {
       "hasInternPosting": false,
       "careerUrl": "https://www.investure.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:36:16.958660+00:00",
+      "lastChecked": "2026-09-11T15:33:27.300750+00:00",
       "jobs": []
     },
     "Polar Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:37:02.269581+00:00",
+      "lastChecked": "2026-09-11T15:34:15.663800+00:00",
       "jobs": []
     },
     "Orbis Investment Management Limited": {
       "hasInternPosting": false,
       "careerUrl": "https://www.orbis.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:37:04.820249+00:00",
+      "lastChecked": "2026-09-11T15:34:18.453626+00:00",
       "jobs": []
     },
     "Cbre Investment Management": {
       "hasInternPosting": true,
       "careerUrl": "https://www.cbreim.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:37:08.929904+00:00",
+      "lastChecked": "2026-09-11T15:34:23.504576+00:00",
       "jobs": [
         {
           "title": "EMEA Internship Program",
@@ -4566,28 +4598,28 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:37:15.875984+00:00",
+      "lastChecked": "2026-09-11T15:34:29.697799+00:00",
       "jobs": []
     },
     "JJJ Capital Management": {
       "hasInternPosting": false,
       "careerUrl": "https://www.jjjcapital.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:37:18.060603+00:00",
+      "lastChecked": "2026-09-11T15:34:33.233986+00:00",
       "jobs": []
     },
     "Durable Capital Partners": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:37:37.328776+00:00",
+      "lastChecked": "2026-09-11T15:34:44.811848+00:00",
       "jobs": []
     },
     "Appaloosa": {
       "hasInternPosting": true,
       "careerUrl": "https://www.appaloosamanagement.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:37:41.541451+00:00",
+      "lastChecked": "2026-09-11T15:34:48.126270+00:00",
       "jobs": [
         {
           "title": "SAMPLE OF OUR GREAT DOMAINS:",
@@ -4603,70 +4635,70 @@
       "hasInternPosting": false,
       "careerUrl": "https://www.deerfield.com/about/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:37:51.819153+00:00",
+      "lastChecked": "2026-09-11T15:35:00.689685+00:00",
       "jobs": []
     },
     "Magnitude Capital": {
       "hasInternPosting": false,
       "careerUrl": "https://www.magnitudecapital.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:37:57.200769+00:00",
+      "lastChecked": "2026-09-11T15:35:07.437111+00:00",
       "jobs": []
     },
     "Grantham Mayo VAN Otterloo": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:38:06.984573+00:00",
+      "lastChecked": "2026-09-11T15:35:18.262297+00:00",
       "jobs": []
     },
     "Permira Credit Limited": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:38:16.493592+00:00",
+      "lastChecked": "2026-09-11T15:35:28.415698+00:00",
       "jobs": []
     },
     "Crestline Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:38:50.657852+00:00",
+      "lastChecked": "2026-09-11T15:35:46.768541+00:00",
       "jobs": []
     },
     "Woodline Partners": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:39:00.569224+00:00",
+      "lastChecked": "2026-09-11T15:35:55.396343+00:00",
       "jobs": []
     },
     "OQ Funds Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:39:10.116912+00:00",
+      "lastChecked": "2026-09-11T15:36:04.002492+00:00",
       "jobs": []
     },
     "Himalaya Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:39:22.522064+00:00",
+      "lastChecked": "2026-09-11T15:36:18.837892+00:00",
       "jobs": []
     },
     "Ascension Investment Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:39:29.272474+00:00",
+      "lastChecked": "2026-09-11T15:36:25.063995+00:00",
       "jobs": []
     },
     "Waterfall Asset Management": {
       "hasInternPosting": true,
       "careerUrl": "https://www.waterfallam.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:39:32.792674+00:00",
+      "lastChecked": "2026-09-11T15:36:28.909318+00:00",
       "jobs": [
         {
           "title": "Summer Analyst (Undergraduate)",
@@ -4706,21 +4738,21 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:39:39.994843+00:00",
+      "lastChecked": "2026-09-11T15:36:35.363023+00:00",
       "jobs": []
     },
     "Cevian Capital II Gp Limited": {
       "hasInternPosting": false,
       "careerUrl": "https://www.ceviancapital.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:39:46.238823+00:00",
+      "lastChecked": "2026-09-11T15:36:41.846438+00:00",
       "jobs": []
     },
     "Canyon Capital Advisors": {
       "hasInternPosting": true,
       "careerUrl": "https://www.canyonpartners.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:39:49.185933+00:00",
+      "lastChecked": "2026-09-11T15:36:44.863133+00:00",
       "jobs": [
         {
           "title": "Gerardo Diaz Vice President within the Real Estate Investment Team, New York Since joining Canyon as an intern, I have h",
@@ -4744,35 +4776,35 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:39:56.348277+00:00",
+      "lastChecked": "2026-09-11T15:36:51.114229+00:00",
       "jobs": []
     },
     "Egerton Capital UK": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:40:22.225894+00:00",
+      "lastChecked": "2026-09-11T15:37:18.580834+00:00",
       "jobs": []
     },
     "Mackay Shields": {
       "hasInternPosting": false,
       "careerUrl": "https://www.mackayshields.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:40:24.348449+00:00",
+      "lastChecked": "2026-09-11T15:37:20.658585+00:00",
       "jobs": []
     },
     "UBS Hedge Fund Solutions": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:40:31.796667+00:00",
+      "lastChecked": "2026-09-11T15:37:28.288530+00:00",
       "jobs": []
     },
     "D. E. Shaw Investment Management": {
       "hasInternPosting": true,
       "careerUrl": "https://www.deshaw.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:40:38.364189+00:00",
+      "lastChecked": "2026-09-11T15:37:34.918770+00:00",
       "jobs": [
         {
           "title": "Internships",
@@ -5468,21 +5500,21 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:40:52.035874+00:00",
+      "lastChecked": "2026-09-11T15:37:49.981347+00:00",
       "jobs": []
     },
     "Beach Point Capital Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:41:19.418207+00:00",
+      "lastChecked": "2026-09-11T15:38:28.817826+00:00",
       "jobs": []
     },
     "Numeric Investors": {
       "hasInternPosting": true,
       "careerUrl": "https://www.man.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:41:25.982580+00:00",
+      "lastChecked": "2026-09-11T15:38:35.479667+00:00",
       "jobs": [
         {
           "title": "Internships",
@@ -5680,14 +5712,6 @@
           "title": "Quantitative Researcher",
           "description": "<div class=\"content-intro\"><p><strong>About Man Group</strong></p> <p>Man Group is a global alternative investment management firm focused on pursuing outperformance for sophisticated clients via our Systematic, Discretionary and Solutions offerings. Powered by talent and advanced technology, our single and multi-manager investment strategies are underpinned by deep research and span public and private markets, across all major asset classes, with a significant focus on alternatives. Man Group t",
           "graduationDate": null,
-          "applyUrl": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4737145101",
-          "firstSeen": "2026-04-18",
-          "source": "scraper"
-        },
-        {
-          "title": "Quantitative Researcher",
-          "description": "<div class=\"content-intro\"><p><strong>About Man Group</strong></p> <p>Man Group is a global alternative investment management firm focused on pursuing outperformance for sophisticated clients via our Systematic, Discretionary and Solutions offerings. Powered by talent and advanced technology, our single and multi-manager investment strategies are underpinned by deep research and span public and private markets, across all major asset classes, with a significant focus on alternatives. Man Group t",
-          "graduationDate": null,
           "applyUrl": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4882442101",
           "firstSeen": "2026-06-26",
           "source": "scraper"
@@ -5701,11 +5725,27 @@
           "source": "scraper"
         },
         {
+          "title": "Quantitative Researcher",
+          "description": "<div class=\"content-intro\"><p><strong>About Man Group</strong></p> <p>Man Group is a global alternative investment management firm focused on pursuing outperformance for sophisticated clients via our Systematic, Discretionary and Solutions offerings. Powered by talent and advanced technology, our single and multi-manager investment strategies are underpinned by deep research and span public and private markets, across all major asset classes, with a significant focus on alternatives. Man Group t",
+          "graduationDate": null,
+          "applyUrl": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4737145101",
+          "firstSeen": "2026-04-18",
+          "source": "scraper"
+        },
+        {
           "title": "Quantitative Researcher - AI/ML",
           "description": "<div class=\"content-intro\"><p><strong>About Man Group</strong></p> <p>Man Group is a global alternative investment management firm focused on pursuing outperformance for sophisticated clients via our Systematic, Discretionary and Solutions offerings. Powered by talent and advanced technology, our single and multi-manager investment strategies are underpinned by deep research and span public and private markets, across all major asset classes, with a significant focus on alternatives. Man Group t",
           "graduationDate": null,
           "applyUrl": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4882441101",
           "firstSeen": "2026-06-26",
+          "source": "scraper"
+        },
+        {
+          "title": "Quant Researcher",
+          "description": "<div class=\"content-intro\"><p><strong>About Man Group</strong></p> <p>Man Group is a global alternative investment management firm focused on pursuing outperformance for sophisticated clients via our Systematic, Discretionary and Solutions offerings. Powered by talent and advanced technology, our single and multi-manager investment strategies are underpinned by deep research and span public and private markets, across all major asset classes, with a significant focus on alternatives. Man Group t",
+          "graduationDate": null,
+          "applyUrl": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4960826101",
+          "firstSeen": "2026-09-11",
           "source": "scraper"
         },
         {
@@ -5752,6 +5792,14 @@
           "title": "Risk & Performance Analyst",
           "description": "<div class=\"content-intro\"><p><strong>About Man Group</strong></p> <p>Man Group is a global alternative investment management firm focused on pursuing outperformance for sophisticated clients via our Systematic, Discretionary and Solutions offerings. Powered by talent and advanced technology, our single and multi-manager investment strategies are underpinned by deep research and span public and private markets, across all major asset classes, with a significant focus on alternatives. Man Group t",
           "graduationDate": null,
+          "applyUrl": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4958874101",
+          "firstSeen": "2026-08-27",
+          "source": "scraper"
+        },
+        {
+          "title": "Risk & Performance Analyst",
+          "description": "<div class=\"content-intro\"><p><strong>About Man Group</strong></p> <p>Man Group is a global alternative investment management firm focused on pursuing outperformance for sophisticated clients via our Systematic, Discretionary and Solutions offerings. Powered by talent and advanced technology, our single and multi-manager investment strategies are underpinned by deep research and span public and private markets, across all major asset classes, with a significant focus on alternatives. Man Group t",
+          "graduationDate": null,
           "applyUrl": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4957895101",
           "firstSeen": "2026-08-25",
           "source": "scraper"
@@ -5762,14 +5810,6 @@
           "graduationDate": null,
           "applyUrl": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4930572101",
           "firstSeen": "2026-07-18",
-          "source": "scraper"
-        },
-        {
-          "title": "Risk & Performance Analyst",
-          "description": "<div class=\"content-intro\"><p><strong>About Man Group</strong></p> <p>Man Group is a global alternative investment management firm focused on pursuing outperformance for sophisticated clients via our Systematic, Discretionary and Solutions offerings. Powered by talent and advanced technology, our single and multi-manager investment strategies are underpinned by deep research and span public and private markets, across all major asset classes, with a significant focus on alternatives. Man Group t",
-          "graduationDate": null,
-          "applyUrl": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4958874101",
-          "firstSeen": "2026-08-27",
           "source": "scraper"
         },
         {
@@ -5794,6 +5834,14 @@
           "graduationDate": null,
           "applyUrl": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4839427101",
           "firstSeen": "2026-04-18",
+          "source": "scraper"
+        },
+        {
+          "title": "Senior Java Engineer",
+          "description": "<div class=\"content-intro\"><p><strong>About Man Group</strong></p> <p>Man Group is a global alternative investment management firm focused on pursuing outperformance for sophisticated clients via our Systematic, Discretionary and Solutions offerings. Powered by talent and advanced technology, our single and multi-manager investment strategies are underpinned by deep research and span public and private markets, across all major asset classes, with a significant focus on alternatives. Man Group t",
+          "graduationDate": null,
+          "applyUrl": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4936363101",
+          "firstSeen": "2026-09-11",
           "source": "scraper"
         },
         {
@@ -5874,35 +5922,35 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:41:34.192207+00:00",
+      "lastChecked": "2026-09-11T15:38:43.305442+00:00",
       "jobs": []
     },
     "Compass Rose Asset Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:41:41.072302+00:00",
+      "lastChecked": "2026-09-11T15:38:49.528129+00:00",
       "jobs": []
     },
     "Saba Capital Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:41:50.453253+00:00",
+      "lastChecked": "2026-09-11T15:39:00.540495+00:00",
       "jobs": []
     },
     "Boothbay Fund Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:41:57.580301+00:00",
+      "lastChecked": "2026-09-11T15:39:06.808108+00:00",
       "jobs": []
     },
     "Panagora Asset Management": {
       "hasInternPosting": true,
       "careerUrl": "https://www.panagora.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:42:03.774056+00:00",
+      "lastChecked": "2026-09-11T15:39:11.804636+00:00",
       "jobs": [
         {
           "title": "PanAgora Asset Management, Inc.",
@@ -5918,14 +5966,14 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:42:20.910302+00:00",
+      "lastChecked": "2026-09-11T15:39:26.300632+00:00",
       "jobs": []
     },
     "PDT Partners": {
       "hasInternPosting": true,
       "careerUrl": "https://www.pdtpartners.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:42:24.480011+00:00",
+      "lastChecked": "2026-09-11T15:39:30.268354+00:00",
       "jobs": [
         {
           "title": "Summer 2027 Software Engineering Intern",
@@ -6029,14 +6077,14 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:42:36.608385+00:00",
+      "lastChecked": "2026-09-11T15:39:44.782385+00:00",
       "jobs": []
     },
     "LMR Partners": {
       "hasInternPosting": true,
       "careerUrl": "https://www.lmrpartners.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:42:40.240277+00:00",
+      "lastChecked": "2026-09-11T15:39:48.704829+00:00",
       "jobs": [
         {
           "title": "Internships",
@@ -6052,147 +6100,259 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:42:55.254413+00:00",
+      "lastChecked": "2026-09-11T15:40:01.074315+00:00",
       "jobs": []
     },
     "Maverick Capital": {
       "hasInternPosting": false,
       "careerUrl": "https://www.maverickcap.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:42:58.380641+00:00",
+      "lastChecked": "2026-09-11T15:40:03.750676+00:00",
       "jobs": []
     },
     "UBS Oconnor": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:43:06.105014+00:00",
+      "lastChecked": "2026-09-11T15:40:11.173544+00:00",
       "jobs": []
     },
     "Vista Credit Partners": {
       "hasInternPosting": true,
       "careerUrl": "https://www.vistaequitypartners.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:43:11.275091+00:00",
+      "lastChecked": "2026-09-11T15:40:17.493652+00:00",
       "jobs": [
         {
-          "title": "Sr. Partner Sales Manager, MSP",
-          "description": "LogicMonitor Location: Austin, TX, USA Compensation: USD 71,813.25-90k / year Posted: Today Private Equity Senior AIOps Analytics Application Performance Management Artificial Intelligence (AI) Automation Business/Productivity Software Cloud Cloud Infrastructure Cloud services(SaaS) Data & Analytics Data Storage DevOps Enterprise Software Hardware Human Resources Hr Incident Management Information Security Infrastructure Monitoring Internet Services IT Infrastructure IT Management IT Operations",
+          "title": "Lead Video Producer",
+          "description": "Smartsheet Location: Bellevue, WA, USA Compensation: USD 115k-160k / year Posted: Today Private Equity Mid-Senior Level Automation Business And Industrial Business Software & Services Business/Productivity Software Cloud Management Collaboration Data Storage Effectiveness Enterprise Enterprise Software Information Security Information Technology and Services Innovation Internet Services Mobile Platform Productivity Project Management Reporting SaaS Scale Security Services-Prepackaged Software So",
           "graduationDate": null,
-          "applyUrl": "https://vistaequitypartners.getro.com/companies/logicmonitor/jobs/92755520-sr-partner-sales-manager-msp#content",
-          "firstSeen": "2026-09-10",
+          "applyUrl": "https://vistaequitypartners.getro.com/companies/smartsheet/jobs/92838763-lead-video-producer#content",
+          "firstSeen": "2026-09-11",
           "source": "scraper"
         },
         {
-          "title": "LogicMonitor Location: Austin, TX, USA Compensation: USD 71,813.25-90k / year Posted: Today Private Equity Senior AIOps",
-          "description": "Analytics Application Performance Management Artificial Intelligence (AI) Automation Business/Productivity Software Cloud Cloud Infrastructure Cloud services(SaaS) Data & Analytics Data Storage DevOps Enterprise Software Hardware Human Resources Hr Incident Management Information Security Infrastructure Monitoring Internet Services IT Infrastructure IT Management IT Operations IT Services Machine Learning Monitoring Network Monitoring Observability Platform SaaS Science and Engineering Security",
+          "title": "Smartsheet Location: Bellevue, WA, USA Compensation: USD 115k-160k / year Posted: Today Private Equity Mid-Senior Level",
+          "description": "Automation Business And Industrial Business Software & Services Business/Productivity Software Cloud Management Collaboration Data Storage Effectiveness Enterprise Enterprise Software Information Security Information Technology and Services Innovation Internet Services Mobile Platform Productivity Project Management Reporting SaaS Scale Security Services-Prepackaged Software Software Software Development Storage Technology Work Management Workforce Management Private Equity Mid-Senior Level Auto",
           "graduationDate": null,
-          "applyUrl": "https://vistaequitypartners.getro.com/companies/logicmonitor#content",
-          "firstSeen": "2026-09-10",
+          "applyUrl": "https://vistaequitypartners.getro.com/companies/smartsheet#content",
+          "firstSeen": "2026-09-11",
           "source": "scraper"
         },
         {
-          "title": "Lead Solutions Architect, Edwin AI",
-          "description": "LogicMonitor Location: Sydney, NSW, Australia Posted: Today Private Equity Senior AIOps Analytics Application Performance Management Artificial Intelligence (AI) Automation Business/Productivity Software Cloud Cloud Infrastructure Cloud services(SaaS) Data & Analytics Data Storage DevOps Enterprise Software Hardware Human Resources Hr Incident Management Information Security Infrastructure Monitoring Internet Services IT Infrastructure IT Management IT Operations IT Services Machine Learning Mon",
-          "graduationDate": null,
-          "applyUrl": "https://vistaequitypartners.getro.com/companies/logicmonitor/jobs/92755519-lead-solutions-architect-edwin-ai#content",
-          "firstSeen": "2026-09-10",
-          "source": "scraper"
-        },
-        {
-          "title": "LogicMonitor Location: Sydney, NSW, Australia Posted: Today Private Equity Senior AIOps Analytics Application Performanc",
-          "description": "e Management Artificial Intelligence (AI) Automation Business/Productivity Software Cloud Cloud Infrastructure Cloud services(SaaS) Data & Analytics Data Storage DevOps Enterprise Software Hardware Human Resources Hr Incident Management Information Security Infrastructure Monitoring Internet Services IT Infrastructure IT Management IT Operations IT Services Machine Learning Monitoring Network Monitoring Observability Platform SaaS Science and Engineering Security Server Monitoring Software Softw",
-          "graduationDate": null,
-          "applyUrl": "https://vistaequitypartners.getro.com/companies/logicmonitor#content",
-          "firstSeen": "2026-09-10",
-          "source": "scraper"
-        },
-        {
-          "title": "Senior Offensive Security Engineer",
-          "description": "Klarna Location: London, UK Posted: Today Senior Banking E-Commerce Finance Financial Services Fintech Internet Services Payments Shopping Senior Banking E-Commerce Finance Financial Services Fintech Internet Services Payments Shopping + 99 more View job",
-          "graduationDate": null,
-          "applyUrl": "https://vistaequitypartners.getro.com/companies/klarna/jobs/92747013-senior-offensive-security-engineer#content",
-          "firstSeen": "2026-09-10",
-          "source": "scraper"
-        },
-        {
-          "title": "Klarna Location: London, UK Posted: Today Senior Banking E-Commerce Finance Financial Services Fintech Internet Services",
-          "description": "Payments Shopping Senior Banking E-Commerce Finance Financial Services Fintech Internet Services Payments Shopping + 99 more",
-          "graduationDate": null,
-          "applyUrl": "https://vistaequitypartners.getro.com/companies/klarna#content",
-          "firstSeen": "2026-09-10",
-          "source": "scraper"
-        },
-        {
-          "title": "Senior Banking E-Commerce Finance Financial Services Fintech Internet Services Payments Shopping Senior Banking E-Commer",
-          "description": "ce Finance Financial Services Fintech Internet Services Payments Shopping + 99 more",
+          "title": "Private Equity Mid-Senior Level Automation Business And Industrial Business Software & Services Business/Productivity So",
+          "description": "ftware Cloud Management Collaboration Data Storage Effectiveness Enterprise Enterprise Software Information Security Information Technology and Services Innovation Internet Services Mobile Platform Productivity Project Management Reporting SaaS Scale Security Services-Prepackaged Software Software Software Development Storage Technology Work Management Workforce Management Private Equity Mid-Senior Level Automation Business And Industrial Business Software & Services Business/Productivity Softwa",
           "graduationDate": null,
           "applyUrl": "https://vistaequitypartners.getro.com/jobs",
-          "firstSeen": "2026-09-09",
+          "firstSeen": "2026-09-11",
           "source": "scraper"
         },
         {
-          "title": "Senior Banking E-Commerce Finance Financial Services Fintech Internet Services Payments Shopping",
+          "title": "Senior Product Designer I (Remote Eligible)",
+          "description": "Smartsheet Location: United States ; Utah, USA Compensation: USD 135k-190k / year Posted: Today Private Equity Senior Automation Business And Industrial Business Software & Services Business/Productivity Software Cloud Management Collaboration Data Storage Effectiveness Enterprise Enterprise Software Information Security Information Technology and Services Innovation Internet Services Mobile Platform Productivity Project Management Reporting SaaS Scale Security Services-Prepackaged Software Soft",
+          "graduationDate": null,
+          "applyUrl": "https://vistaequitypartners.getro.com/companies/smartsheet/jobs/92838764-senior-product-designer-i-remote-eligible#content",
+          "firstSeen": "2026-09-11",
+          "source": "scraper"
+        },
+        {
+          "title": "Smartsheet Location: United States ; Utah, USA Compensation: USD 135k-190k / year Posted: Today Private Equity Senior Au",
+          "description": "tomation Business And Industrial Business Software & Services Business/Productivity Software Cloud Management Collaboration Data Storage Effectiveness Enterprise Enterprise Software Information Security Information Technology and Services Innovation Internet Services Mobile Platform Productivity Project Management Reporting SaaS Scale Security Services-Prepackaged Software Software Software Development Storage Technology Work Management Workforce Management Private Equity Senior Automation Busin",
+          "graduationDate": null,
+          "applyUrl": "https://vistaequitypartners.getro.com/companies/smartsheet#content",
+          "firstSeen": "2026-09-11",
+          "source": "scraper"
+        },
+        {
+          "title": "Associate Technical Writer (Remote Eligible - Costa Rica)",
+          "description": "Smartsheet Location: San José Province, San José, Costa Rica Posted: Today Private Equity Associate Automation Business And Industrial Business Software & Services Business/Productivity Software Cloud Management Collaboration Data Storage Effectiveness Enterprise Enterprise Software Information Security Information Technology and Services Innovation Internet Services Mobile Platform Productivity Project Management Reporting SaaS Scale Security Services-Prepackaged Software Software Software Deve",
+          "graduationDate": null,
+          "applyUrl": "https://vistaequitypartners.getro.com/companies/smartsheet/jobs/92838758-associate-technical-writer-remote-eligible-costa-rica#content",
+          "firstSeen": "2026-09-11",
+          "source": "scraper"
+        },
+        {
+          "title": "Smartsheet Location: San José Province, San José, Costa Rica Posted: Today Private Equity Associate Automation Business",
+          "description": "And Industrial Business Software & Services Business/Productivity Software Cloud Management Collaboration Data Storage Effectiveness Enterprise Enterprise Software Information Security Information Technology and Services Innovation Internet Services Mobile Platform Productivity Project Management Reporting SaaS Scale Security Services-Prepackaged Software Software Software Development Storage Technology Work Management Workforce Management Private Equity Associate Automation Business And Industr",
+          "graduationDate": null,
+          "applyUrl": "https://vistaequitypartners.getro.com/companies/smartsheet#content",
+          "firstSeen": "2026-09-11",
+          "source": "scraper"
+        },
+        {
+          "title": "Enterprise Account Executive - State/Local Government",
+          "description": "Smartsheet Location: Bellevue, WA, USA Compensation: USD 97,500-192,500 / year Posted: Today Private Equity Senior Automation Business And Industrial Business Software & Services Business/Productivity Software Cloud Management Collaboration Data Storage Effectiveness Enterprise Enterprise Software Information Security Information Technology and Services Innovation Internet Services Mobile Platform Productivity Project Management Reporting SaaS Scale Security Services-Prepackaged Software Softwar",
+          "graduationDate": null,
+          "applyUrl": "https://vistaequitypartners.getro.com/companies/smartsheet/jobs/92838760-enterprise-account-executive-state-local-government#content",
+          "firstSeen": "2026-09-11",
+          "source": "scraper"
+        },
+        {
+          "title": "Smartsheet Location: Bellevue, WA, USA Compensation: USD 97,500-192,500 / year Posted: Today Private Equity Senior Autom",
+          "description": "ation Business And Industrial Business Software & Services Business/Productivity Software Cloud Management Collaboration Data Storage Effectiveness Enterprise Enterprise Software Information Security Information Technology and Services Innovation Internet Services Mobile Platform Productivity Project Management Reporting SaaS Scale Security Services-Prepackaged Software Software Software Development Storage Technology Work Management Workforce Management Private Equity Senior Automation Business",
+          "graduationDate": null,
+          "applyUrl": "https://vistaequitypartners.getro.com/companies/smartsheet#content",
+          "firstSeen": "2026-09-11",
+          "source": "scraper"
+        },
+        {
+          "title": "Manager, Regional Field Sales- ClassPass",
+          "description": "Playlist Technologies Location: United States Compensation: USD 80k-120k / year Posted: Today Director Advertising Analytics Android Art And Entertainment Artificial Intelligence Artificial Intelligence (AI) Communication Software Consumer Data & Analytics Entertainment Entertainment Software Heroku Internet Internet Services iOS Machine Learning Media Media & Entertainment Messaging Messaging and Telecommunications Mobile MongoDB Movies, Music and Entertainment Music Music and Audio Music Licen",
+          "graduationDate": null,
+          "applyUrl": "https://vistaequitypartners.getro.com/companies/playlist-technologies/jobs/92838031-manager-regional-field-sales-classpass#content",
+          "firstSeen": "2026-09-11",
+          "source": "scraper"
+        },
+        {
+          "title": "Playlist Technologies Location: United States Compensation: USD 80k-120k / year Posted: Today Director Advertising Analy",
+          "description": "tics Android Art And Entertainment Artificial Intelligence Artificial Intelligence (AI) Communication Software Consumer Data & Analytics Entertainment Entertainment Software Heroku Internet Internet Services iOS Machine Learning Media Media & Entertainment Messaging Messaging and Telecommunications Mobile MongoDB Movies, Music and Entertainment Music Music and Audio Music Licensing Music Streaming NoSQL Social Social Media Social Network Social Networking Software Streaming Technology, Informati",
+          "graduationDate": null,
+          "applyUrl": "https://vistaequitypartners.getro.com/companies/playlist-technologies#content",
+          "firstSeen": "2026-09-11",
+          "source": "scraper"
+        },
+        {
+          "title": "Director Advertising Analytics Android Art And Entertainment Artificial Intelligence Artificial Intelligence (AI) Commun",
+          "description": "ication Software Consumer Data & Analytics Entertainment Entertainment Software Heroku Internet Internet Services iOS Machine Learning Media Media & Entertainment Messaging Messaging and Telecommunications Mobile MongoDB Movies, Music and Entertainment Music Music and Audio Music Licensing Music Streaming NoSQL Social Social Media Social Network Social Networking Software Streaming Technology, Information and Internet Director Advertising Analytics Android Art And Entertainment Artificial Intell",
+          "graduationDate": null,
+          "applyUrl": "https://vistaequitypartners.getro.com/jobs",
+          "firstSeen": "2026-09-11",
+          "source": "scraper"
+        },
+        {
+          "title": "Technology, Information and Internet",
           "description": "",
           "graduationDate": null,
           "applyUrl": "https://vistaequitypartners.getro.com/jobs",
-          "firstSeen": "2026-09-09",
+          "firstSeen": "2026-09-11",
           "source": "scraper"
         },
         {
-          "title": "Senior Banking E-Commerce Finance Financial Services Fintech Internet Services Payments Shopping + 99 more",
-          "description": "",
+          "title": "Lead, Benefits Governance",
+          "description": "Playlist Technologies Location: United States Compensation: USD 102k-136k / year Posted: Today Director Advertising Analytics Android Art And Entertainment Artificial Intelligence Artificial Intelligence (AI) Communication Software Consumer Data & Analytics Entertainment Entertainment Software Heroku Internet Internet Services iOS Machine Learning Media Media & Entertainment Messaging Messaging and Telecommunications Mobile MongoDB Movies, Music and Entertainment Music Music and Audio Music Lice",
+          "graduationDate": null,
+          "applyUrl": "https://vistaequitypartners.getro.com/companies/playlist-technologies/jobs/92838033-lead-benefits-governance#content",
+          "firstSeen": "2026-09-11",
+          "source": "scraper"
+        },
+        {
+          "title": "Playlist Technologies Location: United States Compensation: USD 102k-136k / year Posted: Today Director Advertising Anal",
+          "description": "ytics Android Art And Entertainment Artificial Intelligence Artificial Intelligence (AI) Communication Software Consumer Data & Analytics Entertainment Entertainment Software Heroku Internet Internet Services iOS Machine Learning Media Media & Entertainment Messaging Messaging and Telecommunications Mobile MongoDB Movies, Music and Entertainment Music Music and Audio Music Licensing Music Streaming NoSQL Social Social Media Social Network Social Networking Software Streaming Technology, Informat",
+          "graduationDate": null,
+          "applyUrl": "https://vistaequitypartners.getro.com/companies/playlist-technologies#content",
+          "firstSeen": "2026-09-11",
+          "source": "scraper"
+        },
+        {
+          "title": "SMB Sales Specialist, Outbound",
+          "description": "Playlist Technologies Location: Singapore Posted: Today Associate Advertising Analytics Android Art And Entertainment Artificial Intelligence Artificial Intelligence (AI) Communication Software Consumer Data & Analytics Entertainment Entertainment Software Heroku Internet Internet Services iOS Machine Learning Media Media & Entertainment Messaging Messaging and Telecommunications Mobile MongoDB Movies, Music and Entertainment Music Music and Audio Music Licensing Music Streaming NoSQL Social Soc",
+          "graduationDate": null,
+          "applyUrl": "https://vistaequitypartners.getro.com/companies/playlist-technologies/jobs/92838030-smb-sales-specialist-outbound#content",
+          "firstSeen": "2026-09-11",
+          "source": "scraper"
+        },
+        {
+          "title": "Playlist Technologies Location: Singapore Posted: Today Associate Advertising Analytics Android Art And Entertainment Ar",
+          "description": "tificial Intelligence Artificial Intelligence (AI) Communication Software Consumer Data & Analytics Entertainment Entertainment Software Heroku Internet Internet Services iOS Machine Learning Media Media & Entertainment Messaging Messaging and Telecommunications Mobile MongoDB Movies, Music and Entertainment Music Music and Audio Music Licensing Music Streaming NoSQL Social Social Media Social Network Social Networking Software Streaming Technology, Information and Internet Associate Advertising",
+          "graduationDate": null,
+          "applyUrl": "https://vistaequitypartners.getro.com/companies/playlist-technologies#content",
+          "firstSeen": "2026-09-11",
+          "source": "scraper"
+        },
+        {
+          "title": "Associate Advertising Analytics Android Art And Entertainment Artificial Intelligence Artificial Intelligence (AI) Commu",
+          "description": "nication Software Consumer Data & Analytics Entertainment Entertainment Software Heroku Internet Internet Services iOS Machine Learning Media Media & Entertainment Messaging Messaging and Telecommunications Mobile MongoDB Movies, Music and Entertainment Music Music and Audio Music Licensing Music Streaming NoSQL Social Social Media Social Network Social Networking Software Streaming Technology, Information and Internet Associate Advertising Analytics Android Art And Entertainment Artificial Inte",
           "graduationDate": null,
           "applyUrl": "https://vistaequitypartners.getro.com/jobs",
-          "firstSeen": "2026-09-09",
+          "firstSeen": "2026-09-11",
           "source": "scraper"
         },
         {
-          "title": "Klarna Location: Stockholm, Sweden Posted: Today Senior Banking E-Commerce Finance Financial Services Fintech Internet S",
-          "description": "ervices Payments Shopping Senior Banking E-Commerce Finance Financial Services Fintech Internet Services Payments Shopping + 99 more",
+          "title": "Recruiting Operations Coordinator",
+          "description": "Playlist Technologies Location: Malaysia Posted: Today Entry Level Advertising Analytics Android Art And Entertainment Artificial Intelligence Artificial Intelligence (AI) Communication Software Consumer Data & Analytics Entertainment Entertainment Software Heroku Internet Internet Services iOS Machine Learning Media Media & Entertainment Messaging Messaging and Telecommunications Mobile MongoDB Movies, Music and Entertainment Music Music and Audio Music Licensing Music Streaming NoSQL Social So",
           "graduationDate": null,
-          "applyUrl": "https://vistaequitypartners.getro.com/companies/klarna#content",
-          "firstSeen": "2026-09-09",
+          "applyUrl": "https://vistaequitypartners.getro.com/companies/playlist-technologies/jobs/92838032-recruiting-operations-coordinator#content",
+          "firstSeen": "2026-09-11",
           "source": "scraper"
         },
         {
-          "title": "Associate Account Manager",
-          "description": "TripleLift Location: Chicago, IL, USA Compensation: USD 40k-60k / year Posted: Today Private Equity Associate Advertising Advertising Platforms Digital Media Internet Native Advertising Software Private Equity Associate Advertising Advertising Platforms Digital Media Internet Native Advertising Software + 99 more View job",
+          "title": "Playlist Technologies Location: Malaysia Posted: Today Entry Level Advertising Analytics Android Art And Entertainment A",
+          "description": "rtificial Intelligence Artificial Intelligence (AI) Communication Software Consumer Data & Analytics Entertainment Entertainment Software Heroku Internet Internet Services iOS Machine Learning Media Media & Entertainment Messaging Messaging and Telecommunications Mobile MongoDB Movies, Music and Entertainment Music Music and Audio Music Licensing Music Streaming NoSQL Social Social Media Social Network Social Networking Software Streaming Technology, Information and Internet Entry Level Advertis",
           "graduationDate": null,
-          "applyUrl": "https://vistaequitypartners.getro.com/companies/triplelift/jobs/92733302-associate-account-manager#content",
-          "firstSeen": "2026-09-10",
+          "applyUrl": "https://vistaequitypartners.getro.com/companies/playlist-technologies#content",
+          "firstSeen": "2026-09-11",
           "source": "scraper"
         },
         {
-          "title": "TripleLift Location: Chicago, IL, USA Compensation: USD 40k-60k / year Posted: Today Private Equity Associate Advertisin",
-          "description": "g Advertising Platforms Digital Media Internet Native Advertising Software Private Equity Associate Advertising Advertising Platforms Digital Media Internet Native Advertising Software + 99 more",
-          "graduationDate": null,
-          "applyUrl": "https://vistaequitypartners.getro.com/companies/triplelift#content",
-          "firstSeen": "2026-09-10",
-          "source": "scraper"
-        },
-        {
-          "title": "Private Equity Associate Advertising Advertising Platforms Digital Media Internet Native Advertising Software Private Eq",
-          "description": "uity Associate Advertising Advertising Platforms Digital Media Internet Native Advertising Software + 99 more",
+          "title": "Entry Level Advertising Analytics Android Art And Entertainment Artificial Intelligence Artificial Intelligence (AI) Com",
+          "description": "munication Software Consumer Data & Analytics Entertainment Entertainment Software Heroku Internet Internet Services iOS Machine Learning Media Media & Entertainment Messaging Messaging and Telecommunications Mobile MongoDB Movies, Music and Entertainment Music Music and Audio Music Licensing Music Streaming NoSQL Social Social Media Social Network Social Networking Software Streaming Technology, Information and Internet Entry Level Advertising Analytics Android Art And Entertainment Artificial",
           "graduationDate": null,
           "applyUrl": "https://vistaequitypartners.getro.com/jobs",
-          "firstSeen": "2026-09-10",
+          "firstSeen": "2026-09-11",
           "source": "scraper"
         },
         {
-          "title": "Private Equity Associate Advertising Advertising Platforms Digital Media Internet Native Advertising Software",
-          "description": "",
+          "title": "Onboarding Specialist",
+          "description": "Playlist Technologies Location: Brazil Posted: Today Associate Advertising Analytics Android Art And Entertainment Artificial Intelligence Artificial Intelligence (AI) Communication Software Consumer Data & Analytics Entertainment Entertainment Software Heroku Internet Internet Services iOS Machine Learning Media Media & Entertainment Messaging Messaging and Telecommunications Mobile MongoDB Movies, Music and Entertainment Music Music and Audio Music Licensing Music Streaming NoSQL Social Social",
           "graduationDate": null,
-          "applyUrl": "https://vistaequitypartners.getro.com/jobs",
-          "firstSeen": "2026-09-10",
+          "applyUrl": "https://vistaequitypartners.getro.com/companies/playlist-technologies/jobs/92838034-onboarding-specialist#content",
+          "firstSeen": "2026-09-11",
           "source": "scraper"
         },
         {
-          "title": "Private Equity Associate Advertising Advertising Platforms Digital Media Internet Native Advertising Software + 99 more",
-          "description": "",
+          "title": "Playlist Technologies Location: Brazil Posted: Today Associate Advertising Analytics Android Art And Entertainment Artif",
+          "description": "icial Intelligence Artificial Intelligence (AI) Communication Software Consumer Data & Analytics Entertainment Entertainment Software Heroku Internet Internet Services iOS Machine Learning Media Media & Entertainment Messaging Messaging and Telecommunications Mobile MongoDB Movies, Music and Entertainment Music Music and Audio Music Licensing Music Streaming NoSQL Social Social Media Social Network Social Networking Software Streaming Technology, Information and Internet Associate Advertising An",
+          "graduationDate": null,
+          "applyUrl": "https://vistaequitypartners.getro.com/companies/playlist-technologies#content",
+          "firstSeen": "2026-09-11",
+          "source": "scraper"
+        },
+        {
+          "title": "Sr Product Manager",
+          "description": "Quickbase Location: Bengaluru, Karnataka, India Posted: 1 day Apps Automation Business And Industrial Business Process Automation (BPA) Business Process Improvement Business/Productivity Software Compliance CRM Data & Analytics Data Integration Developer Tools Digital Transformation Enterprise Software Internet Internet Services IT Management Mobile Mobile Apps Platform Project Management Software Software Development Software Development Applications Task Management Technology Workforce Managem",
+          "graduationDate": null,
+          "applyUrl": "https://in.linkedin.com/jobs/view/sr-product-manager-at-quickbase-4462512316?utm_source=Vista+Equity+Partners+job+board&utm_medium=getro.com&gh_src=Vista+Equity+Partners+job+board",
+          "firstSeen": "2026-09-11",
+          "source": "scraper"
+        },
+        {
+          "title": "Quickbase Location: Bengaluru, Karnataka, India Posted: 1 day Apps Automation Business And Industrial Business Process A",
+          "description": "utomation (BPA) Business Process Improvement Business/Productivity Software Compliance CRM Data & Analytics Data Integration Developer Tools Digital Transformation Enterprise Software Internet Internet Services IT Management Mobile Mobile Apps Platform Project Management Software Software Development Software Development Applications Task Management Technology Workforce Management Apps Automation Business And Industrial Business Process Automation (BPA) Business Process Improvement Business/Prod",
+          "graduationDate": null,
+          "applyUrl": "https://vistaequitypartners.getro.com/companies/quickbase-2#content",
+          "firstSeen": "2026-09-11",
+          "source": "scraper"
+        },
+        {
+          "title": "Apps Automation Business And Industrial Business Process Automation (BPA) Business Process Improvement Business/Producti",
+          "description": "vity Software Compliance CRM Data & Analytics Data Integration Developer Tools Digital Transformation Enterprise Software Internet Internet Services IT Management Mobile Mobile Apps Platform Project Management Software Software Development Software Development Applications Task Management Technology Workforce Management Apps Automation Business And Industrial Business Process Automation (BPA) Business Process Improvement Business/Productivity Software Compliance CRM Data & Analytics Data Integra",
           "graduationDate": null,
           "applyUrl": "https://vistaequitypartners.getro.com/jobs",
-          "firstSeen": "2026-09-10",
+          "firstSeen": "2026-09-11",
+          "source": "scraper"
+        },
+        {
+          "title": "Full Stack - Senior Engineer",
+          "description": "Innovapptive Location: Hyderabad, Telangana, India Posted: 1 day Series B Senior Apps Artificial Intelligence Asset Management Business And Industrial Business/Productivity Software Chat Bots Consulting and Research Energy and Natural Resources Enterprise Software Financial Services Information Technology and Services Internet of Things Manufacturing Media and Information Services (B2B) Mobile Mobile Apps Mobile Computing Software Products Oil and Gas Platform Product Development Product Managem",
+          "graduationDate": null,
+          "applyUrl": "https://vistaequitypartners.getro.com/companies/innovapptive/jobs/92791308-full-stack-senior-engineer#content",
+          "firstSeen": "2026-09-11",
+          "source": "scraper"
+        },
+        {
+          "title": "Innovapptive Location: Hyderabad, Telangana, India Posted: 1 day Series B Senior Apps Artificial Intelligence Asset Mana",
+          "description": "gement Business And Industrial Business/Productivity Software Chat Bots Consulting and Research Energy and Natural Resources Enterprise Software Financial Services Information Technology and Services Internet of Things Manufacturing Media and Information Services (B2B) Mobile Mobile Apps Mobile Computing Software Products Oil and Gas Platform Product Development Product Management SaaS SaaS Solutions Shutdowns Software Software Development Supply Chain Management Supply Chain Solutions Technolog",
+          "graduationDate": null,
+          "applyUrl": "https://vistaequitypartners.getro.com/companies/innovapptive#content",
+          "firstSeen": "2026-09-11",
+          "source": "scraper"
+        },
+        {
+          "title": "Series B Senior Apps Artificial Intelligence Asset Management Business And Industrial Business/Productivity Software Cha",
+          "description": "t Bots Consulting and Research Energy and Natural Resources Enterprise Software Financial Services Information Technology and Services Internet of Things Manufacturing Media and Information Services (B2B) Mobile Mobile Apps Mobile Computing Software Products Oil and Gas Platform Product Development Product Management SaaS SaaS Solutions Shutdowns Software Software Development Supply Chain Management Supply Chain Solutions Technology Transportation Warehousing Workforce Management Series B Senior",
+          "graduationDate": null,
+          "applyUrl": "https://vistaequitypartners.getro.com/jobs",
+          "firstSeen": "2026-09-11",
           "source": "scraper"
         }
       ]
@@ -6201,119 +6361,119 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:43:22.571714+00:00",
+      "lastChecked": "2026-09-11T15:40:28.914764+00:00",
       "jobs": []
     },
     "Sona Asset Management US": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:43:30.678154+00:00",
+      "lastChecked": "2026-09-11T15:40:36.622951+00:00",
       "jobs": []
     },
     "Valueact Capital Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:43:46.464605+00:00",
+      "lastChecked": "2026-09-11T15:40:55.354134+00:00",
       "jobs": []
     },
     "Gerber/Taylor Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:44:05.587657+00:00",
+      "lastChecked": "2026-09-11T15:41:07.728348+00:00",
       "jobs": []
     },
     "Twinbeech Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:47:58.254720+00:00",
+      "lastChecked": "2026-09-11T15:44:59.739901+00:00",
       "jobs": []
     },
     "Highbridge Capital Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:48:04.970085+00:00",
+      "lastChecked": "2026-09-11T15:45:05.995333+00:00",
       "jobs": []
     },
     "Pinnacle Asset Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:48:12.213474+00:00",
+      "lastChecked": "2026-09-11T15:45:13.135211+00:00",
       "jobs": []
     },
     "Redwood Capital Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:48:19.402088+00:00",
+      "lastChecked": "2026-09-11T15:45:19.415583+00:00",
       "jobs": []
     },
     "Voleon Capital Management": {
       "hasInternPosting": false,
       "careerUrl": "https://www.voleon.com/jobs",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:48:24.510633+00:00",
+      "lastChecked": "2026-09-11T15:45:24.119779+00:00",
       "jobs": []
     },
     "Ellington Management Group": {
       "hasInternPosting": false,
       "careerUrl": "https://www.ellington.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:48:26.594925+00:00",
+      "lastChecked": "2026-09-11T15:45:26.237576+00:00",
       "jobs": []
     },
     "HG Vora Capital Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:48:34.932668+00:00",
+      "lastChecked": "2026-09-11T15:45:33.957499+00:00",
       "jobs": []
     },
     "Corbin Capital Partners": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:48:44.931873+00:00",
+      "lastChecked": "2026-09-11T15:45:44.060497+00:00",
       "jobs": []
     },
     "One William Street Capital Management LP.": {
       "hasInternPosting": false,
       "careerUrl": "https://www.onewilliamstreet.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:48:55.765487+00:00",
+      "lastChecked": "2026-09-11T15:45:55.952415+00:00",
       "jobs": []
     },
     "Silver Creek Advisory Partners": {
       "hasInternPosting": false,
       "careerUrl": "https://www.silvercreekcp.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:48:57.920056+00:00",
+      "lastChecked": "2026-09-11T15:45:58.245879+00:00",
       "jobs": []
     },
     "Abrams Capital Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:49:06.592981+00:00",
+      "lastChecked": "2026-09-11T15:46:07.325318+00:00",
       "jobs": []
     },
     "Aristeia Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:49:15.786335+00:00",
+      "lastChecked": "2026-09-11T15:46:16.273562+00:00",
       "jobs": []
     },
     "Crow Holdings Capital": {
       "hasInternPosting": true,
       "careerUrl": "https://www.crowholdings.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:49:20.096544+00:00",
+      "lastChecked": "2026-09-11T15:46:20.765605+00:00",
       "jobs": [
         {
           "title": "Crow Holdings Capital Dallas Investor Relations & Investor Coverage Summer Analyst Crow Holdings Capital Dallas Crow Holdings Capital Real Estate offers rising juniors and seniors the opportunity to p",
@@ -6364,14 +6524,6 @@
           "source": "scraper"
         },
         {
-          "title": "All Opportunities",
-          "description": "Filter by Business Unit Crow Holdings Crow Holdings Capital Crow Holdings Development Crow Holdings Energy Crow Holdings Renewables Trammell Crow Residential Filter by Location Atlanta Austin Boca Raton Boston Carlsbad Charlotte Chicago Dallas Denver Houston Los Angeles New Jersey New York Orlando Phoenix Raleigh San Diego Seattle Tampa Washington D.C. Reset Filters Title Business Unit Location Investor Relations & Investor Coverage Summer Analyst Crow Holdings Capital dallas , Real Estate Priva",
-          "graduationDate": null,
-          "applyUrl": "https://www.crowholdings.com/career/investor-relations-investor-coverage-summer-analyst/",
-          "firstSeen": "2026-09-02",
-          "source": "scraper"
-        },
-        {
           "title": "Investor Relations & Investor Coverage Summer Analyst",
           "description": "Crow Holdings Capital Dallas Crow Holdings Capital Real Estate offers rising juniors and seniors the opportunity to participate in a comprehensive Summer Internship Program across multiple investment functions, including Investor Relations and Investor Coverage. The intern will have the opportunity to support and train on existing and prospective investor relationships by assisting with managing the fundraising process for new CHC real estate private equity funds and ventures, interacting with i",
           "graduationDate": null,
@@ -6394,30 +6546,6 @@
           "applyUrl": "https://www.crowholdings.com/career/real-estate-private-equity-analyst/",
           "firstSeen": "2026-09-02",
           "source": "scraper"
-        },
-        {
-          "title": "Real Estate Private Equity Summer Analyst",
-          "description": "",
-          "graduationDate": null,
-          "applyUrl": "https://www.crowholdings.com/career/real-estate-private-equity-summer-analyst/",
-          "firstSeen": "2026-09-01",
-          "source": "scraper"
-        },
-        {
-          "title": "CHC-Real Estate offers rising seniors the opportunity to participate in a summer internship in the Real Estate Group wor",
-          "description": "king in both acquisition and asset management capacities across all product types. Interns will experience the same training program as the new full-time analysts, gaining experience evaluating the fundamental aspects of institutional real estate while employing a variety of capital structures to determine the viability of investments. Typical responsibilities include financial modeling using Excel and real estate valuation software (ARGUS) to forecast performance and evaluate financial returns",
-          "graduationDate": null,
-          "applyUrl": "https://www.crowholdings.com/career/real-estate-private-equity-summer-analyst/",
-          "firstSeen": "2026-09-01",
-          "source": "scraper"
-        },
-        {
-          "title": "Create financial models using Excel and ARGUS to forecast performance and evaluate financial returns for potential acqui",
-          "description": "sitions and existing assets under management Assist in transaction execution and the due diligence process for various product types Research new business opportunities Assist in preparation of presentation materials Produce monthly cash flow projections Conduct market research and compile internal and external data for deal analysis Compile data available from both internal and external resources to be used in deal analysis",
-          "graduationDate": null,
-          "applyUrl": "https://www.crowholdings.com/career/real-estate-private-equity-summer-analyst/",
-          "firstSeen": "2026-09-01",
-          "source": "scraper"
         }
       ]
     },
@@ -6425,14 +6553,14 @@
       "hasInternPosting": false,
       "careerUrl": "https://www.generationim.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:49:24.350966+00:00",
+      "lastChecked": "2026-09-11T15:46:25.265358+00:00",
       "jobs": []
     },
     "Parametric Portfolio Associates": {
       "hasInternPosting": true,
       "careerUrl": "https://www.parametricportfolio.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:49:30.100681+00:00",
+      "lastChecked": "2026-09-11T15:46:31.332779+00:00",
       "jobs": [
         {
           "title": "International Equity",
@@ -6544,35 +6672,35 @@
       "hasInternPosting": false,
       "careerUrl": "https://www.juntocapital.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:49:32.352216+00:00",
+      "lastChecked": "2026-09-11T15:46:33.608597+00:00",
       "jobs": []
     },
     "Polymer Capital Management HK Limited": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:49:39.118620+00:00",
+      "lastChecked": "2026-09-11T15:46:39.809130+00:00",
       "jobs": []
     },
     "Whale Rock Capital Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:49:51.084022+00:00",
+      "lastChecked": "2026-09-11T15:46:51.043362+00:00",
       "jobs": []
     },
     "Twin Tree Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:49:58.135892+00:00",
+      "lastChecked": "2026-09-11T15:46:57.309430+00:00",
       "jobs": []
     },
     "MAN Solutions Limited": {
       "hasInternPosting": true,
       "careerUrl": "https://www.man.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:50:04.476369+00:00",
+      "lastChecked": "2026-09-11T15:47:04.141433+00:00",
       "jobs": [
         {
           "title": "Internships",
@@ -6770,14 +6898,6 @@
           "title": "Quantitative Researcher",
           "description": "<div class=\"content-intro\"><p><strong>About Man Group</strong></p> <p>Man Group is a global alternative investment management firm focused on pursuing outperformance for sophisticated clients via our Systematic, Discretionary and Solutions offerings. Powered by talent and advanced technology, our single and multi-manager investment strategies are underpinned by deep research and span public and private markets, across all major asset classes, with a significant focus on alternatives. Man Group t",
           "graduationDate": null,
-          "applyUrl": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4737145101",
-          "firstSeen": "2026-04-18",
-          "source": "scraper"
-        },
-        {
-          "title": "Quantitative Researcher",
-          "description": "<div class=\"content-intro\"><p><strong>About Man Group</strong></p> <p>Man Group is a global alternative investment management firm focused on pursuing outperformance for sophisticated clients via our Systematic, Discretionary and Solutions offerings. Powered by talent and advanced technology, our single and multi-manager investment strategies are underpinned by deep research and span public and private markets, across all major asset classes, with a significant focus on alternatives. Man Group t",
-          "graduationDate": null,
           "applyUrl": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4882442101",
           "firstSeen": "2026-06-26",
           "source": "scraper"
@@ -6791,11 +6911,27 @@
           "source": "scraper"
         },
         {
+          "title": "Quantitative Researcher",
+          "description": "<div class=\"content-intro\"><p><strong>About Man Group</strong></p> <p>Man Group is a global alternative investment management firm focused on pursuing outperformance for sophisticated clients via our Systematic, Discretionary and Solutions offerings. Powered by talent and advanced technology, our single and multi-manager investment strategies are underpinned by deep research and span public and private markets, across all major asset classes, with a significant focus on alternatives. Man Group t",
+          "graduationDate": null,
+          "applyUrl": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4737145101",
+          "firstSeen": "2026-04-18",
+          "source": "scraper"
+        },
+        {
           "title": "Quantitative Researcher - AI/ML",
           "description": "<div class=\"content-intro\"><p><strong>About Man Group</strong></p> <p>Man Group is a global alternative investment management firm focused on pursuing outperformance for sophisticated clients via our Systematic, Discretionary and Solutions offerings. Powered by talent and advanced technology, our single and multi-manager investment strategies are underpinned by deep research and span public and private markets, across all major asset classes, with a significant focus on alternatives. Man Group t",
           "graduationDate": null,
           "applyUrl": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4882441101",
           "firstSeen": "2026-06-26",
+          "source": "scraper"
+        },
+        {
+          "title": "Quant Researcher",
+          "description": "<div class=\"content-intro\"><p><strong>About Man Group</strong></p> <p>Man Group is a global alternative investment management firm focused on pursuing outperformance for sophisticated clients via our Systematic, Discretionary and Solutions offerings. Powered by talent and advanced technology, our single and multi-manager investment strategies are underpinned by deep research and span public and private markets, across all major asset classes, with a significant focus on alternatives. Man Group t",
+          "graduationDate": null,
+          "applyUrl": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4960826101",
+          "firstSeen": "2026-09-11",
           "source": "scraper"
         },
         {
@@ -6842,6 +6978,14 @@
           "title": "Risk & Performance Analyst",
           "description": "<div class=\"content-intro\"><p><strong>About Man Group</strong></p> <p>Man Group is a global alternative investment management firm focused on pursuing outperformance for sophisticated clients via our Systematic, Discretionary and Solutions offerings. Powered by talent and advanced technology, our single and multi-manager investment strategies are underpinned by deep research and span public and private markets, across all major asset classes, with a significant focus on alternatives. Man Group t",
           "graduationDate": null,
+          "applyUrl": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4958874101",
+          "firstSeen": "2026-08-27",
+          "source": "scraper"
+        },
+        {
+          "title": "Risk & Performance Analyst",
+          "description": "<div class=\"content-intro\"><p><strong>About Man Group</strong></p> <p>Man Group is a global alternative investment management firm focused on pursuing outperformance for sophisticated clients via our Systematic, Discretionary and Solutions offerings. Powered by talent and advanced technology, our single and multi-manager investment strategies are underpinned by deep research and span public and private markets, across all major asset classes, with a significant focus on alternatives. Man Group t",
+          "graduationDate": null,
           "applyUrl": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4957895101",
           "firstSeen": "2026-08-25",
           "source": "scraper"
@@ -6852,14 +6996,6 @@
           "graduationDate": null,
           "applyUrl": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4930572101",
           "firstSeen": "2026-07-18",
-          "source": "scraper"
-        },
-        {
-          "title": "Risk & Performance Analyst",
-          "description": "<div class=\"content-intro\"><p><strong>About Man Group</strong></p> <p>Man Group is a global alternative investment management firm focused on pursuing outperformance for sophisticated clients via our Systematic, Discretionary and Solutions offerings. Powered by talent and advanced technology, our single and multi-manager investment strategies are underpinned by deep research and span public and private markets, across all major asset classes, with a significant focus on alternatives. Man Group t",
-          "graduationDate": null,
-          "applyUrl": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4958874101",
-          "firstSeen": "2026-08-27",
           "source": "scraper"
         },
         {
@@ -6884,6 +7020,14 @@
           "graduationDate": null,
           "applyUrl": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4839427101",
           "firstSeen": "2026-04-18",
+          "source": "scraper"
+        },
+        {
+          "title": "Senior Java Engineer",
+          "description": "<div class=\"content-intro\"><p><strong>About Man Group</strong></p> <p>Man Group is a global alternative investment management firm focused on pursuing outperformance for sophisticated clients via our Systematic, Discretionary and Solutions offerings. Powered by talent and advanced technology, our single and multi-manager investment strategies are underpinned by deep research and span public and private markets, across all major asset classes, with a significant focus on alternatives. Man Group t",
+          "graduationDate": null,
+          "applyUrl": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4936363101",
+          "firstSeen": "2026-09-11",
           "source": "scraper"
         },
         {
@@ -6964,7 +7108,7 @@
       "hasInternPosting": true,
       "careerUrl": "https://www.man.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:50:10.999490+00:00",
+      "lastChecked": "2026-09-11T15:47:10.921998+00:00",
       "jobs": [
         {
           "title": "Internships",
@@ -7162,14 +7306,6 @@
           "title": "Quantitative Researcher",
           "description": "<div class=\"content-intro\"><p><strong>About Man Group</strong></p> <p>Man Group is a global alternative investment management firm focused on pursuing outperformance for sophisticated clients via our Systematic, Discretionary and Solutions offerings. Powered by talent and advanced technology, our single and multi-manager investment strategies are underpinned by deep research and span public and private markets, across all major asset classes, with a significant focus on alternatives. Man Group t",
           "graduationDate": null,
-          "applyUrl": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4737145101",
-          "firstSeen": "2026-04-18",
-          "source": "scraper"
-        },
-        {
-          "title": "Quantitative Researcher",
-          "description": "<div class=\"content-intro\"><p><strong>About Man Group</strong></p> <p>Man Group is a global alternative investment management firm focused on pursuing outperformance for sophisticated clients via our Systematic, Discretionary and Solutions offerings. Powered by talent and advanced technology, our single and multi-manager investment strategies are underpinned by deep research and span public and private markets, across all major asset classes, with a significant focus on alternatives. Man Group t",
-          "graduationDate": null,
           "applyUrl": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4882442101",
           "firstSeen": "2026-06-26",
           "source": "scraper"
@@ -7183,11 +7319,27 @@
           "source": "scraper"
         },
         {
+          "title": "Quantitative Researcher",
+          "description": "<div class=\"content-intro\"><p><strong>About Man Group</strong></p> <p>Man Group is a global alternative investment management firm focused on pursuing outperformance for sophisticated clients via our Systematic, Discretionary and Solutions offerings. Powered by talent and advanced technology, our single and multi-manager investment strategies are underpinned by deep research and span public and private markets, across all major asset classes, with a significant focus on alternatives. Man Group t",
+          "graduationDate": null,
+          "applyUrl": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4737145101",
+          "firstSeen": "2026-04-18",
+          "source": "scraper"
+        },
+        {
           "title": "Quantitative Researcher - AI/ML",
           "description": "<div class=\"content-intro\"><p><strong>About Man Group</strong></p> <p>Man Group is a global alternative investment management firm focused on pursuing outperformance for sophisticated clients via our Systematic, Discretionary and Solutions offerings. Powered by talent and advanced technology, our single and multi-manager investment strategies are underpinned by deep research and span public and private markets, across all major asset classes, with a significant focus on alternatives. Man Group t",
           "graduationDate": null,
           "applyUrl": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4882441101",
           "firstSeen": "2026-06-26",
+          "source": "scraper"
+        },
+        {
+          "title": "Quant Researcher",
+          "description": "<div class=\"content-intro\"><p><strong>About Man Group</strong></p> <p>Man Group is a global alternative investment management firm focused on pursuing outperformance for sophisticated clients via our Systematic, Discretionary and Solutions offerings. Powered by talent and advanced technology, our single and multi-manager investment strategies are underpinned by deep research and span public and private markets, across all major asset classes, with a significant focus on alternatives. Man Group t",
+          "graduationDate": null,
+          "applyUrl": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4960826101",
+          "firstSeen": "2026-09-11",
           "source": "scraper"
         },
         {
@@ -7234,6 +7386,14 @@
           "title": "Risk & Performance Analyst",
           "description": "<div class=\"content-intro\"><p><strong>About Man Group</strong></p> <p>Man Group is a global alternative investment management firm focused on pursuing outperformance for sophisticated clients via our Systematic, Discretionary and Solutions offerings. Powered by talent and advanced technology, our single and multi-manager investment strategies are underpinned by deep research and span public and private markets, across all major asset classes, with a significant focus on alternatives. Man Group t",
           "graduationDate": null,
+          "applyUrl": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4958874101",
+          "firstSeen": "2026-08-27",
+          "source": "scraper"
+        },
+        {
+          "title": "Risk & Performance Analyst",
+          "description": "<div class=\"content-intro\"><p><strong>About Man Group</strong></p> <p>Man Group is a global alternative investment management firm focused on pursuing outperformance for sophisticated clients via our Systematic, Discretionary and Solutions offerings. Powered by talent and advanced technology, our single and multi-manager investment strategies are underpinned by deep research and span public and private markets, across all major asset classes, with a significant focus on alternatives. Man Group t",
+          "graduationDate": null,
           "applyUrl": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4957895101",
           "firstSeen": "2026-08-25",
           "source": "scraper"
@@ -7244,14 +7404,6 @@
           "graduationDate": null,
           "applyUrl": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4930572101",
           "firstSeen": "2026-07-18",
-          "source": "scraper"
-        },
-        {
-          "title": "Risk & Performance Analyst",
-          "description": "<div class=\"content-intro\"><p><strong>About Man Group</strong></p> <p>Man Group is a global alternative investment management firm focused on pursuing outperformance for sophisticated clients via our Systematic, Discretionary and Solutions offerings. Powered by talent and advanced technology, our single and multi-manager investment strategies are underpinned by deep research and span public and private markets, across all major asset classes, with a significant focus on alternatives. Man Group t",
-          "graduationDate": null,
-          "applyUrl": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4958874101",
-          "firstSeen": "2026-08-27",
           "source": "scraper"
         },
         {
@@ -7276,6 +7428,14 @@
           "graduationDate": null,
           "applyUrl": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4839427101",
           "firstSeen": "2026-04-18",
+          "source": "scraper"
+        },
+        {
+          "title": "Senior Java Engineer",
+          "description": "<div class=\"content-intro\"><p><strong>About Man Group</strong></p> <p>Man Group is a global alternative investment management firm focused on pursuing outperformance for sophisticated clients via our Systematic, Discretionary and Solutions offerings. Powered by talent and advanced technology, our single and multi-manager investment strategies are underpinned by deep research and span public and private markets, across all major asset classes, with a significant focus on alternatives. Man Group t",
+          "graduationDate": null,
+          "applyUrl": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4936363101",
+          "firstSeen": "2026-09-11",
           "source": "scraper"
         },
         {
@@ -7356,56 +7516,56 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:50:20.662182+00:00",
+      "lastChecked": "2026-09-11T15:47:21.472345+00:00",
       "jobs": []
     },
     "Atairos Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:50:33.088226+00:00",
+      "lastChecked": "2026-09-11T15:47:38.942352+00:00",
       "jobs": []
     },
     "Windacre": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:50:40.052506+00:00",
+      "lastChecked": "2026-09-11T15:47:45.203921+00:00",
       "jobs": []
     },
     "Lombard Odier Asset Management USA": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:50:52.263899+00:00",
+      "lastChecked": "2026-09-11T15:47:58.421987+00:00",
       "jobs": []
     },
     "Parallax Volatility Advisers": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:50:59.121585+00:00",
+      "lastChecked": "2026-09-11T15:48:04.706410+00:00",
       "jobs": []
     },
     "Loancore Capital Credit Advisor": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:51:10.717321+00:00",
+      "lastChecked": "2026-09-11T15:48:17.999041+00:00",
       "jobs": []
     },
     "Wolverine Asset Management": {
       "hasInternPosting": false,
       "careerUrl": "https://www.wolam.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:51:13.067175+00:00",
+      "lastChecked": "2026-09-11T15:48:20.305670+00:00",
       "jobs": []
     },
     "HSBC Global Asset Management Canada Limited": {
       "hasInternPosting": true,
       "careerUrl": "https://www.hsbc.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:51:20.059610+00:00",
+      "lastChecked": "2026-09-11T15:48:29.515851+00:00",
       "jobs": [
         {
           "title": "International Wealth and Premier Banking",
@@ -7525,98 +7685,98 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:51:33.698514+00:00",
+      "lastChecked": "2026-09-11T15:48:43.838763+00:00",
       "jobs": []
     },
     "Marshall Wace Asia Limited": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:51:49.508111+00:00",
+      "lastChecked": "2026-09-11T15:48:55.231683+00:00",
       "jobs": []
     },
     "Avenue Capital Management II": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:51:58.061019+00:00",
+      "lastChecked": "2026-09-11T15:49:04.437160+00:00",
       "jobs": []
     },
     "Braidwell": {
       "hasInternPosting": false,
       "careerUrl": "https://www.braidwell.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:52:00.232897+00:00",
+      "lastChecked": "2026-09-11T15:49:07.154910+00:00",
       "jobs": []
     },
     "Pentwater Capital Management": {
       "hasInternPosting": false,
       "careerUrl": "https://www.pentwater.com/careers/students",
-      "status": "ok",
-      "lastChecked": "2026-09-10T15:52:39.123953+00:00",
+      "status": "request_error",
+      "lastChecked": "2026-09-11T15:49:10.565146+00:00",
       "jobs": []
     },
     "Aspex Management HK Limited": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:53:04.734180+00:00",
+      "lastChecked": "2026-09-11T15:49:34.133303+00:00",
       "jobs": []
     },
     "First Sentier Investors": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:53:34.000872+00:00",
+      "lastChecked": "2026-09-11T15:50:02.494142+00:00",
       "jobs": []
     },
     "Steadfast Capital Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:53:43.002287+00:00",
+      "lastChecked": "2026-09-11T15:50:10.626045+00:00",
       "jobs": []
     },
     "Tilden Park Capital Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:53:50.122466+00:00",
+      "lastChecked": "2026-09-11T15:50:16.860977+00:00",
       "jobs": []
     },
     "Trian Fund Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:53:59.716316+00:00",
+      "lastChecked": "2026-09-11T15:50:27.238129+00:00",
       "jobs": []
     },
     "MFN Partners Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:54:07.039696+00:00",
+      "lastChecked": "2026-09-11T15:50:33.868277+00:00",
       "jobs": []
     },
     "Eminence Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:54:14.112295+00:00",
+      "lastChecked": "2026-09-11T15:50:40.274593+00:00",
       "jobs": []
     },
     "Christofferson Robb": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:54:23.268366+00:00",
+      "lastChecked": "2026-09-11T15:50:49.445538+00:00",
       "jobs": []
     },
     "Platinum Asset Management": {
       "hasInternPosting": true,
       "careerUrl": "https://www.platinum.com.au/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:54:29.592300+00:00",
+      "lastChecked": "2026-09-11T15:50:54.430849+00:00",
       "jobs": [
         {
           "title": "Platinum International Strategy",
@@ -7640,50 +7800,66 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:54:36.671547+00:00",
+      "lastChecked": "2026-09-11T15:51:00.633828+00:00",
       "jobs": []
     },
     "Southpoint Capital Advisors": {
       "hasInternPosting": false,
       "careerUrl": "https://www.southpointcapital.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:54:40.799202+00:00",
+      "lastChecked": "2026-09-11T15:51:05.100999+00:00",
       "jobs": []
     },
     "Slate Path Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:54:51.019100+00:00",
+      "lastChecked": "2026-09-11T15:51:16.975303+00:00",
       "jobs": []
     },
     "Bluecove Limited": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:55:02.833253+00:00",
+      "lastChecked": "2026-09-11T15:51:29.380916+00:00",
       "jobs": []
     },
     "Zimmer Partners": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:55:10.435785+00:00",
+      "lastChecked": "2026-09-11T15:51:35.967534+00:00",
       "jobs": []
     },
     "Aquatic Capital Management": {
       "hasInternPosting": false,
       "careerUrl": "https://www.aquaticcapital.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:55:12.658193+00:00",
+      "lastChecked": "2026-09-11T15:51:38.194805+00:00",
       "jobs": []
     },
     "Weiss Asset Management": {
       "hasInternPosting": true,
       "careerUrl": "https://www.weissasset.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:55:15.649440+00:00",
+      "lastChecked": "2026-09-11T15:51:40.935288+00:00",
       "jobs": [
+        {
+          "title": "Investment Compliance Co-op",
+          "description": "<h3 id=\"About-the-Firm\" data-local-id=\"55e4e4cf9d48\" data-renderer-start-pos=\"1\">About the Firm</h3> <p data-renderer-start-pos=\"17\" data-local-id=\"e209ec774165\">Weiss Asset Management is a Boston-based hedge fund managing multi-strategy investment portfolios with approximately $4.5 billion in assets under management, with additional offices in New York, San Francisco, and Hong Kong. Headquartered in Back Bay, Weiss brings together a lean, high-caliber team across Investment and Business functio",
+          "graduationDate": null,
+          "applyUrl": "https://job-boards.greenhouse.io/weissassetmanagement/jobs/8797074002",
+          "firstSeen": "2026-09-11",
+          "source": "scraper"
+        },
+        {
+          "title": "Investment Operations Co-op",
+          "description": "<h3 data-local-id=\"cd48ff009637\" data-prosemirror-content-type=\"node\" data-prosemirror-node-name=\"heading\" data-prosemirror-node-block=\"true\" data-pm-slice=\"1 1 []\">About the Firm</h3> <p data-local-id=\"d36b1c465ce9\" data-prosemirror-content-type=\"node\" data-prosemirror-node-name=\"paragraph\" data-prosemirror-node-block=\"true\">Weiss Asset Management is a Boston-based hedge fund managing multi-strategy investment portfolios with approximately $4.5 billion in assets under management, with additiona",
+          "graduationDate": null,
+          "applyUrl": "https://job-boards.greenhouse.io/weissassetmanagement/jobs/8797380002",
+          "firstSeen": "2026-09-11",
+          "source": "scraper"
+        },
         {
           "title": "Lead Office Manager",
           "description": "<p data-local-id=\"72abcb7904a8\" data-prosemirror-content-type=\"node\" data-prosemirror-node-name=\"paragraph\" data-prosemirror-node-block=\"true\" data-pm-slice=\"1 1 []\"><span style=\"font-size: 12pt;\">Weiss Asset Management (WAM), a Boston-based investment firm, is seeking a Lead Office Manager to lead a dynamic team and oversee the day-to-day functioning of the firm's office environment. Successful applicants will be strategic thinkers and self-starters who can drive initiatives, build scalable pro",
@@ -7706,14 +7882,14 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:55:28.530088+00:00",
+      "lastChecked": "2026-09-11T15:51:54.050862+00:00",
       "jobs": []
     },
     "Jpmorgan Alternative Asset Management": {
       "hasInternPosting": true,
       "careerUrl": "https://www.jpmorgan.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:55:35.592328+00:00",
+      "lastChecked": "2026-09-11T15:52:01.769589+00:00",
       "jobs": [
         {
           "title": "Corporate Functions",
@@ -7753,42 +7929,42 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:55:47.902635+00:00",
+      "lastChecked": "2026-09-11T15:52:11.045244+00:00",
       "jobs": []
     },
     "Anchorage Capital Group": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T15:55:57.409206+00:00",
+      "lastChecked": "2026-09-11T15:52:19.380166+00:00",
       "jobs": []
     },
     "VR Advisory Services": {
       "hasInternPosting": false,
       "careerUrl": "https://www.vradvisory.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T15:55:59.711067+00:00",
+      "lastChecked": "2026-09-11T15:52:21.596429+00:00",
       "jobs": []
     },
     "Overlook Investments": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T16:03:36.177771+00:00",
+      "lastChecked": "2026-09-11T15:59:58.150865+00:00",
       "jobs": []
     },
     "Silver Rock Financial": {
       "hasInternPosting": false,
       "careerUrl": "https://www.silverrockfinancial.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T16:03:38.475243+00:00",
+      "lastChecked": "2026-09-11T16:00:00.337451+00:00",
       "jobs": []
     },
     "Nephila Capital": {
       "hasInternPosting": true,
       "careerUrl": "https://www.nephila.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T16:03:42.205020+00:00",
+      "lastChecked": "2026-09-11T16:00:04.287838+00:00",
       "jobs": [
         {
           "title": "Our offices",
@@ -7804,77 +7980,77 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T16:03:50.034121+00:00",
+      "lastChecked": "2026-09-11T16:00:12.650171+00:00",
       "jobs": []
     },
     "Westport Capital Partners": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T16:03:59.599885+00:00",
+      "lastChecked": "2026-09-11T16:00:23.499704+00:00",
       "jobs": []
     },
     "Candlestick Capital Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T16:04:06.398638+00:00",
+      "lastChecked": "2026-09-11T16:00:29.751991+00:00",
       "jobs": []
     },
     "Towers Watson Investment Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T16:04:14.048724+00:00",
+      "lastChecked": "2026-09-11T16:00:37.672187+00:00",
       "jobs": []
     },
     "Axium Infrastructure": {
       "hasInternPosting": false,
       "careerUrl": "https://www.axiuminfra.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T16:04:32.760038+00:00",
+      "lastChecked": "2026-09-11T16:00:59.281513+00:00",
       "jobs": []
     },
     "Glendon Capital Management": {
       "hasInternPosting": false,
-      "careerUrl": null,
-      "status": "no_url",
-      "lastChecked": "2026-09-10T16:04:41.420299+00:00",
+      "careerUrl": "https://www.glendoncapital.com/careers",
+      "status": "ok",
+      "lastChecked": "2026-09-11T16:01:01.594878+00:00",
       "jobs": []
     },
     "BVF Partners": {
       "hasInternPosting": false,
-      "careerUrl": "https://www.bvfpartners.com/careers/students",
+      "careerUrl": "https://www.bvfpartners.com/join",
       "status": "ok",
-      "lastChecked": "2026-09-10T16:05:09.054179+00:00",
+      "lastChecked": "2026-09-11T16:01:43.076137+00:00",
       "jobs": []
     },
     "Sylebra Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T16:05:20.008109+00:00",
+      "lastChecked": "2026-09-11T16:02:09.930760+00:00",
       "jobs": []
     },
     "Dorsal Capital Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T16:05:27.332927+00:00",
+      "lastChecked": "2026-09-11T16:02:16.851358+00:00",
       "jobs": []
     },
     "Paamco Prisma": {
       "hasInternPosting": false,
       "careerUrl": "https://www.paamcoprisma.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T16:05:31.860223+00:00",
+      "lastChecked": "2026-09-11T16:02:22.129691+00:00",
       "jobs": []
     },
     "Orchard Global Asset Management": {
       "hasInternPosting": true,
       "careerUrl": "https://www.orchardglobal.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T16:05:36.639835+00:00",
+      "lastChecked": "2026-09-11T16:02:26.740156+00:00",
       "jobs": [
         {
           "title": "Summer Internships (Investment and Non-Investment)",
@@ -7906,133 +8082,133 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T16:05:43.756321+00:00",
+      "lastChecked": "2026-09-11T16:02:34.348386+00:00",
       "jobs": []
     },
     "Armistice Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T16:05:54.268512+00:00",
+      "lastChecked": "2026-09-11T16:02:44.778871+00:00",
       "jobs": []
     },
     "Tairen Capital Limited": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T16:06:08.729342+00:00",
+      "lastChecked": "2026-09-11T16:02:58.647336+00:00",
       "jobs": []
     },
     "MKP Capital Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T16:10:01.492369+00:00",
+      "lastChecked": "2026-09-11T16:06:51.063243+00:00",
       "jobs": []
     },
     "Starboard Value": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T16:10:14.301900+00:00",
+      "lastChecked": "2026-09-11T16:07:04.728801+00:00",
       "jobs": []
     },
     "Rock Springs Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T16:10:26.972066+00:00",
+      "lastChecked": "2026-09-11T16:07:18.662051+00:00",
       "jobs": []
     },
     "Oasis Capital Partners Texas": {
       "hasInternPosting": false,
-      "careerUrl": "https://www.oasiscapitalpartners.com/open-positions",
+      "careerUrl": "https://www.oasiscapitalpartners.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T16:10:39.288915+00:00",
+      "lastChecked": "2026-09-11T16:07:20.790452+00:00",
       "jobs": []
     },
     "H/2 Capital Partners": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T16:11:10.473341+00:00",
+      "lastChecked": "2026-09-11T16:07:58.070146+00:00",
       "jobs": []
     },
     "Amia Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T16:11:24.986305+00:00",
+      "lastChecked": "2026-09-11T16:08:12.063326+00:00",
       "jobs": []
     },
     "Entrust Global Partners": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T16:11:48.956159+00:00",
+      "lastChecked": "2026-09-11T16:08:36.274984+00:00",
       "jobs": []
     },
     "Foxhaven Asset Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T16:11:55.962030+00:00",
+      "lastChecked": "2026-09-11T16:08:42.558653+00:00",
       "jobs": []
     },
     "Glenview Capital Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T16:12:02.959892+00:00",
+      "lastChecked": "2026-09-11T16:08:48.968882+00:00",
       "jobs": []
     },
     "Readystate Asset Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T16:12:11.478260+00:00",
+      "lastChecked": "2026-09-11T16:08:57.492865+00:00",
       "jobs": []
     },
     "Route One Investment": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T16:12:18.478879+00:00",
+      "lastChecked": "2026-09-11T16:09:03.731741+00:00",
       "jobs": []
     },
     "Senator Investment Group": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T16:12:25.809397+00:00",
+      "lastChecked": "2026-09-11T16:09:10.795713+00:00",
       "jobs": []
     },
     "GMT Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T16:12:33.212862+00:00",
+      "lastChecked": "2026-09-11T16:09:17.163000+00:00",
       "jobs": []
     },
     "Avidity Partners Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T16:12:40.869666+00:00",
+      "lastChecked": "2026-09-11T16:09:23.654892+00:00",
       "jobs": []
     },
     "Alua Capital Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T16:12:57.697233+00:00",
+      "lastChecked": "2026-09-11T16:09:41.005246+00:00",
       "jobs": []
     },
     "Heitman Capital Management": {
       "hasInternPosting": true,
       "careerUrl": "https://www.heitman.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T16:13:08.538260+00:00",
+      "lastChecked": "2026-09-11T16:09:45.367134+00:00",
       "jobs": [
         {
           "title": "Career Development and Inclusion",
@@ -8096,14 +8272,14 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T16:13:15.735480+00:00",
+      "lastChecked": "2026-09-11T16:09:51.811538+00:00",
       "jobs": []
     },
     "Blue OWL Real Estate Capital": {
       "hasInternPosting": true,
       "careerUrl": "https://www.blueowl.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T16:13:20.871385+00:00",
+      "lastChecked": "2026-09-11T16:09:57.570249+00:00",
       "jobs": [
         {
           "title": "We offer long-term career development opportunities and mentorship from experienced leaders who empower our people to ta",
@@ -8119,28 +8295,28 @@
       "hasInternPosting": false,
       "careerUrl": "https://www.janchorpartners.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T16:13:32.098484+00:00",
+      "lastChecked": "2026-09-11T16:10:11.945307+00:00",
       "jobs": []
     },
     "SPX Capital Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T16:13:45.585465+00:00",
+      "lastChecked": "2026-09-11T16:10:26.048924+00:00",
       "jobs": []
     },
     "Deep Track Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T16:13:55.909620+00:00",
+      "lastChecked": "2026-09-11T16:10:36.231537+00:00",
       "jobs": []
     },
     "TPG Pep Advisors": {
       "hasInternPosting": true,
       "careerUrl": "https://www.tpg.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T16:13:58.922855+00:00",
+      "lastChecked": "2026-09-11T16:10:39.479630+00:00",
       "jobs": [
         {
           "title": "IDMC (Internet, Digital Media & Communications)",
@@ -8215,6 +8391,14 @@
           "source": "scraper"
         },
         {
+          "title": "People Operations, HRIS Workday Integration Architect, Vice President",
+          "description": "<p><strong>About TPG</strong></p> <p>TPG is a leading global alternative asset management firm, founded in San Francisco in 1992, with operational teams around the world. TPG invests across a broadly diversified set of strategies, including private equity, impact, credit, real estate, and market solutions, and our unique strategy is driven by collaboration, innovation, and inclusion. Our teams combine deep product and sector experience with broad capabilities and expertise to develop differentia",
+          "graduationDate": null,
+          "applyUrl": "https://job-boards.greenhouse.io/tpgcareers/jobs/7980823003",
+          "firstSeen": "2026-09-11",
+          "source": "scraper"
+        },
+        {
           "title": "PubCo, Fund Accounting Policy and Strategy, Vice President",
           "description": "<h4>About TPG</h4> <p>TPG is a leading global alternative asset management firm, founded in San Francisco in 1992, has investment and operational teams around the world. TPG invests across a broadly diversified set of strategies, including private equity, impact, credit, real estate, and market solutions, and our unique strategy is driven by collaboration, innovation, and inclusion. Our teams combine deep product and sector experience with broad capabilities and expertise to develop differentiat",
           "graduationDate": null,
@@ -8244,77 +8428,77 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T16:14:07.752013+00:00",
+      "lastChecked": "2026-09-11T16:10:49.104316+00:00",
       "jobs": []
     },
     "Caledonia US": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T16:14:14.852405+00:00",
+      "lastChecked": "2026-09-11T16:10:55.371246+00:00",
       "jobs": []
     },
     "Stockbridge Investors": {
       "hasInternPosting": false,
       "careerUrl": "https://www.stockbridgeinvestors.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T16:14:17.647954+00:00",
+      "lastChecked": "2026-09-11T16:10:57.819824+00:00",
       "jobs": []
     },
     "Whitehaven Asset Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T16:14:24.384309+00:00",
+      "lastChecked": "2026-09-11T16:11:04.094946+00:00",
       "jobs": []
     },
     "Avenue Europe International Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T16:14:32.756338+00:00",
+      "lastChecked": "2026-09-11T16:11:13.281555+00:00",
       "jobs": []
     },
     "Naya Capital Management UK Limited": {
       "hasInternPosting": false,
       "careerUrl": "https://www.nayacapital.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T16:14:35.100481+00:00",
+      "lastChecked": "2026-09-11T16:11:16.049205+00:00",
       "jobs": []
     },
     "Pine River Capital Management": {
       "hasInternPosting": false,
       "careerUrl": "https://www.pinerivercapital.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T16:14:38.761658+00:00",
+      "lastChecked": "2026-09-11T16:11:19.737693+00:00",
       "jobs": []
     },
     "Altarock Partners": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T16:14:48.713139+00:00",
+      "lastChecked": "2026-09-11T16:11:30.172760+00:00",
       "jobs": []
     },
     "Mantle Ridge": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T16:14:58.770738+00:00",
+      "lastChecked": "2026-09-11T16:11:40.457834+00:00",
       "jobs": []
     },
     "Conifer Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T16:15:05.963314+00:00",
+      "lastChecked": "2026-09-11T16:11:46.801807+00:00",
       "jobs": []
     },
     "Bain Capital Public Equity": {
       "hasInternPosting": true,
       "careerUrl": "https://www.baincapital.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T16:15:15.754278+00:00",
+      "lastChecked": "2026-09-11T16:11:59.480377+00:00",
       "jobs": [
         {
           "title": "Learning & development",
@@ -8354,56 +8538,56 @@
       "hasInternPosting": false,
       "careerUrl": "https://www.dmecapital.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T16:15:17.997752+00:00",
+      "lastChecked": "2026-09-11T16:12:01.742704+00:00",
       "jobs": []
     },
     "Suvretta Capital Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T16:15:27.282034+00:00",
+      "lastChecked": "2026-09-11T16:12:11.453261+00:00",
       "jobs": []
     },
     "Greenwoods Investments SG Pte.": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T16:15:37.789883+00:00",
+      "lastChecked": "2026-09-11T16:12:19.727802+00:00",
       "jobs": []
     },
     "Cadian Capital Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T16:15:45.870924+00:00",
+      "lastChecked": "2026-09-11T16:12:27.541940+00:00",
       "jobs": []
     },
     "Hawk Ridge Capital Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T16:15:58.326959+00:00",
+      "lastChecked": "2026-09-11T16:12:38.646197+00:00",
       "jobs": []
     },
     "KGH": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T16:16:05.540636+00:00",
+      "lastChecked": "2026-09-11T16:12:45.186075+00:00",
       "jobs": []
     },
     "Ninety One Luxembourg S.A.": {
       "hasInternPosting": true,
-      "careerUrl": "https://ninetyone.com/career",
+      "careerUrl": "https://ninetyone.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T16:16:57.604888+00:00",
+      "lastChecked": "2026-09-11T16:12:49.683150+00:00",
       "jobs": [
         {
           "title": "Belong is a grassroots employee-led network focused on the recruitment, retention and representation of black talent. Th",
           "description": "e network has set out to create a further-enhanced inclusive environment where black professionals can thrive in an equal-opportunity environment. Inspire is a network created by women for women at Ninety One. It enables the exchange of knowledge and experiences in order to improve the opportunities for career success. Inspire plays an important role in helping us make our firm a more inclusive place. Proud is our LGBTQ+ network which is designed to create an internal community for our LGBTQ+ co",
           "graduationDate": null,
-          "applyUrl": "https://ninetyone.com/career",
-          "firstSeen": "2026-09-10",
+          "applyUrl": "https://ninetyone.com/careers",
+          "firstSeen": "2026-09-11",
           "source": "scraper"
         },
         {
@@ -8436,77 +8620,77 @@
       "hasInternPosting": false,
       "careerUrl": "https://www.pillarcap.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T16:16:59.805352+00:00",
+      "lastChecked": "2026-09-11T16:12:51.826214+00:00",
       "jobs": []
     },
     "Camden Asset Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T16:17:09.664904+00:00",
+      "lastChecked": "2026-09-11T16:13:00.620393+00:00",
       "jobs": []
     },
     "Denham Capital Management": {
       "hasInternPosting": false,
       "careerUrl": "https://www.denhamcapital.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T16:17:13.838021+00:00",
+      "lastChecked": "2026-09-11T16:13:05.651815+00:00",
       "jobs": []
     },
     "Theleme Partners": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T16:17:29.708388+00:00",
+      "lastChecked": "2026-09-11T16:13:22.003759+00:00",
       "jobs": []
     },
     "Evanston Capital Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T16:17:41.246951+00:00",
+      "lastChecked": "2026-09-11T16:13:33.699793+00:00",
       "jobs": []
     },
     "Greenvale Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T16:17:49.093543+00:00",
+      "lastChecked": "2026-09-11T16:13:41.695869+00:00",
       "jobs": []
     },
     "Finepoint Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T16:17:59.262913+00:00",
+      "lastChecked": "2026-09-11T16:13:51.988449+00:00",
       "jobs": []
     },
     "Anomaly Capital Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T16:18:09.476361+00:00",
+      "lastChecked": "2026-09-11T16:14:02.218268+00:00",
       "jobs": []
     },
     "Cyrus Capital Partners": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T16:18:19.392233+00:00",
+      "lastChecked": "2026-09-11T16:14:12.311731+00:00",
       "jobs": []
     },
     "Winton Capital Management": {
       "hasInternPosting": false,
       "careerUrl": "https://www.winton.com/opportunities",
       "status": "ok",
-      "lastChecked": "2026-09-10T16:18:30.285868+00:00",
+      "lastChecked": "2026-09-11T16:14:23.690831+00:00",
       "jobs": []
     },
     "Gates Capital Management": {
       "hasInternPosting": true,
       "careerUrl": "https://www.gatescap.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T16:18:35.512965+00:00",
+      "lastChecked": "2026-09-11T16:14:28.403493+00:00",
       "jobs": [
         {
           "title": "Recent Graduate Recruiting",
@@ -8530,35 +8714,35 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T16:18:45.029278+00:00",
+      "lastChecked": "2026-09-11T16:14:35.983482+00:00",
       "jobs": []
     },
     "Fundamental Advisors": {
       "hasInternPosting": false,
       "careerUrl": "https://www.fundam.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T16:18:48.190224+00:00",
+      "lastChecked": "2026-09-11T16:14:38.828665+00:00",
       "jobs": []
     },
     "Contour Asset Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T16:18:56.019572+00:00",
+      "lastChecked": "2026-09-11T16:14:46.669678+00:00",
       "jobs": []
     },
     "Greywolf Capital Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T16:19:08.855978+00:00",
+      "lastChecked": "2026-09-11T16:14:59.620870+00:00",
       "jobs": []
     },
     "Blackstone Ireland Fund Management Limited": {
       "hasInternPosting": true,
       "careerUrl": "https://www.blackstone.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T16:19:14.293935+00:00",
+      "lastChecked": "2026-09-11T16:15:06.366609+00:00",
       "jobs": [
         {
           "title": "news & INSIGHTS",
@@ -8598,245 +8782,245 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T16:19:31.333505+00:00",
+      "lastChecked": "2026-09-11T16:15:24.006228+00:00",
       "jobs": []
     },
     "Weiss Multi-Strategy Advisers": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T16:19:38.262915+00:00",
+      "lastChecked": "2026-09-11T16:15:30.278206+00:00",
       "jobs": []
     },
     "NUT Tree Capital Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T16:19:49.145187+00:00",
+      "lastChecked": "2026-09-11T16:15:39.993290+00:00",
       "jobs": []
     },
     "Palestra Capital Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T16:19:57.374112+00:00",
+      "lastChecked": "2026-09-11T16:15:47.593863+00:00",
       "jobs": []
     },
     "Boundary Creek Advisors": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T16:20:08.419404+00:00",
+      "lastChecked": "2026-09-11T16:15:58.667167+00:00",
       "jobs": []
     },
     "Broad Peak Investment Advisers Pte.": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T16:20:15.446582+00:00",
+      "lastChecked": "2026-09-11T16:16:05.023022+00:00",
       "jobs": []
     },
     "Trivest Advisors": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T16:20:32.678254+00:00",
+      "lastChecked": "2026-09-11T16:16:22.946966+00:00",
       "jobs": []
     },
     "Caspian Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T16:20:40.603024+00:00",
+      "lastChecked": "2026-09-11T16:16:31.181986+00:00",
       "jobs": []
     },
     "Boulder Hill Capital Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T16:20:47.668061+00:00",
+      "lastChecked": "2026-09-11T16:16:37.650656+00:00",
       "jobs": []
     },
     "Karya Capital Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T16:24:39.915125+00:00",
+      "lastChecked": "2026-09-11T16:20:30.265330+00:00",
       "jobs": []
     },
     "Kensico Capital Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T16:24:49.167529+00:00",
+      "lastChecked": "2026-09-11T16:20:40.048759+00:00",
       "jobs": []
     },
     "140 Summer Partners": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T16:24:57.102337+00:00",
+      "lastChecked": "2026-09-11T16:20:47.764978+00:00",
       "jobs": []
     },
     "Maplelane Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T16:25:05.755168+00:00",
+      "lastChecked": "2026-09-11T16:20:54.489940+00:00",
       "jobs": []
     },
     "Skye Global Management": {
       "hasInternPosting": false,
       "careerUrl": "https://www.skyeglobal.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T16:25:09.798431+00:00",
+      "lastChecked": "2026-09-11T16:20:58.552991+00:00",
       "jobs": []
     },
     "Turtle Creek Asset Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T16:25:16.767157+00:00",
+      "lastChecked": "2026-09-11T16:21:04.815824+00:00",
       "jobs": []
     },
     "NWI Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T16:25:31.863773+00:00",
+      "lastChecked": "2026-09-11T16:21:19.369150+00:00",
       "jobs": []
     },
     "J. Goldman": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T16:25:39.187796+00:00",
+      "lastChecked": "2026-09-11T16:21:25.806121+00:00",
       "jobs": []
     },
     "Senvest Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T16:25:47.128913+00:00",
+      "lastChecked": "2026-09-11T16:21:33.639578+00:00",
       "jobs": []
     },
     "Crake Asset Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T16:26:07.280700+00:00",
+      "lastChecked": "2026-09-11T16:21:56.129535+00:00",
       "jobs": []
     },
     "East Rock Capital": {
       "hasInternPosting": false,
       "careerUrl": "https://www.eastrockcapital.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T16:26:09.507377+00:00",
+      "lastChecked": "2026-09-11T16:21:58.711523+00:00",
       "jobs": []
     },
     "Sessa Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T16:26:19.677407+00:00",
+      "lastChecked": "2026-09-11T16:22:09.277173+00:00",
       "jobs": []
     },
     "Valley Forge Capital Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T16:26:26.875566+00:00",
+      "lastChecked": "2026-09-11T16:22:15.584635+00:00",
       "jobs": []
     },
     "Cross Ocean Partners Management": {
       "hasInternPosting": false,
       "careerUrl": "https://www.crossocean.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T16:26:33.432170+00:00",
+      "lastChecked": "2026-09-11T16:22:21.559648+00:00",
       "jobs": []
     },
     "SPF Investment Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T16:26:42.614085+00:00",
+      "lastChecked": "2026-09-11T16:22:30.480116+00:00",
       "jobs": []
     },
     "My.Alpha": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T16:34:19.198505+00:00",
+      "lastChecked": "2026-09-11T16:30:07.000644+00:00",
       "jobs": []
     },
     "Rubric Capital Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T16:34:30.297944+00:00",
+      "lastChecked": "2026-09-11T16:30:18.274379+00:00",
       "jobs": []
     },
     "Camber Capital Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T16:34:38.629504+00:00",
+      "lastChecked": "2026-09-11T16:30:26.086141+00:00",
       "jobs": []
     },
     "HMI Capital Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T16:34:48.693419+00:00",
+      "lastChecked": "2026-09-11T16:30:36.376323+00:00",
       "jobs": []
     },
     "Radcliffe Capital Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T16:34:55.869945+00:00",
+      "lastChecked": "2026-09-11T16:30:43.237801+00:00",
       "jobs": []
     },
     "Parvus Asset Management Europe Limited": {
       "hasInternPosting": false,
       "careerUrl": "https://www.parvus.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T16:35:00.709323+00:00",
+      "lastChecked": "2026-09-11T16:30:48.722268+00:00",
       "jobs": []
     },
     "Kite Lake Capital Management UK": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T16:35:09.600747+00:00",
+      "lastChecked": "2026-09-11T16:30:57.633041+00:00",
       "jobs": []
     },
     "Tiff Investment Management": {
       "hasInternPosting": false,
       "careerUrl": "https://www.tiff.org/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T16:35:16.002478+00:00",
+      "lastChecked": "2026-09-11T16:31:04.788967+00:00",
       "jobs": []
     },
     "American Realty Advisors": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T16:42:52.544038+00:00",
+      "lastChecked": "2026-09-11T16:38:41.376241+00:00",
       "jobs": []
     },
     "Rivulet Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T16:43:01.339427+00:00",
+      "lastChecked": "2026-09-11T16:38:51.527324+00:00",
       "jobs": []
     },
     "Blackrock Asset Management North Asia Limited": {
       "hasInternPosting": true,
       "careerUrl": "https://www.blackrock.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-10T16:43:06.469252+00:00",
+      "lastChecked": "2026-09-11T16:38:55.467748+00:00",
       "jobs": [
         {
           "title": "Navigating Internal Mobility? Here’s What Worked for These BlackRock Leaders You may not always be sure when – or how – to make your next career move, whether that means switching to a different team,",
@@ -8876,7 +9060,7 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-10T16:43:14.752831+00:00",
+      "lastChecked": "2026-09-11T16:39:03.236302+00:00",
       "jobs": []
     }
   }
