@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-09-30T15:26:58.342228+00:00",
+  "lastUpdated": "2026-10-01T16:15:16.788971+00:00",
   "internCount": 22,
   "firms": {
     "Sequoia Capital Operations": {
       "hasInternPosting": true,
       "careerUrl": "https://www.sequoiacap.com/jobs",
       "status": "ok",
-      "lastChecked": "2026-09-30T15:04:04.862202+00:00",
+      "lastChecked": "2026-10-01T15:53:30.326261+00:00",
       "jobs": [
         {
           "title": "Make a dent in the world",
@@ -46,16 +46,8 @@
       "hasInternPosting": true,
       "careerUrl": "https://a16z.com/jobs",
       "status": "ok",
-      "lastChecked": "2026-09-30T15:04:09.897337+00:00",
+      "lastChecked": "2026-10-01T15:53:36.681089+00:00",
       "jobs": [
-        {
-          "title": "Technical Program Manager, Maritime International Deployments",
-          "description": "Anduril Technical Program Manager, Maritime International Deployments USD 166,000–220,000 (US Salary Range) · Quincy, Massachusetts, United States · Posted 4 hours ago AI · Series H · 1,000–5,000 employees Apply Interested",
-          "graduationDate": null,
-          "applyUrl": "https://a16z.com/jobs/anduril-industries/5252777007--technical-program-manager-maritime-international-deployments",
-          "firstSeen": "2026-09-30",
-          "source": "scraper"
-        },
         {
           "title": "Filter jobs by role and more",
           "description": "Roles Search roles Location Search locations Company Stage Select… Industry Search industries Internships only Remote options All jobs Salary Any Posted Anytime",
@@ -78,21 +70,21 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-30T15:04:18.852859+00:00",
+      "lastChecked": "2026-10-01T15:53:45.976370+00:00",
       "jobs": []
     },
     "Encap Investments": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-30T15:04:31.680776+00:00",
+      "lastChecked": "2026-10-01T15:53:59.639334+00:00",
       "jobs": []
     },
     "Lightspeed Venture Partners": {
       "hasInternPosting": true,
       "careerUrl": "https://lsvp.com/work-with-us",
       "status": "ok",
-      "lastChecked": "2026-09-30T15:04:40.841029+00:00",
+      "lastChecked": "2026-10-01T15:54:10.795820+00:00",
       "jobs": [
         {
           "title": "Filter jobs by skills and more Roles Search roles Skills Search skills Location Search locations Company stage Select...",
@@ -124,91 +116,42 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-30T15:04:58.909654+00:00",
+      "lastChecked": "2026-10-01T15:54:32.653886+00:00",
       "jobs": []
     },
     "Accel Management": {
-      "hasInternPosting": true,
+      "hasInternPosting": false,
       "careerUrl": "https://www.accel.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-30T15:05:03.547885+00:00",
-      "jobs": [
-        {
-          "title": "Accacia 10 job s Seed Artificial Intelligence (AI) Greentech Real Estate Software Technology, Information and Internet Seed Artificial Intelligence (AI) Greentech Real Estate Software Technology, Info",
-          "description": "Accacia 10 job s Seed Artificial Intelligence (AI) Greentech Real Estate Software Technology, Information and Internet Seed Artificial Intelligence (AI) Greentech Real Estate Software Technology, Information and Internet + 99 more Accacia is an AI-enabled real-estate decarbonization platform that allows RE and infrastructure owners, developers, asset managers, and operators to measure, track, and manage their climate risks. View 10 jobs",
-          "graduationDate": null,
-          "applyUrl": "https://www.accel.com/companies/accacia#content",
-          "firstSeen": "2026-09-10",
-          "source": "scraper"
-        },
-        {
-          "title": "Accacia 10 job s Seed Artificial Intelligence (AI) Greentech Real Estate Software Technology, Information and Internet S",
-          "description": "eed Artificial Intelligence (AI) Greentech Real Estate Software Technology, Information and Internet + 99 more Accacia is an AI-enabled real-estate decarbonization platform that allows RE and infrastructure owners, developers, asset managers, and operators to measure, track, and manage their climate risks. View 10 jobs",
-          "graduationDate": null,
-          "applyUrl": "https://www.accel.com/companies/accacia#content",
-          "firstSeen": "2026-09-10",
-          "source": "scraper"
-        },
-        {
-          "title": "Seed Artificial Intelligence (AI) Greentech Real Estate Software Technology, Information and Internet Seed Artificial In",
-          "description": "telligence (AI) Greentech Real Estate Software Technology, Information and Internet + 99 more Accacia is an AI-enabled real-estate decarbonization platform that allows RE and infrastructure owners, developers, asset managers, and operators to measure, track, and manage their climate risks.",
-          "graduationDate": null,
-          "applyUrl": "https://www.accel.com/careers",
-          "firstSeen": "2026-08-03",
-          "source": "scraper"
-        },
-        {
-          "title": "Seed Artificial Intelligence (AI) Greentech Real Estate Software Technology, Information and Internet",
-          "description": "",
-          "graduationDate": null,
-          "applyUrl": "https://www.accel.com/careers",
-          "firstSeen": "2026-08-03",
-          "source": "scraper"
-        },
-        {
-          "title": "Technology, Information and Internet",
-          "description": "",
-          "graduationDate": null,
-          "applyUrl": "https://www.accel.com/careers",
-          "firstSeen": "2026-07-29",
-          "source": "scraper"
-        },
-        {
-          "title": "Seed Artificial Intelligence (AI) Greentech Real Estate Software Technology, Information and Internet + 99 more",
-          "description": "",
-          "graduationDate": null,
-          "applyUrl": "https://www.accel.com/careers",
-          "firstSeen": "2026-08-03",
-          "source": "scraper"
-        }
-      ]
+      "lastChecked": "2026-10-01T15:54:44.206209+00:00",
+      "jobs": []
     },
     "Cobalt Investment Management": {
       "hasInternPosting": false,
       "careerUrl": "https://www.cobaltlp.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-30T15:05:07.204074+00:00",
+      "lastChecked": "2026-10-01T15:54:49.078644+00:00",
       "jobs": []
     },
     "Founders Fund": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-30T15:05:22.263746+00:00",
+      "lastChecked": "2026-10-01T15:55:05.630750+00:00",
       "jobs": []
     },
     "Index Ventures SA": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-30T15:05:33.598781+00:00",
+      "lastChecked": "2026-10-01T15:55:18.939517+00:00",
       "jobs": []
     },
     "Bessemer Venture Partners": {
       "hasInternPosting": true,
       "careerUrl": "https://www.bvp.com/jobs",
       "status": "ok",
-      "lastChecked": "2026-09-30T15:05:39.693018+00:00",
+      "lastChecked": "2026-10-01T15:55:25.620707+00:00",
       "jobs": [
         {
           "title": "Portfolio Careers",
@@ -248,28 +191,28 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-30T15:05:46.753279+00:00",
+      "lastChecked": "2026-10-01T15:55:34.109836+00:00",
       "jobs": []
     },
     "Impresa Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-30T15:05:53.456677+00:00",
+      "lastChecked": "2026-10-01T15:55:40.853431+00:00",
       "jobs": []
     },
     "Khosla Ventures": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-30T15:06:03.246670+00:00",
+      "lastChecked": "2026-10-01T15:55:50.856228+00:00",
       "jobs": []
     },
     "Angellist Advisors": {
       "hasInternPosting": true,
       "careerUrl": "https://www.angellist.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-30T15:06:08.219054+00:00",
+      "lastChecked": "2026-10-01T15:55:56.944160+00:00",
       "jobs": [
         {
           "title": "Investor Services Specialist",
@@ -285,35 +228,35 @@
       "hasInternPosting": false,
       "careerUrl": "https://www.flagshippioneering.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-30T15:06:11.957765+00:00",
+      "lastChecked": "2026-10-01T15:56:00.096130+00:00",
       "jobs": []
     },
     "Banyan Capital Partners": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-30T15:06:28.467296+00:00",
+      "lastChecked": "2026-10-01T15:56:17.350623+00:00",
       "jobs": []
     },
     "Spark Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-30T15:06:36.630605+00:00",
+      "lastChecked": "2026-10-01T15:56:26.481253+00:00",
       "jobs": []
     },
     "Ribbit Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-30T15:06:47.178038+00:00",
+      "lastChecked": "2026-10-01T15:56:38.850908+00:00",
       "jobs": []
     },
     "Y Combinator": {
       "hasInternPosting": true,
       "careerUrl": "https://www.ycombinator.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-30T15:06:52.800110+00:00",
+      "lastChecked": "2026-10-01T15:56:43.745402+00:00",
       "jobs": [
         {
           "title": "Internships",
@@ -337,70 +280,143 @@
       "hasInternPosting": false,
       "careerUrl": "https://www.racap.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-30T15:06:56.854810+00:00",
+      "lastChecked": "2026-10-01T15:56:47.871321+00:00",
       "jobs": []
     },
     "Sapphire Ventures": {
-      "hasInternPosting": false,
+      "hasInternPosting": true,
       "careerUrl": "https://sapphireventures.com/careers",
-      "status": "request_error",
-      "lastChecked": "2026-09-30T15:07:14.515322+00:00",
-      "jobs": []
+      "status": "ok",
+      "lastChecked": "2026-10-01T15:56:54.745419+00:00",
+      "jobs": [
+        {
+          "title": "Software Engineering Intern",
+          "description": "Software Engineering Intern Clay Location: New York, NY, USA Posted: Today Series C Internship Artificial Intelligence (AI) Automation/Workflow Software Business/Productivity Software Communication & Sales CRM Data & Analytics Developer Tools Enterprise Software GTM Automation Lead Generation Media and Information Services (B2B) Platform Productivity Tools Sales & Marketing Sales Automation Software Technology Series C Internship Artificial Intelligence (AI) Automation/Workflow Software Business",
+          "graduationDate": null,
+          "applyUrl": "https://sapphireventures.com/companies/clay-2-ed7afbce-d16f-41f8-a33f-de2e08c92e46/jobs/95415124-software-engineering-intern#content",
+          "firstSeen": "2026-10-01",
+          "source": "scraper"
+        },
+        {
+          "title": "Regional Customer Success Manager (Automotive)",
+          "description": "Podium Location: United States ; Remote Posted: Today Mid-Senior Level Agentic AI Analytics Artificial Intelligence Artificial Intelligence (AI) Business And Industrial Business/Productivity Software Chatbot Collaboration Commerce and Shopping Communication & Sales Consumer Reviews Customer Engagement Enterprise Software Internet Services Lead Generation Local Business Marketing Marketing Analytics Media and Information Services (B2B) Messaging Messaging and Telecommunications Online Reviews Pla",
+          "graduationDate": null,
+          "applyUrl": "https://sapphireventures.com/companies/podium/jobs/95435209-regional-customer-success-manager-automotive#content",
+          "firstSeen": "2026-10-01",
+          "source": "scraper"
+        },
+        {
+          "title": "Podium Location: United States ; Remote Posted: Today Mid-Senior Level Agentic AI Analytics Artificial Intelligence Arti",
+          "description": "ficial Intelligence (AI) Business And Industrial Business/Productivity Software Chatbot Collaboration Commerce and Shopping Communication & Sales Consumer Reviews Customer Engagement Enterprise Software Internet Services Lead Generation Local Business Marketing Marketing Analytics Media and Information Services (B2B) Messaging Messaging and Telecommunications Online Reviews Platform Reputation Reputation Management SaaS Sales & Marketing Small and Medium Businesses SMS Marketing Software Softwar",
+          "graduationDate": null,
+          "applyUrl": "https://sapphireventures.com/companies/podium#content",
+          "firstSeen": "2026-10-01",
+          "source": "scraper"
+        },
+        {
+          "title": "Mid-Senior Level Agentic AI Analytics Artificial Intelligence Artificial Intelligence (AI) Business And Industrial Busin",
+          "description": "ess/Productivity Software Chatbot Collaboration Commerce and Shopping Communication & Sales Consumer Reviews Customer Engagement Enterprise Software Internet Services Lead Generation Local Business Marketing Marketing Analytics Media and Information Services (B2B) Messaging Messaging and Telecommunications Online Reviews Platform Reputation Reputation Management SaaS Sales & Marketing Small and Medium Businesses SMS Marketing Software Software Development Technology Text Marketing Virtual Assist",
+          "graduationDate": null,
+          "applyUrl": "https://sapphireventures.com/careers",
+          "firstSeen": "2026-10-01",
+          "source": "scraper"
+        },
+        {
+          "title": "Clay Location: New York, NY, USA Posted: Today Series C Internship Artificial Intelligence (AI) Automation/Workflow Soft",
+          "description": "ware Business/Productivity Software Communication & Sales CRM Data & Analytics Developer Tools Enterprise Software GTM Automation Lead Generation Media and Information Services (B2B) Platform Productivity Tools Sales & Marketing Sales Automation Software Technology Series C Internship Artificial Intelligence (AI) Automation/Workflow Software Business/Productivity Software Communication & Sales CRM Data & Analytics Developer Tools Enterprise Software GTM Automation Lead Generation Media and Infor",
+          "graduationDate": null,
+          "applyUrl": "https://sapphireventures.com/companies/clay-2-ed7afbce-d16f-41f8-a33f-de2e08c92e46#content",
+          "firstSeen": "2026-10-01",
+          "source": "scraper"
+        },
+        {
+          "title": "Series C Internship Artificial Intelligence (AI) Automation/Workflow Software Business/Productivity Software Communicati",
+          "description": "on & Sales CRM Data & Analytics Developer Tools Enterprise Software GTM Automation Lead Generation Media and Information Services (B2B) Platform Productivity Tools Sales & Marketing Sales Automation Software Technology Series C Internship Artificial Intelligence (AI) Automation/Workflow Software Business/Productivity Software Communication & Sales CRM Data & Analytics Developer Tools Enterprise Software GTM Automation Lead Generation Media and Information Services (B2B) Platform Productivity Too",
+          "graduationDate": null,
+          "applyUrl": "https://sapphireventures.com/careers",
+          "firstSeen": "2026-10-01",
+          "source": "scraper"
+        },
+        {
+          "title": "Staff Software Engineer, Compute and Network",
+          "description": "Attentive Location: United States Compensation: USD 200k-230k / year + Equity Posted: Today Senior Advertising Services Application Software Artificial Intelligence (AI) Business/Productivity Software Commerce and Shopping Communication & Sales Data & Analytics Email Marketing Growth Marketing Internet Services Marketing Marketing Automation Media and Information Services (B2B) Messaging Messaging and Telecommunications Mobile Mobile App Personalization Platform Retention Marketing Sales & Marke",
+          "graduationDate": null,
+          "applyUrl": "https://sapphireventures.com/companies/attentive-2/jobs/95368343-staff-software-engineer-compute-and-network#content",
+          "firstSeen": "2026-10-01",
+          "source": "scraper"
+        },
+        {
+          "title": "Attentive Location: United States Compensation: USD 200k-230k / year + Equity Posted: Today Senior Advertising Services",
+          "description": "Application Software Artificial Intelligence (AI) Business/Productivity Software Commerce and Shopping Communication & Sales Data & Analytics Email Marketing Growth Marketing Internet Services Marketing Marketing Automation Media and Information Services (B2B) Messaging Messaging and Telecommunications Mobile Mobile App Personalization Platform Retention Marketing Sales & Marketing Science and Engineering Software Technology Senior Advertising Services Application Software Artificial Intelligenc",
+          "graduationDate": null,
+          "applyUrl": "https://sapphireventures.com/companies/attentive-2#content",
+          "firstSeen": "2026-10-01",
+          "source": "scraper"
+        },
+        {
+          "title": "Senior Advertising Services Application Software Artificial Intelligence (AI) Business/Productivity Software Commerce an",
+          "description": "d Shopping Communication & Sales Data & Analytics Email Marketing Growth Marketing Internet Services Marketing Marketing Automation Media and Information Services (B2B) Messaging Messaging and Telecommunications Mobile Mobile App Personalization Platform Retention Marketing Sales & Marketing Science and Engineering Software Technology Senior Advertising Services Application Software Artificial Intelligence (AI) Business/Productivity Software Commerce and Shopping Communication & Sales Data & Ana",
+          "graduationDate": null,
+          "applyUrl": "https://sapphireventures.com/careers",
+          "firstSeen": "2026-10-01",
+          "source": "scraper"
+        }
+      ]
     },
     "Kleiner Perkins": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-30T15:07:25.913482+00:00",
+      "lastChecked": "2026-10-01T15:57:06.371127+00:00",
       "jobs": []
     },
     "Altimeter Capital Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-30T15:07:32.681632+00:00",
+      "lastChecked": "2026-10-01T15:57:13.363444+00:00",
       "jobs": []
     },
     "Arch Venture Partners": {
       "hasInternPosting": false,
       "careerUrl": "https://www.archventure.com/company/careers",
       "status": "ok",
-      "lastChecked": "2026-09-30T15:07:43.651801+00:00",
+      "lastChecked": "2026-10-01T15:57:23.823977+00:00",
       "jobs": []
     },
     "IDG Capital Fund Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-30T15:07:59.157409+00:00",
+      "lastChecked": "2026-10-01T15:57:41.159976+00:00",
       "jobs": []
     },
     "Bain Capital Ventures": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-30T15:08:09.215655+00:00",
+      "lastChecked": "2026-10-01T15:57:54.393183+00:00",
       "jobs": []
     },
     "Greenoaks Capital": {
       "hasInternPosting": false,
       "careerUrl": "https://greenoakscap.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-30T15:08:12.206502+00:00",
+      "lastChecked": "2026-10-01T15:57:57.274012+00:00",
       "jobs": []
     },
     "Matrix Partners China Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-30T15:08:32.615763+00:00",
+      "lastChecked": "2026-10-01T15:58:16.940938+00:00",
       "jobs": []
     },
     "Greylock Partners": {
       "hasInternPosting": true,
       "careerUrl": "https://greylock.com/jobs",
       "status": "ok",
-      "lastChecked": "2026-09-30T15:08:41.828883+00:00",
+      "lastChecked": "2026-10-01T15:58:33.806320+00:00",
       "jobs": [
         {
           "title": "Get discovered by our portfolio companies for internships and full-time roles.",
@@ -484,18 +500,10 @@
         },
         {
           "title": "Social Media Intern",
-          "description": "Nuro Mountain View, United States On-site $30–$30 / hr today Internship",
+          "description": "Nuro Mountain View, United States On-site $30–$30 / hr 1 day ago Internship",
           "graduationDate": null,
           "applyUrl": "https://greylock.com/jobs/portfolio-jobs/?job=bc9b861028ba5476abbef0c9218ae37aa6b8beb3aef5ef9aa864cf145586f096",
           "firstSeen": "2026-09-30",
-          "source": "scraper"
-        },
-        {
-          "title": "Growth Creative Designer, International",
-          "description": "Ramp London, United Kingdom GBP 60k–GBP 82k / yr Design 5 days ago",
-          "graduationDate": null,
-          "applyUrl": "https://greylock.com/jobs/portfolio-jobs/?job=204cffd6c0a5850542f781b9efcea4e9bc0d69d3d29499372f1f6ecbbddf9656",
-          "firstSeen": "2026-09-26",
           "source": "scraper"
         },
         {
@@ -515,43 +523,27 @@
           "source": "scraper"
         },
         {
-          "title": "Social Media Intern Nuro Mountain View, United States On-site $30–$30 / hr today Internship Apply",
+          "title": "Social Media Intern Nuro Mountain View, United States On-site $30–$30 / hr 1 day ago Internship Apply",
           "description": "",
           "graduationDate": null,
           "applyUrl": "https://greylock.com/jobs/portfolio-jobs/?job=bc9b861028ba5476abbef0c9218ae37aa6b8beb3aef5ef9aa864cf145586f096",
-          "firstSeen": "2026-09-30",
+          "firstSeen": "2026-10-01",
           "source": "scraper"
         },
         {
-          "title": "Social Media Intern Nuro Mountain View, United States On-site $30–$30 / hr today Internship",
+          "title": "Social Media Intern Nuro Mountain View, United States On-site $30–$30 / hr 1 day ago Internship",
           "description": "",
           "graduationDate": null,
           "applyUrl": "https://greylock.com/jobs/portfolio-jobs/?job=bc9b861028ba5476abbef0c9218ae37aa6b8beb3aef5ef9aa864cf145586f096",
-          "firstSeen": "2026-09-30",
+          "firstSeen": "2026-10-01",
           "source": "scraper"
         },
         {
-          "title": "Mountain View, United States On-site $30–$30 / hr today Internship",
+          "title": "Mountain View, United States On-site $30–$30 / hr 1 day ago Internship",
           "description": "",
           "graduationDate": null,
           "applyUrl": "https://greylock.com/jobs/portfolio-jobs",
-          "firstSeen": "2026-09-30",
-          "source": "scraper"
-        },
-        {
-          "title": "Growth Creative Designer, International Ramp London, United Kingdom GBP 60k–GBP 82k / yr Design 5 days ago Apply",
-          "description": "",
-          "graduationDate": null,
-          "applyUrl": "https://greylock.com/jobs/portfolio-jobs/?job=204cffd6c0a5850542f781b9efcea4e9bc0d69d3d29499372f1f6ecbbddf9656",
-          "firstSeen": "2026-09-30",
-          "source": "scraper"
-        },
-        {
-          "title": "Growth Creative Designer, International Ramp London, United Kingdom GBP 60k–GBP 82k / yr Design 5 days ago",
-          "description": "",
-          "graduationDate": null,
-          "applyUrl": "https://greylock.com/jobs/portfolio-jobs/?job=204cffd6c0a5850542f781b9efcea4e9bc0d69d3d29499372f1f6ecbbddf9656",
-          "firstSeen": "2026-09-30",
+          "firstSeen": "2026-10-01",
           "source": "scraper"
         }
       ]
@@ -560,123 +552,91 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-30T15:08:54.901227+00:00",
+      "lastChecked": "2026-10-01T15:58:48.235800+00:00",
       "jobs": []
     },
     "Oak Hcft Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-30T15:09:03.749619+00:00",
+      "lastChecked": "2026-10-01T15:58:57.930777+00:00",
       "jobs": []
     },
     "FTV Capital": {
       "hasInternPosting": false,
       "careerUrl": "https://www.ftvcapital.com/careers/students",
       "status": "ok",
-      "lastChecked": "2026-09-30T15:09:12.534471+00:00",
+      "lastChecked": "2026-10-01T15:59:06.489117+00:00",
       "jobs": []
     },
     "Eight Partners VC": {
-      "hasInternPosting": true,
+      "hasInternPosting": false,
       "careerUrl": "https://www.8vc.com/jobs",
       "status": "ok",
-      "lastChecked": "2026-09-30T15:09:19.044100+00:00",
+      "lastChecked": "2026-10-01T15:59:13.064809+00:00",
+      "jobs": []
+    },
+    "Accel Partners Management": {
+      "hasInternPosting": true,
+      "careerUrl": "https://www.accel.com/careers",
+      "status": "ok",
+      "lastChecked": "2026-10-01T15:59:19.517736+00:00",
       "jobs": [
         {
-          "title": "Manager, Critical Facilities Operations - Memphis",
-          "description": "X.ai Location: Southaven, MS, USA ; Memphis, TN, USA Posted: Today Application Software Artificial Intelligence (AI) Business And Industrial Business/Productivity Software Consumer Software Data & Analytics Enterprise Software Foundational AI Generative AI Internet Internet Services IT Consulting and Outsourcing Machine Learning Media and Information Services (B2B) Scheduling Science and Engineering Software Technology Virtual Assistant Application Software Artificial Intelligence (AI) Business",
+          "title": "Accacia 10 job s Seed Artificial Intelligence (AI) Greentech Real Estate Software Technology, Information and Internet Seed Artificial Intelligence (AI) Greentech Real Estate Software Technology, Info",
+          "description": "Accacia 10 job s Seed Artificial Intelligence (AI) Greentech Real Estate Software Technology, Information and Internet Seed Artificial Intelligence (AI) Greentech Real Estate Software Technology, Information and Internet + 99 more Accacia is an AI-enabled real-estate decarbonization platform that allows RE and infrastructure owners, developers, asset managers, and operators to measure, track, and manage their climate risks. View 10 jobs",
           "graduationDate": null,
-          "applyUrl": "https://jobs.8vc.com/companies/x-ai/jobs/95331429-manager-critical-facilities-operations-memphis#content",
-          "firstSeen": "2026-09-30",
+          "applyUrl": "https://www.accel.com/companies/accacia#content",
+          "firstSeen": "2026-09-10",
           "source": "scraper"
         },
         {
-          "title": "X.ai Location: Southaven, MS, USA ; Memphis, TN, USA Posted: Today Application Software Artificial Intelligence (AI) Bus",
-          "description": "iness And Industrial Business/Productivity Software Consumer Software Data & Analytics Enterprise Software Foundational AI Generative AI Internet Internet Services IT Consulting and Outsourcing Machine Learning Media and Information Services (B2B) Scheduling Science and Engineering Software Technology Virtual Assistant Application Software Artificial Intelligence (AI) Business And Industrial Business/Productivity Software Consumer Software Data & Analytics Enterprise Software Foundational AI Gen",
+          "title": "Accacia 10 job s Seed Artificial Intelligence (AI) Greentech Real Estate Software Technology, Information and Internet S",
+          "description": "eed Artificial Intelligence (AI) Greentech Real Estate Software Technology, Information and Internet + 99 more Accacia is an AI-enabled real-estate decarbonization platform that allows RE and infrastructure owners, developers, asset managers, and operators to measure, track, and manage their climate risks. View 10 jobs",
           "graduationDate": null,
-          "applyUrl": "https://jobs.8vc.com/companies/x-ai#content",
-          "firstSeen": "2026-09-30",
+          "applyUrl": "https://www.accel.com/companies/accacia#content",
+          "firstSeen": "2026-09-10",
           "source": "scraper"
         },
         {
-          "title": "Application Software Artificial Intelligence (AI) Business And Industrial Business/Productivity Software Consumer Softwa",
-          "description": "re Data & Analytics Enterprise Software Foundational AI Generative AI Internet Internet Services IT Consulting and Outsourcing Machine Learning Media and Information Services (B2B) Scheduling Science and Engineering Software Technology Virtual Assistant Application Software Artificial Intelligence (AI) Business And Industrial Business/Productivity Software Consumer Software Data & Analytics Enterprise Software Foundational AI Generative AI Internet Internet Services IT Consulting and Outsourcing",
+          "title": "Seed Artificial Intelligence (AI) Greentech Real Estate Software Technology, Information and Internet Seed Artificial In",
+          "description": "telligence (AI) Greentech Real Estate Software Technology, Information and Internet + 99 more Accacia is an AI-enabled real-estate decarbonization platform that allows RE and infrastructure owners, developers, asset managers, and operators to measure, track, and manage their climate risks.",
           "graduationDate": null,
-          "applyUrl": "https://jobs.8vc.com/jobs",
-          "firstSeen": "2026-09-30",
+          "applyUrl": "https://www.accel.com/careers",
+          "firstSeen": "2026-08-03",
           "source": "scraper"
         },
         {
-          "title": "Critical Facilities Technician",
-          "description": "X.ai Location: Southaven, MS, USA ; Memphis, TN, USA Posted: Today Application Software Artificial Intelligence (AI) Business And Industrial Business/Productivity Software Consumer Software Data & Analytics Enterprise Software Foundational AI Generative AI Internet Internet Services IT Consulting and Outsourcing Machine Learning Media and Information Services (B2B) Scheduling Science and Engineering Software Technology Virtual Assistant Application Software Artificial Intelligence (AI) Business",
+          "title": "Seed Artificial Intelligence (AI) Greentech Real Estate Software Technology, Information and Internet",
+          "description": "",
           "graduationDate": null,
-          "applyUrl": "https://jobs.8vc.com/companies/x-ai/jobs/95331428-critical-facilities-technician#content",
-          "firstSeen": "2026-09-30",
+          "applyUrl": "https://www.accel.com/careers",
+          "firstSeen": "2026-08-03",
           "source": "scraper"
         },
         {
-          "title": "Recruiting Coordinator",
-          "description": "X.ai Location: Palo Alto, CA, USA Posted: Today Application Software Artificial Intelligence (AI) Business And Industrial Business/Productivity Software Consumer Software Data & Analytics Enterprise Software Foundational AI Generative AI Internet Internet Services IT Consulting and Outsourcing Machine Learning Media and Information Services (B2B) Scheduling Science and Engineering Software Technology Virtual Assistant Application Software Artificial Intelligence (AI) Business And Industrial Busi",
+          "title": "Technology, Information and Internet",
+          "description": "",
           "graduationDate": null,
-          "applyUrl": "https://jobs.8vc.com/companies/x-ai/jobs/95331433-recruiting-coordinator#content",
-          "firstSeen": "2026-09-30",
+          "applyUrl": "https://www.accel.com/careers",
+          "firstSeen": "2026-07-29",
           "source": "scraper"
         },
         {
-          "title": "X.ai Location: Palo Alto, CA, USA Posted: Today Application Software Artificial Intelligence (AI) Business And Industria",
-          "description": "l Business/Productivity Software Consumer Software Data & Analytics Enterprise Software Foundational AI Generative AI Internet Internet Services IT Consulting and Outsourcing Machine Learning Media and Information Services (B2B) Scheduling Science and Engineering Software Technology Virtual Assistant Application Software Artificial Intelligence (AI) Business And Industrial Business/Productivity Software Consumer Software Data & Analytics Enterprise Software Foundational AI Generative AI Internet",
+          "title": "Seed Artificial Intelligence (AI) Greentech Real Estate Software Technology, Information and Internet + 99 more",
+          "description": "",
           "graduationDate": null,
-          "applyUrl": "https://jobs.8vc.com/companies/x-ai#content",
-          "firstSeen": "2026-09-30",
-          "source": "scraper"
-        },
-        {
-          "title": "Carpenter (Construction) - Memphis",
-          "description": "X.ai Location: Southaven, MS, USA ; Memphis, TN, USA Posted: Today Application Software Artificial Intelligence (AI) Business And Industrial Business/Productivity Software Consumer Software Data & Analytics Enterprise Software Foundational AI Generative AI Internet Internet Services IT Consulting and Outsourcing Machine Learning Media and Information Services (B2B) Scheduling Science and Engineering Software Technology Virtual Assistant Application Software Artificial Intelligence (AI) Business",
-          "graduationDate": null,
-          "applyUrl": "https://jobs.8vc.com/companies/x-ai/jobs/95331425-carpenter-construction-memphis#content",
-          "firstSeen": "2026-09-30",
-          "source": "scraper"
-        },
-        {
-          "title": "IT Engineer - 3",
-          "description": "Quince Location: Berlin, Germany Posted: Today Accessories Apparel Clothing Clothing and Apparel Commerce and Shopping E-Commerce E-Commerce Platforms Ecommerce Hardware Internet Services Logistics Luxury Retail Retail Technology Software Specialty Retail Textiles Transportation Value Accessories Apparel Clothing Clothing and Apparel Commerce and Shopping E-Commerce E-Commerce Platforms Ecommerce Hardware Internet Services Logistics Luxury Retail Retail Technology Software Specialty Retail Texti",
-          "graduationDate": null,
-          "applyUrl": "https://jobs.8vc.com/companies/quince-2-b94a0b0f-7360-40bc-9cc8-2ff4a634a847/jobs/95325579-it-engineer-3#content",
-          "firstSeen": "2026-09-30",
-          "source": "scraper"
-        },
-        {
-          "title": "Quince Location: Berlin, Germany Posted: Today Accessories Apparel Clothing Clothing and Apparel Commerce and Shopping E",
-          "description": "-Commerce E-Commerce Platforms Ecommerce Hardware Internet Services Logistics Luxury Retail Retail Technology Software Specialty Retail Textiles Transportation Value Accessories Apparel Clothing Clothing and Apparel Commerce and Shopping E-Commerce E-Commerce Platforms Ecommerce Hardware Internet Services Logistics Luxury Retail Retail Technology Software Specialty Retail Textiles Transportation Value + 99 more",
-          "graduationDate": null,
-          "applyUrl": "https://jobs.8vc.com/companies/quince-2-b94a0b0f-7360-40bc-9cc8-2ff4a634a847#content",
-          "firstSeen": "2026-09-30",
-          "source": "scraper"
-        },
-        {
-          "title": "Accessories Apparel Clothing Clothing and Apparel Commerce and Shopping E-Commerce E-Commerce Platforms Ecommerce Hardwa",
-          "description": "re Internet Services Logistics Luxury Retail Retail Technology Software Specialty Retail Textiles Transportation Value Accessories Apparel Clothing Clothing and Apparel Commerce and Shopping E-Commerce E-Commerce Platforms Ecommerce Hardware Internet Services Logistics Luxury Retail Retail Technology Software Specialty Retail Textiles Transportation Value + 99 more",
-          "graduationDate": null,
-          "applyUrl": "https://jobs.8vc.com/jobs",
-          "firstSeen": "2026-09-30",
+          "applyUrl": "https://www.accel.com/careers",
+          "firstSeen": "2026-08-03",
           "source": "scraper"
         }
       ]
-    },
-    "Accel Partners Management": {
-      "hasInternPosting": false,
-      "careerUrl": null,
-      "status": "no_url",
-      "lastChecked": "2026-09-30T15:09:41.504248+00:00",
-      "jobs": []
     },
     "Accel London Management Limited": {
       "hasInternPosting": true,
       "careerUrl": "https://www.accel.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-30T15:09:45.329012+00:00",
+      "lastChecked": "2026-10-01T15:59:23.602329+00:00",
       "jobs": [
         {
           "title": "Accacia 10 job s Seed Artificial Intelligence (AI) Greentech Real Estate Software Technology, Information and Internet Seed Artificial Intelligence (AI) Greentech Real Estate Software Technology, Info",
@@ -732,7 +692,7 @@
       "hasInternPosting": true,
       "careerUrl": "https://www.balderton.com/company/careers",
       "status": "ok",
-      "lastChecked": "2026-09-30T15:11:38.251536+00:00",
+      "lastChecked": "2026-10-01T15:59:40.397280+00:00",
       "jobs": [
         {
           "title": "Matt Cooper",
@@ -796,42 +756,42 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-30T15:11:46.819089+00:00",
+      "lastChecked": "2026-10-01T15:59:49.648768+00:00",
       "jobs": []
     },
     "Altos Ventures Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-30T15:12:32.060851+00:00",
+      "lastChecked": "2026-10-01T16:00:22.575733+00:00",
       "jobs": []
     },
     "Bond": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-30T15:12:39.704895+00:00",
+      "lastChecked": "2026-10-01T16:00:32.017373+00:00",
       "jobs": []
     },
     "Addition": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-30T15:13:07.661127+00:00",
+      "lastChecked": "2026-10-01T16:00:57.701726+00:00",
       "jobs": []
     },
     "Redpoint Ventures": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-30T15:13:15.401086+00:00",
+      "lastChecked": "2026-10-01T16:01:06.618936+00:00",
       "jobs": []
     },
     "B Capital Group": {
       "hasInternPosting": true,
       "careerUrl": "https://www.bcapgroup.com/about/careers",
       "status": "ok",
-      "lastChecked": "2026-09-30T15:13:43.761329+00:00",
+      "lastChecked": "2026-10-01T16:01:23.760142+00:00",
       "jobs": [
         {
           "title": "Accacia 10 job s Seed Artificial Intelligence (AI) Greentech Real Estate Software Technology, Information and Internet Seed Artificial Intelligence (AI) Greentech Real Estate Software Technology, Info",
@@ -842,11 +802,11 @@
           "source": "scraper"
         },
         {
-          "title": "Aspire 39 job s Series C Banking Financial Services Fintech Small and Medium Businesses Series C Banking Financial Services Fintech Small and Medium Businesses + 99 more Aspire is the finance stack th",
+          "title": "Aspire 49 job s Series C Banking Financial Services Fintech Small and Medium Businesses Series C Banking Financial Services Fintech Small and Medium Businesses + 99 more Aspire is the finance stack th",
           "description": "",
           "graduationDate": null,
           "applyUrl": "https://jobs.b.capital/companies/aspire-2-1291502b-7d84-462f-9600-a5a7e118aaac#content",
-          "firstSeen": "2026-09-30",
+          "firstSeen": "2026-10-01",
           "source": "scraper"
         },
         {
@@ -898,11 +858,11 @@
           "source": "scraper"
         },
         {
-          "title": "Aspire 39 job s Series C Banking Financial Services Fintech Small and Medium Businesses Series C Banking Financial Servi",
+          "title": "Aspire 49 job s Series C Banking Financial Services Fintech Small and Medium Businesses Series C Banking Financial Servi",
           "description": "ces Fintech Small and Medium Businesses + 99 more Aspire is the finance stack that helps global founders build fast and scale freely—with no minimum balance, no borders, and nonstop support. Aspire has supported over 50,000 businesses worldwide, helping them save time and money across international payments, treasury, expenses, payables, and receivables—all managed through a single, intuitive account. To date, Aspire has powered over US$25 billion in payments across 30+ countries, enabling the",
           "graduationDate": null,
           "applyUrl": "https://jobs.b.capital/companies/aspire-2-1291502b-7d84-462f-9600-a5a7e118aaac#content",
-          "firstSeen": "2026-09-30",
+          "firstSeen": "2026-10-01",
           "source": "scraper"
         },
         {
@@ -943,84 +903,84 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-30T15:13:52.321671+00:00",
+      "lastChecked": "2026-10-01T16:01:33.613680+00:00",
       "jobs": []
     },
     "Columbia Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-30T15:14:04.518143+00:00",
+      "lastChecked": "2026-10-01T16:01:48.554833+00:00",
       "jobs": []
     },
     "Kaszek Management S.A.": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-30T15:14:30.328416+00:00",
+      "lastChecked": "2026-10-01T16:01:59.853162+00:00",
       "jobs": []
     },
     "Craft Ventures Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-30T15:14:43.170573+00:00",
+      "lastChecked": "2026-10-01T16:02:09.878553+00:00",
       "jobs": []
     },
     "Canaan Partners": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-30T15:14:54.374230+00:00",
+      "lastChecked": "2026-10-01T16:02:20.104241+00:00",
       "jobs": []
     },
     "Matrix Partners": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-30T15:15:04.482457+00:00",
+      "lastChecked": "2026-10-01T16:02:31.467726+00:00",
       "jobs": []
     },
     "Indigo Partners": {
       "hasInternPosting": false,
       "careerUrl": "https://www.indigopartners.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-30T15:15:06.309529+00:00",
+      "lastChecked": "2026-10-01T16:02:33.549077+00:00",
       "jobs": []
     },
     "Eclipse Ventures": {
       "hasInternPosting": false,
       "careerUrl": "https://www.eclipse.vc/careers",
       "status": "ok",
-      "lastChecked": "2026-09-30T15:15:12.608521+00:00",
+      "lastChecked": "2026-10-01T16:02:40.447874+00:00",
       "jobs": []
     },
     "Hedosophia Advisor Limited": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-30T15:15:51.079773+00:00",
+      "lastChecked": "2026-10-01T16:03:20.216604+00:00",
       "jobs": []
     },
     "DFJ Growth": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-30T15:16:00.021015+00:00",
+      "lastChecked": "2026-10-01T16:03:29.355042+00:00",
       "jobs": []
     },
     "VR Management": {
       "hasInternPosting": false,
-      "careerUrl": "https://www.vrmanagement.com/careers/students",
+      "careerUrl": "https://www.vrmanagement.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-30T15:16:06.433983+00:00",
+      "lastChecked": "2026-10-01T16:03:33.119031+00:00",
       "jobs": []
     },
     "Qiming Venture Partners": {
       "hasInternPosting": true,
       "careerUrl": "https://www.qimingvc.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-30T15:16:16.743142+00:00",
+      "lastChecked": "2026-10-01T16:03:45.960546+00:00",
       "jobs": [
         {
           "title": "QIMING VENTURE PARTNERS 2022 SUMMER INTERNSHIP——Summer Associate – T&C, Remote",
@@ -1124,60 +1084,212 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-30T15:16:23.707557+00:00",
+      "lastChecked": "2026-10-01T16:03:53.920315+00:00",
       "jobs": []
     },
     "Felicis Ventures": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-30T15:16:33.100059+00:00",
+      "lastChecked": "2026-10-01T16:04:03.009540+00:00",
       "jobs": []
     },
     "Menlo Ventures": {
       "hasInternPosting": true,
       "careerUrl": "https://www.menlovc.com/join",
       "status": "ok",
-      "lastChecked": "2026-09-30T15:16:49.315489+00:00",
+      "lastChecked": "2026-10-01T16:04:16.501076+00:00",
       "jobs": [
         {
-          "title": "Senior FP&A Analyst",
-          "description": "Heap Location: Wrocław, Poland Posted: Today Analytics Business Intelligence Enterprise Software Internet Productivity Tools Smart Contracts Software Analytics Business Intelligence Enterprise Software Internet Productivity Tools Smart Contracts Software + 99 more View job",
+          "title": "Senior Field Marketing Manager, Events",
+          "description": "Harness Location: United States ; Remote Compensation: USD 125k-140k / year Posted: Today Senior Administrative Services Analytics Application Performance Management Artificial Intelligence (AI) Big Data Business And Industrial Business/Productivity Software Cloud Cloud Management Cyber Security Data & Analytics Delivery Developer Tools DevOps Enterprise Software Internet Services Logistics Machine Learning Platform Privacy and Security Productivity Tools Professional Services Quality Assurance",
           "graduationDate": null,
-          "applyUrl": "https://jobs.menlovc.com/companies/heap-io/jobs/95324973-senior-fp-a-analyst#content",
-          "firstSeen": "2026-09-30",
+          "applyUrl": "https://jobs.menlovc.com/companies/harness/jobs/95427395-senior-field-marketing-manager-events#content",
+          "firstSeen": "2026-10-01",
           "source": "scraper"
         },
         {
-          "title": "Heap Location: Wrocław, Poland Posted: Today Analytics Business Intelligence Enterprise Software Internet Productivity T",
-          "description": "ools Smart Contracts Software Analytics Business Intelligence Enterprise Software Internet Productivity Tools Smart Contracts Software + 99 more",
+          "title": "Harness Location: United States ; Remote Compensation: USD 125k-140k / year Posted: Today Senior Administrative Services",
+          "description": "Analytics Application Performance Management Artificial Intelligence (AI) Big Data Business And Industrial Business/Productivity Software Cloud Cloud Management Cyber Security Data & Analytics Delivery Developer Tools DevOps Enterprise Software Internet Services Logistics Machine Learning Platform Privacy and Security Productivity Tools Professional Services Quality Assurance SaaS Science and Engineering Software Software Development Software Development Applications Software Engineering Technol",
           "graduationDate": null,
-          "applyUrl": "https://jobs.menlovc.com/companies/heap-io#content",
-          "firstSeen": "2026-09-30",
+          "applyUrl": "https://jobs.menlovc.com/companies/harness#content",
+          "firstSeen": "2026-10-01",
           "source": "scraper"
         },
         {
-          "title": "Analytics Business Intelligence Enterprise Software Internet Productivity Tools Smart Contracts Software Analytics Busin",
-          "description": "ess Intelligence Enterprise Software Internet Productivity Tools Smart Contracts Software + 99 more",
+          "title": "Senior Administrative Services Analytics Application Performance Management Artificial Intelligence (AI) Big Data Busine",
+          "description": "ss And Industrial Business/Productivity Software Cloud Cloud Management Cyber Security Data & Analytics Delivery Developer Tools DevOps Enterprise Software Internet Services Logistics Machine Learning Platform Privacy and Security Productivity Tools Professional Services Quality Assurance SaaS Science and Engineering Software Software Development Software Development Applications Software Engineering Technology Senior Administrative Services Analytics Application Performance Management Artificia",
           "graduationDate": null,
           "applyUrl": "https://jobs.menlovc.com/jobs",
-          "firstSeen": "2026-09-30",
+          "firstSeen": "2026-10-01",
           "source": "scraper"
         },
         {
-          "title": "Analytics Business Intelligence Enterprise Software Internet Productivity Tools Smart Contracts Software",
+          "title": "Software Engineer",
+          "description": "Harness Location: Bengaluru, Karnataka, India Posted: Today Mid-Senior Level Administrative Services Analytics Application Performance Management Artificial Intelligence (AI) Big Data Business And Industrial Business/Productivity Software Cloud Cloud Management Cyber Security Data & Analytics Delivery Developer Tools DevOps Enterprise Software Internet Services Logistics Machine Learning Platform Privacy and Security Productivity Tools Professional Services Quality Assurance SaaS Science and Eng",
+          "graduationDate": null,
+          "applyUrl": "https://jobs.menlovc.com/companies/harness/jobs/95427398-software-engineer#content",
+          "firstSeen": "2026-10-01",
+          "source": "scraper"
+        },
+        {
+          "title": "Harness Location: Bengaluru, Karnataka, India Posted: Today Mid-Senior Level Administrative Services Analytics Applicati",
+          "description": "on Performance Management Artificial Intelligence (AI) Big Data Business And Industrial Business/Productivity Software Cloud Cloud Management Cyber Security Data & Analytics Delivery Developer Tools DevOps Enterprise Software Internet Services Logistics Machine Learning Platform Privacy and Security Productivity Tools Professional Services Quality Assurance SaaS Science and Engineering Software Software Development Software Development Applications Software Engineering Technology Mid-Senior Leve",
+          "graduationDate": null,
+          "applyUrl": "https://jobs.menlovc.com/companies/harness#content",
+          "firstSeen": "2026-10-01",
+          "source": "scraper"
+        },
+        {
+          "title": "Mid-Senior Level Administrative Services Analytics Application Performance Management Artificial Intelligence (AI) Big D",
+          "description": "ata Business And Industrial Business/Productivity Software Cloud Cloud Management Cyber Security Data & Analytics Delivery Developer Tools DevOps Enterprise Software Internet Services Logistics Machine Learning Platform Privacy and Security Productivity Tools Professional Services Quality Assurance SaaS Science and Engineering Software Software Development Software Development Applications Software Engineering Technology Mid-Senior Level Administrative Services Analytics Application Performance",
+          "graduationDate": null,
+          "applyUrl": "https://jobs.menlovc.com/jobs",
+          "firstSeen": "2026-10-01",
+          "source": "scraper"
+        },
+        {
+          "title": "Senior Software Engineer",
+          "description": "Harness Location: Bengaluru, Karnataka, India Posted: Today Mid-Senior Level Administrative Services Analytics Application Performance Management Artificial Intelligence (AI) Big Data Business And Industrial Business/Productivity Software Cloud Cloud Management Cyber Security Data & Analytics Delivery Developer Tools DevOps Enterprise Software Internet Services Logistics Machine Learning Platform Privacy and Security Productivity Tools Professional Services Quality Assurance SaaS Science and Eng",
+          "graduationDate": null,
+          "applyUrl": "https://jobs.menlovc.com/companies/harness/jobs/95427397-senior-software-engineer#content",
+          "firstSeen": "2026-10-01",
+          "source": "scraper"
+        },
+        {
+          "title": "Machine Learning Engineer - Content Discovery",
+          "description": "Suno Location: San Francisco, CA, USA Posted: Today Series C Mid-Senior Level Apps Artificial Intelligence (AI) Audio Business/Productivity Software Data & Analytics Enterprise Software Media & Entertainment Movies, Music and Entertainment Music Music and Audio Platform Science and Engineering Software Technology Technology, Information and Internet Series C Mid-Senior Level Apps Artificial Intelligence (AI) Audio Business/Productivity Software Data & Analytics Enterprise Software Media & Entert",
+          "graduationDate": null,
+          "applyUrl": "https://jobs.menlovc.com/companies/suno-2-eb4ecbd1-b03a-4bdc-bddb-927c1bc18372/jobs/95421323-machine-learning-engineer-content-discovery#content",
+          "firstSeen": "2026-10-01",
+          "source": "scraper"
+        },
+        {
+          "title": "Suno Location: San Francisco, CA, USA Posted: Today Series C Mid-Senior Level Apps Artificial Intelligence (AI) Audio Bu",
+          "description": "siness/Productivity Software Data & Analytics Enterprise Software Media & Entertainment Movies, Music and Entertainment Music Music and Audio Platform Science and Engineering Software Technology Technology, Information and Internet Series C Mid-Senior Level Apps Artificial Intelligence (AI) Audio Business/Productivity Software Data & Analytics Enterprise Software Media & Entertainment Movies, Music and Entertainment Music Music and Audio Platform Science and Engineering Software Technology Techn",
+          "graduationDate": null,
+          "applyUrl": "https://jobs.menlovc.com/companies/suno-2-eb4ecbd1-b03a-4bdc-bddb-927c1bc18372#content",
+          "firstSeen": "2026-10-01",
+          "source": "scraper"
+        },
+        {
+          "title": "Series C Mid-Senior Level Apps Artificial Intelligence (AI) Audio Business/Productivity Software Data & Analytics Enterp",
+          "description": "rise Software Media & Entertainment Movies, Music and Entertainment Music Music and Audio Platform Science and Engineering Software Technology Technology, Information and Internet Series C Mid-Senior Level Apps Artificial Intelligence (AI) Audio Business/Productivity Software Data & Analytics Enterprise Software Media & Entertainment Movies, Music and Entertainment Music Music and Audio Platform Science and Engineering Software Technology Technology, Information and Internet + 99 more",
+          "graduationDate": null,
+          "applyUrl": "https://jobs.menlovc.com/jobs",
+          "firstSeen": "2026-10-01",
+          "source": "scraper"
+        },
+        {
+          "title": "Technology, Information and Internet",
           "description": "",
           "graduationDate": null,
           "applyUrl": "https://jobs.menlovc.com/jobs",
-          "firstSeen": "2026-09-30",
+          "firstSeen": "2026-10-01",
           "source": "scraper"
         },
         {
-          "title": "Analytics Business Intelligence Enterprise Software Internet Productivity Tools Smart Contracts Software + 99 more",
-          "description": "",
+          "title": "GTM Content / Copywriter",
+          "description": "Higgsfield AI Location: Almaty, Kazakhstan Posted: Today Series A Mid-Senior Level Artificial Intelligence (AI) Business/Productivity Software Content and Publishing Data & Analytics Generative AI Infrastructure Internet Services IT Consulting and Outsourcing LLM Marketing Automation Media & Entertainment Media and Information Services (B2B) MLOps Multimedia and Design Software Science and Engineering Social Media Software Technology Video Video Editing Video Technology Series A Mid-Senior Level",
+          "graduationDate": null,
+          "applyUrl": "https://jobs.menlovc.com/companies/higgsfield-ai-2/jobs/95413193-gtm-content-copywriter#content",
+          "firstSeen": "2026-10-01",
+          "source": "scraper"
+        },
+        {
+          "title": "Higgsfield AI Location: Almaty, Kazakhstan Posted: Today Series A Mid-Senior Level Artificial Intelligence (AI) Business",
+          "description": "/Productivity Software Content and Publishing Data & Analytics Generative AI Infrastructure Internet Services IT Consulting and Outsourcing LLM Marketing Automation Media & Entertainment Media and Information Services (B2B) MLOps Multimedia and Design Software Science and Engineering Social Media Software Technology Video Video Editing Video Technology Series A Mid-Senior Level Artificial Intelligence (AI) Business/Productivity Software Content and Publishing Data & Analytics Generative AI Infra",
+          "graduationDate": null,
+          "applyUrl": "https://jobs.menlovc.com/companies/higgsfield-ai-2#content",
+          "firstSeen": "2026-10-01",
+          "source": "scraper"
+        },
+        {
+          "title": "Series A Mid-Senior Level Artificial Intelligence (AI) Business/Productivity Software Content and Publishing Data & Anal",
+          "description": "ytics Generative AI Infrastructure Internet Services IT Consulting and Outsourcing LLM Marketing Automation Media & Entertainment Media and Information Services (B2B) MLOps Multimedia and Design Software Science and Engineering Social Media Software Technology Video Video Editing Video Technology Series A Mid-Senior Level Artificial Intelligence (AI) Business/Productivity Software Content and Publishing Data & Analytics Generative AI Infrastructure Internet Services IT Consulting and Outsourcing",
           "graduationDate": null,
           "applyUrl": "https://jobs.menlovc.com/jobs",
-          "firstSeen": "2026-09-30",
+          "firstSeen": "2026-10-01",
+          "source": "scraper"
+        },
+        {
+          "title": "Senior Recruiting Coordinator",
+          "description": "Higgsfield AI Location: Almaty, Kazakhstan Posted: Today Series A Senior Artificial Intelligence (AI) Business/Productivity Software Content and Publishing Data & Analytics Generative AI Infrastructure Internet Services IT Consulting and Outsourcing LLM Marketing Automation Media & Entertainment Media and Information Services (B2B) MLOps Multimedia and Design Software Science and Engineering Social Media Software Technology Video Video Editing Video Technology Series A Senior Artificial Intellig",
+          "graduationDate": null,
+          "applyUrl": "https://jobs.menlovc.com/companies/higgsfield-ai-2/jobs/95413191-senior-recruiting-coordinator#content",
+          "firstSeen": "2026-10-01",
+          "source": "scraper"
+        },
+        {
+          "title": "Higgsfield AI Location: Almaty, Kazakhstan Posted: Today Series A Senior Artificial Intelligence (AI) Business/Productiv",
+          "description": "ity Software Content and Publishing Data & Analytics Generative AI Infrastructure Internet Services IT Consulting and Outsourcing LLM Marketing Automation Media & Entertainment Media and Information Services (B2B) MLOps Multimedia and Design Software Science and Engineering Social Media Software Technology Video Video Editing Video Technology Series A Senior Artificial Intelligence (AI) Business/Productivity Software Content and Publishing Data & Analytics Generative AI Infrastructure Internet S",
+          "graduationDate": null,
+          "applyUrl": "https://jobs.menlovc.com/companies/higgsfield-ai-2#content",
+          "firstSeen": "2026-10-01",
+          "source": "scraper"
+        },
+        {
+          "title": "Series A Senior Artificial Intelligence (AI) Business/Productivity Software Content and Publishing Data & Analytics Gene",
+          "description": "rative AI Infrastructure Internet Services IT Consulting and Outsourcing LLM Marketing Automation Media & Entertainment Media and Information Services (B2B) MLOps Multimedia and Design Software Science and Engineering Social Media Software Technology Video Video Editing Video Technology Series A Senior Artificial Intelligence (AI) Business/Productivity Software Content and Publishing Data & Analytics Generative AI Infrastructure Internet Services IT Consulting and Outsourcing LLM Marketing Autom",
+          "graduationDate": null,
+          "applyUrl": "https://jobs.menlovc.com/jobs",
+          "firstSeen": "2026-10-01",
+          "source": "scraper"
+        },
+        {
+          "title": "Data Scientist, Antifraud",
+          "description": "Higgsfield AI Location: Almaty, Kazakhstan Posted: Today Series A Mid-Senior Level Artificial Intelligence (AI) Business/Productivity Software Content and Publishing Data & Analytics Generative AI Infrastructure Internet Services IT Consulting and Outsourcing LLM Marketing Automation Media & Entertainment Media and Information Services (B2B) MLOps Multimedia and Design Software Science and Engineering Social Media Software Technology Video Video Editing Video Technology Series A Mid-Senior Level",
+          "graduationDate": null,
+          "applyUrl": "https://jobs.menlovc.com/companies/higgsfield-ai-2/jobs/95413176-data-scientist-antifraud#content",
+          "firstSeen": "2026-10-01",
+          "source": "scraper"
+        },
+        {
+          "title": "Data Analyst, Antifraud",
+          "description": "Higgsfield AI Location: Almaty, Kazakhstan Posted: Today Series A Mid-Senior Level Artificial Intelligence (AI) Business/Productivity Software Content and Publishing Data & Analytics Generative AI Infrastructure Internet Services IT Consulting and Outsourcing LLM Marketing Automation Media & Entertainment Media and Information Services (B2B) MLOps Multimedia and Design Software Science and Engineering Social Media Software Technology Video Video Editing Video Technology Series A Mid-Senior Level",
+          "graduationDate": null,
+          "applyUrl": "https://jobs.menlovc.com/companies/higgsfield-ai-2/jobs/95413178-data-analyst-antifraud#content",
+          "firstSeen": "2026-10-01",
+          "source": "scraper"
+        },
+        {
+          "title": "Payments Analyst",
+          "description": "Higgsfield AI Location: Almaty, Kazakhstan Posted: Today Series A Mid-Senior Level Artificial Intelligence (AI) Business/Productivity Software Content and Publishing Data & Analytics Generative AI Infrastructure Internet Services IT Consulting and Outsourcing LLM Marketing Automation Media & Entertainment Media and Information Services (B2B) MLOps Multimedia and Design Software Science and Engineering Social Media Software Technology Video Video Editing Video Technology Series A Mid-Senior Level",
+          "graduationDate": null,
+          "applyUrl": "https://jobs.menlovc.com/companies/higgsfield-ai-2/jobs/95413181-payments-analyst#content",
+          "firstSeen": "2026-10-01",
+          "source": "scraper"
+        },
+        {
+          "title": "Head of Recruitment",
+          "description": "Higgsfield AI Location: Almaty, Kazakhstan Posted: Today Series A Director Artificial Intelligence (AI) Business/Productivity Software Content and Publishing Data & Analytics Generative AI Infrastructure Internet Services IT Consulting and Outsourcing LLM Marketing Automation Media & Entertainment Media and Information Services (B2B) MLOps Multimedia and Design Software Science and Engineering Social Media Software Technology Video Video Editing Video Technology Series A Director Artificial Inte",
+          "graduationDate": null,
+          "applyUrl": "https://jobs.menlovc.com/companies/higgsfield-ai-2/jobs/95413184-head-of-recruitment#content",
+          "firstSeen": "2026-10-01",
+          "source": "scraper"
+        },
+        {
+          "title": "Higgsfield AI Location: Almaty, Kazakhstan Posted: Today Series A Director Artificial Intelligence (AI) Business/Product",
+          "description": "ivity Software Content and Publishing Data & Analytics Generative AI Infrastructure Internet Services IT Consulting and Outsourcing LLM Marketing Automation Media & Entertainment Media and Information Services (B2B) MLOps Multimedia and Design Software Science and Engineering Social Media Software Technology Video Video Editing Video Technology Series A Director Artificial Intelligence (AI) Business/Productivity Software Content and Publishing Data & Analytics Generative AI Infrastructure Intern",
+          "graduationDate": null,
+          "applyUrl": "https://jobs.menlovc.com/companies/higgsfield-ai-2#content",
+          "firstSeen": "2026-10-01",
+          "source": "scraper"
+        },
+        {
+          "title": "Series A Director Artificial Intelligence (AI) Business/Productivity Software Content and Publishing Data & Analytics Ge",
+          "description": "nerative AI Infrastructure Internet Services IT Consulting and Outsourcing LLM Marketing Automation Media & Entertainment Media and Information Services (B2B) MLOps Multimedia and Design Software Science and Engineering Social Media Software Technology Video Video Editing Video Technology Series A Director Artificial Intelligence (AI) Business/Productivity Software Content and Publishing Data & Analytics Generative AI Infrastructure Internet Services IT Consulting and Outsourcing LLM Marketing A",
+          "graduationDate": null,
+          "applyUrl": "https://jobs.menlovc.com/jobs",
+          "firstSeen": "2026-10-01",
+          "source": "scraper"
+        },
+        {
+          "title": "Senior Tech Recruiter",
+          "description": "Higgsfield AI Location: Almaty, Kazakhstan Posted: Today Series A Senior Artificial Intelligence (AI) Business/Productivity Software Content and Publishing Data & Analytics Generative AI Infrastructure Internet Services IT Consulting and Outsourcing LLM Marketing Automation Media & Entertainment Media and Information Services (B2B) MLOps Multimedia and Design Software Science and Engineering Social Media Software Technology Video Video Editing Video Technology Series A Senior Artificial Intellig",
+          "graduationDate": null,
+          "applyUrl": "https://jobs.menlovc.com/companies/higgsfield-ai-2/jobs/95413189-senior-tech-recruiter#content",
+          "firstSeen": "2026-10-01",
           "source": "scraper"
         }
       ]
@@ -1186,91 +1298,91 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-30T15:17:00.925375+00:00",
+      "lastChecked": "2026-10-01T16:04:26.063328+00:00",
       "jobs": []
     },
     "Greycroft": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-30T15:17:13.983601+00:00",
+      "lastChecked": "2026-10-01T16:04:38.367008+00:00",
       "jobs": []
     },
     "Momentum Capital Partners Alpha Advisor Limited": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-30T15:17:26.089186+00:00",
+      "lastChecked": "2026-10-01T16:04:55.226572+00:00",
       "jobs": []
     },
     "Polaris Growth Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-30T15:17:34.383363+00:00",
+      "lastChecked": "2026-10-01T16:05:04.527021+00:00",
       "jobs": []
     },
     "K5 Global Advisor": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-30T15:17:42.709001+00:00",
+      "lastChecked": "2026-10-01T16:05:15.940321+00:00",
       "jobs": []
     },
     "Firstmark Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-30T15:17:50.197131+00:00",
+      "lastChecked": "2026-10-01T16:05:24.355782+00:00",
       "jobs": []
     },
     "Atreides Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-30T15:17:57.589653+00:00",
+      "lastChecked": "2026-10-01T16:05:31.786783+00:00",
       "jobs": []
     },
     "Madrona Venture Group": {
       "hasInternPosting": false,
       "careerUrl": "https://www.madrona.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-30T15:18:03.150587+00:00",
+      "lastChecked": "2026-10-01T16:05:44.496782+00:00",
       "jobs": []
     },
     "Fifth Wall Asset Management": {
       "hasInternPosting": false,
       "careerUrl": "https://fifthwall.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-30T15:18:06.684315+00:00",
+      "lastChecked": "2026-10-01T16:05:48.354094+00:00",
       "jobs": []
     },
     "Valar Ventures": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-30T15:18:13.933792+00:00",
+      "lastChecked": "2026-10-01T16:05:57.112361+00:00",
       "jobs": []
     },
     "Momentum Capital Partners Fund IV Advisor Limited": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-30T15:18:25.349383+00:00",
+      "lastChecked": "2026-10-01T16:06:12.034642+00:00",
       "jobs": []
     },
     "Elevation Capital Partners": {
       "hasInternPosting": false,
       "careerUrl": "https://www.elevationcapital.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-30T15:18:27.696218+00:00",
+      "lastChecked": "2026-10-01T16:06:14.766384+00:00",
       "jobs": []
     },
     "Column Group": {
       "hasInternPosting": true,
       "careerUrl": "https://www.thecolumngroup.com/join",
       "status": "ok",
-      "lastChecked": "2026-09-30T15:18:40.681436+00:00",
+      "lastChecked": "2026-10-01T16:06:27.144540+00:00",
       "jobs": [
         {
           "title": "Filter jobs by skills and more Roles Search roles Skills Search skills Location Search locations Company stage Select...",
@@ -1302,63 +1414,63 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-30T15:18:49.157457+00:00",
+      "lastChecked": "2026-10-01T16:06:36.940708+00:00",
       "jobs": []
     },
     "Eight Roads GP": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-30T15:19:04.699892+00:00",
+      "lastChecked": "2026-10-01T16:06:53.649177+00:00",
       "jobs": []
     },
     "Nexus Ventures Advisors Private Limited": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-30T15:19:12.952766+00:00",
+      "lastChecked": "2026-10-01T16:07:02.916992+00:00",
       "jobs": []
     },
     "Foundation Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-30T15:23:07.557632+00:00",
+      "lastChecked": "2026-10-01T16:10:55.382552+00:00",
       "jobs": []
     },
     "5Y Capital Management Limited": {
       "hasInternPosting": false,
-      "careerUrl": null,
-      "status": "no_url",
-      "lastChecked": "2026-09-30T15:23:25.318411+00:00",
+      "careerUrl": "https://www.5ycap.com/about/careers",
+      "status": "ok",
+      "lastChecked": "2026-10-01T16:11:15.664966+00:00",
       "jobs": []
     },
     "Meritech Capital": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-30T15:23:32.336644+00:00",
+      "lastChecked": "2026-10-01T16:11:24.086049+00:00",
       "jobs": []
     },
     "Versant Venture Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-30T15:23:56.447985+00:00",
+      "lastChecked": "2026-10-01T16:11:35.926220+00:00",
       "jobs": []
     },
     "Golden Sand River Digital": {
       "hasInternPosting": false,
       "careerUrl": "https://www.gsrventures.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-30T15:24:01.997806+00:00",
+      "lastChecked": "2026-10-01T16:11:41.323475+00:00",
       "jobs": []
     },
     "Qiming Global Management": {
       "hasInternPosting": true,
       "careerUrl": "https://www.qimingvc.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-30T15:24:11.810946+00:00",
+      "lastChecked": "2026-10-01T16:11:52.346776+00:00",
       "jobs": [
         {
           "title": "QIMING VENTURE PARTNERS 2022 SUMMER INTERNSHIP——Summer Associate – T&C, Remote",
@@ -1462,49 +1574,49 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-30T15:24:19.113045+00:00",
+      "lastChecked": "2026-10-01T16:12:00.024728+00:00",
       "jobs": []
     },
     "Mayfield Fund L.L.C. A Delaware Limited Liability": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-30T15:24:32.028727+00:00",
+      "lastChecked": "2026-10-01T16:12:41.500182+00:00",
       "jobs": []
     },
     "BRV Lotus Holdings Limited": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-30T15:24:40.822443+00:00",
+      "lastChecked": "2026-10-01T16:12:51.946495+00:00",
       "jobs": []
     },
     "Breakthrough Energy Ventures": {
       "hasInternPosting": false,
       "careerUrl": "https://www.breakthroughenergy.org/careers",
       "status": "ok",
-      "lastChecked": "2026-09-30T15:24:42.706438+00:00",
+      "lastChecked": "2026-10-01T16:12:53.878479+00:00",
       "jobs": []
     },
     "Next Legacy Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-30T15:24:54.426203+00:00",
+      "lastChecked": "2026-10-01T16:13:07.444131+00:00",
       "jobs": []
     },
     "Union Square Ventures": {
       "hasInternPosting": true,
       "careerUrl": "https://www.usv.com/jobs",
       "status": "ok",
-      "lastChecked": "2026-09-30T15:25:04.976703+00:00",
+      "lastChecked": "2026-10-01T16:13:14.262464+00:00",
       "jobs": [
         {
-          "title": "160 companies . 1,224 jobs . Re-shape your career.",
-          "description": "People Portfolio Writing Jobs People Portfolio Writing Jobs Union Square Ventures 817 Broadway, 14th Floor New York, NY 10003 160 companies . 1,224 jobs . Re-shape your career. Jobs Companies Talent Network Filter jobs by skills and more Sign in Roles Search roles Skills Search skills Location Search locations Company stage Select... Industry Search industries Salary Select... Internships only Remote options All jobs Posted Anytime Powered by Consider Powered by Consider Privacy Terms Union Squa",
+          "title": "160 companies . 1,234 jobs . Re-shape your career.",
+          "description": "People Portfolio Writing Jobs People Portfolio Writing Jobs Union Square Ventures 817 Broadway, 14th Floor New York, NY 10003 160 companies . 1,234 jobs . Re-shape your career. Jobs Companies Talent Network Filter jobs by skills and more Sign in Roles Search roles Skills Search skills Location Search locations Company stage Select... Industry Search industries Salary Select... Internships only Remote options All jobs Posted Anytime Powered by Consider Powered by Consider Privacy Terms Union Squa",
           "graduationDate": null,
           "applyUrl": "https://www.usv.com/",
-          "firstSeen": "2026-09-30",
+          "firstSeen": "2026-10-01",
           "source": "scraper"
         },
         {
@@ -1537,181 +1649,213 @@
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-30T15:25:17.152348+00:00",
+      "lastChecked": "2026-10-01T16:13:28.264010+00:00",
       "jobs": []
     },
     "HV Capital Manager GMBH": {
       "hasInternPosting": true,
       "careerUrl": "https://www.hvcapital.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-30T15:25:24.591021+00:00",
+      "lastChecked": "2026-10-01T16:13:43.705772+00:00",
       "jobs": [
         {
-          "title": "Tierärzt/innen (m/w/d) im Hausbesuch in Wuppertal",
-          "description": "felmo Location: Kabelsketal, Germany Posted: Today Series B Mid-Senior Level Application Software Community and Lifestyle Health Care Healthcare Home Health Care Internet Internet Services Mobile App Other Services (B2C Non-Financial) Pets Specialty Retail Veterinary Services Series B Mid-Senior Level Application Software Community and Lifestyle Health Care Healthcare Home Health Care Internet Internet Services Mobile App Other Services (B2C Non-Financial) Pets Specialty Retail Veterinary Servic",
+          "title": "(Freelance) Senior Backend Engineer (m/f/d) - Agent SDK",
+          "description": "voize Location: Berlin, Germany ; Munich, Germany ; Hamburg, Germany ; Hanover, Germany ; Cologne, Germany ; Dortmund, Germany ; Göttingen, Germany Posted: Today Series A Senior Apps Artificial Intelligence (AI) Data & Analytics Document Management Health Care Internet Services Messaging and Telecommunications Mobile Mobile Apps Other Healthcare Technology Systems Science and Engineering Software Software Development VoIP Series A Senior Apps Artificial Intelligence (AI) Data & Analytics Documen",
           "graduationDate": null,
-          "applyUrl": "https://jobs.hvcapital.com/companies/felmo/jobs/95257887-tierarzt-innen-m-w-d-im-hausbesuch-in-wuppertal#content",
-          "firstSeen": "2026-09-30",
+          "applyUrl": "https://jobs.hvcapital.com/companies/voize-2/jobs/95441996-freelance-senior-backend-engineer-m-f-d-agent-sdk#content",
+          "firstSeen": "2026-10-01",
           "source": "scraper"
         },
         {
-          "title": "felmo Location: Kabelsketal, Germany Posted: Today Series B Mid-Senior Level Application Software Community and Lifestyl",
-          "description": "e Health Care Healthcare Home Health Care Internet Internet Services Mobile App Other Services (B2C Non-Financial) Pets Specialty Retail Veterinary Services Series B Mid-Senior Level Application Software Community and Lifestyle Health Care Healthcare Home Health Care Internet Internet Services Mobile App Other Services (B2C Non-Financial) Pets Specialty Retail Veterinary Services + 99 more",
+          "title": "voize Location: Berlin, Germany ; Munich, Germany ; Hamburg, Germany ; Hanover, Germany ; Cologne, Germany ; Dortmund, G",
+          "description": "ermany ; Göttingen, Germany Posted: Today Series A Senior Apps Artificial Intelligence (AI) Data & Analytics Document Management Health Care Internet Services Messaging and Telecommunications Mobile Mobile Apps Other Healthcare Technology Systems Science and Engineering Software Software Development VoIP Series A Senior Apps Artificial Intelligence (AI) Data & Analytics Document Management Health Care Internet Services Messaging and Telecommunications Mobile Mobile Apps Other Healthcare Technolo",
           "graduationDate": null,
-          "applyUrl": "https://jobs.hvcapital.com/companies/felmo#content",
-          "firstSeen": "2026-09-30",
+          "applyUrl": "https://jobs.hvcapital.com/companies/voize-2#content",
+          "firstSeen": "2026-10-01",
           "source": "scraper"
         },
         {
-          "title": "Series B Mid-Senior Level Application Software Community and Lifestyle Health Care Healthcare Home Health Care Internet",
-          "description": "Internet Services Mobile App Other Services (B2C Non-Financial) Pets Specialty Retail Veterinary Services Series B Mid-Senior Level Application Software Community and Lifestyle Health Care Healthcare Home Health Care Internet Internet Services Mobile App Other Services (B2C Non-Financial) Pets Specialty Retail Veterinary Services + 99 more",
+          "title": "Series A Senior Apps Artificial Intelligence (AI) Data & Analytics Document Management Health Care Internet Services Mes",
+          "description": "saging and Telecommunications Mobile Mobile Apps Other Healthcare Technology Systems Science and Engineering Software Software Development VoIP Series A Senior Apps Artificial Intelligence (AI) Data & Analytics Document Management Health Care Internet Services Messaging and Telecommunications Mobile Mobile Apps Other Healthcare Technology Systems Science and Engineering Software Software Development VoIP + 99 more",
           "graduationDate": null,
           "applyUrl": "https://jobs.hvcapital.com",
-          "firstSeen": "2026-09-30",
+          "firstSeen": "2026-10-01",
           "source": "scraper"
         },
         {
-          "title": "Junior Operations Manager Automotive (m/w/d)",
-          "description": "Caronsale Location: Berlin, Germany Posted: Today Series C Associate Automotive Commerce and Shopping Customer Service Information Services (B2C) Internet Publishing Marketplace Mobile App Professional Services Technology Transportation Vehicles Wholesale Series C Associate Automotive Commerce and Shopping Customer Service Information Services (B2C) Internet Publishing Marketplace Mobile App Professional Services Technology Transportation Vehicles Wholesale + 99 more View job",
+          "title": "Working Student Launch Operations (m/f/d)",
+          "description": "Isar Aerospace Location: Parsdorf Vaterstetten, Germany Posted: Today Internship Aerospace Aerospace & Defense Aviation and Aerospace Component Manufacturing Business And Industrial Hardware Manufacturing Manufacturing & Industrial Mechanical Components Satellite Science and Engineering Space Travel Transportation Vehicles Internship Aerospace Aerospace & Defense Aviation and Aerospace Component Manufacturing Business And Industrial Hardware Manufacturing Manufacturing & Industrial Mechanical Co",
           "graduationDate": null,
-          "applyUrl": "https://jobs.hvcapital.com/companies/caronsale/jobs/95244304-junior-operations-manager-automotive-m-w-d#content",
-          "firstSeen": "2026-09-30",
+          "applyUrl": "https://jobs.hvcapital.com/companies/isar-aerospace/jobs/95440851-working-student-launch-operations-m-f-d#content",
+          "firstSeen": "2026-10-01",
           "source": "scraper"
         },
         {
-          "title": "Caronsale Location: Berlin, Germany Posted: Today Series C Associate Automotive Commerce and Shopping Customer Service I",
-          "description": "nformation Services (B2C) Internet Publishing Marketplace Mobile App Professional Services Technology Transportation Vehicles Wholesale Series C Associate Automotive Commerce and Shopping Customer Service Information Services (B2C) Internet Publishing Marketplace Mobile App Professional Services Technology Transportation Vehicles Wholesale + 99 more",
+          "title": "Isar Aerospace Location: Parsdorf Vaterstetten, Germany Posted: Today Internship Aerospace Aerospace & Defense Aviation",
+          "description": "and Aerospace Component Manufacturing Business And Industrial Hardware Manufacturing Manufacturing & Industrial Mechanical Components Satellite Science and Engineering Space Travel Transportation Vehicles Internship Aerospace Aerospace & Defense Aviation and Aerospace Component Manufacturing Business And Industrial Hardware Manufacturing Manufacturing & Industrial Mechanical Components Satellite Science and Engineering Space Travel Transportation Vehicles + 99 more",
           "graduationDate": null,
-          "applyUrl": "https://jobs.hvcapital.com/companies/caronsale#content",
-          "firstSeen": "2026-09-30",
+          "applyUrl": "https://jobs.hvcapital.com/companies/isar-aerospace#content",
+          "firstSeen": "2026-10-01",
           "source": "scraper"
         },
         {
-          "title": "Series C Associate Automotive Commerce and Shopping Customer Service Information Services (B2C) Internet Publishing Mark",
-          "description": "etplace Mobile App Professional Services Technology Transportation Vehicles Wholesale Series C Associate Automotive Commerce and Shopping Customer Service Information Services (B2C) Internet Publishing Marketplace Mobile App Professional Services Technology Transportation Vehicles Wholesale + 99 more",
-          "graduationDate": null,
-          "applyUrl": "https://jobs.hvcapital.com",
-          "firstSeen": "2026-09-30",
-          "source": "scraper"
-        },
-        {
-          "title": "Operations Specialist DE & AT (m/w/d)",
-          "description": "Caronsale Location: Berlin, Germany Posted: Today Series C Associate Automotive Commerce and Shopping Customer Service Information Services (B2C) Internet Publishing Marketplace Mobile App Professional Services Technology Transportation Vehicles Wholesale Series C Associate Automotive Commerce and Shopping Customer Service Information Services (B2C) Internet Publishing Marketplace Mobile App Professional Services Technology Transportation Vehicles Wholesale + 99 more View job",
-          "graduationDate": null,
-          "applyUrl": "https://jobs.hvcapital.com/companies/caronsale/jobs/95244307-operations-specialist-de-at-m-w-d#content",
-          "firstSeen": "2026-09-30",
-          "source": "scraper"
-        },
-        {
-          "title": "Kundenbetreuer Automotive - OEM & Flotten (m/w/d)",
-          "description": "Caronsale Location: Berlin, Germany Posted: Today Series C Associate Automotive Commerce and Shopping Customer Service Information Services (B2C) Internet Publishing Marketplace Mobile App Professional Services Technology Transportation Vehicles Wholesale Series C Associate Automotive Commerce and Shopping Customer Service Information Services (B2C) Internet Publishing Marketplace Mobile App Professional Services Technology Transportation Vehicles Wholesale + 99 more View job",
-          "graduationDate": null,
-          "applyUrl": "https://jobs.hvcapital.com/companies/caronsale/jobs/95244305-kundenbetreuer-automotive-oem-flotten-m-w-d#content",
-          "firstSeen": "2026-09-30",
-          "source": "scraper"
-        },
-        {
-          "title": "Junior Fleet Manager - Kfz-Schaden & Technik (m/w/d)",
-          "description": "Finn Location: Germany Compensation: EUR 47k-50k / year + Equity Posted: Today Associate Application Software Automotive Automotive & Transportation Autos Car Rental Car Sharing Commerce and Shopping Consumer Services E-Commerce Ecommerce Financial Services Internet Internet Services Leasing Mobility Subscription Service Transportation Vehicles Associate Application Software Automotive Automotive & Transportation Autos Car Rental Car Sharing Commerce and Shopping Consumer Services E-Commerce Eco",
-          "graduationDate": null,
-          "applyUrl": "https://jobs.hvcapital.com/companies/finn-2-687d5c69-6514-4ab1-9536-a0b85802780f/jobs/95235578-junior-fleet-manager-kfz-schaden-technik-m-w-d#content",
-          "firstSeen": "2026-09-30",
-          "source": "scraper"
-        },
-        {
-          "title": "Finn Location: Germany Compensation: EUR 47k-50k / year + Equity Posted: Today Associate Application Software Automotive",
-          "description": "Automotive & Transportation Autos Car Rental Car Sharing Commerce and Shopping Consumer Services E-Commerce Ecommerce Financial Services Internet Internet Services Leasing Mobility Subscription Service Transportation Vehicles Associate Application Software Automotive Automotive & Transportation Autos Car Rental Car Sharing Commerce and Shopping Consumer Services E-Commerce Ecommerce Financial Services Internet Internet Services Leasing Mobility Subscription Service Transportation Vehicles + 99 m",
-          "graduationDate": null,
-          "applyUrl": "https://jobs.hvcapital.com/companies/finn-2-687d5c69-6514-4ab1-9536-a0b85802780f#content",
-          "firstSeen": "2026-09-30",
-          "source": "scraper"
-        },
-        {
-          "title": "Associate Application Software Automotive Automotive & Transportation Autos Car Rental Car Sharing Commerce and Shopping",
-          "description": "Consumer Services E-Commerce Ecommerce Financial Services Internet Internet Services Leasing Mobility Subscription Service Transportation Vehicles Associate Application Software Automotive Automotive & Transportation Autos Car Rental Car Sharing Commerce and Shopping Consumer Services E-Commerce Ecommerce Financial Services Internet Internet Services Leasing Mobility Subscription Service Transportation Vehicles + 99 more",
+          "title": "Internship Aerospace Aerospace & Defense Aviation and Aerospace Component Manufacturing Business And Industrial Hardware",
+          "description": "Manufacturing Manufacturing & Industrial Mechanical Components Satellite Science and Engineering Space Travel Transportation Vehicles Internship Aerospace Aerospace & Defense Aviation and Aerospace Component Manufacturing Business And Industrial Hardware Manufacturing Manufacturing & Industrial Mechanical Components Satellite Science and Engineering Space Travel Transportation Vehicles + 99 more",
           "graduationDate": null,
           "applyUrl": "https://jobs.hvcapital.com",
-          "firstSeen": "2026-09-30",
+          "firstSeen": "2026-10-01",
           "source": "scraper"
         },
         {
-          "title": "VP of Product Management",
-          "description": "CEEZER Location: Berlin, Germany Posted: Today Series A Vice President Administrative Services Big Data Business/Productivity Software Cleantech Collaboration Consulting Data & Analytics Data Management Digital Media Media & Entertainment Media and Information Services (B2B) Platform Professional Services Project Management Sustainability Technology Technology, Information and Internet Series A Vice President Administrative Services Big Data Business/Productivity Software Cleantech Collaboration",
+          "title": "Key Account Manager LEH (w/m/d)",
+          "description": "KoRo Location: Remote Posted: Today Mid-Senior Level Commerce and Shopping Distribution Ecommerce Fitness and Wellness Food & Beverage Food & Drink Food and Beverage Services Food Delivery Food Processing Internet Retail Nutrition Retail Snack Food Specialty Retail Superfoods Transportation Mid-Senior Level Commerce and Shopping Distribution Ecommerce Fitness and Wellness Food & Beverage Food & Drink Food and Beverage Services Food Delivery Food Processing Internet Retail Nutrition Retail Snack",
           "graduationDate": null,
-          "applyUrl": "https://jobs.hvcapital.com/companies/ceezer/jobs/95229927-vp-of-product-management#content",
-          "firstSeen": "2026-09-30",
+          "applyUrl": "https://jobs.hvcapital.com/companies/koro/jobs/95356499-key-account-manager-leh-w-m-d#content",
+          "firstSeen": "2026-10-01",
           "source": "scraper"
         },
         {
-          "title": "CEEZER Location: Berlin, Germany Posted: Today Series A Vice President Administrative Services Big Data Business/Product",
-          "description": "ivity Software Cleantech Collaboration Consulting Data & Analytics Data Management Digital Media Media & Entertainment Media and Information Services (B2B) Platform Professional Services Project Management Sustainability Technology Technology, Information and Internet Series A Vice President Administrative Services Big Data Business/Productivity Software Cleantech Collaboration Consulting Data & Analytics Data Management Digital Media Media & Entertainment Media and Information Services (B2B) Pl",
+          "title": "KoRo Location: Remote Posted: Today Mid-Senior Level Commerce and Shopping Distribution Ecommerce Fitness and Wellness F",
+          "description": "ood & Beverage Food & Drink Food and Beverage Services Food Delivery Food Processing Internet Retail Nutrition Retail Snack Food Specialty Retail Superfoods Transportation Mid-Senior Level Commerce and Shopping Distribution Ecommerce Fitness and Wellness Food & Beverage Food & Drink Food and Beverage Services Food Delivery Food Processing Internet Retail Nutrition Retail Snack Food Specialty Retail Superfoods Transportation + 99 more",
           "graduationDate": null,
-          "applyUrl": "https://jobs.hvcapital.com/companies/ceezer#content",
-          "firstSeen": "2026-09-30",
+          "applyUrl": "https://jobs.hvcapital.com/companies/koro#content",
+          "firstSeen": "2026-10-01",
           "source": "scraper"
         },
         {
-          "title": "Series A Vice President Administrative Services Big Data Business/Productivity Software Cleantech Collaboration Consulti",
-          "description": "ng Data & Analytics Data Management Digital Media Media & Entertainment Media and Information Services (B2B) Platform Professional Services Project Management Sustainability Technology Technology, Information and Internet Series A Vice President Administrative Services Big Data Business/Productivity Software Cleantech Collaboration Consulting Data & Analytics Data Management Digital Media Media & Entertainment Media and Information Services (B2B) Platform Professional Services Project Management",
-          "graduationDate": null,
-          "applyUrl": "https://jobs.hvcapital.com",
-          "firstSeen": "2026-09-30",
-          "source": "scraper"
-        },
-        {
-          "title": "Technology, Information and Internet",
-          "description": "",
+          "title": "Mid-Senior Level Commerce and Shopping Distribution Ecommerce Fitness and Wellness Food & Beverage Food & Drink Food and",
+          "description": "Beverage Services Food Delivery Food Processing Internet Retail Nutrition Retail Snack Food Specialty Retail Superfoods Transportation Mid-Senior Level Commerce and Shopping Distribution Ecommerce Fitness and Wellness Food & Beverage Food & Drink Food and Beverage Services Food Delivery Food Processing Internet Retail Nutrition Retail Snack Food Specialty Retail Superfoods Transportation + 99 more",
           "graduationDate": null,
           "applyUrl": "https://jobs.hvcapital.com",
-          "firstSeen": "2026-09-30",
+          "firstSeen": "2026-10-01",
           "source": "scraper"
         },
         {
-          "title": "Product Engineering Lead (f/d/m)",
-          "description": "CEEZER Location: Washington, DC, USA Posted: Today Series A Director Administrative Services Big Data Business/Productivity Software Cleantech Collaboration Consulting Data & Analytics Data Management Digital Media Media & Entertainment Media and Information Services (B2B) Platform Professional Services Project Management Sustainability Technology Technology, Information and Internet Series A Director Administrative Services Big Data Business/Productivity Software Cleantech Collaboration Consult",
+          "title": "Sales Assistant KAM (w/m/d) - (12 Monate befristet)",
+          "description": "KoRo Location: Berlin, Germany Posted: Today Entry Level Commerce and Shopping Distribution Ecommerce Fitness and Wellness Food & Beverage Food & Drink Food and Beverage Services Food Delivery Food Processing Internet Retail Nutrition Retail Snack Food Specialty Retail Superfoods Transportation Entry Level Commerce and Shopping Distribution Ecommerce Fitness and Wellness Food & Beverage Food & Drink Food and Beverage Services Food Delivery Food Processing Internet Retail Nutrition Retail Snack F",
           "graduationDate": null,
-          "applyUrl": "https://jobs.hvcapital.com/companies/ceezer/jobs/95229925-product-engineering-lead-f-d-m#content",
-          "firstSeen": "2026-09-30",
+          "applyUrl": "https://jobs.hvcapital.com/companies/koro/jobs/95356496-sales-assistant-kam-w-m-d-12-monate-befristet#content",
+          "firstSeen": "2026-10-01",
           "source": "scraper"
         },
         {
-          "title": "CEEZER Location: Washington, DC, USA Posted: Today Series A Director Administrative Services Big Data Business/Productiv",
-          "description": "ity Software Cleantech Collaboration Consulting Data & Analytics Data Management Digital Media Media & Entertainment Media and Information Services (B2B) Platform Professional Services Project Management Sustainability Technology Technology, Information and Internet Series A Director Administrative Services Big Data Business/Productivity Software Cleantech Collaboration Consulting Data & Analytics Data Management Digital Media Media & Entertainment Media and Information Services (B2B) Platform P",
+          "title": "KoRo Location: Berlin, Germany Posted: Today Entry Level Commerce and Shopping Distribution Ecommerce Fitness and Wellne",
+          "description": "ss Food & Beverage Food & Drink Food and Beverage Services Food Delivery Food Processing Internet Retail Nutrition Retail Snack Food Specialty Retail Superfoods Transportation Entry Level Commerce and Shopping Distribution Ecommerce Fitness and Wellness Food & Beverage Food & Drink Food and Beverage Services Food Delivery Food Processing Internet Retail Nutrition Retail Snack Food Specialty Retail Superfoods Transportation + 99 more",
           "graduationDate": null,
-          "applyUrl": "https://jobs.hvcapital.com/companies/ceezer#content",
-          "firstSeen": "2026-09-30",
+          "applyUrl": "https://jobs.hvcapital.com/companies/koro#content",
+          "firstSeen": "2026-10-01",
           "source": "scraper"
         },
         {
-          "title": "Series A Director Administrative Services Big Data Business/Productivity Software Cleantech Collaboration Consulting Dat",
-          "description": "a & Analytics Data Management Digital Media Media & Entertainment Media and Information Services (B2B) Platform Professional Services Project Management Sustainability Technology Technology, Information and Internet Series A Director Administrative Services Big Data Business/Productivity Software Cleantech Collaboration Consulting Data & Analytics Data Management Digital Media Media & Entertainment Media and Information Services (B2B) Platform Professional Services Project Management Sustainabil",
-          "graduationDate": null,
-          "applyUrl": "https://jobs.hvcapital.com",
-          "firstSeen": "2026-09-30",
-          "source": "scraper"
-        },
-        {
-          "title": "Country Manager Sales & Account Management Greece (all genders)",
-          "description": "Holidu Location: Athens, Greece Compensation: EUR 44k-53,240 / year Posted: Today Director Application Software Ecommerce Entertainment & Travel Holiday Homes Hospitality Hotels Information Services (B2C) Internet Services IT Services and IT Consulting Leisure Other Restaurants, Hotels and Leisure Platform Price Comparison Real Estate Search Engine Startup Tech Travel Travel & Leisure Travel & Tourism Travel Accommodations Vacation Rentals Venture Capital Director Application Software Ecommerce",
-          "graduationDate": null,
-          "applyUrl": "https://jobs.hvcapital.com/companies/holidu/jobs/95228544-country-manager-sales-account-management-greece-all-genders#content",
-          "firstSeen": "2026-09-30",
-          "source": "scraper"
-        },
-        {
-          "title": "Holidu Location: Athens, Greece Compensation: EUR 44k-53,240 / year Posted: Today Director Application Software Ecommerc",
-          "description": "e Entertainment & Travel Holiday Homes Hospitality Hotels Information Services (B2C) Internet Services IT Services and IT Consulting Leisure Other Restaurants, Hotels and Leisure Platform Price Comparison Real Estate Search Engine Startup Tech Travel Travel & Leisure Travel & Tourism Travel Accommodations Vacation Rentals Venture Capital Director Application Software Ecommerce Entertainment & Travel Holiday Homes Hospitality Hotels Information Services (B2C) Internet Services IT Services and IT",
-          "graduationDate": null,
-          "applyUrl": "https://jobs.hvcapital.com/companies/holidu#content",
-          "firstSeen": "2026-09-30",
-          "source": "scraper"
-        },
-        {
-          "title": "Director Application Software Ecommerce Entertainment & Travel Holiday Homes Hospitality Hotels Information Services (B2",
-          "description": "C) Internet Services IT Services and IT Consulting Leisure Other Restaurants, Hotels and Leisure Platform Price Comparison Real Estate Search Engine Startup Tech Travel Travel & Leisure Travel & Tourism Travel Accommodations Vacation Rentals Venture Capital Director Application Software Ecommerce Entertainment & Travel Holiday Homes Hospitality Hotels Information Services (B2C) Internet Services IT Services and IT Consulting Leisure Other Restaurants, Hotels and Leisure Platform Price Comparison",
+          "title": "Entry Level Commerce and Shopping Distribution Ecommerce Fitness and Wellness Food & Beverage Food & Drink Food and Beve",
+          "description": "rage Services Food Delivery Food Processing Internet Retail Nutrition Retail Snack Food Specialty Retail Superfoods Transportation Entry Level Commerce and Shopping Distribution Ecommerce Fitness and Wellness Food & Beverage Food & Drink Food and Beverage Services Food Delivery Food Processing Internet Retail Nutrition Retail Snack Food Specialty Retail Superfoods Transportation + 99 more",
           "graduationDate": null,
           "applyUrl": "https://jobs.hvcapital.com",
-          "firstSeen": "2026-09-30",
+          "firstSeen": "2026-10-01",
+          "source": "scraper"
+        },
+        {
+          "title": "Head of Key Account Management DACH & NL (w/m/d)",
+          "description": "KoRo Location: Berlin, Germany Posted: Today Director Commerce and Shopping Distribution Ecommerce Fitness and Wellness Food & Beverage Food & Drink Food and Beverage Services Food Delivery Food Processing Internet Retail Nutrition Retail Snack Food Specialty Retail Superfoods Transportation Director Commerce and Shopping Distribution Ecommerce Fitness and Wellness Food & Beverage Food & Drink Food and Beverage Services Food Delivery Food Processing Internet Retail Nutrition Retail Snack Food Sp",
+          "graduationDate": null,
+          "applyUrl": "https://jobs.hvcapital.com/companies/koro/jobs/95356497-head-of-key-account-management-dach-nl-w-m-d#content",
+          "firstSeen": "2026-10-01",
+          "source": "scraper"
+        },
+        {
+          "title": "KoRo Location: Berlin, Germany Posted: Today Director Commerce and Shopping Distribution Ecommerce Fitness and Wellness",
+          "description": "Food & Beverage Food & Drink Food and Beverage Services Food Delivery Food Processing Internet Retail Nutrition Retail Snack Food Specialty Retail Superfoods Transportation Director Commerce and Shopping Distribution Ecommerce Fitness and Wellness Food & Beverage Food & Drink Food and Beverage Services Food Delivery Food Processing Internet Retail Nutrition Retail Snack Food Specialty Retail Superfoods Transportation + 99 more",
+          "graduationDate": null,
+          "applyUrl": "https://jobs.hvcapital.com/companies/koro#content",
+          "firstSeen": "2026-10-01",
+          "source": "scraper"
+        },
+        {
+          "title": "Director Commerce and Shopping Distribution Ecommerce Fitness and Wellness Food & Beverage Food & Drink Food and Beverag",
+          "description": "e Services Food Delivery Food Processing Internet Retail Nutrition Retail Snack Food Specialty Retail Superfoods Transportation Director Commerce and Shopping Distribution Ecommerce Fitness and Wellness Food & Beverage Food & Drink Food and Beverage Services Food Delivery Food Processing Internet Retail Nutrition Retail Snack Food Specialty Retail Superfoods Transportation + 99 more",
+          "graduationDate": null,
+          "applyUrl": "https://jobs.hvcapital.com",
+          "firstSeen": "2026-10-01",
+          "source": "scraper"
+        },
+        {
+          "title": "VP Brand (f/m/d)",
+          "description": "KoRo Location: Berlin, Germany Posted: Today Vice President Commerce and Shopping Distribution Ecommerce Fitness and Wellness Food & Beverage Food & Drink Food and Beverage Services Food Delivery Food Processing Internet Retail Nutrition Retail Snack Food Specialty Retail Superfoods Transportation Vice President Commerce and Shopping Distribution Ecommerce Fitness and Wellness Food & Beverage Food & Drink Food and Beverage Services Food Delivery Food Processing Internet Retail Nutrition Retail S",
+          "graduationDate": null,
+          "applyUrl": "https://jobs.hvcapital.com/companies/koro/jobs/95356498-vp-brand-f-m-d#content",
+          "firstSeen": "2026-10-01",
+          "source": "scraper"
+        },
+        {
+          "title": "KoRo Location: Berlin, Germany Posted: Today Vice President Commerce and Shopping Distribution Ecommerce Fitness and Wel",
+          "description": "lness Food & Beverage Food & Drink Food and Beverage Services Food Delivery Food Processing Internet Retail Nutrition Retail Snack Food Specialty Retail Superfoods Transportation Vice President Commerce and Shopping Distribution Ecommerce Fitness and Wellness Food & Beverage Food & Drink Food and Beverage Services Food Delivery Food Processing Internet Retail Nutrition Retail Snack Food Specialty Retail Superfoods Transportation + 99 more",
+          "graduationDate": null,
+          "applyUrl": "https://jobs.hvcapital.com/companies/koro#content",
+          "firstSeen": "2026-10-01",
+          "source": "scraper"
+        },
+        {
+          "title": "Vice President Commerce and Shopping Distribution Ecommerce Fitness and Wellness Food & Beverage Food & Drink Food and B",
+          "description": "everage Services Food Delivery Food Processing Internet Retail Nutrition Retail Snack Food Specialty Retail Superfoods Transportation Vice President Commerce and Shopping Distribution Ecommerce Fitness and Wellness Food & Beverage Food & Drink Food and Beverage Services Food Delivery Food Processing Internet Retail Nutrition Retail Snack Food Specialty Retail Superfoods Transportation + 99 more",
+          "graduationDate": null,
+          "applyUrl": "https://jobs.hvcapital.com",
+          "firstSeen": "2026-10-01",
+          "source": "scraper"
+        },
+        {
+          "title": "(Senior) Product Manager - Outbound Logistics & Returns (f/m/d)",
+          "description": "KoRo Location: Berlin, Germany Posted: Today Senior Commerce and Shopping Distribution Ecommerce Fitness and Wellness Food & Beverage Food & Drink Food and Beverage Services Food Delivery Food Processing Internet Retail Nutrition Retail Snack Food Specialty Retail Superfoods Transportation Senior Commerce and Shopping Distribution Ecommerce Fitness and Wellness Food & Beverage Food & Drink Food and Beverage Services Food Delivery Food Processing Internet Retail Nutrition Retail Snack Food Specia",
+          "graduationDate": null,
+          "applyUrl": "https://jobs.hvcapital.com/companies/koro/jobs/95356493-senior-product-manager-outbound-logistics-returns-f-m-d#content",
+          "firstSeen": "2026-10-01",
+          "source": "scraper"
+        },
+        {
+          "title": "KoRo Location: Berlin, Germany Posted: Today Senior Commerce and Shopping Distribution Ecommerce Fitness and Wellness Fo",
+          "description": "od & Beverage Food & Drink Food and Beverage Services Food Delivery Food Processing Internet Retail Nutrition Retail Snack Food Specialty Retail Superfoods Transportation Senior Commerce and Shopping Distribution Ecommerce Fitness and Wellness Food & Beverage Food & Drink Food and Beverage Services Food Delivery Food Processing Internet Retail Nutrition Retail Snack Food Specialty Retail Superfoods Transportation + 99 more",
+          "graduationDate": null,
+          "applyUrl": "https://jobs.hvcapital.com/companies/koro#content",
+          "firstSeen": "2026-10-01",
+          "source": "scraper"
+        },
+        {
+          "title": "Senior Commerce and Shopping Distribution Ecommerce Fitness and Wellness Food & Beverage Food & Drink Food and Beverage",
+          "description": "Services Food Delivery Food Processing Internet Retail Nutrition Retail Snack Food Specialty Retail Superfoods Transportation Senior Commerce and Shopping Distribution Ecommerce Fitness and Wellness Food & Beverage Food & Drink Food and Beverage Services Food Delivery Food Processing Internet Retail Nutrition Retail Snack Food Specialty Retail Superfoods Transportation + 99 more",
+          "graduationDate": null,
+          "applyUrl": "https://jobs.hvcapital.com",
+          "firstSeen": "2026-10-01",
+          "source": "scraper"
+        },
+        {
+          "title": "(Senior) Commercial Manager (f/m/d)",
+          "description": "KoRo Location: Berlin, Germany Posted: Today Senior Commerce and Shopping Distribution Ecommerce Fitness and Wellness Food & Beverage Food & Drink Food and Beverage Services Food Delivery Food Processing Internet Retail Nutrition Retail Snack Food Specialty Retail Superfoods Transportation Senior Commerce and Shopping Distribution Ecommerce Fitness and Wellness Food & Beverage Food & Drink Food and Beverage Services Food Delivery Food Processing Internet Retail Nutrition Retail Snack Food Specia",
+          "graduationDate": null,
+          "applyUrl": "https://jobs.hvcapital.com/companies/koro/jobs/95356495-senior-commercial-manager-f-m-d#content",
+          "firstSeen": "2026-10-01",
+          "source": "scraper"
+        },
+        {
+          "title": "Junior Social Media & Community Manager - Nederland (v/m/x)",
+          "description": "KoRo Location: Netherlands ; Europe ; Remote Posted: Today Entry Level Commerce and Shopping Distribution Ecommerce Fitness and Wellness Food & Beverage Food & Drink Food and Beverage Services Food Delivery Food Processing Internet Retail Nutrition Retail Snack Food Specialty Retail Superfoods Transportation Entry Level Commerce and Shopping Distribution Ecommerce Fitness and Wellness Food & Beverage Food & Drink Food and Beverage Services Food Delivery Food Processing Internet Retail Nutrition",
+          "graduationDate": null,
+          "applyUrl": "https://jobs.hvcapital.com/companies/koro/jobs/95356492-junior-social-media-community-manager-nederland-v-m-x#content",
+          "firstSeen": "2026-10-01",
+          "source": "scraper"
+        },
+        {
+          "title": "KoRo Location: Netherlands ; Europe ; Remote Posted: Today Entry Level Commerce and Shopping Distribution Ecommerce Fitn",
+          "description": "ess and Wellness Food & Beverage Food & Drink Food and Beverage Services Food Delivery Food Processing Internet Retail Nutrition Retail Snack Food Specialty Retail Superfoods Transportation Entry Level Commerce and Shopping Distribution Ecommerce Fitness and Wellness Food & Beverage Food & Drink Food and Beverage Services Food Delivery Food Processing Internet Retail Nutrition Retail Snack Food Specialty Retail Superfoods Transportation + 99 more",
+          "graduationDate": null,
+          "applyUrl": "https://jobs.hvcapital.com/companies/koro#content",
+          "firstSeen": "2026-10-01",
+          "source": "scraper"
+        },
+        {
+          "title": "Director Supply Chain Planning (f/m/d)",
+          "description": "KoRo Location: Berlin, Germany Posted: Today Director Commerce and Shopping Distribution Ecommerce Fitness and Wellness Food & Beverage Food & Drink Food and Beverage Services Food Delivery Food Processing Internet Retail Nutrition Retail Snack Food Specialty Retail Superfoods Transportation Director Commerce and Shopping Distribution Ecommerce Fitness and Wellness Food & Beverage Food & Drink Food and Beverage Services Food Delivery Food Processing Internet Retail Nutrition Retail Snack Food Sp",
+          "graduationDate": null,
+          "applyUrl": "https://jobs.hvcapital.com/companies/koro/jobs/95356494-director-supply-chain-planning-f-m-d#content",
+          "firstSeen": "2026-10-01",
           "source": "scraper"
         }
       ]
@@ -1720,7 +1864,7 @@
       "hasInternPosting": true,
       "careerUrl": "https://www.highlandeurope.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-30T15:25:31.106276+00:00",
+      "lastChecked": "2026-10-01T16:13:50.804289+00:00",
       "jobs": [
         {
           "title": "Exciting roles in the Highland Europe portfolio",
@@ -1760,14 +1904,14 @@
       "hasInternPosting": true,
       "careerUrl": "https://www.foresitecapital.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-30T15:25:35.188293+00:00",
+      "lastChecked": "2026-10-01T16:13:54.498390+00:00",
       "jobs": [
         {
-          "title": "Career Opportunities: 71 companies . 912 jobs .",
-          "description": "Strategy Portfolio People Careers News Blog Contact Us Home Strategy Portfolio People Careers News Blog Contact Us Foresite Labs Investor Login Terms Privacy Policy Career Opportunities: 71 companies . 912 jobs . Jobs Companies Filter jobs by skills and more Roles Search roles Skills Search skills Location Search locations Company stage Select... Industry Search industries Salary Select... Internships only Remote options All jobs Posted Anytime Powered by Consider Powered by Consider Privacy Ter",
+          "title": "Career Opportunities: 71 companies . 905 jobs .",
+          "description": "Strategy Portfolio People Careers News Blog Contact Us Home Strategy Portfolio People Careers News Blog Contact Us Foresite Labs Investor Login Terms Privacy Policy Career Opportunities: 71 companies . 905 jobs . Jobs Companies Filter jobs by skills and more Roles Search roles Skills Search skills Location Search locations Company stage Select... Industry Search industries Salary Select... Internships only Remote options All jobs Posted Anytime Powered by Consider Powered by Consider Privacy Ter",
           "graduationDate": null,
           "applyUrl": "https://www.foresitecapital.com/",
-          "firstSeen": "2026-09-30",
+          "firstSeen": "2026-10-01",
           "source": "scraper"
         },
         {
@@ -1800,7 +1944,7 @@
       "hasInternPosting": true,
       "careerUrl": "https://trueventures.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-30T15:25:39.645723+00:00",
+      "lastChecked": "2026-10-01T16:13:58.282963+00:00",
       "jobs": [
         {
           "title": "Academia.edu 1 job Education Higher Education Internet Social Media Education Higher Education Internet Social Media + 99 more Academia.edu is the largest and fastest-growing platform in the world for",
@@ -1856,127 +2000,191 @@
       "hasInternPosting": false,
       "careerUrl": "https://www.foundrygroup.com/careers",
       "status": "ok",
-      "lastChecked": "2026-09-30T15:25:42.452984+00:00",
+      "lastChecked": "2026-10-01T16:14:00.809044+00:00",
       "jobs": []
     },
     "Signalfire": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-30T15:25:50.679152+00:00",
+      "lastChecked": "2026-10-01T16:14:10.049159+00:00",
       "jobs": []
     },
     "MPM Bioimpact": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-30T15:26:03.602444+00:00",
+      "lastChecked": "2026-10-01T16:14:24.258301+00:00",
       "jobs": []
     },
     "83north 2017": {
       "hasInternPosting": false,
       "careerUrl": "https://www.83north.com/open-positions",
       "status": "ok",
-      "lastChecked": "2026-09-30T15:26:19.334639+00:00",
+      "lastChecked": "2026-10-01T16:14:40.330783+00:00",
       "jobs": []
     },
     "Emergence Equity Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-30T15:26:27.240644+00:00",
+      "lastChecked": "2026-10-01T16:14:49.447536+00:00",
       "jobs": []
     },
     "DCM": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-30T15:26:35.566350+00:00",
+      "lastChecked": "2026-10-01T16:14:58.670608+00:00",
       "jobs": []
     },
     "Forerunner Ventures Management": {
       "hasInternPosting": false,
       "careerUrl": null,
       "status": "no_url",
-      "lastChecked": "2026-09-30T15:26:42.781853+00:00",
+      "lastChecked": "2026-10-01T16:15:06.718275+00:00",
       "jobs": []
     },
     "Georgian Partners Growth": {
       "hasInternPosting": true,
       "careerUrl": "https://www.georgian.io/careers",
       "status": "ok",
-      "lastChecked": "2026-09-30T15:26:53.504285+00:00",
+      "lastChecked": "2026-10-01T16:15:13.302553+00:00",
       "jobs": [
         {
+          "title": "Senior Revenue Operations Analyst, International",
+          "description": "Senior Revenue Operations Analyst, International Island Location: Reading, UK Posted: 1 day Senior Business/Productivity Software Cloud services(SaaS) Cyber Security Cybersecurity Enterprise Software Internet Internet Services Internet Software IT Consulting and Outsourcing IT Security Network Management Software Privacy and Security Productivity Tools Software Technology Technology, Information and Internet Web Browsers Senior Business/Productivity Software Cloud services(SaaS) Cyber Security C",
+          "graduationDate": null,
+          "applyUrl": "https://careers.georgian.io/companies/island-2-663559ae-da75-478c-af14-4cb804a9348b/jobs/95288687-senior-revenue-operations-analyst-international#content",
+          "firstSeen": "2026-10-01",
+          "source": "scraper"
+        },
+        {
+          "title": "Senior Director, AMER Field Marketing",
+          "description": "Chainguard Location: United States ; Remote Posted: Today Director Business/Productivity Software Cloud Cloud Infrastructure Cloud Security Cyber Security Cybersecurity Developer Tools Enterprise Software Information Technology and Services Infrastructure Internet Services IT Services and IT Consulting Media and Information Services (B2B) Network Management Software Open Source Privacy and Security Security Software Software Development Technology Director Business/Productivity Software Cloud Cl",
+          "graduationDate": null,
+          "applyUrl": "https://careers.georgian.io/companies/chainguard/jobs/95390426-senior-director-amer-field-marketing#content",
+          "firstSeen": "2026-10-01",
+          "source": "scraper"
+        },
+        {
+          "title": "Chainguard Location: United States ; Remote Posted: Today Director Business/Productivity Software Cloud Cloud Infrastruc",
+          "description": "ture Cloud Security Cyber Security Cybersecurity Developer Tools Enterprise Software Information Technology and Services Infrastructure Internet Services IT Services and IT Consulting Media and Information Services (B2B) Network Management Software Open Source Privacy and Security Security Software Software Development Technology Director Business/Productivity Software Cloud Cloud Infrastructure Cloud Security Cyber Security Cybersecurity Developer Tools Enterprise Software Information Technolog",
+          "graduationDate": null,
+          "applyUrl": "https://careers.georgian.io/companies/chainguard#content",
+          "firstSeen": "2026-10-01",
+          "source": "scraper"
+        },
+        {
+          "title": "Director Business/Productivity Software Cloud Cloud Infrastructure Cloud Security Cyber Security Cybersecurity Developer",
+          "description": "Tools Enterprise Software Information Technology and Services Infrastructure Internet Services IT Services and IT Consulting Media and Information Services (B2B) Network Management Software Open Source Privacy and Security Security Software Software Development Technology Director Business/Productivity Software Cloud Cloud Infrastructure Cloud Security Cyber Security Cybersecurity Developer Tools Enterprise Software Information Technology and Services Infrastructure Internet Services IT Services",
+          "graduationDate": null,
+          "applyUrl": "https://careers.georgian.io/jobs",
+          "firstSeen": "2026-10-01",
+          "source": "scraper"
+        },
+        {
+          "title": "Senior Technical Support Engineer",
+          "description": "Chainguard Location: United States ; Remote Compensation: USD 120k-137k / year + Equity Posted: Today Senior Business/Productivity Software Cloud Cloud Infrastructure Cloud Security Cyber Security Cybersecurity Developer Tools Enterprise Software Information Technology and Services Infrastructure Internet Services IT Services and IT Consulting Media and Information Services (B2B) Network Management Software Open Source Privacy and Security Security Software Software Development Technology Senior",
+          "graduationDate": null,
+          "applyUrl": "https://careers.georgian.io/companies/chainguard/jobs/95390427-senior-technical-support-engineer#content",
+          "firstSeen": "2026-10-01",
+          "source": "scraper"
+        },
+        {
+          "title": "Chainguard Location: United States ; Remote Compensation: USD 120k-137k / year + Equity Posted: Today Senior Business/Pr",
+          "description": "oductivity Software Cloud Cloud Infrastructure Cloud Security Cyber Security Cybersecurity Developer Tools Enterprise Software Information Technology and Services Infrastructure Internet Services IT Services and IT Consulting Media and Information Services (B2B) Network Management Software Open Source Privacy and Security Security Software Software Development Technology Senior Business/Productivity Software Cloud Cloud Infrastructure Cloud Security Cyber Security Cybersecurity Developer Tools E",
+          "graduationDate": null,
+          "applyUrl": "https://careers.georgian.io/companies/chainguard#content",
+          "firstSeen": "2026-10-01",
+          "source": "scraper"
+        },
+        {
+          "title": "Senior Business/Productivity Software Cloud Cloud Infrastructure Cloud Security Cyber Security Cybersecurity Developer T",
+          "description": "ools Enterprise Software Information Technology and Services Infrastructure Internet Services IT Services and IT Consulting Media and Information Services (B2B) Network Management Software Open Source Privacy and Security Security Software Software Development Technology Senior Business/Productivity Software Cloud Cloud Infrastructure Cloud Security Cyber Security Cybersecurity Developer Tools Enterprise Software Information Technology and Services Infrastructure Internet Services IT Services an",
+          "graduationDate": null,
+          "applyUrl": "https://careers.georgian.io/jobs",
+          "firstSeen": "2026-10-01",
+          "source": "scraper"
+        },
+        {
+          "title": "M&A Lead, Corporate Development",
+          "description": "Replit Location: Foster City, CA, USA Posted: Today Director Agentic AI Artificial Intelligence (AI) Cloud Computing Data & Analytics Developer Tools Enterprise Software Identity Management Internet Services Internet Software Platform Privacy and Security Science and Engineering Software Software Development Software Development Applications Technology Director Agentic AI Artificial Intelligence (AI) Cloud Computing Data & Analytics Developer Tools Enterprise Software Identity Management Interne",
+          "graduationDate": null,
+          "applyUrl": "https://careers.georgian.io/companies/replit-2/jobs/95383850-m-a-lead-corporate-development#content",
+          "firstSeen": "2026-10-01",
+          "source": "scraper"
+        },
+        {
+          "title": "Replit Location: Foster City, CA, USA Posted: Today Director Agentic AI Artificial Intelligence (AI) Cloud Computing Dat",
+          "description": "a & Analytics Developer Tools Enterprise Software Identity Management Internet Services Internet Software Platform Privacy and Security Science and Engineering Software Software Development Software Development Applications Technology Director Agentic AI Artificial Intelligence (AI) Cloud Computing Data & Analytics Developer Tools Enterprise Software Identity Management Internet Services Internet Software Platform Privacy and Security Science and Engineering Software Software Development Softwar",
+          "graduationDate": null,
+          "applyUrl": "https://careers.georgian.io/companies/replit-2#content",
+          "firstSeen": "2026-10-01",
+          "source": "scraper"
+        },
+        {
+          "title": "Director Agentic AI Artificial Intelligence (AI) Cloud Computing Data & Analytics Developer Tools Enterprise Software Id",
+          "description": "entity Management Internet Services Internet Software Platform Privacy and Security Science and Engineering Software Software Development Software Development Applications Technology Director Agentic AI Artificial Intelligence (AI) Cloud Computing Data & Analytics Developer Tools Enterprise Software Identity Management Internet Services Internet Software Platform Privacy and Security Science and Engineering Software Software Development Software Development Applications Technology + 99 more",
+          "graduationDate": null,
+          "applyUrl": "https://careers.georgian.io/jobs",
+          "firstSeen": "2026-10-01",
+          "source": "scraper"
+        },
+        {
+          "title": "Developer Success Engineer",
+          "description": "Dagster Labs Location: Remote Compensation: USD 128k-176k / year + Equity Posted: Today Series B Mid-Senior Level Big Data Business/Productivity Software Cloud Cloud Data Services Data & Analytics Data Automation Data Engineering Internet Services Open Source Software Platform SaaS Software Software Development Technology Series B Mid-Senior Level Big Data Business/Productivity Software Cloud Cloud Data Services Data & Analytics Data Automation Data Engineering Internet Services Open Source Soft",
+          "graduationDate": null,
+          "applyUrl": "https://careers.georgian.io/companies/dagster-labs-2-20f1b300-ed97-4b8d-93f2-3cea02a1b317/jobs/95377456-developer-success-engineer#content",
+          "firstSeen": "2026-10-01",
+          "source": "scraper"
+        },
+        {
+          "title": "Dagster Labs Location: Remote Compensation: USD 128k-176k / year + Equity Posted: Today Series B Mid-Senior Level Big Da",
+          "description": "ta Business/Productivity Software Cloud Cloud Data Services Data & Analytics Data Automation Data Engineering Internet Services Open Source Software Platform SaaS Software Software Development Technology Series B Mid-Senior Level Big Data Business/Productivity Software Cloud Cloud Data Services Data & Analytics Data Automation Data Engineering Internet Services Open Source Software Platform SaaS Software Software Development Technology + 99 more",
+          "graduationDate": null,
+          "applyUrl": "https://careers.georgian.io/companies/dagster-labs-2-20f1b300-ed97-4b8d-93f2-3cea02a1b317#content",
+          "firstSeen": "2026-10-01",
+          "source": "scraper"
+        },
+        {
+          "title": "Series B Mid-Senior Level Big Data Business/Productivity Software Cloud Cloud Data Services Data & Analytics Data Automa",
+          "description": "tion Data Engineering Internet Services Open Source Software Platform SaaS Software Software Development Technology Series B Mid-Senior Level Big Data Business/Productivity Software Cloud Cloud Data Services Data & Analytics Data Automation Data Engineering Internet Services Open Source Software Platform SaaS Software Software Development Technology + 99 more",
+          "graduationDate": null,
+          "applyUrl": "https://careers.georgian.io/jobs",
+          "firstSeen": "2026-10-01",
+          "source": "scraper"
+        },
+        {
           "title": "Staff Product Marketing Manager",
-          "description": "Chainguard Location: United States ; Remote Posted: Today Business/Productivity Software Cloud Cloud Infrastructure Cloud Security Cyber Security Cybersecurity Developer Tools Enterprise Software Information Technology and Services Infrastructure Internet Services IT Services and IT Consulting Media and Information Services (B2B) Network Management Software Open Source Privacy and Security Security Software Software Development Technology Business/Productivity Software Cloud Cloud Infrastructure",
+          "description": "Chainguard Location: United States ; Remote Compensation: USD 183k-248k / year + Equity Posted: 1 day Senior Business/Productivity Software Cloud Cloud Infrastructure Cloud Security Cyber Security Cybersecurity Developer Tools Enterprise Software Information Technology and Services Infrastructure Internet Services IT Services and IT Consulting Media and Information Services (B2B) Network Management Software Open Source Privacy and Security Security Software Software Development Technology Senior",
           "graduationDate": null,
           "applyUrl": "https://careers.georgian.io/companies/chainguard/jobs/95309123-staff-product-marketing-manager#content",
           "firstSeen": "2026-09-30",
           "source": "scraper"
         },
         {
-          "title": "Chainguard Location: United States ; Remote Posted: Today Business/Productivity Software Cloud Cloud Infrastructure Clou",
-          "description": "d Security Cyber Security Cybersecurity Developer Tools Enterprise Software Information Technology and Services Infrastructure Internet Services IT Services and IT Consulting Media and Information Services (B2B) Network Management Software Open Source Privacy and Security Security Software Software Development Technology Business/Productivity Software Cloud Cloud Infrastructure Cloud Security Cyber Security Cybersecurity Developer Tools Enterprise Software Information Technology and Services Inf",
+          "title": "Chainguard Location: United States ; Remote Compensation: USD 183k-248k / year + Equity Posted: 1 day Senior Business/Pr",
+          "description": "oductivity Software Cloud Cloud Infrastructure Cloud Security Cyber Security Cybersecurity Developer Tools Enterprise Software Information Technology and Services Infrastructure Internet Services IT Services and IT Consulting Media and Information Services (B2B) Network Management Software Open Source Privacy and Security Security Software Software Development Technology Senior Business/Productivity Software Cloud Cloud Infrastructure Cloud Security Cyber Security Cybersecurity Developer Tools E",
           "graduationDate": null,
           "applyUrl": "https://careers.georgian.io/companies/chainguard#content",
-          "firstSeen": "2026-09-30",
-          "source": "scraper"
-        },
-        {
-          "title": "Business/Productivity Software Cloud Cloud Infrastructure Cloud Security Cyber Security Cybersecurity Developer Tools En",
-          "description": "terprise Software Information Technology and Services Infrastructure Internet Services IT Services and IT Consulting Media and Information Services (B2B) Network Management Software Open Source Privacy and Security Security Software Software Development Technology Business/Productivity Software Cloud Cloud Infrastructure Cloud Security Cyber Security Cybersecurity Developer Tools Enterprise Software Information Technology and Services Infrastructure Internet Services IT Services and IT Consultin",
-          "graduationDate": null,
-          "applyUrl": "https://careers.georgian.io/jobs",
-          "firstSeen": "2026-09-30",
+          "firstSeen": "2026-10-01",
           "source": "scraper"
         },
         {
           "title": "Field Marketing Specialist - US",
-          "description": "Chainguard Location: United States ; Remote Posted: Today Business/Productivity Software Cloud Cloud Infrastructure Cloud Security Cyber Security Cybersecurity Developer Tools Enterprise Software Information Technology and Services Infrastructure Internet Services IT Services and IT Consulting Media and Information Services (B2B) Network Management Software Open Source Privacy and Security Security Software Software Development Technology Business/Productivity Software Cloud Cloud Infrastructure",
+          "description": "Chainguard Location: United States ; Remote Posted: 1 day Mid-Senior Level Business/Productivity Software Cloud Cloud Infrastructure Cloud Security Cyber Security Cybersecurity Developer Tools Enterprise Software Information Technology and Services Infrastructure Internet Services IT Services and IT Consulting Media and Information Services (B2B) Network Management Software Open Source Privacy and Security Security Software Software Development Technology Mid-Senior Level Business/Productivity S",
           "graduationDate": null,
           "applyUrl": "https://careers.georgian.io/companies/chainguard/jobs/95309118-field-marketing-specialist-us#content",
           "firstSeen": "2026-09-30",
           "source": "scraper"
         },
         {
-          "title": "Strategic Account Executive (UK)",
-          "description": "Tealium Location: United Kingdom ; Remote Compensation: GBP 90k-120k / year + Equity Posted: Today Senior AI Analytics Big Data Business/Productivity Software CDP Communication & Sales Customer Data Platform Customer Experience Data & Analytics Data Collection Data Integration Data Management Database Software Developer APIs Digital Marketing Enterprise Software Internet Internet Services Machine Learning Marketing Marketing Analytics MarTech Mobile Platform Sales & Marketing Software Software D",
-          "graduationDate": null,
-          "applyUrl": "https://careers.georgian.io/companies/tealium/jobs/95234863-strategic-account-executive-uk#content",
-          "firstSeen": "2026-09-30",
-          "source": "scraper"
-        },
-        {
-          "title": "Tealium Location: United Kingdom ; Remote Compensation: GBP 90k-120k / year + Equity Posted: Today Senior AI Analytics B",
-          "description": "ig Data Business/Productivity Software CDP Communication & Sales Customer Data Platform Customer Experience Data & Analytics Data Collection Data Integration Data Management Database Software Developer APIs Digital Marketing Enterprise Software Internet Internet Services Machine Learning Marketing Marketing Analytics MarTech Mobile Platform Sales & Marketing Software Software Development Technology Technology And Computing Senior AI Analytics Big Data Business/Productivity Software CDP Communica",
-          "graduationDate": null,
-          "applyUrl": "https://careers.georgian.io/companies/tealium#content",
-          "firstSeen": "2026-09-30",
-          "source": "scraper"
-        },
-        {
-          "title": "Senior AI Analytics Big Data Business/Productivity Software CDP Communication & Sales Customer Data Platform Customer Ex",
-          "description": "perience Data & Analytics Data Collection Data Integration Data Management Database Software Developer APIs Digital Marketing Enterprise Software Internet Internet Services Machine Learning Marketing Marketing Analytics MarTech Mobile Platform Sales & Marketing Software Software Development Technology Technology And Computing Senior AI Analytics Big Data Business/Productivity Software CDP Communication & Sales Customer Data Platform Customer Experience Data & Analytics Data Collection Data Integ",
-          "graduationDate": null,
-          "applyUrl": "https://careers.georgian.io/jobs",
-          "firstSeen": "2026-09-30",
-          "source": "scraper"
-        },
-        {
-          "title": "Software Engineer (Repositories)",
-          "description": "Chainguard Location: United States ; Remote Compensation: USD 121k-142k / year + Equity Posted: 1 day Mid-Senior Level Business/Productivity Software Cloud Cloud Infrastructure Cloud Security Cyber Security Cybersecurity Developer Tools Enterprise Software Information Technology and Services Infrastructure Internet Services IT Services and IT Consulting Media and Information Services (B2B) Network Management Software Open Source Privacy and Security Security Software Software Development Technol",
-          "graduationDate": null,
-          "applyUrl": "https://careers.georgian.io/companies/chainguard/jobs/95140529-software-engineer-repositories#content",
-          "firstSeen": "2026-09-30",
-          "source": "scraper"
-        },
-        {
-          "title": "Chainguard Location: United States ; Remote Compensation: USD 121k-142k / year + Equity Posted: 1 day Mid-Senior Level B",
-          "description": "usiness/Productivity Software Cloud Cloud Infrastructure Cloud Security Cyber Security Cybersecurity Developer Tools Enterprise Software Information Technology and Services Infrastructure Internet Services IT Services and IT Consulting Media and Information Services (B2B) Network Management Software Open Source Privacy and Security Security Software Software Development Technology Mid-Senior Level Business/Productivity Software Cloud Cloud Infrastructure Cloud Security Cyber Security Cybersecuri",
+          "title": "Chainguard Location: United States ; Remote Posted: 1 day Mid-Senior Level Business/Productivity Software Cloud Cloud In",
+          "description": "frastructure Cloud Security Cyber Security Cybersecurity Developer Tools Enterprise Software Information Technology and Services Infrastructure Internet Services IT Services and IT Consulting Media and Information Services (B2B) Network Management Software Open Source Privacy and Security Security Software Software Development Technology Mid-Senior Level Business/Productivity Software Cloud Cloud Infrastructure Cloud Security Cyber Security Cybersecurity Developer Tools Enterprise Software Infor",
           "graduationDate": null,
           "applyUrl": "https://careers.georgian.io/companies/chainguard#content",
-          "firstSeen": "2026-09-30",
+          "firstSeen": "2026-10-01",
           "source": "scraper"
         },
         {
@@ -1988,19 +2196,27 @@
           "source": "scraper"
         },
         {
-          "title": "Chainguard Location: Canada ; Remote Compensation: USD 170k-231k / year + Equity Posted: 1 day Mid-Senior Level Business",
-          "description": "/Productivity Software Cloud Cloud Infrastructure Cloud Security Cyber Security Cybersecurity Developer Tools Enterprise Software Information Technology and Services Infrastructure Internet Services IT Services and IT Consulting Media and Information Services (B2B) Network Management Software Open Source Privacy and Security Security Software Software Development Technology Mid-Senior Level Business/Productivity Software Cloud Cloud Infrastructure Cloud Security Cyber Security Cybersecurity Deve",
+          "title": "Island Location: Reading, UK Posted: 1 day Senior Business/Productivity Software Cloud services(SaaS) Cyber Security Cyb",
+          "description": "ersecurity Enterprise Software Internet Internet Services Internet Software IT Consulting and Outsourcing IT Security Network Management Software Privacy and Security Productivity Tools Software Technology Technology, Information and Internet Web Browsers Senior Business/Productivity Software Cloud services(SaaS) Cyber Security Cybersecurity Enterprise Software Internet Internet Services Internet Software IT Consulting and Outsourcing IT Security Network Management Software Privacy and Security",
           "graduationDate": null,
-          "applyUrl": "https://careers.georgian.io/companies/chainguard#content",
-          "firstSeen": "2026-09-30",
+          "applyUrl": "https://careers.georgian.io/companies/island-2-663559ae-da75-478c-af14-4cb804a9348b#content",
+          "firstSeen": "2026-10-01",
           "source": "scraper"
         },
         {
-          "title": "Chainguard Location: United Kingdom ; Remote Posted: 1 day Mid-Senior Level Business/Productivity Software Cloud Cloud I",
-          "description": "nfrastructure Cloud Security Cyber Security Cybersecurity Developer Tools Enterprise Software Information Technology and Services Infrastructure Internet Services IT Services and IT Consulting Media and Information Services (B2B) Network Management Software Open Source Privacy and Security Security Software Software Development Technology Mid-Senior Level Business/Productivity Software Cloud Cloud Infrastructure Cloud Security Cyber Security Cybersecurity Developer Tools Enterprise Software Info",
+          "title": "Senior Business/Productivity Software Cloud services(SaaS) Cyber Security Cybersecurity Enterprise Software Internet Int",
+          "description": "ernet Services Internet Software IT Consulting and Outsourcing IT Security Network Management Software Privacy and Security Productivity Tools Software Technology Technology, Information and Internet Web Browsers Senior Business/Productivity Software Cloud services(SaaS) Cyber Security Cybersecurity Enterprise Software Internet Internet Services Internet Software IT Consulting and Outsourcing IT Security Network Management Software Privacy and Security Productivity Tools Software Technology Tech",
           "graduationDate": null,
-          "applyUrl": "https://careers.georgian.io/companies/chainguard#content",
-          "firstSeen": "2026-09-30",
+          "applyUrl": "https://careers.georgian.io/jobs",
+          "firstSeen": "2026-10-01",
+          "source": "scraper"
+        },
+        {
+          "title": "Technology, Information and Internet",
+          "description": "",
+          "graduationDate": null,
+          "applyUrl": "https://careers.georgian.io/jobs",
+          "firstSeen": "2026-10-01",
           "source": "scraper"
         },
         {
@@ -2023,9 +2239,9 @@
     },
     "h Investment Management": {
       "hasInternPosting": false,
-      "careerUrl": "https://www.hinvestment.com/careers/students-graduates",
-      "status": "ok",
-      "lastChecked": "2026-09-30T15:26:56.840024+00:00",
+      "careerUrl": "https://www.hinvestment.com/careers",
+      "status": "request_error",
+      "lastChecked": "2026-10-01T16:15:15.288832+00:00",
       "jobs": []
     }
   }
